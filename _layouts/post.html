@@ -9,7 +9,6 @@ tail_includes:
 script_includes:
   - comment
 ---
-
 {% include lang.html %}
 
 {% include toc-status.html %}
@@ -33,6 +32,13 @@ script_includes:
         <span>
           {{ site.data.locales[lang].post.updated }}
           {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+        </span>
+      {% endif %}
+      <!-- build time -->
+      {% if page.minutes %}
+        <span>
+          {{ site.data.locales[lang].post.time_spent_on_task }}
+          {% include format-minute.html minutes=page.minutes %}
         </span>
       {% endif %}
 

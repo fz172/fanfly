@@ -1,8 +1,12 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a software engineer by trade. I enjoy flying and currently hold PPL and IFR rating. I learned flying around 2010 and I have been buzzing around ever since.
+
+I currently live in the Bay area, and I am builiding [Sling Tsi](https://www.airplanefactory.com/aircraft/sling-tsi/). This is my blog to track the build progress!
+
+And you can also visit my [youtube channel](https://youtube.com/@fanflynorcal?si=xHDwt0aCdQs9oAYJ) for my flight video logs.
+
