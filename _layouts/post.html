@@ -8,7 +8,6 @@ tail_includes:
   - post-nav
   - comments
 ---
-
 {% include lang.html %}
 
 <article class="px-1">
@@ -30,6 +29,13 @@ tail_includes:
         <span>
           {{ site.data.locales[lang].post.updated }}
           {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+        </span>
+      {% endif %}
+      <!-- build time -->
+      {% if page.minutes %}
+        <span>
+          {{ site.data.locales[lang].post.time_spent_on_task }}
+          {% include format-minute.html minutes=page.minutes %}
         </span>
       {% endif %}
 
