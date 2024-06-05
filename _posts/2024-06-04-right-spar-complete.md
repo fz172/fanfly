@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rigbht spar assembly 4 complete, started assmebly 3"
+title: "Right spar assembly 4 complete, started assmebly 3"
 categories: [Wing, ~right_ribs]
 tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
 minutes: 240
