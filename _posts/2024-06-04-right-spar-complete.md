@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Rigbht spar complete"
+title: "Rigbht spar assembly 4 complete, started assmebly 3"
 categories: [Wing, ~right_ribs]
-tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0]
-minutes: 180
+tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
+minutes: 240
 ---
 
 ## Tasks completed
 
 * Installed all right ribs
-* Started inspection hatch
+* Built inspection hatches
+* Started assembly 3 (bottom skin)
 * Misc: inventory
 
 ## Right ribs
@@ -53,6 +54,28 @@ So I jumpped ahead and found a simple task to work on: inspection hatch.
 
 It's a pretty straightforward process: picked out the parts, cleaned, deburred, applied protective filming, dimpled, and riveted them together with 3.2mm countersink rivets.
 
-Today's temperature is 87 and my garage felt like 120. So I was able to only finish one out of the five before I gave up.. I will continue later.
+Today's temperature is 87 and my garage felt like 120. So I was able to only finish one out of the five in the afternoon before I gave up.. I continued the work in the evening to finish all 5 plates.
 
 ![ref](/assets/img/20240604/hatch.jpg)
+![ref](/assets/img/20240604/plate_complete.jpg)
+
+## Bottom skin
+
+I then started on the bottom skin. With help from my dad, we moved the wing spar to the floor so I can reuse the tables for the skin.
+
+![ref](/assets/img/20240604/wing_spar_on_ground.jpg)
+
+Then we cleaned out the wing kit crate and to get the bottom skin out of it. I briefly marked up the bottom skin dimple position before calling it a night.
+
+The long bottom skin
+![ref](/assets/img/20240604/bottom_skin_long.jpg)
+
+The short bottom skin (near the root)
+![ref](/assets/img/20240604/bottom_skin.jpg)
+
+And marked for dimple
+![ref](/assets/img/20240604/bottom_skin_2.jpg)
+
+
+
+
