@@ -37,6 +37,8 @@ I took a picture and sent to Sling technical. I don't know if a doubler of some 
 ![ref](/assets/img/20240531/crack.jpg)
 ![ref](/assets/img/20240531/crack_2.jpg)
 
+Edit 6/42/2024: I emailed Sling technical and they suggested that I should get a new part. The crack is not removable and can only get larger. So I ordered replacement part which will be here in a few days.
+
 ## Vlog of first week building the wing
 
 As I wrap up the first week of wing's build, I decided to change up the format of my blog a little. In the past I did time lapse and voice over. I don't think that's the most effective presentation to document what I did. So I stopped recording time-lapse. Instead, I just paused the build for a couple of minutes today and did a walk around to summarize my work. I liked this format a little more. I might keep doing it for future vlogs.
