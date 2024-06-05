@@ -4,9 +4,11 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-I am a software engineer by trade. I enjoy flying and currently hold PPL and IFR rating. I learned flying around 2010 and I have been buzzing around ever since.
+I am a PPL with instrument rating.
 
-I currently live in the Bay area, and I am builiding [Sling Tsi](https://www.airplanefactory.com/aircraft/sling-tsi/). This is my blog to track the build progress!
+I currently live in the California Bay area, and I am builiding a [Sling Tsi](https://www.airplanefactory.com/aircraft/sling-tsi/). This is my blog to track the build progress!
 
-And you can also visit my [youtube channel](https://youtube.com/@fanflynorcal?si=xHDwt0aCdQs9oAYJ) for my flight video logs.
+You can read my written progress update on this site, or check out my [photo album](https://photos.app.goo.gl/oAyhZDqKqAVYoPcz5) for more real time updates.
+
+You can also visit my [youtube channel](https://youtube.com/@fanflynorcal?si=xHDwt0aCdQs9oAYJ) for my video build logs.
 

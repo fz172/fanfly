@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cleaning left ribs, and found a crack"
-categories: [Wing,  ~right, ~left, ~ribs]
+categories: [Wing, ~left_ribs]
 tags: [wing]
 minutes: 210
 ---
