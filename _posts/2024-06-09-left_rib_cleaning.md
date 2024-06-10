@@ -29,7 +29,7 @@ My friend Daniel is coming over in a few days to help me build. I think building
 At the end of day I cleaned and deburred left rib 1, 6, 7, 8, 10, 11 and also finished cleanning trailing rib 304 (the replacement from damaged part a few days ago). I put all parts back to the baggie they came with to keep them from garage dust. When we are ready to build I will take them out again.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMpwfp5Aoe5Q1p3GNizTNISsKYIfmQVogJLpzrUKRwIvQcPI26NSydrB_j9o_iNAWhpB5yqtjO0oiUX0F7U9l14N7ZHOFP5fskj_tlFGEBvqNfyomUAT75EOe5tImipgudAVkEYlRQzFfnuGEecM1t4fg=w2774-h2080-s-no-gm?authuser=0)
-
+*All parts cleaned and put in bags*
 
 ### Top root wing skin
 
