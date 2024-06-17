@@ -82,7 +82,7 @@ In any case, I had to debur the rivets to insert them to the holes.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNhuU5FuRXl2GYLqL5_aocomKT7IpZhDPD9xQX0u08orju96g0P4J1TQrmV0hdl6MniiQzqvs7F2kqlO56DOEwlfjfkHPCnJ4guwk5ID1pKNhPBWrvhpTgKJYzNastrdkF3589dULDY3NHRFq7XwpfZpg=w3850-h2888-s-no-gm?authuser=3)
 *Seriously, why so much bur on every rivet?*
 
-### Planting rivieting
+### Planting rivets
 
 I spent like hours to plant all rivets. Like I said earlier most rivets went in position smoothly. A few required some wiggling to go in. 6 required match drilling. Considering there must be 800 or more rivets, I think 6 matching drilling is fine. I have not done the leading edge or fuel tank yet. I expect to match drill a few more if necessary.
 
