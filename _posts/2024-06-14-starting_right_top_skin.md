@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rivet 9, and starting right top skin"
+title: "Rib 9 fix, and starting right top skin"
 categories: [Wing, ~right_skin, ~right_ribs]
 tags: [wing, WG-ASS-002-R-F-0]
 minutes: 240
