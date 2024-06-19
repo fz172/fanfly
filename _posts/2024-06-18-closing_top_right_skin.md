@@ -2,7 +2,7 @@
 layout: post
 title: "Right leading edge done"
 categories: [Wing, ~right_skin]
-tags: [wing, WG-ASS-002-R-F-0]
+tags: [wing, WG-ASS-002-R-F-0, video]
 minutes: 120
 ---
 
@@ -39,3 +39,7 @@ Occasionally I had some friction getting the rivets to go into the hole. I gave 
 *All done*
 
 I left the rightmost row on cleco per the instruction. I believe this row will be used to install the fuel tank later on. We will see.
+
+And here is the video sum up for the work done so far.
+
+{% youtube LC4DplJX884 %}
