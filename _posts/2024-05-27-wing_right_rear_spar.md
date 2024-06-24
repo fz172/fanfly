@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting started on the right wing (rear spar and a few ribs)"
-categories: [Wing, ~right_ribs]
+categories: [Wing, ~right_spar, ~right_ribs]
 tags:
   [
     wing,

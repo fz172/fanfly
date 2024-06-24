@@ -35,7 +35,7 @@ Spent an hour or so: deburred, cleaned, and dimpled where necessary.
 
 I went ahead and dimpled the holes that's supposed to hold the pixie glass for landing light. I realized only after dimpling that I needed to match drill some holes on the pixie glass first. Fortunately it's probably not a big deal since the glass is transparent. When the time comes I will put the pixie glass on top of the aluminum and draw the matching holes that way. But maybe when I build the left wing I will leave the dimpling to later, just to make things easier.
 
-![img](https://lh3.googleusercontent.com/pw/AP1GczOeIvMAhBa_gxbB_Sjw2uyeuZv3IyaCbSc_j9kbz4aPYLL5hi3fsWENKBWy7o2YJVjrYYB61H10pC-RBfiF948nNTU7pcT4V_nd3OZh3uF2zCf3rkz3fgmFhHOyWccUL5BtnHYzYyZ8e4sRaAGYQODa_Q=w2166-h2888-s-no-gm?authuser=3)
+![img](https://lh3.googleusercontent.com/pw/AP1GczOENNo6cjlyqb7zL9Oic4m-M_juVKf-KFkc-7YBJ1lBA20laXvwUu8LWTIMEQQdt9b8HXZTOzDR-sNrq78cbrRfaNSzNeHQ7Fije0dBQaPn2A2Y9biOjfUsaq-vPW8IqoCcuX-Mj5CvXIS8NJEJ3k7SlA=w2166-h2888-s-no-gm?authuser=3)
 *Leading edge prepped*
 
 
