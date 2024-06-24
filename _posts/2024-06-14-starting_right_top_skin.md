@@ -25,7 +25,7 @@ The space is so tight, so I bought a set of needle file and tiny dremel heads fo
 
 I first drilled a tiny hole on the rib, then switched to a dremel head to enlarge the hole and made it into a slot. After that, I used needle file to clean up everything.
 
-![slot](https://lh3.googleusercontent.com/pw/AP1GczPybdHOg8js5n0fTBHiCeHJOHq0catCZ571WAnMIMfMyRMrG8h11QWPtTPa00AE-unil9r-QjhXmp5Fz9E18bQCX_x88301NNngxiD3SagEO31RYCTqWfOb55iYEW6ZL8-yyZUU2NmEBLZXBFPAneibgA=w3850-h2888-s-no-gm?authuser=3)
+![slot](https://lh3.googleusercontent.com/pw/AP1GczP_u-s9hnWBqyfmuW6pGliffWKald1DAxUAaYUpFVGa46h7vDGy_S0zvkVwofRorph_E02NiUSXHsShjW8lakAZ6rbmZksEJ35b9BU33NYwseEMasaMaCbISWdPkC5nONi6ZiHzDt-I0clglngx8N57Tg=w3850-h2888-s-no-gm?authuser=3)
 *Here is the final result*
 
 
@@ -37,7 +37,7 @@ There are 5 stringers, 2 angles and 2 skins that I needed to clean.
 
 The stringers and angles are fine, but I literally spent 2 hours to peel off the plastic on the top skin. It was just brutal. The process involved a lot of cursing.
 
-![top skin](https://lh3.googleusercontent.com/pw/AP1GczOrSCLDKudem1uMILoQgbAP8r_oxgh-Pxy_cVZ_tykXMPFohFfz3SfMg_5JYVBEGplC-tY0dQubJtDCxi-L2WPtyl2MvhG3d60-iMyoydyXaqL6G9EbEJCpfeqF5cCmdVHn6L7i7vuHDVMQ1Otpgi-xeQ=w2166-h2888-s-no-gm?authuser=3)
+![top skin](https://lh3.googleusercontent.com/pw/AP1GczPZBR_HBBNaZLkfiqfI5-PdiN_mWgaYgeWY25uIVEzMkHM0S1Qq1_E9y9NXdxGAbwcIMpcQkN6jyRmnDKZA946qZXIm0UL0GhXzZerRpWVpHYxfS7KH8UvkhavW1uUlDxNduVriTO-UIo4fnPzSQihuZg=w2166-h2888-s-no-gm?authuser=3)
 *Starting to dimple the top skin*
 
 I started to dimple the top skin, but peeling off the plastic just drained all my energy. I will complete the dimpling in another session.
