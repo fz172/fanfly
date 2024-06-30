@@ -69,3 +69,7 @@ Following Sling Technical's suggestion, I decided to cut a slot before even send
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNRYhemI1xXdr8KS99u6umL57Hgjom7JkzYDZWC_h7hktcHjsMrgSnlS-75DlfLz8CSRPNScOxBNUFyKOcc8FPsZh3S8--gh8IF5Dul-hZ6F6LRhowT33R_G4SfgFtCJy8NqgQHnjOsz9EcNdKN5GI2cQ=w4000-h3000-s-no-gm?authuser=0)
 *A slot is created to acoomodate the rivet that will later go in*
 
+## Video
+
+
+{% youtube JLYt2KU5Dqc %}
