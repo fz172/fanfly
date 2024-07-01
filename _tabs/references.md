@@ -72,6 +72,9 @@ Reference: KAI introduction chapter
 - EAA [Countersink basics](https://www.eaa.org/videos/1485316077?fbclid=IwAR1YPwMkFDxtbYnQc335jub1yGCb3nyOa2ivBcp-8vOdIVFRXK4nIaruTUE)
 - EAA [Crimp connectors intro](https://www.eaa.org/videos/hints-for-homebuilders/electrical/6254047013001)
 - EAA [Electrical Wire Types and Sizes](https://www.eaa.org/videos/hints-for-homebuilders/electrical/6262901860001)
+- Midwest Panel Builder
+  - [Boost Pump system](https://www.youtube.com/watch?v=7pdvVVJbmzQ&list=PLct-i1ThgHWcq5qc3sLU2xv5L7V3TT0Ud)
+  - [Naviflow system](https://www.youtube.com/watch?v=I-f-vLgnH1s&list=PLct-i1ThgHWdk3_Ei0E8YYX24Et7rIGIk)
 
 ## Stores
 
