@@ -99,3 +99,20 @@ After aligning the edge on both ends, I riveted the parts together. I left the l
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNKLD84EpnBD5L5hzRWZXJkrh8sYhsx9XrEuv0-yrHxtp8g7HdtGtm6w5T8--vvaE_AhtBq7kqrxn19VZYpUAlQjrD4SjAmHuw272rYu3l9oZLYA7UVnYw7ZWJILhaOUbs-pgWW8u8Oba4Bz0ugZTosNw=w4080-h3072-s-no-gm?authuser=0)
 _Riveted aileron_
+
+## Replacing a screw
+
+Oh and one more thing.
+
+I decided to replace a M4 screw used to mount the pitot control box to the rib.
+
+When I originally installed the screw, I put a lot of loctite 243. Then when I adjusted the wire bundles I wanted to remove the control box to make things easier. I was able to remove 3 out of the 4 screws but the last one got striped on the head. It was still holding but I could not get it fully out.
+
+I think it will be a pain to deal with this screw if I ever need to replace it in the future, so I might as well just replcae it now before closing the top skin.
+
+Fortunately, the screw is accessible from the back end. I used a small plier to hold the back and just slowed turned it. It backed out partially, but stuck when the back side didn't have enough material to grip on.
+
+Then I used a dremel with sanding disk to cut a small flat notch on the front end. I then used a flat head screw driving to slowly turn it. It eventually came out without damaging the rivnut. I sent a new screw in with no problem.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczOfQm7VSgnNDJaCu5vSb-_q2ODYxl73-iUwUFerf_IT3l_dVWq5hoX7wz-Nr9jRn2o8HhDgjPLI-0sTnfcFW9LkqR8_MuSTH9nuDdA8vq3MAyZVZbBAzt-QbztyuuzYRBPPsQU0JiSRe5dWANk8oQvLJA=w2328-h3092-s-no-gm?authuser=0)
+_Replaced left bottom corner screw with a new one_
