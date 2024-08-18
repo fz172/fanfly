@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Right wing: lights and lens, wing tip and wing stand"
-categories: [Wing, ~wing_tip, ~right_flap, ~right_aileron]
+categories: [Wing, ~wing_tip, ~right_flap, ~right_aileron, ~wiring]
 tags: [wing, avionics, landing_light, jig]
 minutes: 720
 ---
