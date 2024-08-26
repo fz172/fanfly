@@ -7,7 +7,7 @@ minutes: 300
 mermaid: true
 ---
 
-## Tasks completed
+## TLDR
 
 - Reamed all holes on horizontal stabilizer skin
 - Unclecoed HS assembly, cleaned, and put it back toegether

@@ -6,7 +6,7 @@ tags: [wing, video, avionics, landing_light, eaa_tech_counselor]
 minutes: 120
 ---
 
-# Tasks completed
+# TLDR
 
 - EAA tech counsel visit
 - Installed landing lights

@@ -7,7 +7,7 @@ minutes: 60
 mermaid: true
 ---
 
-## Tasks completed
+## TLDR
 
 - Wired up connectors for trim motor
 

@@ -6,7 +6,7 @@ tags: [wing, WG-AFT-003-R-F-0, avionics, fuel_sender]
 minutes: 120
 ---
 
-# Tasks completed
+# TLDR
 
 - Bent fuel sender
 - Match drilled fuel tank cap

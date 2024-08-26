@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-004-R-F-0]
 minutes: 180
 ---
 
-## Tasks
+## TLDR
 
 - Ribs 1-8 riveted to spar
 - Installed flap torque tube

@@ -6,6 +6,10 @@ order: 4
 
 This is some reference/lookup charts I use throughout the build.
 
+## Squawk issues
+
+https://n532sl.youtrack.cloud/dashboard
+
 ## Drill size
 
 Reference: KAI introduction chapter
@@ -81,3 +85,4 @@ Reference: KAI introduction chapter
 - Wire: https://www.prowireusa.com/c-58-tefzel-sb-shielded-wire.html
 - Another Wire store: https://www.aircraftspruce.com/catalog/elpages/shieldwire.php
 - GT150 connectors: https://www.customconnectorkits.com/
+- Gaske: https://www.grainger.com/

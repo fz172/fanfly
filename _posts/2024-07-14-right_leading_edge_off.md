@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-002-R-F-0, video]
 minutes: 240
 ---
 
-# Tasks Completed
+# TLDR
 
 - Removed right leading edge
 - Dimpled replacement leading edge

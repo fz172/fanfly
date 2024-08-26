@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-002-R-F-0, WG-AFT-003-R-F-0]
 minutes: 480
 ---
 
-# Tasks completed
+# TLDR
 
 - Installed right leading edge
 - Squeezed right trailing edge solid rivets (minus a few)

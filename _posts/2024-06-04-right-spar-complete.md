@@ -6,26 +6,24 @@ tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
 minutes: 240
 ---
 
-## Tasks completed
+## TLDR
 
-* Installed all right ribs
-* Built inspection hatches
-* Started assembly 3 (bottom skin)
-* Misc: inventory
+- Installed all right ribs
+- Built inspection hatches
+- Started assembly 3 (bottom skin)
+- Misc: inventory
 
 ## Right ribs
 
 I spent a few hours to fully install all ribs to the right wing spar.
 
-* Dimpled a few ribs
-* Clecoed each rib to spar for alignment
-* Riveted each rib front and back
+- Dimpled a few ribs
+- Clecoed each rib to spar for alignment
+- Riveted each rib front and back
 
 ![ref](/assets/img/20240604/spar_overview.jpg)
 
 It looks like a wing now!!
-
-
 
 Front riveting was pretty easy. Riveting on the back was a little challenging because I installed the rear spar channel out of order, so it caused some obscruction when I needed to rivet the ribs from the back. Each rib requries either 4 or 5 rivets on the back, and due to the placement of the rear channel, I cannot rivet the center 2 rivets for each rib from the back. So I shot the rivets from the other direction.
 
@@ -33,14 +31,12 @@ Front riveting was pretty easy. Riveting on the back was a little challenging be
 ![ref](/assets/img/20240604/side.jpg)
 ![ref](/assets/img/20240604/side_2.jpg)
 
-
-I think this should be fine. The critical ones are the ones at the bottom. I shot the bottom row from the back as instructed by the manual. This row (I think) has the highest chance interfering with the flap, and the other rivets should be fine. 
+I think this should be fine. The critical ones are the ones at the bottom. I shot the bottom row from the back as instructed by the manual. This row (I think) has the highest chance interfering with the flap, and the other rivets should be fine.
 
 ![ref](/assets/img/20240604/bottom.jpg)
 ![ref](/assets/img/20240604/bottom_2.jpg)
 
-
-To be safe, I think I will change up the ordering for the right wing. I will do bottom skin as planned. Then I think I will swtich to aleron and flap, then top skin. This way I will get a better idea of rivet interference. 
+To be safe, I think I will change up the ordering for the right wing. I will do bottom skin as planned. Then I think I will swtich to aleron and flap, then top skin. This way I will get a better idea of rivet interference.
 
 ## Misc invetory
 
@@ -48,9 +44,9 @@ Speaking of flap, I noticed I am missing 2 hinges required to build the flaps. I
 
 ## Inspection hatch
 
-I decided to take a short break before tackling the bottom skin (flipping the wing skeleton feels daunting as it's super heavy and suuuuper twisty). 
+I decided to take a short break before tackling the bottom skin (flipping the wing skeleton feels daunting as it's super heavy and suuuuper twisty).
 
-So I jumpped ahead and found a simple task to work on: inspection hatch. 
+So I jumpped ahead and found a simple task to work on: inspection hatch.
 
 It's a pretty straightforward process: picked out the parts, cleaned, deburred, applied protective filming, dimpled, and riveted them together with 3.2mm countersink rivets.
 
@@ -75,7 +71,3 @@ The short bottom skin (near the root)
 
 And marked for dimple
 ![ref](/assets/img/20240604/bottom_skin_2.jpg)
-
-
-
-
