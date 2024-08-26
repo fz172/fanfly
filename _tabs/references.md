@@ -61,7 +61,7 @@ Reference: KAI introduction chapter
 | Measured friction drag torque                    | inch/lbs | 5     | 7      | 12      |         |
 | Total torque                                     | inch/lbs | 29    | 76     | 150     |         |
 
-- AC4.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
+- AC 43.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
 
 ## FAA material
 
