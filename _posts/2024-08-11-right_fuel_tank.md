@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prosealing the right fuel tank, left wing leading edge & lights"
-categories: [Wing, ~right_fuel_tank, ~left_skin]
+categories: [Wing, ~right_fuel_tank, ~left_skin, ~wiring]
 tags:
   [
     wing,

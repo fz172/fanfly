@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Left top skin, and landing lights"
-categories: [Wing, ~left_skin]
+categories: [Wing, ~left_skin, ~wiring]
 tags: [wing, video, avionics, landing_light, eaa_tech_counselor]
 minutes: 120
 ---
