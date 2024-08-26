@@ -15,7 +15,7 @@ tags:
 minutes: 140
 ---
 
-## Tasks completed
+## TLDR
 
 - Cleaned right wing top root skin
 - Cleaned all left ribs that requires assembly

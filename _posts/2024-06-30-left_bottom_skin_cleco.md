@@ -6,7 +6,7 @@ tags: [wing, video, WG-ASS-004-L-F-0, mistake_right_leading_edge]
 minutes: 120
 ---
 
-## Tasks completed
+## TLDR
 
 - Right botoom skin clecoed, and test fitted most rivets
 - Drilled almost all of the rivets from left

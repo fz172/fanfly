@@ -8,7 +8,7 @@ minutes: 300
 mermaid: true
 ---
 
-## Tasks completed
+## TLDR
 
 - Received fuselage kit
 - Cleaned all parts for left aileron and flap

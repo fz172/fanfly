@@ -6,7 +6,7 @@ tags: [empennage, EL-ASS-001-C-F-0, video]
 minutes: 120
 ---
 
-## Tasks completed
+## TLDR
 
 - Prepped all parts for trim sub-assembly
 - Installed trim on elelvator

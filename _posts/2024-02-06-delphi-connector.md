@@ -7,7 +7,7 @@ minutes: 90
 mermaid: true
 ---
 
-## Tasks completed
+## TLDR
 
 - Installed Delphi GT150 style connector to rudder
 

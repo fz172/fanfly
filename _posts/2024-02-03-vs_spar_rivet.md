@@ -9,7 +9,7 @@ mermaid: true
 
 Today is another easy day. I worked on vertical stablizer (`VS-ASS-001-C-F-0-A-6` sheet 20).
 
-## Tasks completed
+## TLDR
 
 - Clecoed VS assembly minus skin
 - Reamed a few holes

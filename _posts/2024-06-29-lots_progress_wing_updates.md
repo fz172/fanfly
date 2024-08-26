@@ -6,7 +6,7 @@ tags: [wing, video, WG-ASS-004-L-F-0]
 minutes: 180
 ---
 
-## Tasks
+## TLDR
 
 - Assembled left spar
 - Dimpled left bottom skin

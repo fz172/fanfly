@@ -2,11 +2,11 @@
 layout: post
 title: "Cleaning left ribs, and found a crack"
 categories: [Wing, ~left_ribs]
-tags: [wing,video]
+tags: [wing, video]
 minutes: 210
 ---
 
-## Tasks
+## TLDR
 
 - Continued to clean up left ribs
 

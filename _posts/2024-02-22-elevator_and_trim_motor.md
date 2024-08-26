@@ -6,7 +6,7 @@ tags: [empennage, trim, EL-ASS-001-C-F-0, fabrication, trim_motor]
 minutes: 180
 ---
 
-## Tasks Completed
+## TLDR
 
 - Elevator bottom skin 95% complete
 - built a laser level jig and verfied elevator striaigtness

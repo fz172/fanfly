@@ -6,7 +6,7 @@ tags: [empennage, VS-ASS-001-C-F-0-A-6, video]
 minutes: 90
 ---
 
-## Tasks completed
+## TLDR
 
 - Test twist
 - Riveting

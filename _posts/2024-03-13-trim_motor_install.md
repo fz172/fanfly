@@ -6,7 +6,7 @@ tags: [empennage, trim, EL-ASS-001-C-F-0, trim_motor]
 minutes: 30
 ---
 
-## Tasks completed
+## TLDR
 
 - Tested trim wiring
 - Installed trim motor
