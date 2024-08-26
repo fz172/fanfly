@@ -6,7 +6,7 @@ tags: [wing, avionics, landing_light, jig]
 minutes: 720
 ---
 
-# Tasks completed
+# TLDR
 
 - Built wing stand
 - Installed light lens on the right wing
