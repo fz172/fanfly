@@ -8,19 +8,19 @@ Through the build I am making some mods, buying parts not included in the factor
 
 This page serves as the POR for all the mods and aftermarket parts.
 
-| Part               | Description                                        |
-| ------------------ | -------------------------------------------------- |
-| Tail light         | Aveo minimax aero                                  |
-| Trim servo         | Ray Allen T2-7A                                    |
-| Nav lights         |                                                    |
-| Pitot/AOA          | Garmin GAP 26 Heated/Regulated                     |
-| Fuel cap           | Newton Aero 200                                    |
-| Fuel sender        | VDO 10-180 ohm                                     |
-| Fuel sender gasket | Custom made (Garlock 3000)                         |
-| Fuel Pump mod      | Aerospace Innovation Intelligent Fuel Boost System |
-| Fuel Manifold      | Aerospace Innovation Naviflow                      |
-| All hoses          | Aerospace Innovation LifeLine system               |
-|                    |                                                    |
-|                    |                                                    |
-|                    |                                                    |
-|                    |                                                    |
+|                     | Part               | Description                                        |
+| ------------------- | ------------------ | -------------------------------------------------- |
+| Tail                | Trim servo         | Ray Allen T2-7A                                    |
+|                     | Tail light         | Aveo minimax aero                                  |
+|                     | Nav lights         | Aero Pulsar NSR                                    |
+| Wing                | Pitot/AOA          | Garmin GAP 26 Heated/Regulated                     |
+|                     | Fuel cap           | Newton Aero 200                                    |
+|                     | Fuel sender        | VDO 10-180 ohm                                     |
+|                     | Fuel sender gasket | Custom made (Garlock 3000)                         |
+|                     | Fuel Pump mod      | Aerospace Innovation Intelligent Fuel Boost System |
+|                     | Fuel Manifold      | Aerospace Innovation Naviflow                      |
+| Fuel and oil system | All hoses          | Aerospace Innovation LifeLine system               |
+|                     |                    |                                                    |
+|                     |                    |                                                    |
+|                     |                    |                                                    |
+|                     |                    |                                                    |
