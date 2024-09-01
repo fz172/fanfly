@@ -2,7 +2,7 @@
 layout: post
 title: "Mocking left tank and filling rivets"
 categories: [Wing, ~left_fuel_tank, ~left_skin]
-tags: [wing, landing_light]
+tags: [wing, landing_light, WG-AFT-003-L-F-0]
 minutes: 120
 ---
 
@@ -39,10 +39,10 @@ There is an AN4 fitting on the fuel overflow port, and an AN6 for the fuel inlet
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPNsJWo1QXIhGffoKG88nBMpRQ9pVAMVkIe1MYytqW1F2cBTy6zODQZPGgEahfvzArcpRZ5EhMpoKtOEWYQ5xySDuP0spEOpZoST7vLEvJj7XBHyEzvqVue3J_VczwQGuFzCk4-cXs49RqmyPsY9Rq5bw=w2274-h1712-s-no-gm?authuser=3)
 _Fuel inlet fitting dry-fit, not torqued yet_
 
-## Landing light lens
+## Landing light cover
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPFA5BD7lFo3lN_Xcbh7sICmGYSgr3tRU1uSiL8_SzwAtfdMBybldQudnaALHiilEYht1B8uRaq4UU6tOh5LmuEsDqapkNrsl1fSPoM6hj2SwelpIBzDIJ7dorKrijsXnbEhv07MUwHfYXnoEJpTutEtQ=w2274-h1712-s-no-gm?authuser=3)
-_Lens and doubler_
+Cover and doubler\_
 
 This is the strange part. I started by clecoing the lens and doubler together. It's a good fit.
 
