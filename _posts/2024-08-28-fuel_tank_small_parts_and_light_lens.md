@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mocking left tank and filling rivets"
+title: "Left wing: landing light cover and fuel level sender"
 categories: [Wing, ~left_fuel_tank, ~left_skin]
 tags: [wing, landing_light, WG-AFT-003-L-F-0]
 minutes: 120
