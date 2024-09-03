@@ -120,3 +120,22 @@ The third day, the pattern repeated and I ended the test at 7:40pm, with PSI AT 
 _Pressure change over time_
 
 ## Installing on the wing
+
+With the results above, I concluded the tank is good.
+
+I clecoed the tank to the wing with some help with my wife, and we riveted it on the next day.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczNxnrg895XwLueH_r1J5PGeDN_te6cJTwcH87d7JrXefkafOSe_dzmkoyc0QJZ09kK5Sm715YDZx2jrsT3tuQ3CE6jfPSCLyqWLHPN96DKG4X023jjrvXobEVJppDS4ylGEIXsIq4lf036HAXa8HKzZHg=w1290-h1712-s-no-gm?authuser=0)
+_Tank is finally on the wing!!_
+
+I chose to use S.S. rivets near the wing root 50cm length out of precaution. This is sugggested on S.B 14 for Sling 2 but not for Tsi. I don't think it hurts though, so I just did it. I don't have duralac or
+tel-gel as anti-corrosion agent on the steel rivet, so I just dabbed them in proseal. This is acceptable per the KAI.
+
+With everything done, I moved the wing onto the rack. Time for next wing :)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczNuRMn3nlT9i_LBCXOx8RiY2fubVnsVESYmse0jxQGJHa-0LUqQ8FlqxEehV4waMzTHv63w0LeUN5iz2FytfSPFh-AMxhLPQ-45Tx294NfK4dplXJKAN70DxWXH1aQ24AKwB79J-HakjWIECk8OEVstGg=w1290-h1712-s-no-gm?authuser=0)
+_And now the wing is on a rack_
+
+## Video
+
+{% youtube Ib28frMpC2Y %}

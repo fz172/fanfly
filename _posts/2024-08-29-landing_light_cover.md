@@ -8,7 +8,8 @@ minutes: 360
 
 # TLDR
 
-- Created a new landing light cover and doubler for the left wing
+- Created a new landing light doubler for the left wing
+- Tried to make a new landing light cover, but failed. Will try again.
 
 # Details
 
@@ -76,4 +77,15 @@ _Doubler completed_
 
 ## Polycarbonate cover
 
-I bought a 12x12 Polycarbonate sheet on amazon as the new cover.
+I bought a 12x12 Polycarbonate sheet on amazon as the new cover. The thickness is 1/16. As it turns out it's too thick. It's too difficult to bend.
+
+So anyway, I cut the sheet to the right size, and forced it onto my mold.
+
+The material is so stiff, I had to use 3 safety wires to hold it in place.
+
+I put the whole thing in oven at 330 F degrees, hoping to reach 170 C to get it to bend. But apparently 330 is too hot. 5 minutes later when I looked at the over the material is all warped lol, and the other place is uneven. Basically the bent sheet is unusable.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMOeVz0rSbLkaK_ACF_ZskRj9JdKwdeCTIUEKZkT79pw4n-7vM8OZ680Fgi4daVOqisOR-qUk4yDI0o6Zh0ehBxTtnifK2jTT2u6nCOZtvcIWvGl-hKekHO-BuamOcbKrc4AZFpGF1WURn5uRWqdg6mEA=w2274-h1712-s-no-gm?authuser=0)
+_Warped around safety wire_
+
+So I bought a few more thinner sheets, 0.04 inches this time. It should arrive soon. I think I will change my strategy with the new sheet. I will bend first, then cut. I feel like this will allow less precise control on the cutting.
