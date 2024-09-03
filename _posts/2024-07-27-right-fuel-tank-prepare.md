@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Misc work, but mostly fuel tank"
+title: "Right leading edge and fuel tank prep"
 categories: [Wing, ~right_fuel_tank, ~right_skin]
 tags: [wing, WG-ASS-002-R-F-0, WG-AFT-003-R-F-0, jig]
 minutes: 480
