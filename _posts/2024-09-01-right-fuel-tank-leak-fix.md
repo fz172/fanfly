@@ -74,7 +74,7 @@ Frustrated, I bought a few new tools to help: fluresent dye, UV light and a prod
 I sprayed the snoop juice on the tank, and within 3 minutes I found a huge of bubble coming out of th fuel fitting.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMw9Z5AVnk4TSk_rPNAqpdq9AdnRwMWOVMdGChY5cTsBoVfM-TLEDm3oX37elpCLc3bz2ISTzjGxAcT_QeF-e0IJ00PcTJah9eXyqMCHro8M7HViN2kFyoFBqU6g5izsH3KuqQjmcITuy_R4iYPg4-www=w3836-h2888-s-no-gm?authuser=0)
-_ Leak detected_
+_Leak detected_
 
 Looking at the fitting, I don't know what I was thinking. I did not put proseal around the washers!
 
