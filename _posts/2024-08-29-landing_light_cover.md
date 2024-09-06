@@ -31,7 +31,7 @@ It's larger and longer than what's actually needed, and probably doesn't precise
 To get the mold, I cut a foam block and pushed it onto the wing. Then I traced the foam to cut the shape of leading edge.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO9OdAwiH6QyYV9B9bVDuzz8ZTHGIHfkZWHQJmc1PoV4gQ-ks-q1s5hfUeWnWMG7DBzY2s2Xf8G6OjsEzWnGTXqpR1jcsnLkhNw3ktcjE1xo9CwVTn83W0CnMPB4T-xjT_IaXfWf2iR61rSDeIir4RyEg=w4080-h3072-s-no-gm?authuser=0)
-_ Press the foam to get the shape_
+_Press the foam to get the shape_
 
 Then I transfered the foam shape to 2 pieces of wood boards and got started on cutting. These are the 2 sides of the jig.
 
