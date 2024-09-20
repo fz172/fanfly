@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Misc work, but mostly fuel tank"
-categories: [Wing, ~right_fuel_tank, ~left_ribs]
+categories: [Wing, ~right_tank, ~left_ribs]
 tags: [wing, WG-AFT-003-R-F-0, avionics, fuel_sender]
 minutes: 120
 ---

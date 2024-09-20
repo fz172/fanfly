@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mocking left tank and filling rivets"
-categories: [Wing, ~left_fuel_tank, ~right_aileron, ~right_skin, ~left_skin]
+categories: [Wing, ~left_tank, ~right_aileron, ~right_skin, ~left_skin]
 tags: [wing]
 minutes: 240
 ---
