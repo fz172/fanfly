@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Completing the right fuel tank"
-categories: [Wing, ~right_fuel_tank]
+categories: [Wing, ~right_tank]
 tags: [wing, WG-AFT-003-R-F-0, gasket_upgrade, video]
 minutes: 180
 ---
