@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Sealing left tank: part 2"
-categories: [Wing, ~wing_tip]
-tags: [wing]
+categories: [Wing, ~left_tank]
+tags: [wing, WG-AFT-003-L-F-0]
 minutes: 240
 ---
 

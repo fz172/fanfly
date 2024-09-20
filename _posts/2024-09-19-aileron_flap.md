@@ -2,7 +2,7 @@
 layout: post
 title: "Left wing: aileron and flap fully riveted"
 categories: [Wing, ~left_aileron, ~left_flap]
-tags: [wing]
+tags: [wing, FL-ASS-001-L-F-0, AI-ASS-001-L-F-0, WG-ASS-001-L-F-0]
 minutes: 60
 ---
 
