@@ -49,3 +49,12 @@ _Fuel level sender on the outside, using the fancy gasket_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP7llxW5xhBxJnG04_N6Cvug5bCe74nCNAGwsHYvKa8ZSpegm94dMHigSqk7C6jiIcKFhoSHuz3un45gsJiSXnO_YuV9qG4bASKp9-CWLTB4bUW_hiOos8dBt4a7cqzQavwUWSxG62VICTT-E3sw50Oyg=w3836-h2888-s-no-gm?authuser=3)
 _Finished work_
+
+## Special notes on a few rivets
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczO2_QHEjIPJ9ovVWEie0q6G_OQAtqi39BNrhJLZww28bcIXURhtDGzUF8SuF1LhyTU5uexGTQNZUMX9wuT9rkZJ4A316jRTIYRLFORn41c_D2X8uQYsmSA-3BFTBtoRM4DMBZ6R1jxh5D9zkypQejFlyA=w2174-h2888-s-no-gm?authuser=3)
+_The 3.2mm rivets on the side are super difficult to get to_
+
+From this picture, there are 4 3.2mm rivets that needs to be riveted on the rib pointing upwards. the are located very close to the nutplate.
+
+I made the wrong choice of installing the nutplate first, and just couldn't get to the holes to rivet them. So I had to drill out the plate that has the 2 nutplates, install the 3.2 rivets, then install the nutplate back. The process wiped off a lot proseal, so I hope I didn't create any leak in this process.
