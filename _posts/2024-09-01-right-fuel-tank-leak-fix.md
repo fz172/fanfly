@@ -116,7 +116,7 @@ Afternoon 6:30, the preassure came back to 0.95 PSI.
 
 The third day, the pattern repeated and I ended the test at 7:40pm, with PSI AT 0.93 which is the same value as the day before at the same time.
 
-![img](https://docs.google.com/spreadsheets/d/1CwRLgN0jjbZG-dR9fD5dv7syZaZwEJyF4Hcku8qmhYE/pubchart?oid=1038779643&format=image)
+![img](https://docs.google.com/spreadsheets/d/e/2PACX-1vRs8wZikI9lHKcyj5SJtuq2DIKkEilYZsqQZtAw7w6nqoqQtwgZGg-qS4-pK-PSlObX8HiyrmZfBAYX/pubchart?oid=1038779643&format=image)
 _Pressure change over time_
 
 ## Installing on the wing
