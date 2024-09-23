@@ -6,7 +6,7 @@ tags: [wing, WG-AFT-003-L-F-0]
 minutes: 240
 ---
 
-# TlDR
+# TLDR
 
 - Installed left tank back channel
 
