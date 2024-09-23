@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sealing left tank, part 1"
+title: "Left tank, part 1 (Sealing ribs and skin)"
 categories: [Wing, ~left_tank]
 tags: [wing, WG-AFT-003-L-F-0]
 minutes: 600
