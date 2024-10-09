@@ -2,7 +2,7 @@
 layout: post
 title: "Rear fuselage skin & fixing a damaged inner skin"
 categories: [Fuselage, ~rf_skin]
-tags: [avionics, RF-ASS-001-C-C-0-A-A-1]
+tags: [avionics, RF-ASS-001-C-C-0-A-A-1, video]
 minutes: 600
 ---
 
@@ -124,3 +124,9 @@ _More progress towards the front_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOBVuDrZrJbsYMZlM9i-117IFEJamOYci1TDuo3pDnKYdYQ_q-mOuxUFunPsWukh4kAjgfMjhTvDfSjlv_K1TNub-weNxnHZWp3L-la_y1y0Cmr0j4eDmDTbVbcDcd-quwD_0dafOzm6lOfxCImmnku6w=w1352-h1018-s-no-gm?authuser=0)
 _More progress towards the front (right side)_
+
+## Video
+
+Here is a video summary of what I've done so far on the fuselage
+
+{% youtube zutrQMmUT5I% }
