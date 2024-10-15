@@ -129,4 +129,4 @@ _More progress towards the front (right side)_
 
 Here is a video summary of what I've done so far on the fuselage
 
-{% youtube zutrQMmUT5I% }
+{% youtube zutrQMmUT5I %}
