@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Priming experiment"
-categories: [Research, ~painting]
+title: "Priming experiment"
+categories: [Workshop, ~painting]
 tags: [painting, priming]
 minutes: 120
 mermaid: true
@@ -31,7 +31,6 @@ I did this to both sheets of aluminum and waited a few minutes to wash them off 
 
 ![Tools](/assets/img/20230917/primer_experiment_tools.jpg)
 
-
 ## Rustoleum
 
 This was a fun process. I shaked the bottle for a few minutes and started to spray.
@@ -39,13 +38,12 @@ This was a fun process. I shaked the bottle for a few minutes and started to spr
 Lesson: DO NOT spray too close to the metal!
 
 This is the first time ever I apply primer, the bottle was about 3 - 4 inches from the metal. It was WAY to close. The spray basically made a very think and round green dot
-on the metal. While spraying, I started to move the bottle away. It eventually became a smooth fan of pigments. 
+on the metal. While spraying, I started to move the bottle away. It eventually became a smooth fan of pigments.
 
 Amy (my daughter) wanted to join the fun :-) I gave her the bottle, and she did the exact same thing as I did in the beginning. The nozzle was too close and left a thick green line
 and does not blend with the rest of surface at all..
 
 ![rattlecan](/assets/img/20230917/rattlecan.jpg)
-
 
 I waited a few minutes for it to dry, then applied a second coat. The second coat smoothed out some of the uneven surfaces in the first coat, but could not fully cover the super
 think line when the nozzle was really close to metal.
@@ -55,11 +53,12 @@ have to practice more in the future.
 
 ## EkoPrimer
 
-For air spray based primer, I had a bit of struggle on what to use. 
+For air spray based primer, I had a bit of struggle on what to use.
 
 For this practice, I chose EkoPrimer. The main reasons are:
-* It's a tested system, used by many other homebuilders.
-* It's water based so clean up is easy.
+
+- It's a tested system, used by many other homebuilders.
+- It's water based so clean up is easy.
 
 Since I haven't dealt with air paint before, I want to keep today's experiement as simple as possible. So I want to focus on the paint, not cleaning up aftewards. EkoPrimer only
 requires water to clean up.
@@ -76,15 +75,13 @@ will probably build a small paint booth in my garage.
 
 ![spray](/assets/img/20230917/spray.jpg)
 
-
 ## Lessons learned
 
-* Distance between nuzzle and metal is so important. This is true for both rattle can and air spray.
-* Rattle can prep is easier, but covers less area for each squeeze
-    * I feel like this calls for a higher skill level to create smooth surface because you will need to apply the rattle can longer.
-* I need dust control, mayabe a make-shift paint booth.
-* I need chicken wire to make the parts "float". Today the parts were just laying on the table. It made a mess on the table and a few pieces of paper got stuck on the aluminum.
-
+- Distance between nuzzle and metal is so important. This is true for both rattle can and air spray.
+- Rattle can prep is easier, but covers less area for each squeeze
+  - I feel like this calls for a higher skill level to create smooth surface because you will need to apply the rattle can longer.
+- I need dust control, mayabe a make-shift paint booth.
+- I need chicken wire to make the parts "float". Today the parts were just laying on the table. It made a mess on the table and a few pieces of paper got stuck on the aluminum.
 
 ## Future observation
 
