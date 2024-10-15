@@ -18,8 +18,15 @@ This page serves as the POR for all the mods and aftermarket parts.
 |                     | Fuel sender        | VDO 10-180 ohm                                     |
 |                     | Fuel sender gasket | Custom made (Garlock 3000)                         |
 |                     | Fuel Pump mod      | Aerospace Innovation Intelligent Fuel Boost System |
-|                     | Fuel Manifold      | Aerospace Innovation Naviflow                      |
-| Fuel and oil system | All hoses          | Aerospace Innovation LifeLine system               |
+| Fuel and oil system | Fuel Manifold      | Aerospace Innovation Naviflow                      |
+|                     | All hoses          | Aerospace Innovation LifeLine system               |
+| Paint               | Interior           | Primer - Rustoleum self-etching                    |
+|                     |                    | Primer - Stewart System Ekoprime                   |
+|                     |                    | Top coat - Stewart System EkoCrylic                |
+| Fuselage            | Static port        | Vans static port                                   |
+| Undercarriage       | Brake              | Matco dual piston upgrade                          |
+|                     |                    |                                                    |
+|                     |                    |                                                    |
 |                     |                    |                                                    |
 |                     |                    |                                                    |
 |                     |                    |                                                    |
