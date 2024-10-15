@@ -2,7 +2,7 @@
 layout: post
 title: "Front row seats"
 categories: [Fuselage, ~seats]
-tags: [ST-ASS-101-L-X]
+tags: [ST-ASS-101-L-X, video]
 minutes: 300
 ---
 
@@ -28,3 +28,5 @@ _Seat painted_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOc3Rsr6Xcz5yrGYBNJi7yGqVJigiLJfc8qyZiHxTmGpUD9sQcqLZNXotb8xa0IhCDOdLrx8jR9aIoJgrgtx5zmU3Jn13kgzLHBMvMtA_2ZkqcdZBpstUs6JWgXwUldKfKG6kU9g0HidCruGizcWmM0jQ=w1354-h1019-s-no-gm?authuser=0)
 _Seat painted_
+
+{% youtube wUuxUVMVvJA %}
