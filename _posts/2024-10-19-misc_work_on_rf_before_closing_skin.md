@@ -66,7 +66,7 @@ the cable tray clecoed in place to keep some rigidity for rib 2 and rib 3.
 _Parachute box and floor all riveted together_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMh1pu3LbJeL2mdTBQds2HozVnbjm7ldHtFeFlWu4LgnB-Kcp8fJ5wTwOsFkIK1xD5iTbCE5uiNDeswQKkiwsfaBvLNd9CB6bCd3QbCWm9q6eWAxB9m4Wo1w9HJt0wJoKdFdvc_1h5jY-CMsv2NWlMPRw=w1290-h1712-s-no-gm?authuser=3)
-\_Anothewr AP1GczNnvAMovBYnTFy9YxP7Xdkjt7yI9GQdg3D6jlcnWhvTFhQqgwqxIMzkvM3Fmm6hm8iP2N8a60m2ZIs2D2C2cUXEdjgJbVF6c6p_p_mIxW8maiYEqVlqOxUt_NeFnmcg4rJ
+_Another view_
 
 ## Longeron 111
 
