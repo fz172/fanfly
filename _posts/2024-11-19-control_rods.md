@@ -15,7 +15,7 @@ minutes: 1500
 
 ## Fitting the control rods
 
-I started to fit the control rods (joystick assemlby, aileron torque tube, elevator torque tubes, flap tube) to the fuselage. I seriously did not expect this step to take so much time.
+I started to fit the control rods (joystick assembly, aileron torque tube, elevator torque tubes, flap tube) to the fuselage. I seriously did not expect this step to take so much time.
 
 I've spent upwards of 20 hours so far to get them to rotate freely. They finally rotate with a tiny bit of force on my finger, but they don't "fall by gravity" as Evan demonstrated on his video. I have already shaved off so much material on the locking channel to get them to this state. I do not think I will keep shaving any more material. I think the amount of force required so far to rotate them is small enough, I can take it as a success as long as they don't become worse when I put in rivets.
 
