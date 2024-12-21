@@ -8,13 +8,13 @@ minutes: 260
 
 # TLDR
 
-- Built the throotle quadrant
+- Built the throttle quadrant
 
 # Details
 
 I'm back from a 3 week business trip and wanted to resume the work from something easy. So I picked throttle quadrant as my next project.
 
-I was thinking this should be a 2 hour project, and it turned into 4.5 hours. I am not familar with the NPT fittings and the brake lines but still not difficult overall.
+I was thinking this should be a 2 hour project, and it turned into 4.5 hours. I am not familiar with the NPT fittings and the brake lines but still not difficult overall.
 
 ## Nuts and bolts
 
@@ -42,11 +42,11 @@ The brake handle is connected to a cylinder, which has 4 NPT fittings that conne
 
 The line is fairly rigid. I have not worked with NPT fittings before so definitely a little nervous.
 
-For now, I needed to connect 2 fittings together. I measured the length needed, and cut the brake line to fit. I then used a heat gun to soften the line, and conected to the fitting's coupling and tightened them.
+For now, I needed to connect 2 fittings together. I measured the length needed, and cut the brake line to fit. I then used a heat gun to soften the line, and connected to the fitting's coupling and tightened them.
 
-I hope it doesn't leak. I tied a baloon on the line and used Snoop to test the fittings. This is the same stuff I used to test fuel tank a few months ago.
+I hope it doesn't leak. I tied a balloon on the line and used Snoop to test the fittings. This is the same stuff I used to test fuel tank a few months ago.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOynNqzsfuasMIL2yPaLno4F4PSPHltciKbCqHz_NeKLVPIgzHDz3Vsaz2FgQePHYEK0VDjQgQ4wuURChu1fzyMOzDaAQsc1KOtl-f2wx1rYRpPYB3eoY8p1GZmVNl5i1fRIqWT9gaYBtMG5rIRsM4vlw=w2174-h2888-s-no-gm?authuser=3)
 _Underside of the quadrant_
 
-For now, this is all I have done for the thtrottle quadrant. Remaining work: connect the throttle line, connect the rest of brake line.
+For now, this is all I have done for the throttle quadrant. Remaining work: connect the throttle line, connect the rest of brake line.

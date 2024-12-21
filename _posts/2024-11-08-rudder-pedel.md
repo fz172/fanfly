@@ -23,9 +23,9 @@ There was a slight binding. I had to grind off the bushing holders slightly. It 
 
 I didn't want to shave off too much material from the base plate, so I just went ahead and installed the rudder foot step hoping things will get better. It did! Once the rudder foot rest was added, the whole tube got more weight and I guess less balanced. Now it does fall "by gravity".
 
-So I am pretty happen about this part. I have the plates and tubes all clecoed together. Holding off the rivets for now just in case adding side skin will change anything.
+So I am pretty happen about this part. I have the plates and tubes all cleco-ed together. Holding off the rivets for now just in case adding side skin will change anything.
 
-I also fitted the control stopper on the pedal. It did require a signficant amount of grinding to provide the clearance needed by the instruction manual.
+I also fitted the control stopper on the pedal. It did require a significant amount of grinding to provide the clearance needed by the instruction manual.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN8E64YWtK_oQX5-uSIlWXYMWgfsKYHFhXFMve-YvoVlHbp490WQK7SHjnCqkIRBXN3tY2anuNS0roRAqRIotq77sYOKkfcrsQVsciGrkQvs4_ChxFvBSa0C0Oidot4nTNACv_1dyrTDnCok8U1xScbQQ=w2274-h1712-s-no-gm?authuser=3)
 _Final result_
