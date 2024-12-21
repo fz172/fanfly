@@ -7,7 +7,7 @@ minutes: 240
 mermaid: true
 ---
 
-while waiting for EAA technical conselor visit, I decided to start on Elevator. Today and yesterday I tackled
+while waiting for EAA technical counselor visit, I decided to start on Elevator. Today and yesterday I tackled
 'EL-ASS-001-C-F-0' sheet 8 and 10.
 
 ## Elevator spar center rib
@@ -26,7 +26,7 @@ Here is the main elevator spar with center ribs and stiffeners riveted.
 
 If you pay close attention to the picture here, you will notice I riveted the doubler on the center spar and rib. This is incorrectly done. The counterweight has to go under the doubler. So I needed to drill it out.
 
-Unforunately when drilling out the rivets, one of the holes got elongated. I measured the hole size and it's probably fine to upsize the hole from 4mm to 4.8mm. But since I'm still early in the build, I decided to put in a replacement order for the right rib and learn the lesson. I immediately ordered a more compact drill after this mistake.
+Unfortunately when drilling out the rivets, one of the holes got elongated. I measured the hole size and it's probably fine to upsize the hole from 4mm to 4.8mm. But since I'm still early in the build, I decided to put in a replacement order for the right rib and learn the lesson. I immediately ordered a more compact drill after this mistake.
 
 ## More part preps
 

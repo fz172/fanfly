@@ -38,13 +38,13 @@ Because I previously installed the long aileron tube first, the tube blocked acc
 
 ### Screw issue on the pitot tube
 
-The pitot tube required 4 6-32 machine screws. But for some reason one of the holes simple does not take the screw. I switched many screws but just could not get the screww to fully go in.
+The pitot tube required 4 6-32 machine screws. But for some reason one of the holes simple does not take the screw. I switched many screws but just could not get the screw to fully go in.
 
 At one point I used too much force, and twisted off the screw head. I was really surprised how little force I needed to do that. So any way, the screw was stuck in the hole, and has about 1 mm protruding, which was too short to use a plier to screw it out, and too long that it blocks the entire pitot tube from sliding out.
 
-I had to undrill a few solid rivets from the mast assmebly, then was able to get the entire pitot tube out and remove the screw carefully using a thin plier.
+I had to undrill a few solid rivets from the mast assembly, then was able to get the entire pitot tube out and remove the screw carefully using a thin plier.
 
-I have an #6-32 3/16 screw on order. They are supposed to be shorter than the ones I'm usnig now. 3/16 is still within the acceptable range specified by Garmin, And hpefully they will be short enough to fully go in.
+I have an #6-32 3/16 screw on order. They are supposed to be shorter than the ones I'm using now. 3/16 is still within the acceptable range specified by Garmin, And hopefully they will be short enough to fully go in.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNisxC6Ss5iy8nG1YbEsyKX8ia5uAoo1jSMLn4gz-2eZ33bBF566xWDgax2R2839pTo2YFRJarCo3FgV2aqYcPqitdx7GCgVuyYIUDnlwlbOy5ezp-4i8960rDwTExaAfGiivKZypfMTZKui1q1A7IRnQ=w2320-h3092-s-no-gm?authuser=0)
 _This hole does not fit 5/16" length screw_
@@ -53,11 +53,11 @@ _This hole does not fit 5/16" length screw_
 
 The next big job was to mount the Garmin GAP26 control box near the pitot tube.
 
-I know some folks just drill 4 holes on the inspection plate and mount it there. I wasn't thrilled about the idea of having expensive parts and wire attached to an inspection plate. So I decideded to mount it to the rib right next to the pitot tube.
+I know some folks just drill 4 holes on the inspection plate and mount it there. I wasn't thrilled about the idea of having expensive parts and wire attached to an inspection plate. So I decided to mount it to the rib right next to the pitot tube.
 
 First I cut a scrape piece of aluminum and match drilled 4mm holes using the controller box as a template.
 
-Then I transfered the holes from the aluminum template to the rib. I enlarged the holes to fit 4 M4 rivnuts (with loctite 277).
+Then I transferred the holes from the aluminum template to the rib. I enlarged the holes to fit 4 M4 rivnuts (with loctite 277).
 
 Finally I mounted the controller to the rib using hex screws.
 
@@ -81,14 +81,14 @@ _Running tubes for the pitot assembly_
 
 ### Bending the pitot tubes
 
-The 2 aluminum tubes came with GAP26 was super long, and stright goes up. I needed to both cut them and bend them so they can smoothly connect to the plastic tubes, and they have to be longer than 8 inches.
+The 2 aluminum tubes came with GAP26 was super long, and straight goes up. I needed to both cut them and bend them so they can smoothly connect to the plastic tubes, and they have to be longer than 8 inches.
 
 I tried to bend them with hand while attached to the wing. I was able to do that but all the parts around it were shaking as I moved things around. I decided to just take the part off the wing to bend it, then insert back.
 
-While I was removing/inserting the tubes, I noticed the rivets inside of the mast were rubbing the tubes, so I put some temperary silicon tape for protection. They were removed at the end.
+While I was removing/inserting the tubes, I noticed the rivets inside of the mast were rubbing the tubes, so I put some temporary silicon tape for protection. They were removed at the end.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFpAZqTA1yjOjN8hTsOW4FY4ZZfElBIrgSxR4yu2YxJ0jil_AbcKbUeoMcvZxbR8dYHz85hjSduCYsuJa0QjGdYPVh4HEnxA2tt3A2QAPAhU8xY_m28szUv2sjgcPkEFDbHYZCE2p0VZojEzM8EqRk0g=w2328-h3092-s-no-gm?authuser=0)
-_Bending tubes in progress, and note the silicon tape for temperary protection._
+_Bending tubes in progress, and note the silicon tape for temporary protection._
 
 After some finessing, the tubes were finally connected!
 
@@ -103,7 +103,7 @@ First I created a "bridge" between the aluminum tube and the wire so they don't 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOdQZNoX2QN0ChFDeCf_GThZSLiGIslxzx4q7ggFu6uEZZK0RSBBOyrM1676eUqjYDpCEaAwdMX_aJBSr9qUVDb44Iq5OXB5ImCVzfXn5ZtEuW-lrxpjdJKChTHXjMQX5LkPmQjnLNjJh5Yo6nvSTtJYA=w4080-h3072-s-no-gm?authuser=0)
 
-While I was there, I created a whole bunch of bridgets to add some rigidity for the air tubes too.
+While I was there, I created a whole bunch of bridges to add some rigidity for the air tubes too.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOW9hUWp_NuIanvUGvIt6eleVVasH6VrxYugv6BxxCD2JYdnTBjfIr6OxItLGHoFihMWxsntHH1zFVgIwNnTY5OEwEilbAuXc7C21L6k-ygkQUhipKFBgnLMEfkg7l0sPjct9LUbPD5mIpiBfGekvh6wQ=w4080-h3072-s-no-gm?authuser=0)
 _Air hose bridges_
@@ -127,12 +127,12 @@ _Adel clamp installed_
 
 It was an interesting experience because I have never used adel clamp before.
 
-Now that the pitot tube side work is done, I removed the temperary silicon tape.
+Now that the pitot tube side work is done, I removed the temporary silicon tape.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOmQBPWjfPMFm3OvD6AzDLZLg9lYSM6weYoawcwkqXRmC7gj_5FoXyPrSFvd9wEDS5M11X-o-1CIs_-AVBPVVLSOv0_fKckExrdGYEwt4_t8Zuut4Xbh8Q7Go7Y08sdZENjXJuZ7Sty8LI19NIwJlozPw=w2328-h3092-s-no-gm?authuser=0)
 _Silicon tape removed_
 
-Then I connected the control box wires to my wing harness wires using heatshrink crimpers.
+Then I connected the control box wires to my wing harness wires using heat shrink crimpers.
 
 - Red -> Pitot power
 - Black -> Pitot ground

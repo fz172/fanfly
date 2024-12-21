@@ -10,7 +10,7 @@ mermaid: true
 In the last 2 weeks I bought a few tools and samples to practice applying primer, and check out quality. The hope is I can get some idea what each type primer feels
 like when applied to aluminum so I will have less anxiety when the tail kit arrives in ~5 months.
 
-## Experiemnt Set up
+## Experiment Set up
 
 I bought [Bondrite C-IC 33](https://www.aircraftspruce.com/catalog/pnpages/09-01621.php) as etching/cleaning solution.
 
@@ -33,7 +33,7 @@ I did this to both sheets of aluminum and waited a few minutes to wash them off 
 
 ## Rustoleum
 
-This was a fun process. I shaked the bottle for a few minutes and started to spray.
+This was a fun process. I shook the bottle for a few minutes and started to spray.
 
 Lesson: DO NOT spray too close to the metal!
 
@@ -43,7 +43,7 @@ on the metal. While spraying, I started to move the bottle away. It eventually b
 Amy (my daughter) wanted to join the fun :-) I gave her the bottle, and she did the exact same thing as I did in the beginning. The nozzle was too close and left a thick green line
 and does not blend with the rest of surface at all..
 
-![rattlecan](/assets/img/20230917/rattlecan.jpg)
+![img](/assets/img/20230917/rattlecan.jpg)
 
 I waited a few minutes for it to dry, then applied a second coat. The second coat smoothed out some of the uneven surfaces in the first coat, but could not fully cover the super
 think line when the nozzle was really close to metal.
@@ -60,15 +60,13 @@ For this practice, I chose EkoPrimer. The main reasons are:
 - It's a tested system, used by many other homebuilders.
 - It's water based so clean up is easy.
 
-Since I haven't dealt with air paint before, I want to keep today's experiement as simple as possible. So I want to focus on the paint, not cleaning up aftewards. EkoPrimer only
+Since I haven't dealt with air paint before, I want to keep today's experiment as simple as possible. So I want to focus on the paint, not cleaning up afterwards. EkoPrimer only
 requires water to clean up.
 
 In ether case, after dialing in my brand new central pneumatic air spray (actually I am not sure I dialed it in properly), I started to mix the primer using a stick and poured it
 into the air spray.
 
-The paint took like 15 seconds :) I just squeezed the trigger and moved left - right - left - right a few times, the aluminum was fully painted. It's definitely more efficient than
-the rattle can approach for larger surfaces. In this process I was too close to the metal for some parts, and noticed very obvious orange peel on the paint. The primer was quite
-liquidy it somoothed itself out a little bit, but not fully.
+The paint took like 15 seconds :) I just squeezed the trigger and moved left - right - left - right a few times, the aluminum was fully painted. It's definitely more efficient than the rattle can approach for larger surfaces. In this process I was too close to the metal for some parts, and noticed very obvious orange peel on the paint. The primer was quite liquidy it somoothed itself out a little bit, but not fully.
 
 I applied a second code to smooth everything out. However, the painted surface collected a lot of dust from my garage. For the experiment I think it's fine. For the real paint I
 will probably build a small paint booth in my garage.
@@ -80,12 +78,11 @@ will probably build a small paint booth in my garage.
 - Distance between nuzzle and metal is so important. This is true for both rattle can and air spray.
 - Rattle can prep is easier, but covers less area for each squeeze
   - I feel like this calls for a higher skill level to create smooth surface because you will need to apply the rattle can longer.
-- I need dust control, mayabe a make-shift paint booth.
+- I need dust control, maybe a make-shift paint booth.
 - I need chicken wire to make the parts "float". Today the parts were just laying on the table. It made a mess on the table and a few pieces of paper got stuck on the aluminum.
 
 ## Future observation
 
-I hang the 2 pieces of aluminum to my backyard. I will keep them there for a few months under California sun. It will be roughly 5 month when my tail kit arrives. I will go check
-their agining when the kit arrives to see if primer did anything to protect the aluminum against elements.
+I hang the 2 pieces of aluminum to my backyard. I will keep them there for a few months under California sun. It will be roughly 5 month when my tail kit arrives. I will go check their aging when the kit arrives to see if primer did anything to protect the aluminum against elements.
 
 I think it's actually a good thing that I didn't really apply the primers perfectly. When I go check the effect in a few months hopefully I will see a more realistic result from imperfect application.

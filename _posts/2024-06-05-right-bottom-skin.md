@@ -22,7 +22,7 @@ Earlier this week I requested a few parts as they were back ordered, and also re
 
 Spent like forever to peel off the plastic protective film from the bottom skin. After this was done my fingers are properly raw. It's my least favorite part of the build process.
 
-And I deburred, wiped with alchohol, and scuffed the outer skin with scotch pad.
+And I deburred, wiped with alcohol, and scuffed the outer skin with scotch pad.
 
 Then I proceeded to dimpling. It took me a moment to orient the parts so the correct side is dimpled. I marked out the side on each part to avoid mistakes.
 
@@ -69,7 +69,7 @@ During the test fit, I noticed one hole on the overlapping root skin and long sk
 
 ### Fitting rivets
 
-I spent some time to fit rivets into each hole, and my goal is to matchdrill ZERO holes if possible.
+I spent some time to fit rivets into each hole, and my goal is to match drill ZERO holes if possible.
 
 About half of the holes on both spars were very easy to fit the rivets. Others were much harder to insert the rivets. I used a trick I learned from other builder to help with this situation - use an [icepick](https://www.amazon.com/Chef-Craft-Select-Handle-Natural/dp/B01LDC38PW). When a hole does not fit, push an icepick through the neighboring hole, and wiggle it around to micro-adjust the alignment between the different metal layers. 99% of the time the rivet was able to go in. In a few holes I needed to apply a little bit force to push them through. But still, I was able to push all rivets through both spars with ZERO match drill.
 
@@ -90,7 +90,7 @@ The 6 rivets further out from the rear spar were easy. I had space for my drill 
 
 So I tried to remove the 2 rivets from the back side.
 
-I was a little worried but it was actually fairly straightforward. TLDR: ** bruteforce with a very good flush cutter. ** I just too a flush cutter and started to cutting the backside of the rivet. It was surprisingly soft and easy to cut. It didn't take much effort to cut off the back side, then I used a centerpunch to push out the front piece. No drilling were involved. To be honest I felt like this was safer than drilling from the front side..
+I was a little worried but it was actually fairly straightforward. TLDR: ** brute force with a very good flush cutter. ** I just too a flush cutter and started to cutting the backside of the rivet. It was surprisingly soft and easy to cut. It didn't take much effort to cut off the back side, then I used a centerpunch to push out the front piece. No drilling were involved. To be honest I felt like this was safer than drilling from the front side..
 
 ![before](https://lh3.googleusercontent.com/pw/AP1GczOMasUGyDxdg_qg5pWFPEeufWXJ1E0lTkRwJ8qWNAxtWSzOmxVfLMpb76eDuVoP4NXodzZ0VCD57QNWSXn_8o50DAgAMcN3Ga0c77vG860fPXya1yhfB8MoBWjMOiUqBQt0YCUdIRgZ1XYxbDzdsfvUVw=w2166-h2888-s-no-gm?authuser=3)
 _Before_

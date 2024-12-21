@@ -20,7 +20,7 @@ Near the center section (rib 7), the skin had some oil canning. I noticed that w
 
 ### Zip tie securing the wire harness
 
-Before riveting the center stringer, I put some zip tie through the predrilled holes on the stringer to secure the harness. This provided a little more space between the harness wire and the rivet butt from the skin.
+Before riveting the center stringer, I put some zip tie through the pre-drilled holes on the stringer to secure the harness. This provided a little more space between the harness wire and the rivet butt from the skin.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOBD3FhthcNCBWhwsEFrqP0WU5WTmQY0rOpB1L2FlvnjgfNB0FCwNkRX_rSJSnlgogakJyQleEs-rPdsbRhkoyhXZCyH9uxjeX9CtcScyaYIOF1u0ZOPTPS4gL5UZYnnNTJ4ANFJ3HfdhIaUabDCIkpkA=w2320-h3092-s-no-gm?authuser=0)
 _Note the zip ties along the stringer. They are not tied yet. The slight tension by inserting the zie tie is sufficient to keep the wire away from the skin rivets. The zip tie is closed when all riveting is done._

@@ -45,7 +45,7 @@ After trying a few rivets, flash cutter is my preferred approach. It's precise, 
 - Reverse the mandrel and insert to rivet again
 - Flash cutter squeeze on the rivet
 - Turn about 60 degrees, cut again
-- Turn another 60 degress and cut
+- Turn another 60 degrees and cut
   - It usually only takes 3 cuts to fully cut the rivet
 - Remove mandrel
 - Reverse mandrel direction and put it back

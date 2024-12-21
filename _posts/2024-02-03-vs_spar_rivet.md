@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Vertical stabilizer spar riveting"
-categories: [Empennage, ~vertical_stablizer]
+categories: [Empennage, ~vertical_stabilizer]
 tags: [empennage, VS-ASS-001-C-F-0-A-6]
 minutes: 90
 mermaid: true
 ---
 
-Today is another easy day. I worked on vertical stablizer (`VS-ASS-001-C-F-0-A-6` sheet 20).
+Today is another easy day. I worked on vertical stabilizer (`VS-ASS-001-C-F-0-A-6` sheet 20).
 
 ## TLDR
 
 - Clecoed VS assembly minus skin
 - Reamed a few holes
-- Riveted VS assmebly minus Rib 1 and Rib 5
+- Riveted VS assembly minus Rib 1 and Rib 5
 
 ## Walk through
 

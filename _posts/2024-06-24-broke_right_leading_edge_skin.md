@@ -25,11 +25,11 @@ _Ding ding ding_
 
 I flipped through AC43-13, and I think technical it's possible to build a doubler to cover this area.
 
-I have not made custom doublers before. And I do not want the wing leading edge to be the first one to get a surgery like this. Besides, I am pretty early in the build progress. If I patch this over, I will probaly think about it for the entire build process.
+I have not made custom doublers before. And I do not want the wing leading edge to be the first one to get a surgery like this. Besides, I am pretty early in the build progress. If I patch this over, I will probably think about it for the entire build process.
 
 So I decided to order a new part and move on.
 
-I put in the replacement oroder, and started to drill out the rivets. It's definitely a painful process. Oh well, lesson learned!
+I put in the replacement order, and started to drill out the rivets. It's definitely a painful process. Oh well, lesson learned!
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPOKRRkqk3nLHpkgOAZrQT2wrK3Syz51RpTcEDDsEz5GDbNAFZkUBa4Orqr2Nu_en0wUSfzzL9lGcR5q84W7maTwSSBi7k0MDlgm424YB42ESpBZ_ajngs3k4XRizr0yjqMLrMVx2hbfyK7e8S2hIo7Cw=w2320-h3092-s-no-gm?authuser=0)
-_You can see some rivets removed from the leading edge. That's about 1 hour's work. I will need at least another 2-3 hours to fullly drill out the rest of the rivets_
+_You can see some rivets removed from the leading edge. That's about 1 hour's work. I will need at least another 2-3 hours to fully drill out the rest of the rivets_

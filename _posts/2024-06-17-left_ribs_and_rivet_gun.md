@@ -26,7 +26,7 @@ The instruction was easy to follow, Daniel and I clecoed together rib 1 fairly q
 
 Then we tried to rivet the parts. This is when the rivet gun gave up. Yesterday I had to pull a few times for the gun to grip. Today it just stopped working altogether after a few rivets.
 
-We took the gun apart and cleaned everything. Inspecting visually, nothing broke. Hmm. We put it back together and tried a few more times, still no joy. So we could not really rivet anyting today. We decieded to just cleco everything together. In the meantime I bought a new Milwaukee M12 rivet gun. I thought about getting a Proset XT2. But my build session are almost exclusively at night, so the noise from compressor is a no-go for me.
+We took the gun apart and cleaned everything. Inspecting visually, nothing broke. Hmm. We put it back together and tried a few more times, still no joy. So we could not really rivet anything today. We decided to just cleco everything together. In the meantime I bought a new Milwaukee M12 rivet gun. I thought about getting a Proset XT2. But my build session are almost exclusively at night, so the noise from compressor is a no-go for me.
 
 ![broken_gun](https://lh3.googleusercontent.com/pw/AP1GczNl9cyf3K42BiMcDJpx4K6UKQDuwDR1WVsvyqXdxhIUaI4fhJA7z9Ohz-8-juCkIEct-_NCq3DvaaN3VXJHMf7WFxQRc1C_BT1wORSYnmH-FV7-e0Kl2vCPM0Hjhu9rgNPU7DbEhaPW-osdwjvPVopBsg=w2282-h1712-s-no-gm?authuser=0)
 _Nothing look broken, hmm_

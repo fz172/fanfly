@@ -14,7 +14,7 @@ minutes: 90
 
 I am working on Tsi fuselage KAI's page 29-30 installing the luggage floor. I clecoed support channels and the floor to test fit, however I'm running into a problem with the floor skin's flange on both sides (please see picture).
 
-Basically as I cleoco them together, I have a 3mm gap between the floor skin's flange and the longeron on both sides. The gap runs across the entire length of the floor flange. I checked the floor sits fully on the support channels and there is nothing interfering below the floor skin. I also tried to cleco the floor onto the flange to bring the gap closer, but the floor flange just bends and distorts.
+Basically as I cleco them together, I have a 3mm gap between the floor skin's flange and the longeron on both sides. The gap runs across the entire length of the floor flange. I checked the floor sits fully on the support channels and there is nothing interfering below the floor skin. I also tried to cleco the floor onto the flange to bring the gap closer, but the floor flange just bends and distorts.
 
 It almost seems like I'm missing a doubler or I need a shallower flange or something, but I don't see any mention of doublers on the KAI.
 

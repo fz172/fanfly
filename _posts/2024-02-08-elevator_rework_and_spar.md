@@ -23,7 +23,7 @@ It needed to be replaced because I drilled a _very_ elongated hole when trying t
 ![rib1_bad_hole](/assets/img/20240209/bad_hole.jpg)
 ![rib1_comparison](/assets/img/20240209/comparison.jpg)
 
-With the new part in hand, I went ahead and drilled out the old piece. In order to remove this piece, I needed drill out 8x4.8mm rivetes, and 4x4.0mm rivets.
+With the new part in hand, I went ahead and drilled out the old piece. In order to remove this piece, I needed drill out 8x4.8mm rivets, and 4x4.0mm rivets.
 
 I've removed many 4.0mm before so nbd, THE 4.8mm ones made me a little nervous because of their position. They were right at the center of the main spar holding the 2 halves together, I really didn't want to mess this up. Fortunately, I did not make any of the holes worse. The primer got severely scratched, but that's easy fix.
 

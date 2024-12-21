@@ -15,7 +15,7 @@ minutes: 120
 
 I needed to grind a little chunk off of the 4.0mm female dimple die. This is to provide clearance to dimple the aileron ribs.
 
-5 miuntes on the bench grinder, here it is:
+5 minutes on the bench grinder, here it is:
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNMfsjLVHuJ6f7CYTHRK3kAMNMJL-rt9hUIR9qU6EvOS1go4VqtNlOLh1jPR6h1yllQ7FZ-BySI2VJOo3lvPX5EoUYdd5RDzNB99LdU_B4wcvKYfUt-NxQZFZdKPNbaUClnltnIevS3I7h4_Nw9rV0d-g=w1284-h1712-s-no-gm?authuser=0)
 _4.0 female die grinded_
 

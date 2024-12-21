@@ -6,7 +6,7 @@ tags: [empennage, EL-ASS-001-C-F-0]
 minutes: 60
 ---
 
-As I start to fit the trim skin and piano hinge together, I immeidately ran into several problems.
+As I start to fit the trim skin and piano hinge together, I immediately ran into several problems.
 
 ## Problem
 
@@ -19,9 +19,9 @@ First off, the KAI had no mention of the parts I received (`EL-SKN-103-C-E-2` an
 
 So based on the shape of the parts and using some imagination, I think I needed to mate `EL-SKN-103-C-E-2` and `EL-CHL-008-X-F-0` which essentially becomes the same shape as `EL-SKN-103-C-E-1`. And I need to insert the piano hinge between the skin and top channel.
 
-As I mate the channel and skin, the formed bend on channel does not really comform with the shape of the skin. If I cleco the top skin with the channel there is a huge gap between bottom skin and channel, and vice versa if I cleco bottom skin.
+As I mate the channel and skin, the formed bend on channel does not really conform with the shape of the skin. If I cleco the top skin with the channel there is a huge gap between bottom skin and channel, and vice versa if I cleco bottom skin.
 
-I do not have a bending brake (ordered one from harbor frieght), so I tried to hand bend the channel. It helped to some degree. I was able to reduce the gap significantly. I sent Sling technical an email but I assume they will tell me to keep bending.
+I do not have a bending brake (ordered one from Harbor Freight), so I tried to hand bend the channel. It helped to some degree. I was able to reduce the gap significantly. I sent Sling technical an email but I assume they will tell me to keep bending.
 
 Here is the effect after some bending:
 ![bending](/assets/img/20240220/bending.jpg)
