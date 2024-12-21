@@ -23,15 +23,15 @@ And today, after the priming I finished the job by riveting it together. I pulle
 
 ### Could not reach tight spaces
 
-The instructure was clear and the whole process was pretty easy. I did have to skip 2 rivets near the angle bracket because the rivet holes were too close to the corner and my rivet gun couldn't reach. I tried to use the [Close Quarter Rivet Pulling Wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge) but my Milwaukee rivet gun would not bite on the rivet. I think this is probably a issue with the gun. I bought a hand riveter on amazon. I will come back to these 2 rivets when I receive my hand puller.
+The instruction was clear and the whole process was pretty easy. I did have to skip 2 rivets near the angle bracket because the rivet holes were too close to the corner and my rivet gun couldn't reach. I tried to use the [Close Quarter Rivet Pulling Wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge) but my Milwaukee rivet gun would not bite on the rivet. I think this is probably a issue with the gun. I bought a hand riveter on amazon. I will come back to these 2 rivets when I receive my hand puller.
 
 ![could_not_reach_rivet](/assets/img/20231221/elevator_counterweight_finished_2.jpg)
 
 ### Torquing bolts
 
-Another task I skipped was torquing the AN3 bolts. This is because I don't have a toqrue ranch yet. Just bought one from amazon. Hopefully I will receive it this weekend or next week.
+Another task I skipped was torquing the AN3 bolts. This is because I don't have a torque ranch yet. Just bought one from amazon. Hopefully I will receive it this weekend or next week.
 
-One thing I am not sure: do I need to apply loctite? The instruction didn't say. I will probalby ask on the facebok group.
+One thing I am not sure: do I need to apply loctite? The instruction didn't say. I will probably ask on the facebook group.
 
 ### Photo and video log
 

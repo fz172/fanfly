@@ -9,7 +9,7 @@ minutes: 180
 ## TLDR
 
 - Elevator bottom skin 95% complete
-- built a laser level jig and verfied elevator striaigtness
+- built a laser level jig and verified elevator straitness
 - Trim motor nutplate installed
 
 ## Elevator bottom
@@ -18,7 +18,7 @@ Yesterday I used a rivet to test each hole on the bottom side of the skin. Only 
 
 Then I put the clecos back and pushed each quadrant of the skin to check ripple. There was no oil canning at all. Super!
 
-I then started to rivet on the bottom skin on both left/right sides. I followed the same squence as when I did the clecoing - main spar first, then trailing edge, then in the middle. It was a tediuous process, but went smoothly.
+I then started to rivet on the bottom skin on both left/right sides. I followed the same sequence as when I did the clecoing - main spar first, then trailing edge, then in the middle. It was a tedious process, but went smoothly.
 
 On the right side, a few rivet could not be installed yet because the surface is so thin that the rivets were too long. I marked them on the skin using a marker, and will need to shorten a few rivets to fully finish the bottom side.
 
@@ -32,14 +32,14 @@ Even though 99% of the holes lined up during riveting, I still want to measure t
 
 The table placing the elevator is not 100% level, so I needed to put my laser in manual mode. However my laser level is weird - when put it manual mode, the lines it shoots is about 10 degrees rotated. So I need a way to line up the laser line and horizontal axis of the elevator. I tried to manually hold the laser first. With patience, I was able to get an OK measurement. But obviously this isn't scalable, I don't want to do this to every part I am going to build next.
 
-I decided to build a simple jig: I first used 2 flat wood board to build a T shape as stand. Then screwed a third piece of wood onto the T stand near the center. This will be the platform to put the laser. I only used a single screw intentionally so the platform can rotate. The whole thing took about 5 minutes and the finak effect is pretty successful. I was able to measure the straightness much more easily.
+I decided to build a simple jig: I first used 2 flat wood board to build a T shape as stand. Then screwed a third piece of wood onto the T stand near the center. This will be the platform to put the laser. I only used a single screw intentionally so the platform can rotate. The whole thing took about 5 minutes and the final effect is pretty successful. I was able to measure the straightness much more easily.
 
 ![level](/assets/img/20240222/laser_level_jig.jpg)
 ![level](/assets/img/20240222/laser_level.jpg)
 
 ## Trim motor hardware
 
-I also workwd on the trim motor (just to hardware part, no wiring).
+I also worked on the trim motor (just to hardware part, no wiring).
 
 The main work here is to install 4 nutplates to the trim motor so it can be screwed onto the elevator. Not all holes are pre-drilled so some holes had to be manufactured.
 

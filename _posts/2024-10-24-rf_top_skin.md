@@ -13,7 +13,7 @@ minutes: 150
 
 # Details
 
-Per normal practise, I deburred, scoffed and cleaned the top skin for the rear fuselage.
+Per normal practice, I deburred, scoffed and cleaned the top skin for the rear fuselage.
 
 I sent an email to MPB to see if I need to wait until panel wiring is in place. Steve from MPB said it's fine to install top skin now as long as the coaxial cable is installed.
 

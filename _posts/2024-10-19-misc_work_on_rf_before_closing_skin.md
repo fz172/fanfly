@@ -12,8 +12,8 @@ minutes: 150
 - Connected tube for the static ports
 - Ran wire for com1 antenna
 - Installed luggage floor
-- Partially assmbled parachute box
-- Installed longeron 111 and anneta doublers
+- Partially assembled parachute box
+- Installed longeron 111 and antenna doublers
 
 # Details
 

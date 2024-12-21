@@ -41,7 +41,7 @@ Once I figured out which conductor goes where, I inserted them to the connector 
 
 This is where I discovered my miss when crimping. I made 2 mistakes:
 
-1. The copper was too long when I striped the cable jacket. It actually interfereed the locking mechanism from the connector housing. One of the the cables would not lock. I had to wiggle it and push it really hard and it eventually locked. I rewatched a bunch of videos on Youtube, the lesson is I only need about 5mm copper when crimping it to the pin. Longer is not better.
+1. The copper was too long when I striped the cable jacket. It actually interfered the locking mechanism from the connector housing. One of the the cables would not lock. I had to wiggle it and push it really hard and it eventually locked. I re-watched a bunch of videos on Youtube, the lesson is I only need about 5mm copper when crimping it to the pin. Longer is not better.
 2. The crimping on the cable grommet was not perfect circle. This caused issue when inserting it to the connector housing. The fix was simple, I reshaped them using a hand crimper. But I immediately went to Amazon and bought a crimper designed for GT150. So hopefully next time the crimping will be done better.
 
 ### Testing

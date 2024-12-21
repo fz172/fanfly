@@ -31,7 +31,7 @@ Then I moved onto priming a few smaller parts, namely: the tiny doublers that ne
 ![parts](/assets/img/20240217/before_prime.jpg)
 ![parts](/assets/img/20240217/after_prime.jpg)
 
-I only primed one side of the round piece, which is the inpsection hatch cover under the elevator.
+I only primed one side of the round piece, which is the inspection hatch cover under the elevator.
 
 On the unprimed side, I followed the Sling instruction to put on a layer of vinyl. I probably don't need the prime on either side actually, because I assume the primer will be replaced by something else before painting the airplane. But it doesn't hurt to keep the prime on for now to get some protection.
 

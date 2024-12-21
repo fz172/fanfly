@@ -19,7 +19,7 @@ The new piano hinge lines up with the trim skin much better than the previous on
 
 On the top side of the skin, the standard length 3.2mm rivets did not fit, so I used the shortened ones that I previously modified.
 
-Then I clecoed the trim to elelvator to test striaghtness, did not see any problems there. After the test, I riveted the trim onto the elevator assembly.
+Then I clecoed the trim to elevator to test straightness, did not see any problems there. After the test, I riveted the trim onto the elevator assembly.
 ![trim](/assets/img/20240301/trim.jpg)
 
 ## Video

@@ -25,7 +25,7 @@ After the skin prep, I started to cleco the skin to the spar. I started with the
 
 I left the trim mounting channel (EL-CHL-004-X-E-0) only clecoed for now because it only has 1 rivet hole on each end, and it's really easy to introduce a twist if riveted too early. I wanted to rivet it after checking twist/straightness.
 
-So after the both sides skins are clecoed, I measured the striaightness using the laser level.
+So after the both sides skins are clecoed, I measured the straightness using the laser level.
 
 ![level](/assets/img/20240218/level.jpg)
 

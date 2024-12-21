@@ -43,9 +43,9 @@ _bowing up on one end_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM5ktITOoKc_ibJ8yvxbiRcj_DMHTG0hq8YPHMPweneAHqH39-Hbjb_pd39FDDPr70D_-9rSNBEMHmOYtGLY00Jm-u4_gCDyGtjg1IR_twBqfVh0G17y_xZItUFIr0b0suLCSmWddIumo3WewFu79iqRw=w3850-h2888-s-no-gm?authuser=3)
 _Bowing down on the other end_
 
-I sent a questiont to Sling, and they asked me if I clecoed the aileron vetically or if I clecoed them from both sides. I did not do either. In fact I do know if any one clecoed the aileron vertically. But it' easy to try clecoing from both sides together. So I removed clecos from the outermost ribs, and put clecos back one at a time.
+I sent a question to Sling, and they asked me if I clecoed the aileron vertically or if I clecoed them from both sides. I did not do either. In fact I do know if any one clecoed the aileron vertically. But it' easy to try clecoing from both sides together. So I removed clecos from the outermost ribs, and put clecos back one at a time.
 
-When putting clecos back, I started at the trailling edge. As soon as I add a cleco, the bowing came back. So I decided to match drill and took off about 0.1- 0.2mm from the pre-punched hole, then tried again. The bowing situation became much better. It's still there but almost not noticible.
+When putting clecos back, I started at the trailing edge. As soon as I add a cleco, the bowing came back. So I decided to match drill and took off about 0.1- 0.2mm from the pre-punched hole, then tried again. The bowing situation became much better. It's still there but almost not noticeable.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM2yp5ZSfFT_f120ZynjQGcSBf8O1YvNN9JfC6d8h2e5QyxmzCJT4qkQbpamjgBSmvZOP7LgFJE6qfkIk4lNNN_CPEIERtxCz3M-GtGntWpc_m-867c1fpAs3Vb2HI1xQLEpYuSuTKb9d-2v5U6ad8XqQ=w2736-h2052-s-no-gm?authuser=3)
 _For extra caution, I measured the aileron trailing edge using a laser and they are on a straight line_
@@ -97,7 +97,7 @@ Here is a completed view. Similar to aileron, I will leave the leading edge line
 
 This is the most frustrating part for this week.
 
-I really thought it will be a 15 minute job to simply mock up and check the holes line up. But in practice NONE of the holes on the pixue glass lined up to the aluminum outboard leading edge. Just bending the enforcement strip and figuring out the instruction to enlarge the plastic glass holes took at lesat 1 hour. Then I spent probably another hour trying to line up all holes, but with no success.
+I really thought it will be a 15 minute job to simply mock up and check the holes line up. But in practice NONE of the holes on the pixie glass lined up to the aluminum outboard leading edge. Just bending the enforcement strip and figuring out the instruction to enlarge the plastic glass holes took at least 1 hour. Then I spent probably another hour trying to line up all holes, but with no success.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN1UQJgqVaQBQE23Z4izl93H2UEwsjmBkI1Iy6_SEXlUi-YQzih_zk7WEicqB585AVz-VYatvdAk7y4sEvq_B_KAdW7SNZj3ENq_MWmGaoDeV_lMy95NEknjaLTkLtXvB8f098iJCN2UW7kTO4UAzMCJg=w2166-h2888-s-no-gm?authuser=3)
 _Trying to align the glass without enforcement plate first_

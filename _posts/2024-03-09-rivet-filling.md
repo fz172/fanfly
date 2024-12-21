@@ -44,4 +44,4 @@ Amy and I did this on the back side, then she lost interest so I did the other s
 
 I decided to give trim motor a try even though the instruction recommended to wait until the airplane is painted.
 
-To install the trim motor to the elevator, I needed to first connect a push rod to the motor using a clevis pin and a cotter pin. And of course I broke the cotter pin when trying to bend it. I over bent the cotter pin and it immdiately showed a crack at the bend. So I removed it using a flash cutter and ordered some replacement on Aircraft Spruce. I will try again when I receive the replacement I guess.
+To install the trim motor to the elevator, I needed to first connect a push rod to the motor using a clevis pin and a cotter pin. And of course I broke the cotter pin when trying to bend it. I over bent the cotter pin and it immediately showed a crack at the bend. So I removed it using a flash cutter and ordered some replacement on Aircraft Spruce. I will try again when I receive the replacement I guess.

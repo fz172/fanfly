@@ -28,7 +28,7 @@ because my biggest issue up to this points was that I didn't know what is "accep
 to what a reasonable part looks like.
 
 We also looked at the parts, tested a few dimpled rivets and they looked good. We also examined the straightness of the horizontal stabilizer
-which looked good. Theoretically I am good to start riveting, but I still need to ream every hole as Bob recommeneded. After reaming I will
+which looked good. Theoretically I am good to start riveting, but I still need to ream every hole as Bob recommended. After reaming I will
 take the skin off to clean up the dust (see first section) then put it back. So I will do these first before riveting.
 
 We also talked about a slight twist on elevator main spar. The spar is very soft and can be twisted by hand. So we are not too worried. Once
@@ -70,7 +70,7 @@ point.
 
 ### Priming or no?
 
-The more likely to meet water, the more "yes prime". In california hangers, not so mcuh.
+The more likely to meet water, the more "yes prime". In california hangers, not so much.
 
 ## Wire standoff
 

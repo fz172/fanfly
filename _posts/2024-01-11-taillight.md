@@ -14,7 +14,7 @@ the tail light, and the rudder is officially complete.
 
 ![light](/assets/img/20240111/tail_light.jpg)
 
-I've done soldering at Arudino level before, but this is the first time I use crimper to connect wires. I
+I've done soldering at Arduino level before, but this is the first time I use crimper to connect wires. I
 wanted to make sure I absolutely do everything in the right way, so this is a bit of learning process
 for me.
 
@@ -52,7 +52,7 @@ I am not sure if there is a standard color code mapping, and I couldn't find any
 
 ## Things that could have gone better
 
-I installed the rudder tip and the wire that came with Sling before I installed the light. It was not esay to work
+I installed the rudder tip and the wire that came with Sling before I installed the light. It was not easy to work
 the wires when half of it is already in the rudder. I had to be really careful to not pull it out.
 
 If I had to do it again, I would have waited to install rudder tip until the light is installed. It would have provided

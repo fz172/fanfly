@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vertical stabilizer complete"
-categories: [Empennage, ~vertical_stablizer]
+categories: [Empennage, ~vertical_stabilizer]
 tags: [empennage, VS-ASS-001-C-F-0-A-6, video]
 minutes: 90
 ---
@@ -49,6 +49,6 @@ I used step drill-bit to create 4 6mm holes, 2 on each side. Then squeezed M4 ri
 
 ### Test fit with rudder
 
-With the completed VS and Rudder, I temporarily connected them usnig 4 M4 bolts to test movement and bind. They came together very easily, and I did not notice any issue with movement. I did not hear or feel any binding either. I am extremely happy about the result.
+With the completed VS and Rudder, I temporarily connected them using 4 M4 bolts to test movement and bind. They came together very easily, and I did not notice any issue with movement. I did not hear or feel any binding either. I am extremely happy about the result.
 
 ![test_rudder](/assets/img/20240214/test_fit_rudder.jpg)

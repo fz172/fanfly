@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Countersink, more cleaning, and clecoing"
-categories: [Empennage, ~horizontal_stablizer]
+title: "Countersink, more cleaning, and clecoing"
+categories: [Empennage, ~horizontal_stabilizer]
 tags: [empennage, priming, HS-ASS-001-C-F-0]
 minutes: 120
 mermaid: true
@@ -11,11 +11,11 @@ Today I continued on `HS-ASS-001-C-F-0` sheet 2, 3 and 4.
 
 ## Modifying dimple dies
 
-When making dimples on the parts for sheet 2, many pre-drilled holes are very close to the corner of the metal, and the dimple dies did not fit. 
+When making dimples on the parts for sheet 2, many pre-drilled holes are very close to the corner of the metal, and the dimple dies did not fit.
 
 I googled around and it seems most folks would grind down their dimple die and the hand dimpling tool.
 
-Easy enough, I pulled out my bench grinder and got it grinded down slightly. 
+Easy enough, I pulled out my bench grinder and got it grinded down slightly.
 
 ![dimple_die](/assets/img/20231218/dimple_die.jpg)
 
@@ -23,15 +23,13 @@ The rest of the dimpling was pretty easy with the modified dimple die.
 
 ## First countersink
 
-Sheet 3 requires me to countersink 16 holes on `HS-ANG-001-X-E-2`. 
+Sheet 3 requires me to countersink 16 holes on `HS-ANG-001-X-E-2`.
 
 I adjusted my countersink cage on a scrap aluminum and started to drill my first countersink! I was too excited and mistakenly countersank 3 holes on the opposite side on the center angle. Derp! More on that later.
 
 ![mistake](/assets/img/20231218/countersank_opposite_side.jpg)
 
-
-
-I finished the other angle without incident. 
+I finished the other angle without incident.
 
 Given that 3 holes are incorrectly drilled, I sent Sling technical an email to see how to fix it. My plan is to fill the hole using some structural adhesive like hysol, then re-drill them on the other side.
 
@@ -39,7 +37,7 @@ Given that 3 holes are incorrectly drilled, I sent Sling technical an email to s
 
 ## More part cleaning
 
-With the set back on the countersink, I was unable to cleco the front spar channels together. So I moved on to the rear spar channel. 
+With the set back on the countersink, I was unable to cleco the front spar channels together. So I moved on to the rear spar channel.
 
 More peeling protective films, here we go.
 

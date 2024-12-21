@@ -30,7 +30,7 @@ Eventually we got the crates into the garage. And also came with was the replace
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOPkmCKOjak17qY2c4mUE00w06Cu5gXk2tOrrfBEt3JBueaprkgMG2Pji_JV9eGFeR1MAIh3od9UMbEKTJp7rFy6wep7HbluA8n7txC9Pv6m1-wFxevW-tlbbsO-_KqB2avZc7kh1KpVMuaI8gg2CJ1HA=w1936-h1936-s-no-gm?authuser=0)
 _Good bye wing crate, hello fuselage_
 
-Then I did a quick inventory. The crate came with a long printout of backordered parts. I entered the parts onto the SlingShot (an app for sling builders to track invetory). I will wait for Sling folks to get back to me on those parts. Fortunately I still have a lot ot work on the wing, so none of the parts are immediately blocking.
+Then I did a quick inventory. The crate came with a long printout of back ordered parts. I entered the parts onto the SlingShot (an app for sling builders to track inventory). I will wait for Sling folks to get back to me on those parts. Fortunately I still have a lot ot work on the wing, so none of the parts are immediately blocking.
 
 ## Prepping left aileron and flap parts
 
@@ -58,7 +58,7 @@ Pretty standard stuff, I removed plastic from all relevant parts, deburred and s
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMlVrvngyxk0_SBG8t0jQwgJfad3m7MknZ_9GPzDFzxXJhjFr3X06kcN2xTzP8qYr16y6Ix70oPzK9YDUauRQRrUP9t3N5474FUZzkoU1gOV5zXJZOnavCsGlHey8Fd2WX-MkxPGvmpNZ0yPnGNbVhyDQ=w4080-h3072-s-no-gm?authuser=0)
 _Parts removed plastic before cleaning_
 
-![imng](https://lh3.googleusercontent.com/pw/AP1GczM_K_D65HTQ-a3H7u5hV8dOTrMtb55Cz_k79qFgfG80uW_-EQW0m5pcH2wVYDF05ovU7vtfD_HtqiGWzVJnPoTBktnRTc_w4yXrSfmLCUZXGEWMTp9fS0SeynpaLrw7FB38b5usTA6LckHyHld6awhyPQ=w4080-h3072-s-no-gm?authuser=0)
+![img](https://lh3.googleusercontent.com/pw/AP1GczM_K_D65HTQ-a3H7u5hV8dOTrMtb55Cz_k79qFgfG80uW_-EQW0m5pcH2wVYDF05ovU7vtfD_HtqiGWzVJnPoTBktnRTc_w4yXrSfmLCUZXGEWMTp9fS0SeynpaLrw7FB38b5usTA6LckHyHld6awhyPQ=w4080-h3072-s-no-gm?authuser=0)
 _Found all the ribs_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMi8raSRMRBcJz17_8IFbvU5KwHwHHhZPyKCEfuZHtMW7mGr5np7aLBf97V-dL8H0VGPWW85jluhYJuexqfUWHcrqGRAd-iYxe49XfxgraMIh5mksSfReO_eLCG__UoKLzeyRD0oNY1LMUdof0GB2Kpzw=w4080-h3072-s-no-gm?authuser=0)
@@ -108,7 +108,7 @@ I decided to replace a M4 screw used to mount the pitot control box to the rib.
 
 When I originally installed the screw, I put a lot of loctite 243. Then when I adjusted the wire bundles I wanted to remove the control box to make things easier. I was able to remove 3 out of the 4 screws but the last one got striped on the head. It was still holding but I could not get it fully out.
 
-I think it will be a pain to deal with this screw if I ever need to replace it in the future, so I might as well just replcae it now before closing the top skin.
+I think it will be a pain to deal with this screw if I ever need to replace it in the future, so I might as well just replaced it now before closing the top skin.
 
 Fortunately, the screw is accessible from the back end. I used a small plier to hold the back and just slowed turned it. It backed out partially, but stuck when the back side didn't have enough material to grip on.
 

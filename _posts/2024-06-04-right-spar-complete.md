@@ -25,7 +25,7 @@ I spent a few hours to fully install all ribs to the right wing spar.
 
 It looks like a wing now!!
 
-Front riveting was pretty easy. Riveting on the back was a little challenging because I installed the rear spar channel out of order, so it caused some obscruction when I needed to rivet the ribs from the back. Each rib requries either 4 or 5 rivets on the back, and due to the placement of the rear channel, I cannot rivet the center 2 rivets for each rib from the back. So I shot the rivets from the other direction.
+Front riveting was pretty easy. Riveting on the back was a little challenging because I installed the rear spar channel out of order, so it caused some obstruction when I needed to rivet the ribs from the back. Each rib requires either 4 or 5 rivets on the back, and due to the placement of the rear channel, I cannot rivet the center 2 rivets for each rib from the back. So I shot the rivets from the other direction.
 
 ![ref](/assets/img/20240604/center_rivets.jpg)
 ![ref](/assets/img/20240604/side.jpg)
@@ -36,9 +36,9 @@ I think this should be fine. The critical ones are the ones at the bottom. I sho
 ![ref](/assets/img/20240604/bottom.jpg)
 ![ref](/assets/img/20240604/bottom_2.jpg)
 
-To be safe, I think I will change up the ordering for the right wing. I will do bottom skin as planned. Then I think I will swtich to aleron and flap, then top skin. This way I will get a better idea of rivet interference.
+To be safe, I think I will change up the ordering for the right wing. I will do bottom skin as planned. Then I think I will switch to aileron and flap, then top skin. This way I will get a better idea of rivet interference.
 
-## Misc invetory
+## Misc inventory
 
 Speaking of flap, I noticed I am missing 2 hinges required to build the flaps. I made an request in the Sling builder app and they are on their way. I should hopefully get them within a few days. So overall progress is not slowed down at all. I will be busy with bottom skin for sure next week.
 
@@ -46,7 +46,7 @@ Speaking of flap, I noticed I am missing 2 hinges required to build the flaps. I
 
 I decided to take a short break before tackling the bottom skin (flipping the wing skeleton feels daunting as it's super heavy and suuuuper twisty).
 
-So I jumpped ahead and found a simple task to work on: inspection hatch.
+So I jumped ahead and found a simple task to work on: inspection hatch.
 
 It's a pretty straightforward process: picked out the parts, cleaned, deburred, applied protective filming, dimpled, and riveted them together with 3.2mm countersink rivets.
 

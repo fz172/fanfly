@@ -44,4 +44,4 @@ I started to dimple the top skin, but peeling off the plastic just drained all m
 
 When riveting rear channel a few days ago I had to rivet 2 top rows from the opposite direction.
 
-I don't think they will create a clearance problem to the aleron or flaps, but I will keep an eye before riveting the top skin. If the rivets are enclosed by the skin, then I should have no problem proceeding.
+I don't think they will create a clearance problem to the aileron or flaps, but I will keep an eye before riveting the top skin. If the rivets are enclosed by the skin, then I should have no problem proceeding.

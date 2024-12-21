@@ -46,11 +46,11 @@ _Dimpled_
 
 From watching Evan's video, I know I needed to fit the skin from the bottom, then roll it to the top. Boy that was definitely easier said than done.
 
-The skin is pretty thick, and the fit is incredibly precise, so on my first try all the holes on the top were like half a hole off. Obviously not accetable.
+The skin is pretty thick, and the fit is incredibly precise, so on my first try all the holes on the top were like half a hole off. Obviously not acceptable.
 
-So I did this again with help from my dad. While he held the skin like a human clamp, I clecoed every single hole from the bottom so the skin and ribs fitted as tightly as possible. This worked much better. When we clecoed all bottom holes, the top 4.0mm line _almost_ matches the countersink holes on the main spar but not quite. I started to cleco the "best fit" holes using the black celco, and one by one they started to fall in position.
+So I did this again with help from my dad. While he held the skin like a human clamp, I clecoed every single hole from the bottom so the skin and ribs fitted as tightly as possible. This worked much better. When we clecoed all bottom holes, the top 4.0mm line _almost_ matches the countersink holes on the main spar but not quite. I started to cleco the "best fit" holes using the black cleco, and one by one they started to fall in position.
 
-In the end, we clecoed almost all holes to make them align. I expect some match driling in this area when it's riveting time.
+In the end, we clecoed almost all holes to make them align. I expect some match drilling in this area when it's riveting time.
 
 ### Main spar countersink doubler
 

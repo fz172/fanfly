@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Fitting control rods & rear seat channel"
-categories: [Fuselage, ~control_rods, ~seats]
-tags: [controls, CF-ASS-001-C-C-0]
+categories: [Fuselage, ~side_skin]
+tags: []
 minutes: 720
 ---
 

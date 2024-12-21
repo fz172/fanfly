@@ -36,7 +36,7 @@ On the left side, the match between skin and tip is perfect. On the right side, 
 
 ### Dimple and countersink
 
-Next I dimpled the skin, which was pretty straighforward. The DRDT is already calibrated so I just pressed away.
+Next I dimpled the skin, which was pretty straightforward. The DRDT is already calibrated so I just pressed away.
 ![wip](/assets/img/20240228/dimple.jpg)
 
 The most unpleasant part of the task is countersinking. The composite is pretty soft and it has a notch above the holes to countersink. These things made it impossible to lay the countershink microstop flat on the surface.
@@ -62,7 +62,7 @@ I tried to install the center counterweight but wasn't able to finish today.
 
 When installing the four AN3 bolts, I didn't have the right tools to hold the bolts in place to properly torque them down. I ordered crowfoot on Amazon and hopefully they will be able to do the job.
 
-I also noticed the doubler plate's rivet hole on the back of counterweight does not line up with the rib on elevator. It's misaligned just by a hair, I will probably ream them to aligh, and maybe add some hysol to provide the extra strength.
+I also noticed the doubler plate's rivet hole on the back of counterweight does not line up with the rib on elevator. It's misaligned just by a hair, I will probably ream them to align, and maybe add some hysol to provide the extra strength.
 
 Although as I am reading the Sling TSI [Notification 0009](https://slingaircraft.com/technical-documents/notifications/#sling-tsi), the counterweight is no longer needed. So I am not sure I want to install the counterweight assembly at all.
 

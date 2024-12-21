@@ -16,7 +16,7 @@ minutes: 210
 
 ## Leak test
 
-After waiting for 1 week since I sealted back channel, I started pressure testing to check for leaks.
+After waiting for 1 week since I sealed back channel, I started pressure testing to check for leaks.
 
 I pumped the tank to 1.0 PSI air at 3pm on Saturday. I know the pressure will go up a little as the day gets hottest by 4pm.
 

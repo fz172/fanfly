@@ -8,7 +8,7 @@ minutes: 10
 
 ## Task completed
 
-- Test fitted a few different sizeheat shrink
+- Test fitted a few different size heat shrink
 
 ## Details
 
@@ -18,7 +18,7 @@ Learning: label printer's label does not work. They won't stick for long.
 
 ![ref](/assets/img/20240510/loose_cabel.jpg)
 
-I measured the diameter of my wires, and came up with a game plan. I think I will get some 1/16 and 3/32 clear heat shrink to wrap around my labels. Hopefully the 2 different size heat shrink will fit 18awg and 22awg wires fine. Then the heat shrink will keep the lables in place.
+I measured the diameter of my wires, and came up with a game plan. I think I will get some 1/16 and 3/32 clear heat shrink to wrap around my labels. Hopefully the 2 different size heat shrink will fit 18awg and 22awg wires fine. Then the heat shrink will keep the labels in place.
 
 I also test fitted putting a wire protector around the cable, and use a 1/4 heat shrink to hold the protector. That worked out perfectly.
 

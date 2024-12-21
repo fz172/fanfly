@@ -24,7 +24,7 @@ I needed to feed the hardness wire through the 2 little holes from the wing root
 
 Each rib slightly blocks the wire, and I didn't want to pull too hard and accidentally break any wire. So the entire process was pretty slow.
 
-After the wire is through, the OAT wires that was supposed to near the insepection hatch was too far from it, so I tug it closer. But it made the wire left at the root very small. After considering my options, I decided to keep the wing root wire longer and the pulled OAT wire further away from the inpsection hatch. My thought process is that I can make some extension wire for the OAT if needed. But making extension for the wire at the wing root would be a lot harder.
+After the wire is through, the OAT wires that was supposed to near the inspection hatch was too far from it, so I tug it closer. But it made the wire left at the root very small. After considering my options, I decided to keep the wing root wire longer and the pulled OAT wire further away from the inspection hatch. My thought process is that I can make some extension wire for the OAT if needed. But making extension for the wire at the wing root would be a lot harder.
 
 ### Tie down and edge protector
 
@@ -68,5 +68,5 @@ For the male end, I'm really not very fast at building electrical stuff. Connect
 - Crimp the wire to GT 150 pins
 - Asemble the GT150 connector
 
-Then, I connected the male/female connectors, and used a multi-meter to test the continuity between the pigtail end and the wing root connector. Everythihng worked!! Time to package it up and store safely for the OAT probe in the near future!!
+Then, I connected the male/female connectors, and used a multi-meter to test the continuity between the pigtail end and the wing root connector. Everything worked!! Time to package it up and store safely for the OAT probe in the near future!!
 ![wire](https://lh3.googleusercontent.com/pw/AP1GczNUIdU9iYvhsNFU3Y94xljXr9QOOLBhkkZ1terRDm8f_cnLJYyma39Mydhqjabd_emLwSgLSwePMIJw0ARUuCOQ7HrtEw7G6OEt41czmSRdHJjaAFj6da05jNpoAGLlThLEWDamPHNEMc_SESHuJ46_eA=w2320-h3092-s-no-gm?authuser=0)

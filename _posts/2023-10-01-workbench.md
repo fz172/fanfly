@@ -11,7 +11,7 @@ mermaid: true
 
 This weekend I spent the full 2 days to build a pair of EAA 1000 Workbench.
 
-I started to buy material a few weeks ago from homedepot. Following the
+I started to buy material a few weeks ago from Home Depot. Following the
 [online instruction](https://www.communitygroundworks.org/sites/default/files/workbench_plans_SA1.pdf),
 they wants 2 pieces of 4x8 MDF boards. My mini-van is simply not big enough, so I opted to use 4 pieces
 2x4 MDFs and it worked out fine.

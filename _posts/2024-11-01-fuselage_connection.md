@@ -8,7 +8,7 @@ minutes: 240
 
 # TLDR
 
-- Some prepwork and clecoed rear fuselage and center fuselage floor
+- Some prep work and clecoed rear fuselage and center fuselage floor
 
 # Details
 
@@ -30,20 +30,20 @@ Then I removed the floor to flip the spar 90 degrees.
 
 When test fitting the control stop, had a problem with aligning the holes between the skin and control stop.
 
-The holes from control stop is predrilled to 4mm, and the skin holes are predrilled to 3.2mm. I will have to matchdrill them to 4mm.
+The holes from control stop is predrilled to 4mm, and the skin holes are pre-drilled to 3.2mm. I will have to match drill them to 4mm.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPdylx7FLobpMyXvOVwPzJUIp9mSJrc90jcXFfs3KNW9dVBk4c7RfOWD--KDxCi1nr66h6dOwE0I1DtSHqRVzlIyF7ulisOjjlB3GaM3Pu6JdEk67_UHx42WsiwoZDh1xzsh92X7y5PY04fdqdA6CCvpg=w2274-h1712-s-no-gm?authuser=3)
 
 ## Flap acuator support
 
-Installed the flap acuator support on the center fuselage floor. I guess it's not necessary to do it now, but it provides some rigidity to the floor.
+Installed the flap actuator support on the center fuselage floor. I guess it's not necessary to do it now, but it provides some rigidity to the floor.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM7nQ5ODEMR8mABP2RkEYwrpOAj9s9cEHD0D_AdVN9MrwVK1nJWjDJlht3rhfFJkD37M3AiCyrlxgM-62KPGHJSmx2QmZZr4K2PQKn8d21ugJrqwTz2nSySoR26YrK9-fhQn7DhkCYZ-9dmeAVfr9potg=w3836-h2888-s-no-gm?authuser=3)
-_flap acuator support_
+_flap actuator support_
 
 ## Redoing 2 ribs
 
-In previous step, I accidentally swapped rib 901-L and 902-L. That's the center two ribs connecting the rear and center fulsage.
+In previous step, I accidentally swapped rib 901-L and 902-L. That's the center two ribs connecting the rear and center fuselage.
 
 So I had to unrivet these 2 ribs and swap them. This took me a good 1 hour to complete. After which I cleaned up the fuselage and reinstalled them the correct way.
 
