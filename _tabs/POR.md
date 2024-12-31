@@ -25,7 +25,7 @@ This page serves as the POR for all the mods and aftermarket parts.
 |                     |                    | Top coat - Stewart System EkoCrylic                |
 | Fuselage            | Static port        | Vans static port                                   |
 | Undercarriage       | Brake              | Matco dual piston upgrade                          |
-|                     |                    |                                                    |
+|                     | Grease             | Fuchs Renolit M2 EP Grease                         |
 |                     |                    |                                                    |
 |                     |                    |                                                    |
 |                     |                    |                                                    |

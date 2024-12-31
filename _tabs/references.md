@@ -50,18 +50,20 @@ Reference: KAI introduction chapter
 
 [Reference](https://www.latten.net/sling2/torque-values/)
 
-| Description                                      | Unit     | AN3   | AN4    | AN5     | AN6     |
-| ------------------------------------------------ | -------- | ----- | ------ | ------- | ------- |
-| USA size                                         | inch     | 3/16  | 1/4    | 5/16    | 3/8     |
-| EU size                                          | mm       | 4.80  | 6.35   | 7.94    | 9.53    |
-| Thread size                                      |          | 10-32 | 1/4-28 | 5/16-24 | 3/8-24  |
-| Wrench size                                      | inch     | 3/8   | 7/16   | 1/2     | 9/16    |
-| AC 43.13 torque range AN365 fine thread          | inch/lbs | 20-25 | 50-70  | 100-140 | 160-190 |
-| TAF maintenance manual (including friction drag) | inch/lbs | 18-24 | 51-70  | 99-139  | 159-189 |
-| Measured friction drag torque                    | inch/lbs | 5     | 7      | 12      |         |
-| Total torque                                     | inch/lbs | 29    | 76     | 150     |         |
+### AN nuts
+
+| Designation | USA Size (in) | EU Size (mm) | Total torque (in.lb) | Thread Size | Wrench size (in) | AC 43.13 torque range | TAF maintenance manual | Measured friction drag torque |
+| ----------- | ------------- | ------------ | -------------------- | ----------- | ---------------- | --------------------- | ---------------------- | ----------------------------- |
+| AN3         | 3/16          | 4.8          | 29                   | 10-32       | 3/8              | 20-25                 | 18-24                  | 5                             |
+| AN4         | 1/4           | 6.35         | 76                   | 1/4-28      | 7/16             | 50-70                 | 51-80                  | 7                             |
+| AN5         | 5/16          | 7.94         | 150                  | 5/16-24     | 1/2              | 100-140               | 12                     | 12                            |
+| AN6         | 3/8           | 9.53         | 159-189              | 3/8-24      | 9/16             | 160-190               | 159-189                |                               |
 
 - AC 43.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
+
+### Metrics nuts
+
+https://www.fastenermart.com/files/metric_tighten_torques.pdf
 
 ## FAA material
 
