@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rear fuselage: covering the remaining top skin"
-categories: [Fuselage, ~rf_top_skin]
+categories: [Fuselage, ~rf_skin]
 tags: [RF-ASS-001-C-C-0-B-A-1]
 minutes: 45
 ---
