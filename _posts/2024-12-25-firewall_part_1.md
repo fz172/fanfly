@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Firewall mounting part 1"
-categories: [Fuselage, ~firewall]
+categories: [Firewall, ~mounting]
 tags: [CF-ASS-001-C-C-0]
 minutes: 360
 ---
