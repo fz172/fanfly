@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Throttle quadrant"
-categories: [Fuselage, ~throttle_quadrant]
+categories: [Fuselage, ~center_fuselage, ~throttle_quadrant]
 tags: [controls, CT-ATQ-511-X-X]
 minutes: 260
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Adding rudder pedels"
-categories: [Fuselage, ~rudder]
+title: "Adding rudder pedals"
+categories: [Fuselage, ~center_fuselage, ~rudder]
 tags: [CT-ASS-002-C-A-0]
 minutes: 150
 ---

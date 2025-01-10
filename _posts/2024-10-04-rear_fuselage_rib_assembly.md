@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rear fuselage rib assembly"
-categories: [Fuselage, ~rf_ribs, ~rf_longerons]
+categories: [Fuselage, ~rear_fuselage, ~rf_ribs, ~rf_longerons]
 tags: [RF-ASS-S04-C-C, RF-ASS-001-C-C-0-A-A-1]
 minutes: 300
 ---
