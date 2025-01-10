@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rear fuselage: a problem with luggage floor skin"
-categories: [Fuselage, ~rf_floor, ~rf_luggage]
+categories: [Fuselage, ~rear_fuselage, ~rf_floor, ~rf_luggage]
 tags: [RF-ASS-001-C-C-0-B-A-1]
 minutes: 90
 ---

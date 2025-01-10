@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fitting control rods & prepping side skin"
-categories: [Fuselage, ~control_rods]
+categories: [Fuselage, ~center_fuselage, ~control_rods]
 tags: [controls, video]
 minutes: 1500
 ---

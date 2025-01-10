@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting center fuselage: rear spar and main spar"
-categories: [Fuselage, ~cf_spars]
+categories: [Fuselage, ~center_fuselage, ~cf_spars]
 tags: [CF-ARS-001-C-C-0, CF-ASS-001-C-C-0]
 minutes: 180
 ---

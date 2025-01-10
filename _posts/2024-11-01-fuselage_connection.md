@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Center fuselage connection prep"
-categories: [Fuselage, ~cf_spars, ~cf_floor]
+categories: [Fuselage, ~center_fuselage, ~cf_spars, ~cf_floor]
 tags: [CF-ASS-001-C-C-0]
 minutes: 240
 ---
