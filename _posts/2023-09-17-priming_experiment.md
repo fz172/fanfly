@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Priming experiment"
-categories: [Workshop, ~painting]
+categories: [Workshop]
 tags: [painting, priming]
 minutes: 120
 mermaid: true
