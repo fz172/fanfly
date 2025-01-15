@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NACA Duct & Static port"
+title: "Side skin misc: sound proofing and air channel sealing"
 categories: [Fuselage, ~side_skin]
 tags: [CF-ASS-001-C-C-0, air_vents]
 minutes: 120
