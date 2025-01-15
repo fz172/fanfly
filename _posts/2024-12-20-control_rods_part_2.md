@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fitting control rods & rear seat channel"
-categories: [Fuselage, ~center_fuselage, ~control_rods]
+categories: [Fuselage, ~center_fuselage]
 tags: [controls]
 minutes: 720
 ---
