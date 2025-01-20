@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canopy part 2: fitting and drilling"
-categories: [Canopy]
+categories: [Fuselage, ~canopy]
 tags: [CA-ASS-101-C-F]
 minutes: 600
 ---
