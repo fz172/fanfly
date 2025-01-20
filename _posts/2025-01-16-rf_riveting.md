@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rear fulselage: pullin rivets"
+title: "Rear fuselage: pulling rivets"
 categories: [Fuselage, ~rear_fuselage, ~rf_skin]
 tags: [RF-ASS-001-C-C-0-B-A-1]
 minutes: 200
