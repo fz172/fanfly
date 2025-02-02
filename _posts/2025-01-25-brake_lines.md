@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bolted the rear parachute_cable"
-categories: [Fuselage, ~brake]
+title: "Started to work on brake lines"
+categories: [Undercarriage, ~brake]
 tags: [brake, throttle_quadrant]
 minutes: 180
 ---

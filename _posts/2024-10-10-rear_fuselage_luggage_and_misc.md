@@ -1,8 +1,16 @@
 ---
 layout: post
 title: "Rear fuselage: luggage area, static port, GMU 11"
-categories: [Fuselage, ~rear_fuselage, ~rf_luggage, ~rf_floor]
-tags: [avionics, RF-ASS-001-C-C, RF-ASS-001-C-C-0-B-A-1, static_port, gmu11]
+categories: [Fuselage, ~rear_fuselage, ~rf_floor]
+tags:
+  [
+    avionics,
+    RF-ASS-001-C-C,
+    RF-ASS-001-C-C-0-B-A-1,
+    static_port,
+    gmu11,
+    luggage
+  ]
 minutes: 240
 ---
 

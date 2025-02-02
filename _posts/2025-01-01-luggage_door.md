@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rear fuselage: luggage door and seat stop brackets"
-categories: [Fuselage, ~rear_fuselage, ~rf_luggage]
-tags: [RF-ASS-001-C-C-0-D]
+categories: [Fuselage, ~rear_fuselage]
+tags: [RF-ASS-001-C-C-0-D, luggage]
 minutes: 90
 ---
 
