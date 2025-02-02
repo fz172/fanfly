@@ -41,6 +41,8 @@ The rest is pretty similar to what Evan talked about on his video - I used a rul
 
 I took a bunch of pictures so I remember how to put it back.
 
+### Bolting on the fuselage
+
 Finally I bolted the 3 points onto the fuselage and canopy. The bolts are torqued to 20 NM per spec.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFRSBIOpr0vOhWtFLwHNXmnmugwuk-xOHSFlD_kNKJCt_78_r7JazpmVnWGj_cUgsijRozxJNSUnGi5qOx3TFkiKpoBC4eJMFWWjbqAEt7aPbetUombL_N0vcY1d7AxMu2Hy726wslrCJlEySJJfm95g=w2174-h2888-s-no-gm?authuser=0)
