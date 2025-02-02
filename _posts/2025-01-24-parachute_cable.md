@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bolted the rear parachute_cable"
+title: "Bolted the rear parachute cable"
 categories: [Fuselage, ~rear_fuselage]
 tags: [parachute]
 minutes: 240
