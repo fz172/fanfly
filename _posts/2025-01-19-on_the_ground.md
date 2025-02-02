@@ -2,7 +2,7 @@
 layout: post
 title: "She's on the ground!"
 categories: [Workshop]
-tags: [moving]
+tags: [moving, video]
 minutes: 25
 ---
 
@@ -29,3 +29,7 @@ And once it's on the ground, I happily removed the temp stiffeners that was supp
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOpGjce2Bt-WCFkdLGZ8-LHs7cqbt_MqrI1yejf314hGWRaPQHgURzzeVquHa0dPqRtUXfJ9hPq1TxC-2MT9jsn8vtgFb8Ar6KHnO7wt0qDRy3686jAxqsX8NXaPyRn50dTA7GzvesxTXu0aX90l_siZw=w2274-h1712-s-no-gm?authuser=3)
 
 Now I will have some space to work on the internals.
+
+## Video
+
+{% youtube W9bkeQqL4dc %}
