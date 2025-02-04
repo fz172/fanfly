@@ -2,7 +2,7 @@
 layout: post
 title: "Seat belts"
 categories: [Fuselage, ~center_fuselage]
-tags: [seat_belt]
+tags: [seat_belt, SB26, service_bulletin]
 minutes: 480
 ---
 
@@ -46,3 +46,9 @@ I took a bunch of pictures so I remember how to put it back.
 Finally I bolted the 3 points onto the fuselage and canopy. The bolts are torqued to 20 NM per spec.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFRSBIOpr0vOhWtFLwHNXmnmugwuk-xOHSFlD_kNKJCt_78_r7JazpmVnWGj_cUgsijRozxJNSUnGi5qOx3TFkiKpoBC4eJMFWWjbqAEt7aPbetUombL_N0vcY1d7AxMu2Hy726wslrCJlEySJJfm95g=w2174-h2888-s-no-gm?authuser=0)
+
+### Service Bulletin 26
+
+And as part of the installation, I followed instructions on SB-26 to make sure the bolts on the canopy are done correctly.
+
+Ref: https://slingaircraft.com/download/1088/sling-4-tsi/11442/service-bulletin-0026-14062024-sling-tsi-seat-belt-fixtures.pdf
