@@ -2,7 +2,7 @@
 layout: post
 title: "Fitting control rods & rear seat channel"
 categories: [Fuselage, ~center_fuselage]
-tags: [controls, joystick]
+tags: [controls, joystick, rudder_cable]
 minutes: 720
 ---
 

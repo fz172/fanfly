@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Avionics rack support"
+title: "Rudder cable guides"
 categories: [Fuselage, ~rear_fuselage]
-tags: [rudder]
+tags: [controls, rudder_cable]
 minutes: 35
 ---
 
