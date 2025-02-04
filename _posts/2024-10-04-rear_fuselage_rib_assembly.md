@@ -2,7 +2,7 @@
 layout: post
 title: "Rear fuselage rib assembly"
 categories: [Fuselage, ~rear_fuselage, ~rf_ribs, ~rf_longerons]
-tags: [RF-ASS-S04-C-C, RF-ASS-001-C-C-0-A-A-1]
+tags: [RF-ASS-S04-C-C, RF-ASS-001-C-C-0-A-A-1, service_bulletin, SB14]
 minutes: 300
 ---
 
@@ -49,19 +49,19 @@ _Riveted ribs to the skin_
 
 ### Incorrect parts
 
-On `RF-ASS-001-C-C-0-A-A-1`, I am supposed to have 2 gussets to secure the rib 4 to the bottom longeron on both sides. The two gussets are supposed to be symetrical, but I got 2 identical parts. The right side works perfectly, but the left side doesn't fit at all.
+On `RF-ASS-001-C-C-0-A-A-1`, I am supposed to have 2 gussets to secure the rib 4 to the bottom longeron on both sides. The two gussets are supposed to be symmetrical, but I got 2 identical parts. The right side works perfectly, but the left side doesn't fit at all.
 
 So I sent an email to Sling, and they are working on locating a replacement part for me. For now, I'm not able to finish the gussets on the bottom skin. I went ahead and did the right side, and left the left side alone waiting for parts.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNmTfsanKMAzHpcnJG-vD0hd8H8vOAk3usgTvobYbUbdfNzI46ZubFVZSMpI4h0Yu3Z7ndFu6zaOyDXX6zerqW5nypDF5TQ6bKZrLlnPTPr5BWpBYVitne3f8EHHMc-ySwsNbfbRgdhZ3K62WSaDCGDWw=w3836-h2888-s-no-gm?authuser=3)
-_Identical gussets, but they are supposed to be symetrical instead_
+_Identical gussets, but they are supposed to be symmetrical instead_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOGBTynBUgCc3IKOKq1VRuC2Fg3dXfSB0bmK89Ae8UIhdD80giBqVcioDvvOlc3HMHaNTnifc2IjkH-_RlYCb9evKGD_nQdG5proHu77OhJktUdDbPon1iL2oDIwPHBvKxD5Rt9iUBYIgeFfTiYg7yyJw=w2174-h2888-s-no-gm?authuser=3)
 _Installed on the right side only_
 
 ### Steel rivets
 
-One note is that 26 rivets on both sides securing the rib and longeron need to be steel rivets instead of the common aluminum ones. So I dipped them in Tef-gel before shooting. You can see from the picture above there are some white stuff around rivets, that's the tef-gel.
+One note is that 26 rivets on both sides securing the rib and longeron need to be steel rivets instead of the common aluminum ones. This is required on SB14. So I dipped them in Tef-gel before shooting. You can see from the picture above there are some white stuff around rivets, that's the tef-gel.
 
 ### Brackets between longerons
 
