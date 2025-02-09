@@ -2,7 +2,7 @@
 layout: post
 title: "Wire standoff and EAA Tech Counseling visit"
 categories: [Workshop, ~sheet_metal]
-tags: [research, eaa_tech_counselor, avionics, wires]
+tags: [research, eaa_tech_counselor, avionics, wiring]
 minutes: 120
 mermaid: true
 ---
@@ -80,9 +80,9 @@ Here is the final product.
 
 ![final](/assets/img/20240126/final.jpg)
 
-Meterial is very simple: a zip tie and a small piece of heat shrink.
+Material is very simple: a zip tie and a small piece of heat shrink.
 
-![mateiral](/assets/img/20240126/material.jpg)
+![material](/assets/img/20240126/material.jpg)
 
 Fold the zip tie and put the heat shrink on one end.
 
@@ -104,4 +104,4 @@ The zip tie I used is made from cheap plastic material, I didn't even think abou
 to the zip tie, it started to melt almost at the same time as heatshrink.
 
 I was thinking about purchasing some better quality zip tie, but I decided to do something else next time. Instead of heat shrink, I think I will
-just use another ziptie as the wire choke next time. Then I don't need to blow hot air at all.
+just use another zip tie as the wire choke next time. Then I don't need to blow hot air at all.
