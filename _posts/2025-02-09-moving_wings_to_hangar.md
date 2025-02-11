@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving wings to hangar"
-categories: [workshop]
+categories: [Workshop]
 tags: [moving]
 minutes: 300
 ---
