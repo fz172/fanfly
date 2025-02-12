@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some riveting, and starting on carpet (luggage extension bottom floor)"
+title: "Some riveting, and starting on carpet (luggage extension)"
 categories: [Fuselage, ~rear_fuselage]
 tags: [avionics, antennas, upholstery]
 minutes: 270
