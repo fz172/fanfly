@@ -3,13 +3,13 @@ layout: post
 title: "Some riveting, and starting on carpet (luggage extension bottom floor)"
 categories: [Fuselage, ~rear_fuselage]
 tags: [avionics, antennas, upholstery]
-minutes: 150
+minutes: 270
 ---
 
 # TLDR
 
 - Finished installing antenna plates
-- Started on luggage extension carpeting
+- Completed the luggage extension carpeting
 
 # Detail
 
@@ -29,6 +29,8 @@ Someone on the builder group recommended Barge Cement for glue, so that's what I
 
 I smeared the glue both on the floor and the carpet, and used a roller thing to press the carpet down firmly. I will wait for a couple of days to see how they attach to each other. I don't excpet to see any problem though.
 
+This process went slower than I thought. As I get more familiar with how this works I am hoping to speed up.
+
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNKlWy74Da5chP2s7k5Kg9yVjp0hmvHD3jsUKSsPbK4C-NtUnPd9GiyF28LcbnCYz4vUjGXKm1cLScDU--M5NPCBkzNx063bhqa50uwvAOWNNk38_9lyg61EAC9CsLXd_3vdnLjG0B2E_PRaqFnJ_iN3g=w1468-h1949-s-no-gm?authuser=0)
 
-This process went slower than I thought. As I get more familiar with how this works I am hoping to speed up.
+![img](https://lh3.googleusercontent.com/pw/AP1GczO8soQG5KDJIxVHXD5aXJyRDHO2Cp_Up_Ed4i74CKOfNj1tCo8NyrnmgQ_SKVtkcaF-Gec-SLo1gm6MXMq0HLboIQDSoCS7lquJFezrFtObEYtnj6myrrsWC3laN7y_cCVzzDy4tkIerSOgpiUMxag0ow=w1381-h1834-s-no-gm?authuser=0)
