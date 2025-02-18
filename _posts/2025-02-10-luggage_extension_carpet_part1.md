@@ -19,15 +19,15 @@ Previously I finished installing all antenna plates except two: the top plate fo
 
 ## Carpeting
 
-My intention is to make the centerl console as complete as possible before moving everything to the airport hangar. Since I have never worked with carpeting before, I started with the luggage area. If I make any mistake there, nobody will discover :)
+My intention is to make the center console as complete as possible before moving everything to the airport hangar. Since I have never worked with carpeting before, I started with the luggage area. If I make any mistake there, nobody will discover :)
 
-The uphoystery kit did not have much instructions. The only thing I could find is a few pages on the fuselage KAI. It's like a jigsaw puzzle. I spent most of the evening guessing which piece should go where. At the end I decided to start with the luggage extension bottom floor.
+The upholstery kit did not have much instructions. The only thing I could find is a few pages on the fuselage KAI. It's like a jigsaw puzzle. I spent most of the evening guessing which piece should go where. At the end I decided to start with the luggage extension bottom floor.
 
 Someone on the builder group recommended Barge Cement for glue, so that's what I used.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOazpA0Yq_XLXvfw3bCIv_04dDaS2Ktz6KrHRFrq5-OktwQnaDP-qQnwiRUY7F_hu6D1eUfC9G1vHiiIXwGHm7-CS6qP7v7lJtOOoaMmFc3g__XqGskUf-q3fK0ssH92mSwAOLD5vBbShY-38xW1xp72Q=w1468-h1949-s-no-gm?authuser=0)
 
-I smeared the glue both on the floor and the carpet, and used a roller thing to press the carpet down firmly. I will wait for a couple of days to see how they attach to each other. I don't excpet to see any problem though.
+I smeared the glue both on the floor and the carpet, and used a roller thing to press the carpet down firmly. I will wait for a couple of days to see how they attach to each other. I don't expect to see any problem though.
 
 This process went slower than I thought. As I get more familiar with how this works I am hoping to speed up.
 
