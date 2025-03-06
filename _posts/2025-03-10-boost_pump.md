@@ -43,3 +43,5 @@ Then I installed the fittings onto the fuel pumps.
 Test fitted the fuel pump on the clam shell plate.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPZhxaWqz7tMeSh9GHQ60OUy2gHGOHdf8HVVj7kIJb3fRdNAinHDhXyaTOFbkNMnaBjsvyye-gZgH4oIeMXgoaRLyNEunKaiqF6RAwkpjvryH5UiOQWEanpphQrqQ_zEQ_8camZf2ZXLjqrYDEcMF2InA=w3836-h2888-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczPuR8IO_-DsrPOM-QYbkTFTpIYELnavqk31xY6P0IMa1Ki1eflOFXqxoqO8RHrGHSeoiyYlpJuCe0MCKX67PHZBOE89MRaM2mYUAGHpVLmYqyv71tDuNWlBE4YDNuwVTfIdcZsKBkX5UDp9e34_VS-IWQ=w3836-h2888-s-no-gm?authuser=0)
