@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leather seat! And throttle quadrant vinyl"
-categories: [Fuselage, ~seats, ~central_fuselage]
+categories: [Fuselage, ~central_fuselage, ~seats]
 tags: [upholstery, throttle_quadrant]
 minutes: 90
 ---
