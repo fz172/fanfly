@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Wiring harness (part 5): "
+title: "Wiring harness (part 5): Antennas and more wires"
 categories: [Fuselage, ~center_fuselage, ~rear_fuselage]
 tags: [avionics, wiring, antenna]
-minutes: 360
+minutes: 450
 ---
 
 # TLDR
@@ -55,3 +55,7 @@ Also worked on crimping some BNC connectors: Rack end of the comm1 and fuselage 
 I also installed the GPS on top of the luggage area. I needed to cut away a small chunk of the carpet to make the bolts through. Once the antenna is installed I will cut a new piece of carpet to patch it up.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPdgDloBBuC4hv7kO4Q17z5-h9zxa5Bd2eyfiQQ54G8s59a9oD6dGNL4hNraqiC7_W0J49hb6CZKehIOt3rtZHp10-4Jg1HgX6gQ7jhAGipbbSGq2_PcQRcOWyGY2TqzwPNl3RIdkglZOlI7Ylf6KG98A=w2232-h1674-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMYh0p9Uqb_heWmvme3ofVhuLvi6KWu8LHUYWG9z0nPlWnDc_I5s5RtJKle92LvNjk8-RBrWct4zstFdbMQPWFJfMag6CeYmQ8DnDS3tuMjgJDOCsCMGqaMSBbx9WpWHHhJAHFfbK5_-P8VBzJ7siAGAQ=w2232-h1674-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMK_3Ey0PH7AnvX7fFTWZd82cLXZa7cwk7HUtABmqfjTNl61IAhrIw1xK68amuq_DzMO8uJ7lfwWnLFzhuo9EiI2AY9jkG7Io86o3OBc05ljfy8_mr7k1y2jV55JxUh46WFvpuc-V8bMKBi6Ic8bhrjzw=w2224-h1674-s-no-gm?authuser=0)
