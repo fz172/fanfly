@@ -21,7 +21,7 @@ After measuring the wheel to wheel distance and reading other's posts, I decided
 
 However, the u-haul loading dock only has a center ramp. I need a super wide ramp so the main landing gears can roll up to the dock.
 
-I made a temporary ramp using the shipping crates for the airplane parts. I cut up the canopy crate's lip into two parallel parts and added some 2x4 under it to provide strength. I think the wing crate would have worked better because it's longer and provides a more gradual ramp. But the canopy crate lid was the longest flat wood I could found at the time.
+I made a temporary ramp using the shipping crates for the airplane parts. I cut up the canopy crate's lid into two parallel parts and added some 2x4 under it to provide strength. I think the wing crate would have worked better because it's longer and provides a more gradual ramp. But the canopy crate lid was the longest flat wood I could found at the time.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOpiE7P1JyH_SVoxW5p6UVtkzy--OJ_ZQgjnO9mLdEqCVouGg_jkRP0SWXcNcHAYQaNLud1WMNwrOmvy3eXN3IksipkBJiyLidA3b6S36J3enPoJFAkuP_5bT0aepKLppZGfCY8LT5YQat5yMgU8B1gng=w1260-h1674-s-no-gm?authuser=0)
 _The lid cut in half with a tiny person for scale comparison_
