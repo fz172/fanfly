@@ -8,7 +8,7 @@ This is some reference/lookup charts I use throughout the build.
 
 ## Squawk issues
 
-[https://n532sl.youtrack.cloud/dashboard](https://n532sl.youtrack.cloud/dashboard)
+[https://linear.app/n532sl](https://linear.app/n532sl)
 
 ## Drill size
 
