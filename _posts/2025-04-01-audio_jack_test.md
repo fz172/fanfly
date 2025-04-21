@@ -3,7 +3,7 @@ layout: post
 title: "Audio jack testing"
 categories: [Fuselage, ~rear_fuselage]
 tags: [avionics, audio_jacks, ground_loop]
-minutes: 120
+minutes: 220
 ---
 
 # TLDR
@@ -53,8 +53,20 @@ Wire to wire. This is where things get interesting. I discovered 4 pins mismatch
 
 I **_think_** HC pin 4 and 5 are swapped, and 7 and 8 are swapped.
 
-I must do more testing here to confirm.
+MPB sent me a new set of reference to match the wire color coding on the two ends of the connector. I will take apart the connectors next time I visit the hangar to triple check that I didn't mess up my testing.
+
+But if they are misconfigured, I need to use the right tool to swap them.
 
 ## GMA245 disconnected
 
-Haven't done this part yet. I will revise this section once the testing is done.
+With HC connected but GMA disconnected, the test covers end-to-end audio jack wiring up to the GMA unit itself.
+
+In this test, the passenger headset pins should go to J2401 connector pin #40 #41 #42. However my #41 #42 slot on the connector has no pin at all. Instead, the pins are inserted to #38 #39. I confirmed with MPB that these need to be moved.
+
+## Test conclusion
+
+The not-so-good news is that some wires are misconfigured.
+
+The good news is that MPB has been very helpful with the debugging process, and now I (almost) know what to do to fix the wires. Even though this is some unanticipated work, I am feeling pretty good about the progress so far.
+
+To be continued..
