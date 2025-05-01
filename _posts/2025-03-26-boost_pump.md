@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Boost Pump Upgrade"
-categories: [Wing, ~wiring]
-tags: [avionics, boost_pump]
+categories: [Wing, ~boost_pump]
+tags: [boost_pmp]
 minutes: 780
 ---
 
