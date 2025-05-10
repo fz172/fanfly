@@ -10,6 +10,25 @@ This is some reference/lookup charts I use throughout the build.
 
 [https://linear.app/n532sl](https://linear.app/n532sl)
 
+## Torque
+
+[Reference](https://www.latten.net/sling2/torque-values/)
+
+### AN nuts
+
+| Designation | USA Size (in) | EU Size (mm) | Total torque (in.lb) | Thread Size | Wrench size (in) | AC 43.13 torque range | TAF maintenance manual | Measured friction drag torque |
+| ----------- | ------------- | ------------ | -------------------- | ----------- | ---------------- | --------------------- | ---------------------- | ----------------------------- |
+| AN3         | 3/16          | 4.8          | 29                   | 10-32       | 3/8              | 20-25                 | 18-24                  | 5                             |
+| AN4         | 1/4           | 6.35         | 76                   | 1/4-28      | 7/16             | 50-70                 | 51-80                  | 7                             |
+| AN5         | 5/16          | 7.94         | 150                  | 5/16-24     | 1/2              | 100-140               | 12                     | 12                            |
+| AN6         | 3/8           | 9.53         | 159-189              | 3/8-24      | 9/16             | 160-190               | 159-189                |                               |
+
+- AC 43.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
+
+### Metrics nuts
+
+https://www.fastenermart.com/files/metric_tighten_torques.pdf
+
 ## Drill size
 
 Reference: KAI introduction chapter
@@ -46,45 +65,51 @@ Reference: KAI introduction chapter
 
 [Reference](https://slingaircraft.com/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=1068&wpfd_file_id=10722&token=&preview=1)
 
-## Torque
+## Mods
 
-[Reference](https://www.latten.net/sling2/torque-values/)
+Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
 
-### AN nuts
+|                     | Part                 | Description                                                         |
+| ------------------- | -------------------- | ------------------------------------------------------------------- |
+| Tail                | Trim servo           | Ray Allen T2-7A                                                     |
+|                     | Tail light           | Aveo minimax aero                                                   |
+|                     | Nav lights           | Aero Pulsar NSR                                                     |
+| Wing                | Pitot/AOA            | Garmin GAP 26 Heated/Regulated                                      |
+|                     | Fuel cap             | Newton Aero 200                                                     |
+|                     | Fuel sender          | VDO 10-180 ohm                                                      |
+|                     | Fuel sender gasket   | Custom made (Garlock 3000)                                          |
+|                     | Fuel Pump mod        | Aerospace Innovation Intelligent Fuel Boost System                  |
+| Fuel and oil system | Fuel Manifold        | Aerospace Innovation Naviflow                                       |
+|                     | All hoses            | Aerospace Innovation LifeLine system                                |
+|                     | NACA Duct connection | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
+| Paint               | Interior             | Primer - Rustoleum self-etching                                     |
+|                     |                      | Primer - Stewart System Ekoprime                                    |
+|                     |                      | Top coat - Stewart System EkoCrylic                                 |
+| Fuselage            | Static port          | Vans static port                                                    |
+| Undercarriage       | Brake                | Matco dual piston upgrade                                           |
+|                     | Grease               | Fuchs Renolit M2 EP Grease                                          |
+|                     | Brake lines          | FS Flightline PTEF upgrade                                          |
+| Firewall forward    | Cabin heater lines   | Aerospace Innovation                                                |
+|                     | Radiator lines       | Aerospace Innovation                                                |
+|                     |                      |                                                                     |
+|                     |                      |                                                                     |
 
-| Designation | USA Size (in) | EU Size (mm) | Total torque (in.lb) | Thread Size | Wrench size (in) | AC 43.13 torque range | TAF maintenance manual | Measured friction drag torque |
-| ----------- | ------------- | ------------ | -------------------- | ----------- | ---------------- | --------------------- | ---------------------- | ----------------------------- |
-| AN3         | 3/16          | 4.8          | 29                   | 10-32       | 3/8              | 20-25                 | 18-24                  | 5                             |
-| AN4         | 1/4           | 6.35         | 76                   | 1/4-28      | 7/16             | 50-70                 | 51-80                  | 7                             |
-| AN5         | 5/16          | 7.94         | 150                  | 5/16-24     | 1/2              | 100-140               | 12                     | 12                            |
-| AN6         | 3/8           | 9.53         | 159-189              | 3/8-24      | 9/16             | 160-190               | 159-189                |                               |
+## Service Bulletin
 
-- AC 43.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
-
-### Metrics nuts
-
-https://www.fastenermart.com/files/metric_tighten_torques.pdf
-
-## FAA material
-
-- Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair: [AC 43.13-1B](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentid/99861)
-
-- 51% Rule
-  - The offcial rule: [AC_20-27G](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-27G.pdf)
-  - Explaining the rule with example: [Aid](https://www.faa.gov/sites/faa.gov/files/aircraft/gen_av/ultralights/amateur_built/Am_Blt_Chklist_Job_Aid.pdf)
-
-## Videos
-
-- EAA [Countersink basics](https://www.eaa.org/videos/1485316077?fbclid=IwAR1YPwMkFDxtbYnQc335jub1yGCb3nyOa2ivBcp-8vOdIVFRXK4nIaruTUE)
-- EAA [Crimp connectors intro](https://www.eaa.org/videos/hints-for-homebuilders/electrical/6254047013001)
-- EAA [Electrical Wire Types and Sizes](https://www.eaa.org/videos/hints-for-homebuilders/electrical/6262901860001)
-- Midwest Panel Builder
-  - [Boost Pump system](https://www.youtube.com/watch?v=7pdvVVJbmzQ&list=PLct-i1ThgHWcq5qc3sLU2xv5L7V3TT0Ud)
-  - [Naviflow system](https://www.youtube.com/watch?v=I-f-vLgnH1s&list=PLct-i1ThgHWdk3_Ei0E8YYX24Et7rIGIk)
-
-## Stores
-
-- Wire: https://www.prowireusa.com/c-58-tefzel-sb-shielded-wire.html
-- Another Wire store: https://www.aircraftspruce.com/catalog/elpages/shieldwire.php
-- GT150 connectors: https://www.customconnectorkits.com/
-- Gaske: https://www.grainger.com/
+|       | Completion date | Reference                                                   |
+| ----- | --------------- | ----------------------------------------------------------- |
+| SB-2  | 8/25/2024       | Not affected                                                |
+| SB-14 | 10/04/2024      | [Log]({% post_url 2024-10-04-rear_fuselage_rib_assembly %}) |
+| SB-15 | 8/25/2024       | Not affected                                                |
+| SB-16 | 8/25/2024       | Not affected                                                |
+| SB-17 | 11/10/2024      | Not affected                                                |
+| SB-19 | 8/25/2024       | Not affected                                                |
+| SB-21 | 11/10/2024      | Not affected                                                |
+| SB-22 | 8/25/2024       | Not affected                                                |
+| SB-23 | 8/25/2024       | Not affected                                                |
+| SB-25 | 11/10/2024      | Not affected                                                |
+| SB-26 | 01/27/2025      | [Log]({% post_url 2025-01-27-safety_belt %})                |
+|       |                 |                                                             |
+|       |                 |                                                             |
+|       |                 |                                                             |
+|       |                 |                                                             |
