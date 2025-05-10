@@ -82,4 +82,10 @@ I opened up the d-sub connector J2401, and rearranged the wires #38 #39 #40 to #
 
 ### Audio jacks
 
-MPB folks sent me a set of new audio jacks with a pigtail. So I cut off the old jacks and used crimp connector to reconnect the new jacks. The wire color on the new jacks are soldered to match with the harness wire color. This will be helpful in the future if I ever need to open up the harness to debug anything else.
+I cut the wires on both the left jacks and used crimp connector to reconnect them the correct way
+* Mic: swap the two wires
+* Headset: swap the ring and top wires
+
+Then I put the jacks back to the rib and permanently secured them to the airplane.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczO1bldFmHS2fMB8qtZzwwV-yp0lxgdEAwwY7IJY5DDuY_2BBvJndWl4BMIsfNxOxyfoPL5V3-CELN-mEZ_b3_rGiW5dAvUfA8I-xRvUk4iLekPlZ01pPbmnSkfGSrn8etDUS6LoK2eywZEF4p1sAcmliw=w2282-h1712-s-no-gm?authuser=0)
