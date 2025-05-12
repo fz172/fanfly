@@ -2,7 +2,7 @@
 layout: post
 title: "Working on avionics rack"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, avionics_rack, wiring]
+tags: [avionics, wiring]
 minutes: 200
 ---
 

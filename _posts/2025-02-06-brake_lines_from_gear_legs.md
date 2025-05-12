@@ -2,7 +2,7 @@
 layout: post
 title: "Brake lines from gear leg and fuselage"
 categories: [Undercarriage, ~brake]
-tags: [controls, brake_lines]
+tags: [controls, brake]
 minutes: 300
 ---
 

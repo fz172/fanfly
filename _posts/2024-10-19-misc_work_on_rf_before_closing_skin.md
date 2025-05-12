@@ -3,14 +3,14 @@ layout: post
 title: "Rear fuselage: Misc work before closing the top skin"
 categories: [Fuselage, ~rear_fuselage, ~rf_floor, ~rf_parachute_box]
 tags:
-  [RF-ASS-001-C-C-0-B-A-1, RF-ASS-001-C-C-0-C-A-1, static_port, avionics, com1]
+  [RF-ASS-001-C-C-0-B-A-1, RF-ASS-001-C-C-0-C-A-1, static_port, avionics, comm1]
 minutes: 150
 ---
 
 # TLDR
 
 - Connected tube for the static ports
-- Ran wire for com1 antenna
+- Ran wire for comm1 antenna
 - Installed luggage floor
 - Partially assembled parachute box
 - Installed longeron 111 and antenna doublers
@@ -70,8 +70,7 @@ _Another view_
 
 ## Longeron 111
 
-This is the longeron on the very top of all ribs, and also carriers the doubler for
-the COM1 radio.
+This is the longeron on the very top of all ribs, and also carriers the doubler for the COMM1 radio.
 
 I assembled the doublers and angles onto the longeron and installed the longeron to Rib 3.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPeXMhrcYywbZ-lnzZw0rHc8AnUW3vxKBk--byGCXK_u1nbssSP_Cd_dxt6TrseYQwS0loFDt5to6KcsWLXZ7LbwEEd1mmac8brPBUtM3fhKSQySgWDn7Gz0MMSKntGn0olao5FSkoKheZlovc8TlwmiQ=w1290-h1712-s-no-gm?authuser=3)

@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Antenna Mounting Plates"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, antennas, wiring]
+tags: [avionics, antenna, wiring]
 minutes: 630
 ---
 
