@@ -8,7 +8,7 @@ This is some reference/lookup charts I use throughout the build.
 
 ## Squawk issues
 
-[https://linear.app/n532sl](https://linear.app/n532sl)
+[Notion](https://www.notion.so/1e5f148290fe80a2bf23c3f33bdcdd68?v=1e9f148290fe80a2bc0c000c80147c8b)
 
 ## Torque
 
