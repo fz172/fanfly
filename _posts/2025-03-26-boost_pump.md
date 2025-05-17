@@ -2,7 +2,7 @@
 layout: post
 title: "Boost Pump Upgrade"
 categories: [Wing, ~boost_pump]
-tags: [boost_pmp]
+tags: [boost_pump]
 minutes: 780
 ---
 
