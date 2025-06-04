@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: fz172/slingbuild
-    repo_id: R_kgDOKOrfVA
+    repo: fz172/fanfly
+    repo_id: R_kgDOMDxXPw
     category: General
-    category_id: DIC_kwDOKOrfVM4CZFU4
+    category_id: DIC_kwDOMDxXP84CrA0-
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
