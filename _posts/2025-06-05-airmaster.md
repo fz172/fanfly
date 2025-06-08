@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Routing avionics harness"
+title: "Airmaster propeller inventory"
 categories: [Firewall, ~firewall_forward]
 tags: [propeller, airmaster]
 minutes: 20
