@@ -2,7 +2,7 @@
 layout: post
 title: "Installing horizontal stabilizer"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [assembly]
+tags: [empennage, assembly]
 minutes: 60
 ---
 
