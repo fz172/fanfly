@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost pump controller, cabin heat duct, and upholstery"
+title: "Installed the elevator"
 categories: [Empennage, ~elevator]
 tags: [empennage, assembly]
 minutes: 120
