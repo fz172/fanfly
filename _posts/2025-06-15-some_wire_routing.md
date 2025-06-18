@@ -2,7 +2,7 @@
 layout: post
 title: "Routing some more wires before instrument panel"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, panel]
+tags: [avionics, panel, wiring]
 minutes: 90
 ---
 

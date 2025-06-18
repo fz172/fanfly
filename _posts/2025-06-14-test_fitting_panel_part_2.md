@@ -2,7 +2,7 @@
 layout: post
 title: "Test fitting instrument panel and more prep: cabin heater work, upholstery etc"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, panel, cabin_heater, upholstery]
+tags: [avionics, panel, cabin_heater, upholstery,air_vents]
 minutes: 420
 ---
 

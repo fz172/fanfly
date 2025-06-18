@@ -2,7 +2,7 @@
 layout: post
 title: "Boost pump controller, cabin heat duct, and upholstery"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, joystick]
+tags: [avionics, joystick, wiring]
 minutes: 180
 ---
 
