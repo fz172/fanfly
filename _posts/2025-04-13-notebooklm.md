@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NotebookLM"
-categories: [Workshop, ~tooling]
+categories: [Misc, ~tooling]
 tags: [research]
 minutes: 20
 ---

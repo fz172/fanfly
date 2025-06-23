@@ -2,7 +2,7 @@
 layout: post
 title: "Final assembly: vertical stabilizer and rudder"
 categories: [Empennage, ~rudder, ~vertical_stabilizer]
-tags: [avionics, assembly, rigging, trim]
+tags: [avionics, assembly, rigging, trim, FN-ASS-S02-C-F-0-A-0]
 minutes: 450
 ---
 

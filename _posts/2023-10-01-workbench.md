@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Builing EAA 100 WorkBench"
-categories: [Workshop, ~tooling]
-tags: [workshop, tooling, video]
+categories: [Misc, ~tooling]
+tags: [tooling, video]
 minutes: 600
 mermaid: true
 ---

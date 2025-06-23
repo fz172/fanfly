@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rotax engine service training"
-categories: [Training]
-tags: [research, engine]
+categories: [Misc]
+tags: [training, research, engine]
 minutes: 2400
 ---
 

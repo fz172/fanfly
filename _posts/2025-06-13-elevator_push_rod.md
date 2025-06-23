@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator push rod"
 categories: [Empennage, ~elevator]
-tags: [empennage, assembly]
+tags: [empennage, assembly, FN-ASS-S02-C-F-0-A-0] 
 minutes: 60
 ---
 

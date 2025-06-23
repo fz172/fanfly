@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Horizontal stabilizer and elevator stand"
-categories: [Workshop, ~tooling]
-tags: [workshop, jig]
+categories: [Misc, ~tooling]
+tags: [jig]
 minutes: 60
 mermaid: true
 ---

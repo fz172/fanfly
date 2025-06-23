@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EAA Tech Counsel on Fuselage Work"
-categories: [Workshop]
+categories: [Misc]
 tags: [eaa_tech_counselor]
 minutes: 360
 ---

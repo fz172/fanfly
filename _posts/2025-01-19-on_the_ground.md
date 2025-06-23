@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "She's on the ground!"
-categories: [Workshop]
+categories: [Misc]
 tags: [moving, video]
 minutes: 25
 ---
