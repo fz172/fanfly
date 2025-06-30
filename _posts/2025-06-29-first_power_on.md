@@ -2,7 +2,7 @@
 layout: post
 title: "First power on!"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics]
+tags: [avionics, gmu11]
 minutes: 300
 ---
 
