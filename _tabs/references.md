@@ -65,6 +65,10 @@ Reference: KAI introduction chapter
 
 [Reference](https://slingaircraft.com/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=1068&wpfd_file_id=10722&token=&preview=1)
 
+## CAN Bus
+
+On my harness, CAN bus always use white as High, and White/Blue as Low.
+
 ## Mods
 
 Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
