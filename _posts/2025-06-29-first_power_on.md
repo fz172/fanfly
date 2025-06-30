@@ -2,7 +2,7 @@
 layout: post
 title: "First power on!"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, gmu11]
+tags: [avionics, gmu11, video]
 minutes: 300
 ---
 
@@ -80,3 +80,7 @@ I tried to use the D-sub pin extractor tool to pull the pins out. It was a PITA 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNP3zaseTqmo2xQn6-ATqW9eJ2lYshCpzkK-PivABRdn36i3qlw90XHVWUblKJLlVt8yUijhQdUzCgblY5eMlN-ip-PwCJdL2W_jHTjk3jpcaN8eh5fFZazQvFpmtsXPs_hYoy_Hbg8UPnRwURnqdAKNA=w2328-h3092-s-no-gm?authuser=0)
 
 So I decided to just buy a new connector kit and redo the wire altogether. Order placed with spruce, I will resume this work when it arrives.
+
+## Video
+
+{% youtube -Hr_TSvjZCQ %}
