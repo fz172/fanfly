@@ -2,7 +2,7 @@
 layout: post
 title: "Installing back side skin "
 categories: [Fuselage, ~center_fuselage]
-tags: []
+tags: [CF-ASS-001-C-C-0-G]
 minutes: 180
 ---
 

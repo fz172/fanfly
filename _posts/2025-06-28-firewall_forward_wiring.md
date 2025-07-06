@@ -12,7 +12,7 @@ minutes: 360
 
 # Details
 
-I spent most of the day today to build the battery cables with #2 guage wire and connect them in the firewall forward section.
+I spent most of the day today to build the battery cables with #2 gauge wire and connect them in the firewall forward section.
 
 One thing I didn't think is that it takes #tremendous amount of force to close the battery lug crimp. As a skinny asian person body strength is not really my strong suite lol.
 
