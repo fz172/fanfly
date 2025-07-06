@@ -2,7 +2,7 @@
 layout: post
 title: "Starting on door latch"
 categories: [Canopy, ~door]
-tags: [door_latch]
+tags: [door, door_latch]
 minutes: 160
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost pump controller, cabin heat duct, and upholstery"
+title: "Mounting control stick wiring connector to airframe"
 categories: [Fuselage, ~center_fuselage]
 tags: [avionics, joystick, wiring]
 minutes: 180
@@ -8,7 +8,7 @@ minutes: 180
 
 # TLDR
 
-- Reconnected the wires for control sticks.
+- Attached the control stick wire harness connectors to the airframe
 
 
 # Details
