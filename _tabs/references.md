@@ -117,3 +117,9 @@ Through the build I am making some mods, buying parts not included in the factor
 |       |                 |                                                             |
 |       |                 |                                                             |
 |       |                 |                                                             |
+
+
+## G3X hardware
+
+* GDU 460 screws: https://www.mscdirect.com/product/details/01844893
+  * #6-32, 1/2"
