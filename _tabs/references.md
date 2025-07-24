@@ -73,30 +73,30 @@ On my harness, CAN bus always use white as High, and White/Blue as Low.
 
 Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
 
-|                     | Part                 | Description                                                         |
-| ------------------- | -------------------- | ------------------------------------------------------------------- |
-| Tail                | Trim servo           | Ray Allen T2-7A                                                     |
-|                     | Tail light           | Aveo minimax aero                                                   |
-|                     | Nav lights           | Aero Pulsar NSR                                                     |
-| Wing                | Pitot/AOA            | Garmin GAP 26 Heated/Regulated                                      |
-|                     | Fuel cap             | Newton Aero 200                                                     |
-|                     | Fuel sender          | VDO 10-180 ohm                                                      |
-|                     | Fuel sender gasket   | Custom made (Garlock 3000)                                          |
-|                     | Fuel Pump mod        | Aerospace Innovation Intelligent Fuel Boost System                  |
-| Fuel and oil system | Fuel Manifold        | Aerospace Innovation Naviflow                                       |
-|                     | All hoses            | Aerospace Innovation LifeLine system                                |
-|                     | NACA Duct connection | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
-| Paint               | Interior             | Primer - Rustoleum self-etching                                     |
-|                     |                      | Primer - Stewart System Ekoprime                                    |
-|                     |                      | Top coat - Stewart System EkoCrylic                                 |
-| Fuselage            | Static port          | Vans static port                                                    |
-| Undercarriage       | Brake                | Matco dual piston upgrade                                           |
-|                     | Grease               | Fuchs Renolit M2 EP Grease                                          |
-|                     | Brake lines          | FS Flightline PTEF upgrade                                          |
-| Firewall forward    | Cabin heater lines   | Aerospace Innovation                                                |
-|                     | Radiator lines       | Aerospace Innovation                                                |
-|                     |                      |                                                                     |
-|                     |                      |                                                                     |
+|                     | Part                   | Description                                                         |
+| ------------------- | ---------------------- | ------------------------------------------------------------------- |
+| Tail                | Trim servo             | Ray Allen T2-7A                                                     |
+|                     | Tail light             | Aveo minimax aero                                                   |
+|                     | Nav lights             | Aero Pulsar NSR                                                     |
+| Wing                | Pitot/AOA              | Garmin GAP 26 Heated/Regulated                                      |
+|                     | Fuel cap               | Newton Aero 200                                                     |
+|                     | Fuel sender            | VDO 10-180 ohm                                                      |
+|                     | Fuel sender gasket     | Custom made (Garlock 3000)                                          |
+|                     | Fuel Pump mod          | Aerospace Innovation Intelligent Fuel Boost System                  |
+| Fuel and oil system | Fuel Manifold          | Aerospace Innovation Naviflow                                       |
+|                     | All hoses              | Aerospace Innovation LifeLine system                                |
+|                     | NACA Duct connection   | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
+| Paint               | Interior               | Primer - Rustoleum self-etching                                     |
+|                     |                        | Primer - Stewart System Ekoprime                                    |
+|                     |                        | Top coat - Stewart System EkoCrylic                                 |
+| Fuselage            | Static port            | Vans static port                                                    |
+| Undercarriage       | Brake                  | Matco dual piston upgrade                                           |
+|                     | Grease                 | Fuchs Renolit M2 EP Grease                                          |
+|                     | Brake lines            | FS Flightline PTEF upgrade                                          |
+| Firewall forward    | Cabin heater lines     | Aerospace Innovation                                                |
+|                     | Radiator lines         | Aerospace Innovation                                                |
+|                     | Gascalator             | Andair GAS500-AN6-M-R                                               |
+|                     | Gascalator drain valve | Andair DV125                                                        |
 
 ## Service Bulletin
 
