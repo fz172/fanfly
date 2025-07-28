@@ -3,7 +3,7 @@ layout: post
 title: "Continuing Firewall Forward, 4 hours 4 screws"
 categories: [Firewall, ~firewall_forward]
 tags: [fuel_pump,naviflow]
-minutes: 240
+minutes: 300
 ---
 
 ## TLDR
@@ -31,11 +31,19 @@ When the hole and mounting bushing and screw all fit in the end, I used a multi-
 
 ### Fuel check valve research
 
+#### Naviflow check valve
+
 On the naviflow unit, there are 2 barb fittings to connect to a check valve. Interestingly the check valve I received from Sling has AN6 fittings. I think this is probably a new revision. They used to have 3/8 hose end fittings for 915, and switched to AN6 for 916 engines.  (My engine is 915 but the fireware kit I got was based on 915, that's aother issue).
 
 So anyways, I sent a question to aero inno to ask about my options. I think I might have to get a new check valve with the barb fittings.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOH7TLokO3phh6zABqAbwyZoU7EebPGDmYaAObr-KqJM9Unl9uXTssqGUqh9048u7BYGWQh0GF_OEtfAprFDDioh1pIlywYGpQ0zE95j5PC3ZjktfYqZTdpiIFcENXBuk4PPcAQYnd1cZa9wjFgKq1hPw=w3212-h2418-s-no-gm?authuser=0)
+
+#### Main fuel pump check valve
+
+And for the main cross fuel pump, the KAI says I need 2 low pressure check valve (0.4-0.7 PSI) but my kits included high pressure valves (0.8 PSI). I sent a question to technical, and they confirm they must be the low pressure version. So they also needed to be replaced.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczPIOVc8q7-GHo8yJKFcE00ekgDzZGiEtlJaPP03uWWlii5M1X3LmSDKezf407F4f51-yYJ0Cj3j9rhOB2kE20ZKVw7vRAHo9buvJMa2CK8HIN_HHDYPthTHhWW0b8bHJvelkqJy5gmWHqkl4SsrkbIhYQ=w2944-h2216-s-no-gm?authuser=0)
 
 ### Mismatched parts in firewall forward kit
 
