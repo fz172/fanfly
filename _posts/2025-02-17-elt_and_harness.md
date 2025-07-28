@@ -6,14 +6,14 @@ tags: [avionics, harness, elt]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Started to route the wiring harness
 - Relocated the ELT
 
-# Detail
+## Detail
 
-## Routing the wiring harness
+### Routing the wiring harness
 
 I will admit, I have been dreading this part of the work. I am super unfamiliar with the electrical. Midwest Panel Builders did such a wonderful job making the harness for me, and I am very anxious about accidentally breaking a wire and spending eternity debugging them.
 
@@ -33,13 +33,13 @@ The most difficult part is the main spar. I have so many things going on in this
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMqBlS8Hs9tLqzEjdYODJ5O5vlf5zg0WpPGB0DyerZdELz9y9PIZldtSYyyyB4pBiMdvgnJiWEEL6wCc0ObfagKGVnFErxdJh2ReK6Gr7aIVbXFOhEzcFqWu9X5XKt0ic2CzHbM0yqaWZXKCmRQQ9eRwA=w2274-h1712-s-no-gm?authuser=0)
 
-### Wing connectors and control stick connectors
+#### Wing connectors and control stick connectors
 
 Two connectors proved to be the most difficult: the W1/W2 wing connector, and the GH1/GH2 control stick connectors. They needed to pass through the tiny space in between the main spar. Fortunately, the GH connectors could pass the main spar at a certain angle. I basically just twisted the GH connectors until they were able to go through the main spars.
 
 But the wing connectors just couldn't go through. I am pretty sure I will need to depin them and get the wires to run though, then re-assemble the connectors.
 
-### ELT connectors
+#### ELT connectors
 
 Another issue is with the ELT connectors.
 

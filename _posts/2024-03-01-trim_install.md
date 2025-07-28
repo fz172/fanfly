@@ -6,12 +6,12 @@ tags: [empennage, EL-ASS-001-C-F-0, video]
 minutes: 120
 ---
 
-## TLDR
+### TLDR
 
 - Prepped all parts for trim sub-assembly
 - Installed trim on elelvator
 
-## Details
+### Details
 
 The replacement part (the piano hinge) arrived a few days ago. I put the trim sub-assembly together and installed on the elevator.
 

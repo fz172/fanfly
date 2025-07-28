@@ -6,22 +6,22 @@ tags: [eaa_tech_counselor]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Workshop organization and clean up
 - Had an EAA tech counsel on fuselage work
 
-# Detail
+## Detail
 
-## Clean up
+### Clean up
 
 Since I moved the fuselage into the hangar last week, I haven't really got a chance to organize my tools etc to their proper location. So I spent most of the day doing that and moping up the floor to keep the workspace clean.
 
-## EAA Tech Counsel
+### EAA Tech Counsel
 
 My EAA tech counselor Jason visited my hangar in the afternoon to check out my work. And I took the opportunity to ask a bunch of questions related to AN fittings, avionics and wiring, and some other misc issues.
 
-### Inspection on WIP fuselage and avionics
+#### Inspection on WIP fuselage and avionics
 
 A few points:
 

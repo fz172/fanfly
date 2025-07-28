@@ -6,7 +6,7 @@ tags: [wing, avionics, WG-ASS-002-L-F-0]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Worked on bottom side of left wing skin
 - Talked to Steve from Midwest Panel Builders about my panel's configuration

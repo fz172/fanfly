@@ -6,7 +6,7 @@ tags: [avionics, wiring, cabin_heater]
 minutes: 480
 ---
 
-# TLDR
+## TLDR
 
 - Did a lot of misc work before putting on the dashboard
   - Upgraded some bolts and nuts for connectors
@@ -18,26 +18,25 @@ minutes: 480
   - Tightened brake lines after firewall
   - Installed some firewall forward components (fusebox, master relay)
   
-
-# Details
+## Details
 
 Today was a long day. I spent the full 12 hours in the hangar working on several items on the firewall, under dashboard, and the tail section. I will break the work on the tail section into a separate log entry.
 
-## Upgrading RE1/RE2 connector screws
+### Upgrading RE1/RE2 connector screws
 
 Last week when installing the RE1/RE2 CPC connectors to the firewall I used M5 self-tapping screws. They are honestly probably fine. But thinking that they are hard to access, and over time the airplane will have a lot of vibration, I decided to upgrade them to M4 screws and self-locking nuts. I then torque striped them to make it easier for future inspection.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMa5dRkqoAm99w4e2A3ViQ9CqqYVoQsQ232bKwS7aT35VwN3_K5_FAobDRWpLepYZFRknjxUhED6-zhR_s-g0aVF5bgwikDiwMB9djIl5nxfjPz-KMBfIXnrlfYmumXG6B9DMe6lpFTog3UDW21pcPBGA=w2274-h1712-s-no-gm?authuser=0)
 
-## Cabin heater stuff
+### Cabin heater stuff
 
-Since the cabin heater tension cables and electric wires are both under the dash and go all the way to firewall, I wanted to full finish the cabin heater installation before putting the dashboard on. But to determine how to route the wires, I need to dashboard and panel. 
+Since the cabin heater tension cables and electric wires are both under the dash and go all the way to firewall, I wanted to full finish the cabin heater installation before putting the dashboard on. But to determine how to route the wires, I need to dashboard and panel.
 
 So I temporarily fitting the panel to get an accurate routing plane for the cabin heater wires.
 
-### Valve tension cable
+#### Valve tension cable
 
-For the tension cable, I ran it from the center of dashboard, all the way to the pilot side, then to the back sitting on top of the naca duct then to the right reaching the cabin heater. This way the entire cable is relaxed, doesn't touch anything, and doesn't need to be cut short. 
+For the tension cable, I ran it from the center of dashboard, all the way to the pilot side, then to the back sitting on top of the naca duct then to the right reaching the cabin heater. This way the entire cable is relaxed, doesn't touch anything, and doesn't need to be cut short.
 
 It took me a minute to figure out how to secure the cable onto the cabin heater. Turns out there is a metal clip thingy next to the heat air valve. I pretty much just followed the sling official build video from Evan to adjust the cable. Then clipped it to its final position.
 
@@ -45,7 +44,7 @@ It took me a minute to figure out how to secure the cable onto the cabin heater.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMGRkAvdDXOkEIJA_pgF8zF7WRRoM7IN4_Q68yqSYNbrORkekMU_8S1Khmy5nPGK5KJe5Leyk29widAMyudpCmRsvA5X16caVLFB2VPNvAYSG-ZGwsKQi7nSPBTpZMf1ZKYjayuefwLyGMduWTYrYXn7g=w1290-h1712-s-no-gm?authuser=0)
 
-### Air ducts
+#### Air ducts
 
 To run the duct to the rear, the center channel was too small for 2 inch ducts. So I splitted the 2 inch duct into 2x one inch ducts to reach the back. I tried to find the proper 2-to-1 splitter but couldn't find any. So I just 3D printed a set.
 
@@ -55,8 +54,7 @@ To run the duct to the rear, the center channel was too small for 2 inch ducts. 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNbbVJgH08N4XWDG65Tu2aYso46oW84hTcodw2EqBfX8Iqq_rA_GGLuwtX16Hl28r6QtHJeXbyFxLblvUyE3d80Ke7hwrRqV5Nu4svC9P5ptrPabD07kkrhaTwsEMmr4r0BB9MKySyr9AzHaxZCY7qRdQ=w1290-h1712-s-no-gm?authuser=0)
 
-
-### Power wires
+#### Power wires
 
 The cabin heater needed 4 wires: power, high, med, low signal. And the heater is grounded to the air frame so I guess technically 5 wires.
 
@@ -70,7 +68,7 @@ I plugged them on the switch and connected the power wire to a portable power ge
 
 {% youtube 5S5CJ7Ma1EQ %}
 
-## Firewall forward stuff
+### Firewall forward stuff
 
 I also installed the fusebox and the master relay (master solenoid?) as I am pretty close to power on the entire panel.
 
@@ -78,7 +76,7 @@ To install these things, I needed to first remove the fire proof material from t
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOlEh8b5IARRh9JdwC_QSovr5fkN1Ua4zmCFESuceQ0h06NFzs0JsJ5laeCTBew42rB5EsJ6TZnqlkBfUvUPzs1Gw745ZRxGKvLzExjAmYWwKEYbuDQ9ywL9mvACMt6bnPTvGY4WRZDC6O59NkXXMlVHg=w1290-h1712-s-no-gm?authuser=0)
 
-## Fuel and Brake lines
+### Fuel and Brake lines
 
 Lastly, I also tightened the fuel lines and brake lines behind the firewall on their 90 degree elbows.
 

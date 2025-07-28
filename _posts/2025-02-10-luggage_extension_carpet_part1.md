@@ -6,18 +6,18 @@ tags: [avionics, antenna, upholstery]
 minutes: 270
 ---
 
-# TLDR
+## TLDR
 
 - Finished installing antenna plates
 - Completed the luggage extension carpeting
 
-# Detail
+## Detail
 
-## Antenna plates
+### Antenna plates
 
 Previously I finished installing all antenna plates except two: the top plate for comm1, and one on top of luggage compartment for GPS2 (GA-56). The GA-56 had issues with nut plates and I ran out of rivets ([reference]({% post_url 2025-02-08-antenna_plates %})). My order arrived so I installed the two plates quickly.
 
-## Carpeting
+### Carpeting
 
 My intention is to make the center console as complete as possible before moving everything to the airport hangar. Since I have never worked with carpeting before, I started with the luggage area. If I make any mistake there, nobody will discover :)
 

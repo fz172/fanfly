@@ -6,16 +6,16 @@ tags: [avionics, wiring, antenna]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Installed headphone jacks on the passenger seats
 - Cleaned up harness through center channel
 - Installed GAD 29C
 - Practiced crimping bnc connectors
 
-# Details
+## Details
 
-## Headphone jacks
+### Headphone jacks
 
 I secured the wire for headphone jack on the rib between rear fuselage and luggage compartment. Then I bolted down the headphone jacks on their corresponding location.
 
@@ -35,7 +35,7 @@ Stein air's website has a diagram that shows the washer installation.
 
 After installation, I tested continuity between the headphone jack and the airframe and made sure there was none.
 
-## Harness
+### Harness
 
 Previously I had problem figuring out where to install GAD 29C. I sent the question to MWPB and they sent me a mount that goes on top of the GNX375 unit. Today I received the mount and finished the installation.
 
@@ -45,7 +45,7 @@ Previously I had problem figuring out where to install GAD 29C. I sent the quest
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNOMuLtgoWDa127eLk9YFYycK9YUG3Jv_yzAQF7uHZW40_NxgrzuwDOGgFfmUmfD_yJU9Yb4AFzqRTLDP8Al52g8ATIYMllcKjWqxkcBOVIf_TSJZPvd07rScIUlGvqbv_vwEPvUypRuCTY6_muHtyBcQ=w3836-h2888-s-no-gm?authuser=0)
 
-## Wires
+### Wires
 
 I continued to clean up the wires running through the center channel. Now I have a huge bundle of harness, 3 pneumatic lines, 5 coax cables. I expect to add 2 fuel hoses and a brake line in a few weeks. So the space is getting very crowded.
 
@@ -62,7 +62,7 @@ _Front of main spar_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNg2BmYDnU-IafnL2t2nI8DVQkYiD_PLv_HuPsqHRLWx8_zW4s4gR_SHJ4A_ku_c4L8_61iuKyoo-iZZYefx_Px8xJ-vro1n3aO_A7s31EG4HtC3Ilof6mQxKELLsYVBtQEATDqQkMNw_XUa52ScPeQmw=w2174-h2888-s-no-gm?authuser=0)
 _Below avionics rack_
 
-## BNC Connectors
+### BNC Connectors
 
 I cut a segment of the extra coax cable and bought a few extra BNC connectors as practice. I followed an youtube video published by Stein Air and end up with a reasonably decent looking cable.
 

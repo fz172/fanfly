@@ -6,16 +6,16 @@ tags: [moving]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Built make-shift ramp to load the fuselage to U-Haul truck
 - Moved the fuselage from garage to the hangar
 
-# Detail
+## Detail
 
 With the help of my friend Daniel, we moved the fuselage from my garage to the hanger this week.
 
-## Make shift ramp
+### Make shift ramp
 
 After measuring the wheel to wheel distance and reading other's posts, I decided a 26-ft truck from U-haul is the most accessible truck I can rent and it should fit the fuselage.
 
@@ -29,13 +29,13 @@ _The lid cut in half and reinforced with 2x4s. A tiny person shown for scale com
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOClb84JgM9yWJ7lWbKEr6PHmntMp_arzS_HYOdBI98OPG2VPoqutbqBOU7Ux8tD7ovpqc8XNb9COZQNf-2DdQ9zsyF0zvcBB2f9_7IkgCbSZCoYzjLmbdLGjEfumNdgeOWjGZx4nxVKyzcPrBHLq3C3w=w1260-h1674-s-no-gm?authuser=0)
 _One lid equals 2 ramps_
 
-## Loading
+### Loading
 
 The loading process is easier. The fuselage needed to go in tail first. Then we just made sure the wheel was going in perfectly straight.
 
 The thing was super heavy even with wheels. We thought maybe we could put a ratchet strap on the tail and drag it up. But the moment we put on some force on the ratchet the tail ribs started to almost bend. We stopped doing that immediately and just muscled it into the truck with a few big pushes.
 
-## Unloading
+### Unloading
 
 Once we got to the hangar, unloading was tricker. Given that the ramp was pretty steep, we didn't want to just roll it down uncontrolled. We were also afraid we wouldn't be able to control its roll just using muscle power once it's on the ramp.
 
@@ -48,7 +48,7 @@ Here is a time lapse video showing the progress.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNHt-sr0xR_fWcEASxb_5zorhjQYQQ60hG2n1-5K1ZKGjvak6X6qKEBnUBuGtHhb4oCQlKnP-UhX9cifRIp7b1_P7jqTXrTjZ1azsNAPVJTGSJtugUo81bMwENYWGsu-F1hyC0F5XiaJnTYIOVuFZ1L2Q=w2224-h1674-s-no-gm?authuser=0)
 _Sitting safety in the hangar_
 
-## Aftermath
+### Aftermath
 
 In retrospective, I think this would be much easier done as a 3-4 people job. We managed to pull it off with 2 people but it was really risky. We both underestimated the weight for the fuselage. If someone is reading this blog and decides to use home-made ramp and u-haul like I did, please consider having more than 1 person to help.
 

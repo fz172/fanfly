@@ -6,12 +6,12 @@ tags: [empennage, trim, EL-ASS-001-C-F-0, trim_motor]
 minutes: 30
 ---
 
-## TLDR
+### TLDR
 
 - Tested trim wiring
 - Installed trim motor
 
-## Details
+### Details
 
 Today I received the new cotter pins from aircraft spruce, so I spent a few minutes to install the trim motor.
 ![ref](/assets/img/20240313/trim1.jpg)

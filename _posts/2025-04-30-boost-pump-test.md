@@ -6,11 +6,11 @@ tags: [boost_pump]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Tested leak on boost pump plumbing
 
-# Detail
+## Detail
 
 I conducted a leak test on the boost pump plumbing today. Unfortunately, both wings have leak on the rigid flare lines connecting the fuel port and the filter.
 
@@ -18,7 +18,7 @@ I conducted a leak test on the boost pump plumbing today. Unfortunately, both wi
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPAIxlbI-PtnVcyvbw4S9Qe3UqE10KJq75AIeU-b6SNpTX0K3o_ziOxRaXVFFWw1WxH8JlW3xLetC6Sx_rRw-LlIJfeW-os7YBnUnQOVCI7O262zz5e7epTBWhgcY-GZ838kTs1LUA-Oj7uC8zsmPD1zA=w2282-h1712-s-no-gm?authuser=0)
 
-## Test set up
+### Test set up
 
 The test set up is very similar to fuel tank set up, except that I don't have as much space, and I don't need to measure the precise pressure.
 
@@ -36,7 +36,7 @@ I bought the follow stuff:
 
 Then I blocked off the fuel overflow and fuel pump line, and connected tyre pump to the fuel return. It's not possible to pump air through the boost pump lines, because the pump is one-way only.
 
-### Test result
+#### Test result
 
 Unfortunately I found leak on the flare tubing connection. I suspected this part might leak because when I received the flare tube it's very rough.
 

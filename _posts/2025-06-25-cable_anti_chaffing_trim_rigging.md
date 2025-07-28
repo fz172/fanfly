@@ -6,14 +6,14 @@ tags: [avionics, assembly, rigging, trim, FN-ASS-S02-C-F-0-A-0]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Improved anti-chaffing on the rudder cable
 - Rigged the trim motor movement range
 
-# Details
+## Details
 
-## Anti-chaffing rudder cable
+### Anti-chaffing rudder cable
 
 Since I last installed the two little plastic plates on the rudder cable, I just wasn't happy with the design a the rudder cable will eat through the plastic really quick.
 
@@ -21,11 +21,11 @@ So I asked on the facebook builder group, and of course someone has thought abou
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczODuIwBTGYPrmfUNc04vPWF4HBoPrGYG8h_UbsnxaoS-4RWVeSjHHNA6Yk5_0uWfxxIIEBLBUGMoE2oeS2gh2WwqS-ONiywwRSqn9ZIY6QOwJlN1mpfa4HwXgHxBfgf0lLMNQAPkntvQpDU6Q9WqlrhMA=w2210-h1664-s-no-gm?authuser=0)
 
-## Adjust trim movement range
+### Adjust trim movement range
 
 Then I spend a few hours to adjust the trim motor movement range.
 
-The maintenance manual has steps on how to adjust the trim range. The only tricky part is that the trim is connected to RayAllen T2-7A actuator through a hard pushrod. So I cannot move it by hand. 
+The maintenance manual has steps on how to adjust the trim range. The only tricky part is that the trim is connected to RayAllen T2-7A actuator through a hard pushrod. So I cannot move it by hand.
 
 I looked up the wire diagram and figured out that I needed to supply power to tail harness pin #7 and #8. Swapping the polarity would swap the movement direction.
 

@@ -6,16 +6,16 @@ tags: [seat_belt, SB26, service_bulletin]
 minutes: 480
 ---
 
-# TLDR
+## TLDR
 
 - Installed the rear seat belts
 - Installed the front seat belts
 
-# Detail
+## Detail
 
 Between yesterday and today, I installed all the seat belts.
 
-## Rear seat belt
+### Rear seat belt
 
 The rear set is simple. There are a few bolts to connect the seat belt, and I just bolted them on and torqued to spec. The only thing is that I needed to pay extra attention to make sure the belt did not twist or anything. And since I don't have the floor skin yet, so I had to be super light on my feet to avoid poking any hole on the floor.
 
@@ -25,9 +25,9 @@ The rear set is simple. There are a few bolts to connect the seat belt, and I ju
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPpzft_tzFFT2BY38f8QgQdzB-e9W0PSc99vhmEUubJEzr1jEcJegIzdk9u9znJloYRWCG1n1_VYP7UFkfvGGt-bTiutEOFXtJflO4PxWxITmYjk9Vnk-c6k9itVr7qZzgIhWuRVDIACaLW-qT17RT5hg=w3836-h2888-s-no-gm?authuser=0)
 
-## Front seat belt
+### Front seat belt
 
-### The spool retractor
+#### The spool retractor
 
 Step 1 of the whole installation is that I needed to first unwind the seat belt from the retractor. The problem is, one of my retractors was fully locked. I couldn't back out any seat belt.
 
@@ -41,14 +41,14 @@ The rest is pretty similar to what Evan talked about on his video - I used a rul
 
 I took a bunch of pictures so I remember how to put it back.
 
-### Bolting on the fuselage
+#### Bolting on the fuselage
 
 Finally I bolted the 3 points onto the fuselage and canopy. The bolts are torqued to 20 NM per spec.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFRSBIOpr0vOhWtFLwHNXmnmugwuk-xOHSFlD_kNKJCt_78_r7JazpmVnWGj_cUgsijRozxJNSUnGi5qOx3TFkiKpoBC4eJMFWWjbqAEt7aPbetUombL_N0vcY1d7AxMu2Hy726wslrCJlEySJJfm95g=w2174-h2888-s-no-gm?authuser=0)
 
-### Service Bulletin 26
+#### Service Bulletin 26
 
 And as part of the installation, I followed instructions on SB-26 to make sure the bolts on the canopy are done correctly.
 
-Ref: https://slingaircraft.com/download/1088/sling-4-tsi/11442/service-bulletin-0026-14062024-sling-tsi-seat-belt-fixtures.pdf
+Ref: <https://slingaircraft.com/download/1088/sling-4-tsi/11442/service-bulletin-0026-14062024-sling-tsi-seat-belt-fixtures.pdf>

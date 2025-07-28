@@ -6,13 +6,13 @@ tags: [CA-ASS-101-C-F]
 minutes: 600
 ---
 
-# TLDR
+## TLDR
 
 - Test fitted and drilled rivet holes on the canopy
 
-# Detail
+## Detail
 
-## Fitting
+### Fitting
 
 To test fit the canopy, I got help from my dad and we put the canopy on the fuselage back and forth quite a few times.
 
@@ -24,7 +24,7 @@ And another thing is that the lip on both sides seems to be too small. Other bui
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOUhneV2-jWf3mXkXAzqoEP1kr4QIIwY-cSaHArTbkYIjlZ0n7tYR8TZJzTB8-ZMg9d5nKgrUyEecrj_scmFH1sKsrVkLyap1Wjbpq9fPokhRBIvfoqBcJkBtCsy7nHxggpnVbIyz7oEi7mXnYuB3Hxng=w4080-h3072-s-no-gm?authuser=3)
 
-## Drilling
+### Drilling
 
 So after trimming the few spots to make the canopy sit perfectly in the canopy, I started the drilling process.
 
@@ -34,7 +34,7 @@ I drilled the holes connecting with the rear fuselage the last. It had some gap 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPtzZrwAZ-iDjMmqo9jnj5DrT6OsDfuswxd4AeoTmudfz3eedFbxamtfejfjRzOf_AV2zfLYCKTrUrK_lPsKvB5fu4L2xQOCAYbTboW6z37TA422W9uxCltKloNJO_V56bWzXqkuePS00WYYrRidFLvwg=w3836-h2888-s-no-gm?authuser=3)
 
-## Cleaning and prepping for connection
+### Cleaning and prepping for connection
 
 After everything was drilled, I had to take them apart one last time. I vacuumed the space thoroughly, and used acetone to wipe the skin and the canopy lip to remove grease/oil/dust.
 

@@ -6,12 +6,12 @@ tags: [controls, FF-ASS-S01-C-F-0]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Noticed an issue with engine mount
 - Prepped the rudder rod leather boot
 
-# Detail
+## Detail
 
 ## Engine mount
 
@@ -21,7 +21,7 @@ I verified this by adding a washer next to the nut, and of course the bolt could
 
 I don't want to stack two washers on this assembly, so I ordered a few shorter bolts from aircraft spruce. Once received I will replace the lower two bolts.
 
-## The rudder control rod leather boots
+### The rudder control rod leather boots
 
 Seemingly small tasks always takes more time to complete. I tried to install the leather boot on the rudder control rod in 15 minutes, and it turned into almost 2 hours work :-P
 

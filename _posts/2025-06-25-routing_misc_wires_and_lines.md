@@ -6,14 +6,14 @@ tags: [avionics, upholstery, CF-ASS-001-C-C]
 minutes: 480
 ---
 
-# TLDR
+## TLDR
 
 - Routed/rerouted misc lines in the fuselage forward for organization
 - Prepared skin & upholstery for center channel
 
-# Details
+## Details
 
-## Line routing
+### Line routing
 
 Didn't really plan to do this, but as I was prepping the center channel skin the lines and wires felt messy. I ended up spending a few hours to rout the fuel/brake lines from the front, routed the rear passenger air duct.
 
@@ -33,7 +33,7 @@ _This might work_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOmWm9CW7-vWn-otsb2Jfm1vEHF-kh4S7_dew9msmL3hydZkp9bDxK5SXxrh-uUx3PqwNXgJjtQn8jjP0jnoUCRs7z7BY_dJZsD2l1h64PjTjTR7mDgsbqKx25Jqj3ZhHQFFMLnMTQ4vTft9dIAjH_kew=w2210-h1664-s-no-gm?authuser=0)
 _A different angle_
 
-## Center channel skin
+### Center channel skin
 
 To better guide me with the line routing, I also temporarily installed the center channel skins.
 

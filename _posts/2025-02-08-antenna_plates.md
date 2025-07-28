@@ -6,12 +6,12 @@ tags: [avionics, antenna, wiring]
 minutes: 630
 ---
 
-# TLDR
+## TLDR
 
 - Installed doubler plates to all antennas
 - Ran wires to all antenna (not connected yet)
 
-# Detail
+## Detail
 
 There are 5 antennas that needed doublers:
 

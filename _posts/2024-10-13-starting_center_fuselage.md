@@ -6,12 +6,12 @@ tags: [CF-ARS-001-C-C-0, CF-ASS-001-C-C-0]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Built the rear spar
 - Installed autopilot brackets on main spar
 
-# Details
+## Details
 
 I've decided skip ahead and work on the center fuselage while waiting for Sling technical's advise on RF floor skin.
 

@@ -6,14 +6,14 @@ tags: [CF-ASS-001-C-C-0, air_vents]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Sealant added to air
 - Added sound proof on side skin
 
-# Detail
+## Detail
 
-## Air vent sealant
+### Air vent sealant
 
 So on the top channel of the side skin I am supposed to put some sealant to help the air flow from naca duct to reach the rear passengers.
 
@@ -23,7 +23,7 @@ I used the standard calk gun to apply a bead of the sealant along the channel, t
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO6AWuf6ZQ9AqH3sIOKP228XzzSvk2slNf2LWG4qJf3xEZcC8UZLaTHdb6RENBWmK7yawhLITGSwZMfhuXpqinSAjkRXrECphnLGHpOghxBDxuNpXDSCWLJvc0cYqpO4pVvZZTKOTbMKd7QXmyXGv-9OQ=w2274-h1712-s-no-gm?authuser=0)
 
-## Sound proof
+### Sound proof
 
 I basically just traced the shape of side skin and cut the sound proof foam to fit.
 

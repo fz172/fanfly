@@ -6,11 +6,11 @@ tags: [propeller, airmaster]
 minutes: 20
 ---
 
-# TLDR
+## TLDR
 
 - Inventoried airmaster propeller
 
-# Details
+## Details
 
 Received the Airmaster propeller today. It came with 2 boxes well packaged. The small box is the prop hub, wiring harness, controller etc. And the large box are the 3 blades. I am looking forward to install them when the time comes!
 
@@ -21,4 +21,3 @@ Received the Airmaster propeller today. It came with 2 boxes well packaged. The 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOIq9sdJ517mO0Tq3ebHAwm_V9dV6LLc5EF6_5KROHhn_B5Kru0PxoZbQxk9E8O4iDx_Ta6tTVTtg-aHJymy4tRIVF3U9PnIvw3iRVgnDT_wv08UZYD98VzPTGsw_xRQ9POBiaWmoG0q2_E5RzE0vZfhA=w2282-h1712-s-no-gm?authuser=0)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO-cY1LOwqdWW1ML1WSdu2XLH_-zupPrVSZ-gJL_7xA6DTT3LkOM1hWXksKkEY68bUlOjlgULOb26Zx18YAXYPL0DvrjQyCP1nnVbULxRnEgZANrUAAeyGlsOyHe7ZYoRNwhyJPe-SXOIf-e_UGXS-wJA=w2282-h1712-s-no-gm?authuser=0)
-

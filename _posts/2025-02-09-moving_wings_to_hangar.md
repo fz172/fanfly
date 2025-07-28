@@ -6,13 +6,13 @@ tags: [moving]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Moved wings to the hangar
 
-# Detail
+## Detail
 
-## Onto the truck
+### Onto the truck
 
 Rented a 20 FT U-Haul, I moved the wings to the hangar at E16.
 
@@ -38,11 +38,11 @@ _Loaded and ready to go_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOM1eBzUPwTTHKmOHPktTeJG12xJ70XBcULqu78vfTgtv4Lu6SRpw7lu57rci7p1o28YkLYAMNAzaTekmZlGlhMtO86jN96ehR_uebEnY6gC0U-El_lSbkQMsbpGspgO7J6ZtlMMGe7w6ws6asUhx2xAw=w3836-h2888-s-no-gm?authuser=3)
 _Another shot_
 
-## Driving to the airport
+### Driving to the airport
 
 Most of the drive was on highway. The road was not great, not terrible. Definitely the slowest 45 minute trip I've done recently.
 
-## Off the truck
+### Off the truck
 
 Getting the wings off the truck was exactly the opposite of loading.
 

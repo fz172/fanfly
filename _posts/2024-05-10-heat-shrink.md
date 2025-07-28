@@ -10,7 +10,7 @@ minutes: 10
 
 - Test fitted a few different size heat shrink
 
-## Details
+### Details
 
 I have been waiting for my wing kit to arrive, and today I noticed the labels I attached to some of my wires went loose.
 
@@ -26,7 +26,7 @@ I also test fitted putting a wire protector around the cable, and use a 1/4 heat
 
 So I think I will do this to all my wires next.
 
-## Misc: Hangar!
+## Misc: Hangar
 
 Oh another thing that happened when I wait for the wing kit, I got a hangar!
 

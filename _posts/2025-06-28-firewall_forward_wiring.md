@@ -6,11 +6,11 @@ tags: [avionics,wiring]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Connected most wires around the battery in the firewall forward
 
-# Details
+## Details
 
 I spent most of the day today to build the battery cables with #2 gauge wire and connect them in the firewall forward section.
 
@@ -34,7 +34,7 @@ _Probe wires connected to shunt_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPwQokbXnJQZPRD70Kzzrb0jZbEBLXf1UVL3_2PojSt66Ge79TCS0AD33gfPREazJvcSMkNAZO1L-xTUhW_t8mPnWRDSaYvIR4DWDkUakHHry4Qau3_MQAux111ANpe1R1LjAPTRP0PT_nXnpCa0nPQtQ=w4080-h3072-s-no-gm?authuser=0)
 _#2 wire connected between shunt and master solenoid_
 
-## Battery ground
+### Battery ground
 
 One last wire I haven't connected is this #12 guage battery ground. This is not the lug from battery negative pole. That one are already connected to the airframe.
 

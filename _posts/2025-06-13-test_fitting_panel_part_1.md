@@ -6,13 +6,12 @@ tags: [avionics, panel]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Test fitted the instrument panel to dashboard
 - Installed rivnuts to dashboard doubler
 
-
-# Details
+## Details
 
 With most of the things surrounding the instrument panel completed, I am close to finally installing the panel.
 
@@ -25,4 +24,3 @@ I match drilled them to 4mm, then pulled them apart to install M4 rivnuts on the
 Then I put them all back together and installed a few M4 screws to hold them together. They are rigid enough for the next step (onto the airplane).
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM0wG7Ex4ceFdbQc8CGoWHfQrvwqXcaqueOju1kxlrAR0ccvI684jYTIX3dFsitsPRkj97NNIXWhdcaYUvUA60EKoSjmPwysUWmc4CaI3E3pVebRB7ADI6Z5JHiQ8AgjcKahkQuqFNS3ItNqKlTEFi4pw=w2274-h1712-s-no-gm?authuser=0)
-

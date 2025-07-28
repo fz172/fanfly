@@ -6,11 +6,11 @@ tags: [matco, brake]
 minutes: 45
 ---
 
-# TLDR
+## TLDR
 
 - Replaced stock brake with Matco dual piston brake system
 
-# Details
+## Details
 
 I ordered Matco dual piston brake system upgrade and the assemblies arrived a few days ago.
 

@@ -6,12 +6,11 @@ tags: [empennage, assembly, FN-ASS-S02-C-F-0-A-0]
 minutes: 60
 ---
 
-# TLDR
+## TLDR
 
 - Installed the elevator push rod
 
-
-# Details
+## Details
 
 So when I installed the elevator, I didn't install the eyebolt. In retrospective, it would have been much easier to install the eyebolt when the elevator is off the airplane.
 
@@ -22,5 +21,3 @@ Once the eyebolt was on, connecting the elevator with the long pushrod was easy 
 I think I might need to. adjust some pushrods either tighter or looser. I haven't figured out which one to adjust yet. This might become a experimental things and I just have to try a few different adjustments.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNwOJXA2E12oVlbzZwov3pLWKVPLoAFqWXH87VRbxrZD5QetyVjXlBg-S6Gazk0zXidSAZmld4VmVyqk5UDLQvl1Pa04iy5wBonyGtwY5oS_g28tnlu29gZehPMvewi2IM7-MpuMT7BOCy1n9w3b-yBYQ=w1290-h1712-s-no-gm?authuser=0)
-
-

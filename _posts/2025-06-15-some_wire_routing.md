@@ -6,12 +6,11 @@ tags: [avionics, panel, wiring]
 minutes: 90
 ---
 
-# TLDR
+## TLDR
 
 - Routed 2 cannon plugs (RE1/RE2) to the firewall
 
-
-# Details
+## Details
 
 This is again unplanned work. I almost forgot I needed to route these 2 plugs until I watched an youtube video from another builder,
 
@@ -24,4 +23,3 @@ So anyways, I connected the 2 connectors to the firewall. There are already 2 cu
 The wire to the connectors were not too difficult to route. The only thing is that the wire touches the back of the rack slightly. To prevent chaffing, I wrapped the wire with some silicone tape, and also glued some edge protector on the rack.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFrz3kT8jU0PM3SB1qRX1liyARfbsPcM0C9c9SGh02Y7BvAH0zAHAInyb7TVqWxip--gOb83dtJuojOZUBGMjg8GAQSMqlfaOw9EmbWwXxJw0U2t3Ympxb0rqqLUq08qwHpF0-8q3CLDh5P9zEvWxHuQ=w2274-h1712-s-no-gm?authuser=0)
-

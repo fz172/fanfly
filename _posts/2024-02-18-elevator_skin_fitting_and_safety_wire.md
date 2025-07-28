@@ -11,7 +11,7 @@ minutes: 120
 - Elevator skin (not including the tip skin) clecoed and tested for twist/straightness
 - Added safety wire to trim tab piano hinge
 
-## Details
+### Details
 
 The last piece remaining in my empennage kit is the elevator. I started to fit the skin and trim tab on the elevator spar assembly.
 

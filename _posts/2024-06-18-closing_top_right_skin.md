@@ -6,11 +6,11 @@ tags: [wing, WG-ASS-002-R-F-0, video]
 minutes: 120
 ---
 
-## TLDR
+### TLDR
 
 - Installed right leading edge
 
-## Details
+### Details
 
 The new rivet gun has arrived. I tried it on a few spare rivets and it worked. So I proceeded to rivet the right leading edge skin.
 

@@ -6,12 +6,12 @@ tags: [avionics, audio_jacks, wiring]
 minutes: 460
 ---
 
-# TLDR
+## TLDR
 
 - Conducted wire-to-wire continuity test on audio jacks (still in progress)
 - Fixed the wiring after the test
 
-# Detail
+## Detail
 
 I'm on a business trip in Taiwan recently so I didn't have much time doing work on the airplane before the trip. I managed to find a few hours to look into the ground loop issue so I started to conduct wire to wire continuity test on the audio jacks.
 
@@ -19,14 +19,14 @@ In the time I had, I was able to go through about half of wires on the rear pass
 
 I continued the testing when I got back home.
 
-## Expected behavior
+### Expected behavior
 
 According to Midwest Panel Builders, the audio jack barrel seeks ground through GMA245R.
 
 - When the harness is not connected to GMA245R, everything should be open. ie, barrel should have no ground to the airframe.
 - When connected, it should show continuity with airframe.
 
-## Test
+### Test
 
 According to my wire diagram, audio wires connects to GMA245R through HC connector.
 
@@ -36,7 +36,7 @@ So I designed my test to 3 parts:
 2. GMA245 disconnected, test continuity between audio jack and GMA245 connectors
 3. All connected, test continuity between audio jack and airframe.
 
-## All connected
+### All connected
 
 5 out of 8 shows ground. The ones not showing ground are
 
@@ -46,7 +46,7 @@ So I designed my test to 3 parts:
 
 This is the original state from last week when the whole situation drew my attention.
 
-## HC disconnected
+### HC disconnected
 
 No ground to airframe. This is expected, good.
 
@@ -62,29 +62,30 @@ I then showed a picture of the audio jack wires to MPB. They confirmed the solde
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMczfrCrS6z39N9so3hLPPht_vznZeQMHzMHdkC9CdSiDRCIWb37HU61I_B4D2QEcTpLDpDVIMg5VMWxNM9lT45-G8ErRDveJoYIHq5IBDh1ES660J80kPPRX_i8Q9vH5aIzUcxkyM4lr1Q3iOlhjubZg=w1284-h1712-s-no-gm?authuser=0)
 
-## GMA245 disconnected
+### GMA245 disconnected
 
 With HC connected but GMA disconnected, the test covers end-to-end audio jack wiring up to the GMA unit itself.
 
 In this test, the passenger headset pins should go to J2401 connector pin #40 #41 #42. However my #41 #42 slot on the connector has no pin at all. Instead, the pins are inserted to #38 #39. I confirmed with MPB that these need to be moved.
 
-## Test conclusion
+### Test conclusion
 
 The not-so-good news is that some wires are misconfigured.
 
 The good news is that MPB has been very helpful with the debugging process, and now I know what to do to fix the wires. Even though this is some unanticipated work, I am feeling pretty good about the progress so far.
 
-## Fixes
+### Fixes
 
-### J2401
+#### J2401
 
 I opened up the d-sub connector J2401, and rearranged the wires #38 #39 #40 to #40 #41 #42.
 
-### Audio jacks
+#### Audio jacks
 
 I cut the wires on both the left jacks and used crimp connector to reconnect them the correct way
-* Mic: swap the two wires
-* Headset: swap the ring and top wires
+
+- Mic: swap the two wires
+- Headset: swap the ring and top wires
 
 Then I put the jacks back to the rib and permanently secured them to the airplane.
 

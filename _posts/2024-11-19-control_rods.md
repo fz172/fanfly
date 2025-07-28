@@ -6,12 +6,12 @@ tags: [controls, joystick, video]
 minutes: 1500
 ---
 
-# TLDR
+## TLDR
 
 - (Work in progress) tweaking control rods to rotate freely
 - Prepared side skin
 
-# Details
+## Details
 
 ## Fitting the control rods
 

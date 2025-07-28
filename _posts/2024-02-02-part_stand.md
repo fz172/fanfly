@@ -11,7 +11,7 @@ mermaid: true
 
 - Built a shelf similar to the [EAA wing stand](https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/tools-and-workshop/how-to-make-a-wing-stand).
 
-## Detail
+### Detail
 
 Today was a easy day. I built a stand to store horizontal stabilizer using some 2x4s.
 

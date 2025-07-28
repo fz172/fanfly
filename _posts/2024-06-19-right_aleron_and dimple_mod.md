@@ -6,7 +6,7 @@ tags: [wing, tooling, AI-ASS-001-R-F-0]
 minutes: 120
 ---
 
-## TLDR
+### TLDR
 
 - Prepped right aileron parts
 - Modified dimple die to fit DRDT

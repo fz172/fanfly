@@ -6,11 +6,11 @@ tags: [parachute]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Bolted the rear parachute cable
 
-# Detail
+## Detail
 
 It took me two whole nights to bolt on the rear parachute cable.
 
@@ -24,7 +24,7 @@ It took me several tries to let the bolt catch the spar hole, and eventually I w
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP-wZG3120FCWmYXHhneKpAc7XpWNFhTCjc5Nqy7k01sULAXiFrYObd5lj8G-iWLHEXweEPHbfMAzBmQZrBe2zoNHXVOQK_Dbggpv8CGPTUPbRa4ju8XrT15UbmFxLYmZeDp_Q_ofKZR1rFP7fSSOIkKA=w2174-h2888-s-no-gm?authuser=0)
 
-## Problematic rivet
+### Problematic rivet
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPExT_VUo9BQAx4cXaCXpHQO6Q_qCZm-fv1acaDbZjSCoPuyRpe7tpngrCaWMxri38zsxvbO4x5qwINpr9jpITg-7UNdnjBkKKXIKeT-IHBZgOAUkB2L6xw1Nf0uTi-Uw2fEyO7VmnYJFX2nEtCiPVX_w=w2174-h2888-s-no-gm?authuser=0)
 

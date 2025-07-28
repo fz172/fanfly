@@ -6,12 +6,12 @@ tags: [wing, WG-AFT-003-L-F-0]
 minutes: 600
 ---
 
-# TLDR
+## TLDR
 
 - Sealed left tank front channel and ribs to skin
 - Cleaned sealant off tank skin
 
-# Details
+## Details
 
 This weekend I starting the sealing work on the left tank.
 

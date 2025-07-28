@@ -6,11 +6,11 @@ tags: [wing]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Installed the left wing tip
 
-# Details
+## Details
 
 While waiting for the sealant to dry on the left tank, I started to install the left wing tip.
 

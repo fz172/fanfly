@@ -6,13 +6,13 @@ tags: [wing, WG-AFT-003-L-F-0, video]
 minutes: 210
 ---
 
-# TLDR
+## TLDR
 
 - Left tank passed leak test
 - Installed the tank to the wing
 - An issue with a single rivet
 
-# Details
+## Details
 
 ## Leak test
 

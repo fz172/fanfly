@@ -8,7 +8,7 @@ minutes: 300
 mermaid: true
 ---
 
-## TLDR
+### TLDR
 
 - Received fuselage kit
 - Cleaned all parts for left aileron and flap

@@ -23,7 +23,7 @@ minutes: 360
 - Built right rib-1, rib-6
 - Started rib-7
 
-## Details
+### Details
 
 ### Inventory and priming decision
 

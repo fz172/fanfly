@@ -6,11 +6,11 @@ tags: [upholstery]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Installed a trim cover piece on rear fuselage
 
-# Detail
+## Detail
 
 So another thing I did today was to install a leather strip on the rear fuselage ceiling to cover all the rivet and glue at the rear/center fuselage connection.
 
@@ -19,8 +19,6 @@ I am not sure what to call this piece. The part name is rear fuselage jig. It's 
 It comes as a long leather strip with pre-marked drilling points. I followed the drilling points to create holes across the backing aluminum and the leather.
 
 ![ing](https://lh3.googleusercontent.com/pw/AP1GczMhDcuK8pkcnLr1X1pKxUJXaqZUv4D1K0GTkiq7axfYhUIBVGsl6ikLkFnkKxcxW7S1sRrIlYxC95JFpcMdMyk7rliXS66KuN_FElG_-gvT1FkSoJjK_r1IlelQ2XhH1EsvxjxQ3aymZpLWJ-h7jmMrLw=w2328-h3092-s-no-gm?authuser=0)
-
-
 
 Then I put it on the airplane and center it on the rear fuselage ceiling. As the piece was centered, I drilled matching holes into the canopy.
 

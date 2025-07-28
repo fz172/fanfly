@@ -7,7 +7,7 @@ tags:
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Connected tube for the static ports
 - Ran wire for comm1 antenna
@@ -15,7 +15,7 @@ minutes: 150
 - Partially assembled parachute box
 - Installed longeron 111 and antenna doublers
 
-# Details
+## Details
 
 Last week I used some fragmented time to work on small tasks. I think I've reached a point that I can close the rear fuselage skin, or at least can cleco them shut for a test fit.
 

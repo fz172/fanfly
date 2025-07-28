@@ -6,7 +6,7 @@ tags: [empennage, EL-ASS-001-C-F-0, video, fabrication]
 minutes: 120
 ---
 
-## TLDR
+### TLDR
 
 - Formed elevator tip skin to match composite tip
 - Shortened a bunch of 3.2mm rivets

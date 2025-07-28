@@ -6,12 +6,12 @@ tags: [RF-ASS-001-C-C-0-B-A-1]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Prepped the top rear fuselage top skin
 - Clecoed the left half
 
-# Details
+## Details
 
 Per normal practice, I deburred, scoffed and cleaned the top skin for the rear fuselage.
 

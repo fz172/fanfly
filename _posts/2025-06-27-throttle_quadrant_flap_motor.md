@@ -6,26 +6,26 @@ tags: [avionics, throttle_quadrant]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Test fitted the throttle quadrant
 - Tested flap motor
 
-# Details
+## Details
 
-## Throttle quadrant
+### Throttle quadrant
 
-So once the temporary center console & skins are in place, I placed the throttle quadrant to test fit. 
+So once the temporary center console & skins are in place, I placed the throttle quadrant to test fit.
 
 The brake line has tiny clearance with the flap motor, I was almost certain they will touch if the motor moved. So I decided to do a power up test on the flap motor.
 
-## Testing the flap motor
+### Testing the flap motor
 
-So I disconnected the PR1 harness connector, found pin 10 and 11, then put 12V power over the 2 pins. 
+So I disconnected the PR1 harness connector, found pin 10 and 11, then put 12V power over the 2 pins.
 
 The motor moved to top, and I used this position to redo the brake line routing to create enough clearance
 
-## Back to throttle quadrant
+### Back to throttle quadrant
 
 I needed to disconnect the brake line and re-clock the connector position in order to connect the quadrant and the brake lines without touching the flap motor. Eventually I got it done.
 

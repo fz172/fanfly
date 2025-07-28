@@ -6,33 +6,33 @@ tags: [CA-ASS-101-C-F]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Installed the canopy
 
-# Detail
+## Detail
 
 Today I installed the canopy using Sikaflex and rivets.
 
-## Sealing
+### Sealing
 
 The Sikaflex has a working time. Even though it's not as pressing as ProSeal, I still set a timer for each phase of the work.
 
-### Activator
+#### Activator
 
 I used Sikaflex 205 as the activator. It's clear liquid and easy to apply. I just wiped it along the canopy lip and waited for it to dry. This entire process took about 10 minutes.
 
-### Primer
+#### Primer
 
 Sikaflex 206 is used for this part. This is the dark stuff that people talk about. It's pure black liquid. And I used a art foam brush to apply the primer. The brush I bought from Amazon was a little oversized. I just cut it to exactly the size of the canopy lip so the primer fully covers the area, but does not make a big mess out of the connection area.
 
-### Sealant
+#### Sealant
 
 The sealant is Sikaflex 295 UV. It comes in a standard caulk gun bottle, and I squeezed it to the canopy using a Home Depot caulk gun.
 
 I followed with a rubber squeegee to smooth out the sealant and made sure everywhere in the connection area are covered by the sealant.
 
-### Fitting and riveting
+#### Fitting and riveting
 
 I then lowered the canopy onto the fuselage, and clecoed them every other hole.
 
@@ -44,7 +44,7 @@ Once I made sure the shape was satisfactory and every hole still aligned, I star
 
 As I pulled rivets, I alters between both sides of the canopy to make sure it's balanced, although I don't know how much it matters.
 
-### Post-process
+#### Post-process
 
 Before the initial sealant was fully dry, I used acetone to wipe off the excessive sealant on the skin.
 

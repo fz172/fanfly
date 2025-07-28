@@ -6,23 +6,23 @@ tags: [avionics, wiring]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Continued to tidy up wire harness
 
-# Detail
+## Detail
 
 Continued to tidy up wire harness, focusing on everything in front of the main spar.
 
-## below avionics rack
+### below avionics rack
 
 Tried to secure the wire bundle right below the avionics rack with a cable tie. It's not very secure, I think I will need to switch to a adel clamp.
 
-## Along the center console
+### Along the center console
 
 To provide some chafing protection, I wrapped silicone tap on all bends and anywhere that the wire might touch metal.
 
-## Main spar
+### Main spar
 
 I am concerned that the wires through main spar may touch some metal during flight and the vibration might eventually wear out the insulation. So Wrapped the wire bundle and the spar with some silicon tape. And secure them together with cable ties.
 

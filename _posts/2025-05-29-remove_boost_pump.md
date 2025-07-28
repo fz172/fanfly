@@ -6,15 +6,15 @@ tags: [boost_pump]
 minutes: 60
 ---
 
-# TLDR
+## TLDR
 
 - Removed the boost pumps from both sides
 
-# Details
+## Details
 
 Well I guess I spoke too soon last week. The saga on boost pumps are not done yet.
 
-Earlier this week Aerospace Innovations (the manufacture of the boost pump mod) sent out an email warning a check valve issue, and they suggested that I should 
+Earlier this week Aerospace Innovations (the manufacture of the boost pump mod) sent out an email warning a check valve issue, and they suggested that I should
 remove the boost pumps and sent them back for repair.
 
 So I spent an hour or so taking them off the wings and packaged them up for shipping.

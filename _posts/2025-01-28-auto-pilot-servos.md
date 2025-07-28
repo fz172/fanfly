@@ -6,19 +6,19 @@ tags: [autopilot_servos, avionics]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Installed Autopilot servos (GSA 28)
 
-# Details
+## Details
 
 I needed two GSA 28 for autopilot, one of roll and one for pitch.
 
-## Bolts
+### Bolts
 
 Installing the bolts and nuts were not fun, as the access is fairly restricted, but can be done. It took me quite a while but eventually I was able to torque all 8 bolts down.
 
-## Rotation stop
+### Rotation stop
 
 The other tricky part is that the Garmin rotation stop is too restrictive for Sling. I needed to grind both the stops down quite a bit to allow enough rotation space. I read this is the case from many other builders, so I just grinded them down before even bolting the servo into place.
 

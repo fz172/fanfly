@@ -6,12 +6,12 @@ tags: [ST-ASS-101-L-X, video]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Built the 2 front seats
 - Painted the back of the seats
 
-# Details
+## Details
 
 It took me a long time to figure out how to build the front seats, especially the pull lever mechanism to (presumably) adjust seat position. I spent about 2 hours building the first one, then once I figured out how to do it, the second one took a little more than an hour.
 

@@ -6,12 +6,12 @@ tags: [wing, WG-AFT-003-R-F-0, gasket_upgrade, video]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Conducted fuel leak test multiple times (Right tank)
 - Fixed leaks (Right tank)
 
-# Details
+## Details
 
 This is tracking a lot of small actions across a long month.
 

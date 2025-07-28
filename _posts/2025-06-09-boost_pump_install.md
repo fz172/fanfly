@@ -6,17 +6,17 @@ tags: [boost_pump]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Reinstalled boost pumps and tested for leak
 
-# Details
+## Details
 
 Previously I sent my boost pumps back to the aeroinno factory for service bulletin. They sent the repaired units back recently so I reinstalled them back on the wing.
 
 The work is exactly the opposite of the removal. I did ran into a bit of an issue when securing the AN fuel lines.
 
-So basically when I removed the lines, not all fittings were required to be removed. Due to this, some part of the fitting was almost clocked to certain angle. When I connected everything, I needed to be super careful about the angle so none of the lines were twisted. 
+So basically when I removed the lines, not all fittings were required to be removed. Due to this, some part of the fitting was almost clocked to certain angle. When I connected everything, I needed to be super careful about the angle so none of the lines were twisted.
 
 After putting everything together, I pulled out my trusty tyre pump and snoop leak detection liquid to conduct a leak test. I did not observe any bubble so I think we are good for now.
 

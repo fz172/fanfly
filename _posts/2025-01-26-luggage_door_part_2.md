@@ -6,11 +6,11 @@ tags: [luggage]
 minutes: 45
 ---
 
-# TLDR
+## TLDR
 
 - Installed the luggage door
 
-# Detail
+## Detail
 
 As one of the last few things on the rear fuselage, I finished installing the luggage door.
 

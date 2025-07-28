@@ -6,11 +6,11 @@ tags: [ducts]
 minutes: 60
 ---
 
-# TLDR
+## TLDR
 
 - Installed air duct near nose
 
-# Details
+## Details
 
 A couple of weeks ago I 3D printed a better designed duct connecting the naca port and the internal air flow pipes. I finally got around installing them.
 

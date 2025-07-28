@@ -6,7 +6,7 @@ tags: [avionics, RF-ASS-001-C-C-0-A-A-1, video, rudder_cable]
 minutes: 600
 ---
 
-# TLDR
+## TLDR
 
 - Got the replacement side step gusset and installed it
 - Installed rudder cable
@@ -15,7 +15,7 @@ minutes: 600
 - Installed rear fuselage skin
 - Found a damage on inner skin and fixed them
 
-# Details
+## Details
 
 ## Replacement Gusset
 

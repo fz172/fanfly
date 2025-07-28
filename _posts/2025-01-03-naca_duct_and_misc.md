@@ -6,14 +6,14 @@ tags: [CF-ASS-001-C-C-0, air_vents, avionics, static_port]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Installed naca duct
 - Installed the factory static port
 
-# Detail
+## Detail
 
-## Naca ducts
+### Naca ducts
 
 I placed the naca duct on the fuselage, and match drilled 2.4mm holes.
 
@@ -29,7 +29,7 @@ The naca duct is _very_ thin. I‘m not sure countersinking is safe enough here.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPa2Woy5dvVofZ5OCW8xK-smHeFCwE42aWNH1KdXyLKb2Q5OxKM4fbEneF2Hj7MJxDv2ALvbIh8troi8tPixcBKntAA-vEO1evNHxaPyJgHBaH2rAqWzg7W-HVNaUepjhMoM1PjAptbT6FdX86qK8Sy5g=w2282-h1712-s-no-gm?authuser=0)
 
-## Static port
+### Static port
 
 The factory designed static port goes in front of the naca duct. It also comes with a shield around it.
 

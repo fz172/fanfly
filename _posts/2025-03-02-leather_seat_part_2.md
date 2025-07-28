@@ -6,16 +6,16 @@ tags: [upholstery, throttle_quadrant]
 minutes: 200
 ---
 
-# TLDR
+## TLDR
 
 - Finished seat upholstery
 - Throttle quadrant vinyl revision 2.0
 
-# Detail
+## Detail
 
-## Upholstery
+### Upholstery
 
-### Front seats
+#### Front seats
 
 I finished putting together the seats and installed the upholstery on all seats.
 
@@ -23,7 +23,7 @@ Previously I was missing a few bushings to finish the front seat. I received the
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO-hG7nMfkLmPqPwc93cXr9Pm_oooA82pdoCJE5IBMPssVcWgc_fkQEv_AoR2l4jBf8B0M1tcsHLcU0vle7GmJyEyoEfP71pmxWeCBz0g7WGQmLaCvLwsT9sMNekkLtVs5kjYTnG-Pcg4XmHBJlsyHkHw=w3836-h2888-s-no-gm?authuser=0)
 
-### Passenger seats
+#### Passenger seats
 
 The passenger seats on the back are slightly more difficult to upholster. There are a few screws that needs to go through the upholstery material into the rivnuts behind.
 
@@ -37,7 +37,7 @@ The time consuming part is finding the right position to burn holes. I was a a l
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN8EJHiI-JTEct6FmJC5U2J9gCukQeMWoGns7H45UE3rj7diKW0rdcnItLaZYhG4Sjl_JizDO61j-PLgwtx7qSLykGK7pD0UEk19P_O7zZHdQsGnK2cYxok1ANDFeQ-wSh2l3J2jDBjGIk3j2twKZhqcA=w3836-h2888-s-no-gm?authuser=0)
 
-### Mystery part
+#### Mystery part
 
 And in my kit I have a mystery part. The KAI has no mention of this part, so I sent a question to Sling Technical. They got back to me with the following picture, which helped a lot.
 
@@ -45,7 +45,7 @@ And in my kit I have a mystery part. The KAI has no mention of this part, so I s
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOgZKHcU57es4vd8kiGdgo99AkR1iT2Vcul5lD2RvLbkKx8iqeZz2c0jVeTH2bfrZuPwshCXMJ-upwo8njdx0Wi7WsLUAONYVqbkKdINU2srnSqUT7I1vJt57d0GtQI_BGyqt8pkhjwg7saZL7xVMIoEA=w2166-h2888-s-no-gm?authuser=0)
 
-## Throttle quadrant vinyl v2.0
+### Throttle quadrant vinyl v2.0
 
 Learning from the last print, I fixed the vinyl for the throttle quadrant. The issue is that the text size is too small, so I couldn't peel off the letters to make a good transfer onto the throttle quadrant metal.
 

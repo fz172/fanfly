@@ -6,7 +6,7 @@ tags: [wing]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Misc: added strap to wing stand
 - Misc: filled some rivets with superfil

@@ -6,15 +6,15 @@ tags: [brake, throttle_quadrant]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Started to work on brake lines
 
-# Detail
+## Detail
 
 I started to install brake lines and test fitted some of them in the fuselage.
 
-## gear to fuselage
+### gear to fuselage
 
 I inserted the 2 line lines from wheel through the gear.
 
@@ -26,13 +26,13 @@ I inserted the 2 line lines from wheel through the gear.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNQB6HpLqmxHv99qlCW-bCOiYxr9NIwjhE5G8Tms3Y2_CVa7dF5rDwclHnX0D7fp30rZ7iTdYzJswg5-iRTQm0noqyBepQZLHr8t_Vw5i-JD3GYnIjL1rKWpoW05dRkuzl1oZUFvBTKY7W3NT2RonQBdA=w2174-h2888-s-no-gm?authuser=0)
 
-## Throttle quadrant
+### Throttle quadrant
 
 I also replaced the nylon tubes in the throttle quadrant with aluminum lines.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM2U6nho2Z7yiaiiTgzU2ZMQltIeFK7cRewXs42Wp4xZvyA0zC2g3U8hN1ZreFC3sYHFwyQi1WUVMYBqqQqn-CPC1cXAl5F0mQr8iSXyAecLMW5naYD-iYzMPIUhEmd52b4KURIIjfaSPBw8cTbyUtlPA=w3836-h2888-s-no-gm?authuser=0)
 
-## The rest of brake lines
+### The rest of brake lines
 
 I placed the lines in the fuselage where they are supposed to be, but haven't installed them.
 

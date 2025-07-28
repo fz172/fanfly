@@ -6,12 +6,12 @@ tags: [CF-ASS-001-C-C-0]
 minutes: 140
 ---
 
-# TLDR
+## TLDR
 
 - Cleco-ed side skin to fuselage
 - And riveted some non-essential parts
 
-# Details
+## Details
 
 So I need to install the side skin (and possibly the firewall) before continue with the joystick, because the joystick sits between center fuselage and the rear fuselage. I need to get the two parts connected and at their final position to ensure the connection angle is finalized. Otherwise I won't know for sure how much more shaving I need to do on the joystick bushing channels.
 

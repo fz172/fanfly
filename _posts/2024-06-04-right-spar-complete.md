@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
 minutes: 240
 ---
 
-## TLDR
+### TLDR
 
 - Installed all right ribs
 - Built inspection hatches

@@ -7,11 +7,11 @@ minutes: 60
 mermaid: true
 ---
 
-## TLDR
+### TLDR
 
 - Wired up connectors for trim motor
 
-## Details
+### Details
 
 I added 2 Delphi connectors for the trim motor to connect to the tail harness.
 

@@ -6,12 +6,12 @@ tags: [wing, landing_light]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Created a new landing light doubler for the left wing
 - Tried to make a new landing light cover, but failed. Will try again.
 
-# Details
+## Details
 
 As I wrote on the previous blog entry, the landing light cover did not fit at all. I tried to force it into place, but it snapped and broke.
 

@@ -6,11 +6,11 @@ tags: [CT-ASS-002-C-A-0]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Installed the rudder pedals
 
-# Details
+## Details
 
 First step was easy. I cleaned the parts and installed the base plates that holds the rudder pedals.
 

@@ -6,11 +6,11 @@ tags: [avionics]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Made some support angle for the avionics rack
 
-# Detail
+## Detail
 
 I test fitted the avionics rack and made some support angle for it.
 

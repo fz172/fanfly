@@ -6,16 +6,16 @@ tags: [CA-ASS-101-C-F, avionics, painting]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Primed and painted Canopy interior
 - Wired interior canopy lights
 
-# Detail
+## Detail
 
 I started to work on the canopy last few days.
 
-## Painting
+### Painting
 
 While access was still easy, I painted the interior of the canopy over the weekend.
 
@@ -34,7 +34,7 @@ _Cabin Painted_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMT7it6-8nwKFvdYDZyVupzAkGmeTulviEQQnWAoo0ypPx_v3X5I8NwULOZKGYyiM4Wm5ybHeEDIhQ7HD9CwTSO4Upng-uyzvZ4p7oal181z0_USv0J8tAeWcO3MMJtFeKiOq_0mAjP9yzeF9Kf_ryrvg=w2274-h1712-s-no-gm?authuser=3)
 _Doors Painted_
 
-## Lights wiring
+### Lights wiring
 
 After the paint was dry, I ran the wires for the cabin lights. This has to be done before fitting the canopy, otherwise I will lose the access to the wiring conduit once the canopy is attached to the airplane.
 

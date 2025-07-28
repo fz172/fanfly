@@ -6,14 +6,14 @@ tags: [luggage, throttle_quadrant]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Completed luggage door installation
 - Started to design throttle quadrant labeling
 
-# Detail
+## Detail
 
-## Luggage door
+### Luggage door
 
 The last thing I need to do on the luggage door is attaching sealing rubber, which I bought from McMaster Carr, and make sure the locking plate closes without gap. ie, the door cannot have "play" when closed.
 
@@ -38,7 +38,7 @@ After the spacer plate is installed, the lock closes just right. There is no mor
 
 Since the door itself was manually bent to match the curvature of the airframe, there is some unevenness around the door. But it mostly fits the airframe, so I think I will call this part officially done.
 
-## Throttle quadrant labeling
+### Throttle quadrant labeling
 
 And I started to design the label on the throttle quadrant. The plan is to use a Cricut machine to print the labels in vinyl instead of going the powder coating routing. The benefit is that it's a very easy process, but won't be as permanent as powder coating. I will monitor the long term effect.
 

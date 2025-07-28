@@ -6,12 +6,12 @@ tags: [CF-ASS-001-C-C-0]
 minutes: 420
 ---
 
-# TLDR
+## TLDR
 
 - Continued to rivet side skin
 - Installed the firewall mounting strips
 
-# Details
+## Details
 
 ## Side skin riveting
 

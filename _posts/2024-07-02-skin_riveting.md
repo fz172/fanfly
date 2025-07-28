@@ -6,11 +6,11 @@ tags: [wing, video, WG-ASS-004-L-F-0]
 minutes: 180
 ---
 
-## TLDR
+### TLDR
 
 - Riveted left bottom skin
 
-## Details
+### Details
 
 The riveting process was tedious pretty standard. Most rivets aligned perfectly. Towards the outboard section a few holes needed to be match drilled.
 

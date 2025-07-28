@@ -6,14 +6,14 @@ tags: [CF-ASS-001-C-C-0, throttle_quadrant]
 minutes: 150
 ---
 
-# TLDR
+## TLDR
 
 - Filled some rivets
 - Countersunk seat rails
 
-# Detail
+## Detail
 
-## Rivet filling
+### Rivet filling
 
 Amy decided to help, so we turned to rivet filling as a little weekend project.
 
@@ -27,7 +27,7 @@ We were able to get through half of the left side fuselage skin. Not bad for a w
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNfpghnqFiz34AyHfP_8l5Z7NtOml_FIPOqDjio7WX4kM22sKVDCEIVxoJ6sRqLSWxl1tQs2hvlA30RyQ3Z6b2m7nFFGNwe3UAlb2XXgv_Aejs3nS6v0EbvY06IVKgytbOFvTOeNDjBXPy6SlQ2z0cilg=w2274-h1712-s-no-gm?authuser=0)
 
-## Countersinking seat rails
+### Countersinking seat rails
 
 Another thing I did was that I countersunk all the holes on the seat rail as part of the center console.
 
@@ -39,7 +39,7 @@ Very tedious, but not difficult. It took me a while to get everything done and t
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMjC5sdEbnVQcFG-ney8LOkQjdPLrcJjImMk1PzR6IS_uqoQP_70YYjSW1WxTYnKKet1cDPYVOsxKHhVXnyPz9wrJz02NFlnkJ19oH5ziJnvAMmk1K3t1uEl31hEAzvbDHCM0llvk38R_s4OIqHdEog-w=w2274-h1712-s-no-gm?authuser=0)
 
-## Un-assembling the throttle quadrant
+### Un-assembling the throttle quadrant
 
 I also un-assembled the throttle quadrant.
 

@@ -6,14 +6,14 @@ tags: [avionics, audio_jacks, wiring]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Upholstered the rear fuselage rib
 - Discovered potential ground loop issue when reconnecting audio jacks
 
-# Detail
+## Detail
 
-## Upholstery
+### Upholstery
 
 I don't remember the source, but I was looking at someone else's picture on the rear section and realized I forgot to glue on the leather skin for the rear fuselage skin. That's the skin going over the rib behind rear passenger door.
 
@@ -23,7 +23,7 @@ So I removed the 4 audio jacks, and used cement concrete to glue the leather ski
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPmeMMFW6e6_ohYS6G6diCABWLQ1FyS474fKwp8JvU4Xdtw6k3sxmN_2IW1ltEx5F9gLC2TcRtDuSapCJ0wgzy0R_MA6Ei0oCJLddhMaCH4xNV9zOSx4HcNvb4-QbrDQ1e-g6iwR2s85LHpLXJR3HM5rw=w2174-h2888-s-no-gm?authuser=0)
 
-## Audio jack issue?
+### Audio jack issue?
 
 I put a question mark on this section because at this point I still don't know if I really have a problem. I hope not.
 

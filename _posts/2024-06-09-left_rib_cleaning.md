@@ -15,12 +15,12 @@ tags:
 minutes: 140
 ---
 
-## TLDR
+### TLDR
 
 - Cleaned right wing top root skin
 - Cleaned all left ribs that requires assembly
 
-## Details
+### Details
 
 My fingers are still raw from riveting the bottom skin, so I did not do anything heavy weight today.
 

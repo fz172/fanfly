@@ -6,16 +6,16 @@ tags: [avionics, wiring, antenna]
 minutes: 450
 ---
 
-# TLDR
+## TLDR
 
 - Did more clean up on harness wires
 - Installed another chunk of harness on rack
 - Installed a few BNC connectors
 - Installed GPS
 
-# Details
+## Details
 
-## Wiring & harness
+### Wiring & harness
 
 I continued to connect and clean up harness throughout the fuselage, more focusing on the avionics rack.
 
@@ -35,7 +35,7 @@ With this harness in, I am able to see more clearly how long each wire needs to 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPi-LdSnpBPdaecdsiGkzJwm8z4TAHE83ayVbqkhFTfjJ2hXt0r5UsE31QXDkEsjXaFHDTjnltaj04CIzFwVmCLeUpsnvpaCfvSCZ3iGO7Q3W7w5g1nSi3lqgNSYCTWwSX9NF6oKR_B2noqMFqL5YPs_g=w1256-h1674-s-no-gm?authuser=0)
 
-## Flap connector
+### Flap connector
 
 The connector for the flap motor was not pre-installed. They gave me a few wires pre-crimped with the pins, but I needed to match the wire on the flap motor and assemble the CPC connector. With the wire diagram I was given, this was pretty straightforward.
 
@@ -44,7 +44,7 @@ _Flap motor connected_
 
 And I zip tied extra wires on the motor itself. They seem to be fine sitting there. I might cut them shorter before installing the center console permanently. We will see.
 
-## Antennas & GPS'es
+### Antennas & GPS'es
 
 Also worked on crimping some BNC connectors: Rack end of the comm1 and fuselage end of the XPDR. With that, I was able to finish the XPRD antenna part of the build.
 

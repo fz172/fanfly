@@ -6,15 +6,15 @@ tags: [avionics, gmu11, video, wiring]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Connected the rest of wires for first power on
 - Turned on power for the first time
 - Debugged GMU11 Issue (to be continued)
 
-# Detail
+## Detail
 
-## Wiring
+### Wiring
 
 In the morning, I connected the battery ground wire from the MPB harness to the airframe. This completes all the required wiring to supply power to the panel.
 
@@ -26,7 +26,6 @@ Then I finally was able to figure out the correct length of the G3X GPS wire. I 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNugSFs5p6rQyahrBzi1ctJ92WGbaOw9fTKLLrqLYCNiwBFdp9c2hZPHv6jp5XGZYukkpzgtlk5YgEX-o2iLEejFBMJl17-FoDUgHU099I-TfUAwAL7Y50Q0WR0chU7T3SV-U63e1-YfJM6UMFn-git5g=w4080-h3072-s-no-gm?authuser=0)
 
-
 After that, I put the G5, GNX 375, G3X onto the panel one by one and connected their wires.
 
 I am not particularly happy about the 375 wires. The 375 rack has a metal piece sticking out and touching a wire bundle. And the GPS cable for the 375 unit was bending more than what I want. Once the test run is done, I will need to figure out something to protect the wire here.
@@ -37,9 +36,9 @@ _Metal rubbing wire, and GPS cable over bent_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMClLyIlxDpC-yX0-zBY2hvBMxR1FoHn87I-W4Ov6gh1LsAvXd5PHtxD8FQ4m14PDH-2ycCwddUjgfFiE2TQLhjnj5sS_GgfyRFpLUFXuRbMT1NubxCYoANL1SmlGKL-Ox2HFvsNB1M9rvqoO7eWVvROw=w4080-h3072-s-no-gm?authuser=0)
 _All important things are connected_
 
-## Power on test
+### Power on test
 
-### With backup battery
+#### With backup battery
 
 With a flip of EFIS Backup switch, the screen turned on!
 
@@ -49,7 +48,7 @@ Lots of errors, of course! I haven't connected the engine. Neither have I calibr
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPGrsmlBkcV095Y0V1kP5Sbc8nUgWMlBe1RFUu_EMTGYAo0nQlyY4CTfFq9YOJQ-zdlFObXp17ZKGcH1kOtPXXunFEthhDcKfPzxOFolvW37wvGb_TxbUYQc34gTtnnd-Ro2BaSwjH5LUOm6Y-kb089rA=w4080-h3072-s-no-gm?authuser=0)
 
-### With main battery
+#### With main battery
 
 Then I turned off the backup battery and turn on master switch.
 
@@ -57,13 +56,13 @@ Then I turned off the backup battery and turn on master switch.
 
 This time the G5 also turned on.
 
-## GMU 11 Issue
+### GMU 11 Issue
 
 During the test, master caution light turned on. The PFD has a message "Magnetometer power supply fault"
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPMdH-WSYpF3xRlPlFhD_zaUAswGMjZV0ibtKauvHJfv6NNGYaD9p0Vd4CiWen1nTLSVOsyhFDpzchf23uPV47qkqv25Yyn80x7OYcrJ4atl4a6DLqJX6plD4JbVJCDu_GwWNXbsUtwMT5dJsIWYFa7lQ=w4080-h3072-s-no-gm?authuser=0)
 
-This is a concern. 
+This is a concern.
 
 I emailed MPB for their opinion. They suggested to check the ground and power on GMU 11 end, which made sense.
 
@@ -71,9 +70,9 @@ So I took off the DSUB connector to investigate.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOaEM93rZzwVsXs5ZK0XiVeHF9Pe20lct-fJe1NLGjzPvcuMTMM4Lw_pLnREKoc8DLuARRwk378RCxWj1TS9PiPGSNqc9okHd_F2T7pvNe59uHAJNkf8qu9U6NDvi-l_bhq7SYshSojeZGSurZuA5TWcQ=w2328-h3092-s-no-gm?authuser=0)
 
-This was probably one of my first connectors. Obviously I didn't have nearly enough experience. On the first glance I didn't put any silicon wrap on the stress relief. I'm glad I took it off for debug. Otherwise I might not be able to find this out and improve. 
+This was probably one of my first connectors. Obviously I didn't have nearly enough experience. On the first glance I didn't put any silicon wrap on the stress relief. I'm glad I took it off for debug. Otherwise I might not be able to find this out and improve.
 
-So I took the connector apart and checked the pins. I'm not sure what steps I was following when building this, but the pins were not really where they were supposed to be at. 
+So I took the connector apart and checked the pins. I'm not sure what steps I was following when building this, but the pins were not really where they were supposed to be at.
 
 I tried to use the D-sub pin extractor tool to pull the pins out. It was a PITA and was not successful. I actually pulled a wire out and left its pin in the slot.
 

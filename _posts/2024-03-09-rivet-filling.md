@@ -6,12 +6,12 @@ tags: [empennage, EL-ASS-001-C-F-0, video, rivet_filling, avionics, trim_motor]
 minutes: 30
 ---
 
-## TLDR
+### TLDR
 
 - Filled and sanded rivets on elevator
 - Tried and failed to install trim motor
 
-## Details
+### Details
 
 ### Rivet filling
 

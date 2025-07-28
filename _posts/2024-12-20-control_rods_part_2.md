@@ -6,11 +6,11 @@ tags: [controls, joystick, rudder_cable]
 minutes: 720
 ---
 
-# TLDR
+## TLDR
 
 - (Work in progress) Still tweaking control rods to rotate freely
 
-# Details
+## Details
 
 For almost this entire week, I am still tweaking the control tubes and shaving off materials here and there.
 

@@ -6,11 +6,11 @@ tags: [CF-ASS-001-C-C-0]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Riveted most of the side skin
 
-# Details
+## Details
 
 Today I spent a few hours riveting the side skins.
 

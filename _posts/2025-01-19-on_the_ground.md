@@ -6,11 +6,11 @@ tags: [moving, video]
 minutes: 25
 ---
 
-# TLDR
+## TLDR
 
 - Moved the airplane to stand on the ground
 
-# Detail
+## Detail
 
 ## Lowering the wheel to a ramp
 
@@ -22,7 +22,7 @@ The airplane was super light, but it's bulky. We carefully moved the plane aroun
 
 The only gotcha is that the plane was very tail heavy right now, so we put a sawhorse and a work table under the tail to hold it.
 
-## Removing temporary stiffeners
+### Removing temporary stiffeners
 
 And once it's on the ground, I happily removed the temp stiffeners that was supposed to hold the fuselage shape.
 
@@ -30,6 +30,6 @@ And once it's on the ground, I happily removed the temp stiffeners that was supp
 
 Now I will have some space to work on the internals.
 
-## Video
+### Video
 
 {% youtube W9bkeQqL4dc %}

@@ -6,15 +6,15 @@ tags: [UN-ASM-001-X-F]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Made a shim to fill landing gear gap (left side)
 
-# Detail
+## Detail
 
 My landing gear has a 1.0mm gap on the left side, so I need to make a shim to fill the gap before torquing down the landing gear.
 
-## Step1: made a shape template
+### Step1: made a shape template
 
 I placed a card board inside the cockpit on the other side of the landing gear bolt insert. Then I traced the shape of the shim I needed to make.
 
@@ -24,7 +24,7 @@ I then test fitted the card board template, it seemed to work.
 
 ![template](https://lh3.googleusercontent.com/pw/AP1GczMeVqfdL2qtdEVV_Znn7qM7qkb61Imr0sZLY6xXn0X7bYDTrDxq5G36cUbXoe4JROGBAUDU853IIhSMuxYe4g_b9U8p7ToTHaUmXuUyeOtSN2V68JeMJOIXBHshE0T-uC45B31NNjmCur2a8Msgy6pDJQ=w4080-h3072-s-no-gm?authuser=3)
 
-## Step 2: made the shim
+### Step 2: made the shim
 
 I ordered 1.0mm steel stock from McMaster.
 
@@ -34,7 +34,7 @@ Lastly, I drilled the 10.0 mm holes and deburred them. It's significantly harder
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMwEbV3CHqa5jZ08mJ_CoBx0nIOZ9ENI9AWC9TpeuY8LGIr0usDtJgcHJY92a9JQTpXCXulKUme9Y02fK3c06ICRQpCdV4wsgzpzgx5Hwv-fFtUhpF38a9_E_GBAzA0ngXyu03DcNqOQuDJC4uZ9pL3pA=w3836-h2888-s-no-gm?authuser=3)
 
-## Step 3: Test fit the shim
+### Step 3: Test fit the shim
 
 I then put the shim on the airplane to make sure the bolt go indeed go through the holes without interference.
 
@@ -42,7 +42,7 @@ To test fit the part, I had to fully remove the landing gear to get enough acces
 
 After that, I put a tiny bit of pro-seal on the shim to make it stick to the channel so it doesn't move when I mount the landing gear.
 
-## Step 4: Final mounting
+### Step 4: Final mounting
 
 After the shim is in place, I remounted the landing gear.
 

@@ -6,14 +6,14 @@ tags: [RF-ASS-001-C-C-0-D, luggage]
 minutes: 90
 ---
 
-# TLDR
+## TLDR
 
 - Clecoed the luggage door
 - Clecoed the seat stop brackets
 
-# Details
+## Details
 
-## Luggage door
+### Luggage door
 
 With most of the rear fuselage clecoed, I put on the luggage door (also just clecoed).
 
@@ -24,7 +24,7 @@ The instruction gave the measurements of where to bend. I drew a line along the 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOlRmP2_bXL6PTFrbIxbtqtIWeimpiJcP6igzTTh7pWwLZe6hB-zxhPFdHbWDol4k-rDGAs_1FsGQraXUlN2c78Fs5ysv5W4JSOdZHgaPYgsWxO_y6QoVGd07sNFGZEBkL3r-Yua0m-qeJkXFcYzDnkKA=w2274-h1712-s-no-gm?authuser=3)
 _Door bent to match fuselage curvature_
 
-## Seat stop brackets
+### Seat stop brackets
 
 Then I clecoced the rear seat stop brackets next to the luggage door.
 

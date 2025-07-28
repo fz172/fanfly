@@ -6,21 +6,21 @@ tags: [cabin_heater]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Built the cabin heater assembly
 - Installed mounting rivnut on firewall
 - Installed fan speed knob
 
-# Detail
+## Detail
 
-## Fan speed knob
+### Fan speed knob
 
 The knob circular but has a flat slot. The panel's hole has a match slot. So it's easy to align the direction.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN0dAoB2Q4K0wpfX6r02ZjFwu24f4HCatPZzLZl0fweZcikEXVZjRxfJM1WLTKVeAaGBEMeRTW3pwICtfSCdDWaCDTSjR6PUowZ-MrjbVppmP-tFpQprrVrI7rCo1tkqBltOnFNYswBRuieVKBI5iFyCA=w2282-h1712-s-no-gm?authuser=0)
 
-## Cabin heater assembly
+### Cabin heater assembly
 
 I first unscrewed the heater box to pry open the case. Then I inserted the bottom piece before I redid the screws. It's curious why they build the heater with the bottom piece separated and requires this additional step.
 
@@ -28,7 +28,7 @@ I first unscrewed the heater box to pry open the case. Then I inserted the botto
 
 There are 4 mounting plates that needs to go onto the heater after that. They require self-tapping screws but I couldn't find any in the kit. So I just bought some from Amazon. The rest is pretty easy.
 
-### Hose
+#### Hose
 
 I bought the higher quality silicone hose from Aerospace innovations. The installation steps are identical to the rubber hose sent from Sling.
 

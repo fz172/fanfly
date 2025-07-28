@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-002-R-F-0]
 minutes: 480
 ---
 
-## TLDR
+### TLDR
 
 - Completed right top skin prep
 - Completed right (outboard) leading edge prep

@@ -6,13 +6,13 @@ tags: [wing, video, avionics, landing_light, eaa_tech_counselor]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - EAA tech counsel visit
 - Installed landing lights
 - Left skin closed
 
-# Details
+## Details
 
 ## EAA tech counsel visit
 

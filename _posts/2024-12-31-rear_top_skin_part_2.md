@@ -6,11 +6,11 @@ tags: [RF-ASS-001-C-C-0-B-A-1]
 minutes: 45
 ---
 
-# TLDR
+## TLDR
 
 - Clecoed the right half rear top skin
 
-# Details
+## Details
 
 I've been procrastinating this task for a while. On the one hand, I need to close the rear skin as soon as possible and make space for my workshop. And if every hole lines up it will also validate the overall alignment of the fuselage. So it's really important to get this done. But I've been dreading because it's a bulky part, and I am also secretly afraid what if holes _don't_ line up.
 

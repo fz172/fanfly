@@ -6,13 +6,13 @@ tags: [CF-ASS-001-C-C-0-B-A-2, CF-ASS-001-C-C-0-A-0-A]
 minutes: 450
 ---
 
-# TLDR
+## TLDR
 
 - Installed ribs to main/rear spars
 - Rivnuts on various channels
 - Started on bottom front floor skin
 
-# Details
+## Details
 
 ## Ribs on spars
 

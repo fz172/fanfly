@@ -6,11 +6,11 @@ tags: [RF-ASS-001-C-C-0-B-A-1, luggage]
 minutes: 90
 ---
 
-# TLDR
+## TLDR
 
 - Tried to fit luggage floor skin but couldn't make it fit
 
-# Details
+## Details
 
 I am working on Tsi fuselage KAI's page 29-30 installing the luggage floor. I clecoed support channels and the floor to test fit, however I'm running into a problem with the floor skin's flange on both sides (please see picture).
 

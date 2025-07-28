@@ -6,11 +6,11 @@ tags: [UN-ANS-003-C-X-0]
 minutes: 90
 ---
 
-# TLDR
+## TLDR
 
 - Assembled both landing wheels
 
-# Detail
+## Detail
 
 The wheels came half-assembled but the inner tube is not inside the outer wheel, so the whole assembly needs to be taken apart and reassembled to put everything back correctly.
 

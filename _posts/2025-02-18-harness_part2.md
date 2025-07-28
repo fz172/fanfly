@@ -6,12 +6,12 @@ tags: [avionics, harness, gtr205xr]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Continued routeing the wiring harness
 - Put GTR 205xR on the radio rack
 
-# Detail
+## Detail
 
 ## Wiring harness
 
@@ -26,7 +26,7 @@ I was worried the depin tool might not able to push out all the pins and get stu
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN1yEqItnlfB8m_0xMUMnaAWz6Hnw2TAs4STB-fSN2jgolbb3UAzFyiNzEUglHUiO6Y8BIrmvNXYN3SxKR9dYj17AkjYuD4QAsqO7xWnsGwy7sfFQcovk-V_O2NZH36yh8uzRsgj5JcC62N_wONcBxRNw=w2274-h1712-s-no-gm?authuser=0)
 _The connector is now at its final location_
 
-## GTR 205xR
+### GTR 205xR
 
 Next I did was installing the GTR205xR to the radio rack. I want to do this so I can get an accurate placement of the coax cables, then I will be able to crimp the other end and install the GPS on the back.
 

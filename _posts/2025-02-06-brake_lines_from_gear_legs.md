@@ -6,13 +6,13 @@ tags: [controls, brake]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Installed brake lines from gear legs to fuselage
 
-# Detail
+## Detail
 
-## Outside fuselage
+### Outside fuselage
 
 After pushing the PTFE brake hoses from the gear leg to fuselage, I installed the AN3 fittings on the hose end.
 
@@ -26,7 +26,7 @@ Then I installed the bulkhead fittings and connected the hoses to the fuselage.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOTg2NOXgSJU5bfM-F1fkeUxQ-vw6tUpo6EyQiizPaTGgKxNfx6ItsEeA02WbzuUoNtqpCv4VPHmQM9ZSqahVp49m4IXEKfKVQ2s1g5UQmsCl6kIJFMetpGfBKJevMigJRJRgn4ccNSUpzSOatIAEwEfA=w3836-h2888-s-no-gm?authuser=3)
 
-## Inside fuselage
+### Inside fuselage
 
 On the inside, I connected the bulkhead to 2 straight hoses meeting at the center, then connected them to a tee going to the throttle quadrant.
 

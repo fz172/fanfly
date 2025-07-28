@@ -6,14 +6,14 @@ tags: [upholstery]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Continued carpeting in the luggage area
 - Installed the leather on center console
 
-# Detail
+## Detail
 
-## Luggage area
+### Luggage area
 
 Not much to report. I continued to carpet the luggage area. Some parts fits the area really good, but some parts required significant trimming.
 
@@ -23,7 +23,7 @@ The glue instruction says I need to wait 5 minutes to 4 hours before putting the
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNxQUdlCMX5pGV9TCRYR4fd4Z8GwQWacf7ePPV2Fmx3vmCIqFkLe44MxYc_fvWLxUQQzYET4l-V3Cstq3BESLuKtY5iXt9kL209Nx_pulKw6sj4VUQf7hoxFb4ossmDdIjjuvlP9GtcX1IcVLXqKd55lA=w2274-h1712-s-no-gm?authuser=0)
 
-## Luggage door
+### Luggage door
 
 I glued 16-A and 16-B near the luggage door, but I had to take them off.
 
@@ -33,7 +33,7 @@ So I ordered the rubber seal from McMaster. I will have to install the rubber se
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMtzgDzAJXy7JgjVf5lqgIb8K8V00eBm3bMvhRgns55wf0KuWk61vGiEPqgNYVJZoFG5rwOCID-bSuSlMaptwMV0El12qt4ohXeQpPZXCFCDrdeXd9Y-zyDMwEciVVY5MgZJiZq1bUUoIMBKcXfil_jAA=w2274-h1712-s-no-gm?authuser=0)
 
-## Center Console
+### Center Console
 
 I followed Evan's [video](https://www.youtube.com/watch?v=IoBYTvSrca8&list=PLQcGDbAAIZb00QsNn6om0xTirTiVaLn3h&index=16) exactly on putting on the leather for the center console. There were no surprises, but took some artistic work. I'm not an artist, so the outcome has some flaws. But I'm also not an perfectionist, I am pretty happy with the end result.
 

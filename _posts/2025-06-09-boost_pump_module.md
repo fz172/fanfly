@@ -6,7 +6,7 @@ tags: [boost_pump, avionics, cabin_heater, upholstery, wiring]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Installed the boost pump control module
 - Connected cabin heater duct on the copilot side
@@ -14,11 +14,11 @@ minutes: 360
 
 I planned to just install the boost pump control module but ended up doing much more.
 
-# Details
+## Details
 
 The boost pump comes with several electronic parts. Today I installed the control module box.
 
-## Controller Positioning
+### Controller Positioning
 
 The recommended position for the control module is in the center channel below the avionics rack.
 
@@ -35,7 +35,7 @@ _Installed on the skin_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN6yyyYT73oJcHvHXcPVOnDg9N-I-k1WuuqbEAryRp77xSkJi8VKevsuiHCSiaxPyPeROho_qIWASIZr6NwUQQXIn3cFm9isyEHvYNIE8yRIQTrrqFoQNib_T874-IPCoagES4W65BkVUc4vyR1T-2r1g=w3784-h2838-s-no-gm?authuser=0)
 _The outside of the skin_
 
-## Cabin heater duct hole 
+### Cabin heater duct hole
 
 I thought now is a good time to install the cabin heater vents and ducts for the copilot side. Because once the skin in installed it's less accessible. So I started to modify the skin and install the vent.
 
@@ -44,7 +44,7 @@ The vent I am using has 2-inch diameter. I used a hole cutter from Amazon to mak
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPwGIWEbb6iv8tJWvfGSmtJbip4PV4njL4sfWcTAgcJe4JcbF4kyIq300g8px_kytFElcrqVfavOha4MdfRGAlf4pN3Iir4VzaZOMUbcagWkgCB6IBoN8_XkdWQS6WoVhAmkNvhITRGltqPnYmMFsxLng=w3784-h2838-s-no-gm?authuser=0)
 _The initial hole is too large, made a smaller hole to patch over it_
 
-## Upholstery
+### Upholstery
 
 This is again an unexpected piece of work.
 
@@ -58,9 +58,9 @@ _Ai vent, controller module,  upholstery all on the skin_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOXB921M8WZ7W-Kfp0AAefjRJH3IQ8dqpZ0hZNqbTNva35w_Ll1Ez4a06OHONQIVMWH9RbGcQuwIMa45vm0shW6cDHrIDg7bQqlysu3qmlvya1H2icX323BO3fyxvxK_UuLAYGqhsbmKyXHhTDLZks0ww=w3784-h2838-s-no-gm?authuser=0)
 _Back side_
 
-## Connecting the air duct
+### Connecting the air duct
 
-Once the prep work was all done, I clecoed that section of skin back onto the airplane for final positioning. 
+Once the prep work was all done, I clecoed that section of skin back onto the airplane for final positioning.
 
 Then I eyeballed the air duct and cut off extra length, and used zebra clamp to secure it onto the air vent.
 

@@ -6,11 +6,11 @@ tags: [upholstery]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Installed side upholstery panels
 
-# Detail
+## Detail
 
 Installing the side upholstery panels was not as daunting as they said. There were a lot of rivnuts though.
 
@@ -24,9 +24,9 @@ After that, I did a quick test fit of the panel. 2 or 3 holes did not have good 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOnlscOT5sIDDqBjqn4gjju74NDT9hznel7JK3isbEVKq946TKKqR50gi8HCZOYGYoMAMyFsblfoDHyvJDoQ2HccrMd4aR1UPOoJQ7qN3AOeztg2Wcb9OyA6I1mNwvFyN8IaKNpr1l9S4gFt0bpFcrfIw=w3068-h2310-s-no-gm?authuser=0)
 
-## Air vents
+### Air vents
 
-One slightly tricky thing was that i needed to make a cut on the leather to put the air vent. 
+One slightly tricky thing was that i needed to make a cut on the leather to put the air vent.
 
 The aluminum skin already have a 2 inch hole, so all I had to do was to make an identical hole at the same location on the leather.
 

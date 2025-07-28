@@ -7,7 +7,7 @@ tags:
 minutes: 180
 ---
 
-## TLDR
+### TLDR
 
 - Dimpled and clecoed all left ribs
 - Debugged rivet gun

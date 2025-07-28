@@ -6,12 +6,12 @@ tags: [cabin_heater]
 minutes: 60
 ---
 
-# TLDR
+## TLDR
 
 - Installed 2 inch ducts to cabin heater
 - Installed cabin heater to fuselage
 
-# Detail
+## Detail
 
 I cut the aluminum 2 inch ducts to 4 short tubes and used worm gear clamp to connect them with the cabin heater.
 

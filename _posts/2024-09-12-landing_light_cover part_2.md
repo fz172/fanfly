@@ -6,11 +6,11 @@ tags: [wing, landing_light]
 minutes: 300
 ---
 
-# TLDR
+## TLDR
 
 - Finished mkaing the new left landing light cover
 
-# Details
+## Details
 
 I finally finished making the replacement landing light cover for the left wing. It's a lot of work, mainly trying to match the holes through the skin, plastic cover, the doubler's rivnut. There are 20+ holes and each hole took a super significant time to position and adjust. It's definitely a patience game.
 

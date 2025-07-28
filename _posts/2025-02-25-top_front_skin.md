@@ -6,17 +6,17 @@ tags: [top_front_skin]
 minutes: 540
 ---
 
-# TLDR
+## TLDR
 
 - Prepared top front skin installation
 
-# Detail
+## Detail
 
 In order to know precisely where the avionics rack will position, I needed to have the top front skin in place.
 
 I haven't finished the work like cabin heater or throttle cable yet, so it's not the time to fully close the top skin. So I spent the last few nights to prepare everything, just minus the actual riveting part.
 
-## Test fitting
+### Test fitting
 
 The top front skin I received goes into the side skin, not covering it. That makes things easier to align. It didn't take me too long on this part.
 
@@ -32,7 +32,7 @@ As I cut the top skin I kept putting it back on the fuselage to test fit. There 
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOXhd-7EcaAxIIfCbPcA7LhcxXXSOHV6LkEsA378OuAne00bUFRIEYzYB9fcXPrZ6KpTEMaEYdfs2EletsbsvclyelMmtCs3TpQIiX7SRv-jtHzjZ2uVQvVghd09D5pfhYKUqTfm9JMsBhQzoQmm7RYxg=w1290-h1712-s-no-gm?authuser=0)
 
-## Drilling holes
+### Drilling holes
 
 Then I match drilled the holes on the top half of the firewall, as well as holes on the top skin.
 
@@ -48,7 +48,7 @@ Drilling the composite skin took really long time. I used a hole finder to locat
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMbIqiHFyYCyAqNU0OxX2F-D3jq2tKrXMm-b5N6zPir9woaXNlfOMq0GRYGWjrroIDe9Kgr8j_rs2XK8xY8L7e_shDLcCj_gpaDLvGtfSSDAXCw9KKn8dP8JaTDvo-rC_UHN9lkMhUGGFdjSr5R7xPvLw=w2274-h1712-s-no-gm?authuser=0)
 
-## Countersink
+### Countersink
 
 After all the holes are drilled, I countersunk all holes except the row on avionics rack.
 
@@ -56,7 +56,7 @@ After all the holes are drilled, I countersunk all holes except the row on avion
 
 This step is not as painful as drilling but still took a long time, and also very dusty.
 
-## Test fitting the dash
+### Test fitting the dash
 
 Once all the holes are prepared and clecoed, I put the top dash in place to check its fitment.
 

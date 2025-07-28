@@ -6,14 +6,14 @@ tags: [avionics,center_console]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Test fitted the center console
 - Installed headset plugs on center console
 
-# Details
+## Details
 
-## Test fitting center channel
+### Test fitting center channel
 
 I have built the center channel a long time ago. Today I finally got to test fit it onto the airplane.
 
@@ -21,7 +21,7 @@ It went on pretty easy. The only gotcha is that the safety belt needed to go thr
 
 I clecoed the whole thing in place but couldn't find the right rivet (4.8 countersink), so I placed an order with Sling and will just wait for the rivets before installing it permanently. In fact this is probably better, I am not done with routing wires yet, it's possible I need to take it off.
 
-## Headset plugs
+### Headset plugs
 
 I installed the pilot/copilot headset on the console. Pretty easy this time as there is no weird grounding issue, all wires are pinned correctly.
 

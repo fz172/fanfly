@@ -6,17 +6,17 @@ tags: [controls, joystick]
 minutes: 360
 ---
 
-# TLDR
+## TLDR
 
 - Installed the torque tube for both control sticks
 
-# Detail
+## Detail
 
 I spent 2 nights to install the torque tube for both control sticks.
 
 Previously I have already fitted the tubes on the fuselage so I am relatively confident the tubes rotates ok.
 
-## Screws
+### Screws
 
 The first step was to install the 4 screws on the main spar to hold the control sticks.
 
@@ -28,13 +28,13 @@ I eventually fonud a trick: use tape to hold the washer and screw together, then
 
 Once they threaded together, I used 2.5mm allen wrench to tighten the lock nut. The tightening was slow, because it seemed pretty easy to strip to hex head bolt.
 
-## Fitting the front part
+### Fitting the front part
 
 It took a few small adjustments on the front retainer piece for the tubes to rotate freely. I used a deburring tool to shave off the retainer just slightly and sanded it with a dremel wheel.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOL8myg6cwRKq3AYcUIoRPhH2QhbhIpPGlWiyDM0VbCxc_ChzL-6aIxgfpW77PYe8d8E3LduY9wzbYOf05UaTmXE03N1MygEEDllg0ihIetxfKaTCBzoxEFD0PCH2i1Wpf5CBzJnwZke2Oh9OiPj9vSUg=w2589-h1949-s-no-gm?authuser=0)
 
-## Aileron connection tube
+### Aileron connection tube
 
 Once both tubes were in, I connected the aileron cross link tube.
 
@@ -42,7 +42,7 @@ I made a stupid mistake here. I mistakenly put the rod on the wrong side as in, 
 
 So I removed the eyebolt on one side, and it gave me enough space to pull the connection rod out, and put it back in the correct direction. Removing the eyebolt was a serious challenge due to the tight space. I spent about 30 minutes to remove the AN4 bolt holding the eyebolt, and another 1 hour to put it back in.
 
-## Remaining work
+### Remaining work
 
 I still have a few things left to tidy-up on the control sticks:
 

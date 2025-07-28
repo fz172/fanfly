@@ -6,7 +6,7 @@ tags: [wing, avionics, pitot_tube, WG-ASS-003-R-F-0]
 minutes: 300
 ---
 
-## TLDR
+### TLDR
 
 - Finished wire harness layout in the left wing
 - Installed and tested pitot tube

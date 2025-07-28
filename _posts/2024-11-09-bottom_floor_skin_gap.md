@@ -6,12 +6,12 @@ tags: [CF-ASS-001-C-C-0, video]
 minutes: 180
 ---
 
-# TLDR
+## TLDR
 
 - Connected the center fuselage and rear fuselage
 - Made some custom parts to mate bottom floor skin to fuselage ribs
 
-# Details
+## Details
 
 ## The problem
 

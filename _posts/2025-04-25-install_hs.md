@@ -6,11 +6,11 @@ tags: [empennage, assembly, FN-ASS-S02-C-F-0-A-0]
 minutes: 60
 ---
 
-# TLDR
+## TLDR
 
 - Installed horizontal stabilizer
 
-# Detail
+## Detail
 
 Last few weeks I was fully stuck on debugging the audio jack. With most of the issues figured out, I decided to work on something easy to make myself feel better :)
 

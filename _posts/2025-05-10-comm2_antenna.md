@@ -6,11 +6,11 @@ tags: [avionics, antenna]
 minutes: 40
 ---
 
-# TLDR
+## TLDR
 
 - Installed the comm2 antenna
 
-# Detail
+## Detail
 
 Measured the coax length, and cut the cable to connect with a BNC connector, then installed the AV-74 antenna at the fuselage bottom right below the luggage compartment.
 

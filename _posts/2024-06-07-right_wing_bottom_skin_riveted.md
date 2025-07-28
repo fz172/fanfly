@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-003-R-F-0, video, avionics]
 minutes: 180
 ---
 
-## TLDR
+### TLDR
 
 - Riveted the right bottom skin (except 1 rivet)
 - Prepped wing hardness

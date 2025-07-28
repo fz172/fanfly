@@ -6,7 +6,7 @@ tags: [wing, WG-ASS-003-R-F-0]
 minutes: 330
 ---
 
-## TLDR
+### TLDR
 
 - Prepped the right bottom skin
 - Test fit it onto the spar
@@ -90,7 +90,7 @@ The 6 rivets further out from the rear spar were easy. I had space for my drill 
 
 So I tried to remove the 2 rivets from the back side.
 
-I was a little worried but it was actually fairly straightforward. TLDR: ** brute force with a very good flush cutter. ** I just too a flush cutter and started to cutting the backside of the rivet. It was surprisingly soft and easy to cut. It didn't take much effort to cut off the back side, then I used a centerpunch to push out the front piece. No drilling were involved. To be honest I felt like this was safer than drilling from the front side..
+I was a little worried but it was actually fairly straightforward. TLDR: **brute force with a very good flush cutter.** I just too a flush cutter and started to cutting the backside of the rivet. It was surprisingly soft and easy to cut. It didn't take much effort to cut off the back side, then I used a centerpunch to push out the front piece. No drilling were involved. To be honest I felt like this was safer than drilling from the front side..
 
 ![before](https://lh3.googleusercontent.com/pw/AP1GczOMasUGyDxdg_qg5pWFPEeufWXJ1E0lTkRwJ8qWNAxtWSzOmxVfLMpb76eDuVoP4NXodzZ0VCD57QNWSXn_8o50DAgAMcN3Ga0c77vG860fPXya1yhfB8MoBWjMOiUqBQt0YCUdIRgZ1XYxbDzdsfvUVw=w2166-h2888-s-no-gm?authuser=3)
 _Before_

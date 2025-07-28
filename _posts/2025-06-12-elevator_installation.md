@@ -6,12 +6,11 @@ tags: [empennage, assembly, FN-ASS-S02-C-F-0-A-0]
 minutes: 120
 ---
 
-# TLDR
+## TLDR
 
 - Installed the elevator
 
-
-# Details
+## Details
 
 Installed the elevator today.
 
@@ -20,15 +19,12 @@ The elevator is bulky, my first concern is that it's easy to get dropped on the 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN_owgjAYcNA6G-b3IkU0FYP-ihgY8FxkenGOzsiQp7A00A5iijI1Khom2IfPVNbaLDHXZaZoIz5IZh5tQAnkBsNrKAFJyXbPY08O0Vlx9nJ8GkyQccIh7_1NYXzf6Llt8KpfGmuKYTSfTBisUnNekDwQ=w1290-h1712-s-no-gm?authuser=0)
 _You can see the safety wire is holding the horizontal stabilizer and the elevator together_
 
-
 Next step is to put the bolts and washers through to connect the horizontal stabilizer and elevator. As many other builders have said, the space is extremely tight to put the washer in.
 
 I 3D printed a few washer holders to help with that. The holder is a little to wide, so I dripped some glue to make the washers stick onto the holder just long enough to put them in place.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOL8nXnQgxBDtsoKLuJmiZDofp0s5TgweE56i0jDOSo3fvLXVJ-wd3gzGtWuP--yirMR867OhUbROC9XYWMOEwhR0OtI0DvGaZDgXzney0FO-RzUT8oIvGl9oMmu4fqSN7dpbM8cgAfvim012saqVGvoQ=w1290-h1712-s-no-gm?authuser=0)
 _The glue is just some random gasket sealant I found laying around_
-
-
 
 And threading the bolt wasn't too difficult, but once the bolt dropped into the elevator it's not very accessible. So I wrapped my safety wire around the bolt just in case they drop.
 
@@ -46,6 +42,3 @@ _Guess which socket was grinded down?_
 After two hours of playing with bolts in super small space, the work is done.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOQOf0miJ6A_S2wnREhK_-UL3GCxsZhX8PcuJpGfKoj4Pvg7MQSmKBuZzaw4kDDKXGYGw2MnBd6f-5DNvnBW3TW9i0G-BSSnMbSCm5VWb9DwnSQYAvOLnsq6yD26Yh8jTOrCUsr92Ieb6uujCJaRI9nRA=w2282-h1712-s-no-gm?authuser=0)
-
-
-

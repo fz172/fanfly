@@ -6,11 +6,11 @@ tags: [CF-ASS-001-C-C-0]
 minutes: 240
 ---
 
-# TLDR
+## TLDR
 
 - Some prep work and clecoed rear fuselage and center fuselage floor
 
-# Details
+## Details
 
 ## Rudder tension spring
 

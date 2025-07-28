@@ -6,11 +6,11 @@ tags: [controls, CT-ATQ-511-X-X, throttle_quadrant]
 minutes: 260
 ---
 
-# TLDR
+## TLDR
 
 - Built the throttle quadrant
 
-# Details
+## Details
 
 I'm back from a 3 week business trip and wanted to resume the work from something easy. So I picked throttle quadrant as my next project.
 

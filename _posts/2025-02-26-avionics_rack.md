@@ -6,11 +6,11 @@ tags: [avionics, wiring]
 minutes: 200
 ---
 
-# TLDR
+## TLDR
 
 - Started to add components to avionics rack
 
-# Detail
+## Detail
 
 With the top skin in place, I was able to confirm the location of the avionics rack and continue to work on the avionics rack.
 
@@ -22,13 +22,13 @@ The rack is well labeled. I first assembled the "radio block" - 2 x GTR205xR rad
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMjNycJr7kYNFJGCu-sjYdg5FQySvnm8tmg-0SjkJG5tVdk23Gbrgv5TrSP5Q59HgSsDx-_jrEtwdDbVaLoDsvDedS6SKOF79vNGaSmX7eBeUUdGNWp2_GY69g4UNBV-cqIUDPRb28LYb2XbF1-zHNXKA=w2274-h1712-s-no-gm?authuser=0)
 
-## GAD 29
+### GAD 29
 
 The GAD 29C was interesting. I couldn't find where it goes on the rack. So I sent a question to Midwest Panel Builders. They got back to me this morning and pointed out that it should go onto the panel, not the rack.
 
 I will install it when I am ready to work on the panel.
 
-## Wiring test fit
+### Wiring test fit
 
 Making sure the wires are laid out neat and tidy is a big challenge.
 

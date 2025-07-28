@@ -6,12 +6,12 @@ tags: [door, door_latch]
 minutes: 600
 ---
 
-# TLDR
+## TLDR
 
 - Installed locks and latches on both doors
 - Made a doubler for copilot side skin
 
-# Detail
+## Detail
 
 Spent a couple of nights and full day today to install the locks and latches on both doors.
 
@@ -19,7 +19,7 @@ The parts I was given are nothing like the pictures/steps described in the build
 
 So I had to be creative during this part of the build. Part of the process was using my common sense, the other half was just looking at pictures shared by other builds.
 
-## The sequence
+### The sequence
 
 The way I did the install is this:
 
@@ -52,7 +52,7 @@ The process was very time consuming because I didn't want to drill a wrong hole 
 
 ![ing](https://lh3.googleusercontent.com/pw/AP1GczOnUjGaCUA5kuqtC-kXKvMMKBa7EEB_MY7okjlvEdhELGdcWD__TxpMSJoietok-_OVAAxYebQ04bBlFeQQfETcN0PGa-c9ClKvfzE3ueO5jaitUY2pz12sIOl-OSJLJSfHuMrv-1E-XaJqY8fBk6SFgQ=w1972-h2618-s-no-gm?authuser=0)
 
-## Doubler for side skin
+### Doubler for side skin
 
 Another thing I did was that I made a doubler to cover a dent on the copilot side skin.
 

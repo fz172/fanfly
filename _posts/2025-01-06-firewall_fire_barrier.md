@@ -6,15 +6,15 @@ tags: [CF-ASS-001-C-C-0, fireproof, fuel, naviflow]
 minutes: 100
 ---
 
-# TLDR
+## TLDR
 
 - Applied some fire proof sealant to firewall
 - Added fire barrier foam to the firewall
 - Installed Naviflow bulkhead fittings
 
-# Detail
+## Detail
 
-## Fire barrier
+### Fire barrier
 
 I bought some 3M firemaster 2000+ sealant to apply along the perimeters of the cawling strip, as there is a gap that can let air go through between the firewall forward and cockpit. I don't know if this is an important thing, but I decided to seal it anyway.
 
@@ -22,7 +22,7 @@ The foam material that came with Sling is Teknofibra 6mm self-adhesive heat barr
 
 I cut it to fit the shape of the firewall, and attached it. I am a little worried about the attachment as it covered a lot of holes on the firewall. I am not sure what they are. So I suppose I might have to remove some part of the heat shield later if needed.
 
-## Naviflow
+### Naviflow
 
 Another thing that I did was installing the rivnuts and bulkhead AN6 fittings for the [Naviflow](https://aerospaceinno.com/product/naviflow-fuel-manifold-for-rotax-is/) unit.
 

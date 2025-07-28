@@ -6,26 +6,25 @@ tags: [avionics, panel, cabin_heater, upholstery,air_vents]
 minutes: 420
 ---
 
-# TLDR
+## TLDR
 
 - Test fitted the dashboard and panel on airplane
 - A bunch of wiring clean up
 - Test routed cabin heater tension cable
 
+## Details
 
-# Details
+### Test fit
 
-
-## Test fit
 I put the dashboard and panel assembly on the airplane. This is the first time they go onto the airplane together :)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMEfngSkVcm_B1GXT54TIyKau1jW0iY8cVpP5f8gUA5iqCGmb1mT8KvlDImvRo2yhtyWoxsBAhYKz1-Bq7fDgL7qza-5tj9ozOMwyFKCQgMx50hbs7ncp3A9J7jM3U6cagGwsNa2dsFESE9C6dIBmRmXA=w2274-h1712-s-no-gm?authuser=0)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMq7BAgwoVust8K9Crq-rLuBklRNrFO_NhTx-cVpsWzBvwb3tvqgUn93KILfYOubH3Qhqg94uBtEhyvehax-VzIJEWomyabVWJeAWX6NEHHfhpfwEkITtje49JHd9zOxCgi1jyHcx54xms58OAzPYpB7A=w2274-h1712-s-no-gm?authuser=0)
 
-With the panel on the airplane, I was able to check the wiring/connections are at their proper location and nothing is too short/too long. 
+With the panel on the airplane, I was able to check the wiring/connections are at their proper location and nothing is too short/too long.
 
-## Cabin heater tension cable
+### Cabin heater tension cable
 
 It also allowed me to test route the cabin heater tension cable. I did not take any picture, but I routed the cable behind the panel, trough pilot side rack, go along with the naca duct, then reach the cabin heater. With this routing I don't think I need to cut any length off the heater cable.
 
@@ -33,11 +32,11 @@ Since this cable connects both the cabin (already on the airplane), and the pane
 
 Planning done, will do it tomorrow.
 
-## Cleaning up wires
+### Cleaning up wires
 
 Whiling fitting the panel, I noticed several wires on the rack were pretty messy. I took off the panel and spent some time tidying them up using cable ties.
 
-## Cabin heater duct
+### Cabin heater duct
 
 So I also worked on the pilot side cabin heater vent.
 
@@ -51,7 +50,7 @@ I ended up choosing the location directly above the rudder peddle. This time I d
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNAaC0gMiUp8YctnPJNzGdshEaVSi2ElQDizW74OsEKjzA5nad-7bekLEHx9xIrI2obxGLAK7Q9hRH0iimhQtthl8iN_yMlbW_SOabYOoheKrbHgsqnc23lCadcSR3JOrQ4eFeXdnpSxp8ztQDDDL1x4A=w2274-h1712-s-no-gm?authuser=0)
 
-I then cut the duct to length and connected it to the vent behind the skin. 
+I then cut the duct to length and connected it to the vent behind the skin.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNQ4iJY9zSeWQ_SjQO26PPDv4CFh2GLbVKEzmUEqZcF5W6O8Ll8u4sRCwQY91itrdkvs0Qh0HXhCYlXbF1kX7kM-OxnP7hGDtRqfH7kd1NkS48_F6iqqrjLsCRM7zgBprbO2-vV0QPSji7IhJJDQ_WNdg=w1290-h1712-s-no-gm?authuser=0)
 
@@ -64,29 +63,29 @@ While I was on the subject of cabin heater duct, I also cut two small chunks for
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP1vXrG29tUYM7j3Oyzjt1v9C9J-sNgiO0pPKSmXT9m92Y-m8WzGfu3JIIeIZpIg3u0v323cnG3Tl3gFSt8Bpfj54wrgVm3QrSG7476hbEQ8WhdSON885sncxG3Kt1ijDGHjNBKtbOV78vjnUDfYNH-Xw=w1290-h1712-s-no-gm?authuser=0)
 _The other end will connect to the naca duct_
 
-## Upholstery
+### Upholstery
 
 Once I was done with the ducting work, I started on some upholstery work. The first few skins that need upholstery are the front dash side skin and the front-most ones on the center channel. This is because once the dashboard is installed it will be a lot harder to access the space for upholstery installation.
 
-### Center channel skin
+#### Center channel skin
 
 For center channel, not too bad. I already finished installing the copilot side when installing the copilot cabin heater duct the other day. So I just glued on the leather to the pilot side. I also used soldering iron to burn through the rivnut holes.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOzpAvQfSdU1_VCQ9_Q8EyoT3CSaJAGY4jM7hAwS3hSncyULJ0XaFZEthfm5DdVOs3RudjCrGnYoWRRZKLTvWg6RUPvkojaPeJWZGfolWbuQiIt20-PnUuPhd5vRwVwHHnI7aBi1JgLevzaHF02or7gOg=w2274-h1712-s-no-gm?authuser=0)
 
-### Side skin
+#### Side skin
 
-Side skin's upholstery is a large piece. I had a feeling it wouldn't fit, and turns out it indeed didn't fit my side skin. It was not too off though. I cut the rear end short by an inch or so, and widened the gap that lets seat channel go through a little. Then the whole upholstery fitted the skin OK. 
+Side skin's upholstery is a large piece. I had a feeling it wouldn't fit, and turns out it indeed didn't fit my side skin. It was not too off though. I cut the rear end short by an inch or so, and widened the gap that lets seat channel go through a little. Then the whole upholstery fitted the skin OK.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPphSm6TNeM1YKjv7ejFslUN0eCLMSheUujm3-F2-glaCybHgCZb3kYTlkBpJmTAHLmlUfAm_sUH3LWoDIRRKGpLoG1KPmc1KHYHDnFCcBFdQSN9ptFjA-KnZ9BCnqdCK7y1fhFWOLPT5cajJb04AHy_g=w1290-h1712-s-no-gm?authuser=0)
 
-For a while I didn't know how to attach it to the skin, as there was no holes on the skin. Then I noticed on the back of the upholstery they marked 8 spots. I think I am supposed to drill holes and attach the upholstery with rivnuts. 
+For a while I didn't know how to attach it to the skin, as there was no holes on the skin. Then I noticed on the back of the upholstery they marked 8 spots. I think I am supposed to drill holes and attach the upholstery with rivnuts.
 
 I will do this tomorrow.
 
-### Luggage compartment
+#### Luggage compartment
 
-This part was not necessary for the instrument panel building. I was just procrastinating on the side skin rivnuts, so I decided to find something easier to do. 
+This part was not necessary for the instrument panel building. I was just procrastinating on the side skin rivnuts, so I decided to find something easier to do.
 
 I finished glueing the remaining carpets in the luggage area. 5 puzzle pieces solved from the random carpet piles in my kit crate! Yay!
 

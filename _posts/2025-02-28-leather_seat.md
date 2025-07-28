@@ -6,13 +6,13 @@ tags: [upholstery, throttle_quadrant]
 minutes: 90
 ---
 
-# TLDR
+## TLDR
 
 - Installed upholstery: front seat back
 
-# Detail
+## Detail
 
-## Seat upholstery
+### Seat upholstery
 
 Today when I visited the hangar my original intention was to finish installing the boost pump, but as it turns out I didn't have enough adel clamp and I forgot to bring thread sealant. I decided to work on upholstery.
 
@@ -24,7 +24,7 @@ The install is pretty simple, I just need to put the velcro at the right place.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOYCX9E8A-60xJW5Qivh8z1OjHhNw-Z9djLoap9ygsVzxhd4mzSF2yc0mM1LHJ0BgCb5wukexuLiCXKGptprYkd9ZJJZZ5ktZGs42gqX3AmqbBh146o16R5c4sXtlXeqIAEO_2tALc07ORvtjdhPX_Mow=w2274-h1712-s-no-gm?authuser=0)
 
-## Throttle quadrant vinyl
+### Throttle quadrant vinyl
 
 I printed out the svg pics using the Cricut machine, and tested on my throttle quadrant.
 

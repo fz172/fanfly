@@ -6,7 +6,7 @@ tags: [wing, avionics, landing_light, nav_light, jig]
 minutes: 720
 ---
 
-# TLDR
+## TLDR
 
 - Built wing stand
 - Installed light lens on the right wing
