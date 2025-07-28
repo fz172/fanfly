@@ -7,13 +7,13 @@ minutes: 300
 mermaid: true
 ---
 
-### TLDR
+## TLDR
 
 - Reamed all holes on horizontal stabilizer skin
 - Uncleco-ed HS assembly, cleaned, and put it back together
 - Riveted HS assembly
 
-### Details
+## Details
 
 ### Reaming and cleaning
 

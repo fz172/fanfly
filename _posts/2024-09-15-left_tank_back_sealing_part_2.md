@@ -12,7 +12,7 @@ minutes: 240
 
 ## Details
 
-## Front channel leak test
+### Front channel leak test
 
 One thing I did this time was that I put in some watch in the tank before riveting the back channel, to make sure the front side didn't leak.
 
@@ -23,7 +23,7 @@ I poured about 2 gallons of watch, and put a blue tap right on top to mark the w
 
 Then I waited overnight to example I didn't have any watch on the floor and the water line didn't drop. Then I proceeded to work on the back channel.
 
-## Back channel
+### Back channel
 
 This was a long evening - 4 hours of prosealing and riveting on the back channel.
 
@@ -50,7 +50,7 @@ _Fuel level sender on the outside, using the fancy gasket_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP7llxW5xhBxJnG04_N6Cvug5bCe74nCNAGwsHYvKa8ZSpegm94dMHigSqk7C6jiIcKFhoSHuz3un45gsJiSXnO_YuV9qG4bASKp9-CWLTB4bUW_hiOos8dBt4a7cqzQavwUWSxG62VICTT-E3sw50Oyg=w3836-h2888-s-no-gm?authuser=3)
 _Finished work_
 
-## Special notes on a few rivets
+### Special notes on a few rivets
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO2_QHEjIPJ9ovVWEie0q6G_OQAtqi39BNrhJLZww28bcIXURhtDGzUF8SuF1LhyTU5uexGTQNZUMX9wuT9rkZJ4A316jRTIYRLFORn41c_D2X8uQYsmSA-3BFTBtoRM4DMBZ6R1jxh5D9zkypQejFlyA=w2174-h2888-s-no-gm?authuser=3)
 _The 3.2mm rivets on the side are super difficult to get to_

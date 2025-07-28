@@ -13,18 +13,18 @@ minutes: 240
 - Right aileron: 2 hinges are binding
 - Tank: Started to prepare left tank
 
-# Misc work
+## Details
 
 As I wrap up the left wing, I started to work on miscellaneous small tasks.
 
-## Wing strap
+### Wing strap
 
 I bought a 2x8 carpet, and cut it to 4 strips of 6 inches width. Then I screwed it to the wing stand I built a few days ago. The wing stand is officially done.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPZGeAMJLJ6AAOiKlD-58oOt8U3ezV9hbFCy6AfoCa6kIsiCfiKAXxLx3VlgWSt0McfIg5ts8f71AOl8h4A7tE-pyiplIjb5A3AkxzJmplbdWO9bz-rWDnz4Xi8rIU5kkNBaxc_oqYdHA1z2JaeQPvJOg=w2174-h2888-s-no-gm?authuser=0)
 _Hopefully the strap can hold the weight of both wings_
 
-## Rivet filling
+### Rivet filling
 
 Instead of using sherwin williams spackle, I bought the real thing Super-Fil to fill my rivets. The stuff is very cheap and on bottle lasts the entire build, so I don't know why I wanted to try alternatives.
 
@@ -34,7 +34,7 @@ Some people recommends mixing it alcohol to make it more fluid. I didn't find it
 
 I mixed 5 grams each time, and usually by the time I use 70% the mixture hardens and becomes unusable. It's typically a good time to take a break though. So with some breaks in between, I finished the top side of both wings in a day. The actual work hour is probably about 2 hours.
 
-## Right aileron binding
+### Right aileron binding
 
 As I was filling the rivet on right aileron, I noticed the aileron binds when I push it all the way up.
 
@@ -48,7 +48,7 @@ _The green part rubs against the other hinge_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNBoDyDfXFTJBS6MS8TpjEcfL3hzyBNQE8bvMq_VVOa2bF6awRzOFclWhmKBhFotgi0AGTmvZOiJo-6QGbmTngTY3WlNJTaVdzHFXjnXCMoS3MSz8KEYAXY_rNu8_YbiBKSqHnzC72OMhaHB7FqT1CUDw=w2174-h2888-s-no-gm?authuser=0)
 _The green part rubs against the other hinge_
 
-## Starting on left tank
+### Starting on left tank
 
 As I wait for the right gas tank the cure and finish leak test (that's a long story, will have its own blog entry), I started to prepare the left tank.
 

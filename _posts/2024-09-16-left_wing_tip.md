@@ -19,7 +19,7 @@ After going through the process on the right side, this one is a little easier.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczON7k554-Y_EXLKH58Hm1wsnPCPt_ienGYHPmSYakK-P7bqviP53cpwsCdLGtXUk4FfhsN_pSIzIe1ZMa82n7WImGD3FXNyq-L0Vzosc6F6vCDKwJpSr-7xyggOBSZFrtWuJeZYx9J1qp-U1s3-UCf7Hw=w4080-h3072-s-no-gm?authuser=3)
 _Before installing the tip_
 
-## Rib first
+### Rib first
 
 The first step is to remove the jig, and install the rib 14.
 
@@ -34,7 +34,7 @@ So I tried to find a way to rivet the 4 holes. It turns out the lighting hole is
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOskuQVvpQzr6zJyKUojqODgHPrpjPM4GwsUsjCEVGgAEMsv1jWZvBYYYPJ7_r2aE31z-SwHa-w-iVpLvL4LcxEfgcz4U_xwi6_TGn7NurzlGLUIesPuboXBKlecGsdoo-JqCfd6DHo1QutH5NaB2jldg=w4080-h3072-s-no-gm?authuser=3)
 _RIb is in place, all holes riveted_
 
-## Fit the tip
+### Fit the tip
 
 With the rib in place, the next step is to fit the tip. The tip's edge is supposed to butt against the rib. The width is about 20mm.
 
@@ -48,7 +48,7 @@ _Wing tip temporarily secured to the skin_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPm5k1UTTRVZRLMyNSIqcHEFt_P3PDyy-NkYd2ws2M_GmfCV8A05FvtK8tjhBJrGR0Q_2Yo3CCBYobS1KRPXFFvdwtwykrIItYyPoYOo_-pN6gT9CT4cL18EpgK1JSyNl2M0N1OHRGDGfbi7rCBUQnfoA=w4080-h3072-s-no-gm?authuser=3)
 
-## Match drilling and countersinking
+### Match drilling and countersinking
 
 Then I drilled holes on the tip to match the holes on the wing skin. Most of the holes were easy, But the few towards the trailing edge has he composite tip on top of the rib and it covers the holes. I used a hole finder to locate the holes and drilled. But there were 2 holes super hard to reach with a hole finder.
 
@@ -61,7 +61,7 @@ Then I countersunk the holes that needed to be countersunk and put a aluminum wa
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMou-cqTpUwGeF7Y4G1qKlZgZt66R3LF_GdkwPwQ994ItdWbddHxxz7vYX5wPPoomPVDPNyujPhx89BBz4tkAJpfhCJyZgFyP-aDZfiyzz4PU-O_2bxc_wMlH7qwNbJvg3kdvACNgndMD1GhyfGzI7z6A=w4080-h3072-s-no-gm?authuser=3)
 _Match drilled holes_
 
-## Installing
+### Installing
 
 After all the prep work, the installation is the easiest step.
 

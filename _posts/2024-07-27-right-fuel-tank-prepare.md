@@ -13,14 +13,16 @@ minutes: 480
 - Deburred and dimpled all fuel tank ribs
 - Prepared right fuel tank skin
 
-# Right leading edge
+## Details
+
+### Right leading edge
 
 Last week I found some time to re-install the right leading edge skin. Since this is the second time I've done it, the process went through quickly.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPm29eQW9OOVHaQfW0ubXdBwq_253xDat28T3uJJCjwqQR-zNW5-Az5WQPXBk7e3dHvzFxQE-D3WUJO2MlAtfvleqW8lsQLz00w4nYnhl5AUB-ETAmcxt6-44zlV3zMCodQsqcZws1O7MzYaeVzRyZLJg=w2274-h1712-s-no-gm?authuser=0)
 _Work in progress installing the leading edge skin_
 
-# Trailing edge solid rivets
+### Trailing edge solid rivets
 
 I gave up using the penumatic squeezer, and went back to the hand squeezer with a few changes.
 
@@ -35,11 +37,11 @@ _Solid rivet top view_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP0TzNAc9whsJx2G4R5lPqjc_poPuB6sA9ROP3PkVAzcc3d1IZiVKUSg5cfNx8cRqDuG6imCzwItclyn1pj3d9GSnfncHriDaScMjbpI8mzXq5PmTwI58Kuzupp_e_DrJUfps1kaZJ5HYHoWnOmlNp38A=w1290-h1712-s-no-gm?authuser=0)
 _Solid rivet bottom view_
 
-# Fuel tank
+### Fuel tank
 
 Then I spent most of this week working on fuel tank preparation. I started with ribs on both tanks, and eventually focused on right tank.
 
-## Rivnuts
+#### Rivnuts
 
 The parts were packaged very well. All ribs are in the same bag. I thought it would be quicker to clean/debur/dimple all of them instead of waiting for left tank. So that's what I did.
 
@@ -51,7 +53,7 @@ I first installed a bunch of M4 rivnuts on rib 2. This step does not need sealan
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPbfRRbXfAbCOX37Eyklw3KH-uZEcxfRu48TfpiwZpUnFV9iECKKNaJOrZpizAaI7LvKJSZbE0ygbl27GfUxQxiRHE9S4DhjofiQeSEQ25llp569VACwmlp06d7KCVkbwVvfeS9ENh6AqDtj_5I1zbT3Q=w2274-h1712-s-no-gm?authuser=0)
 _Rivnuts installed on both rib 2s_
 
-## Plastic cover
+#### Plastic cover
 
 Step 2, extremely exhausting - peeling off plastic on all the parts. 1 hour later, the job is done.
 
@@ -61,7 +63,7 @@ _Plastic off, it's not too bad to peal them off from ribs_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMBFqhi5aHnpGa7y3auJGnQ-fWqVpvp92YqJCxdia6G_6L0CdnpS8DiloLqqxLWX1HwMhGHx4XCag39YlJ5xn_1i-1nrqyzDDZ3OQD7l3DiDRFs5Bv6tIQtu8DW1cmwl-L9jZDMOyMzep0lQThBPZsUvg=w1290-h1712-s-no-gm?authuser=0)
 _It's a different story for the skin. This MF took me an hour. Some cursing were involved_
 
-## Dimpling
+#### Dimpling
 
 All ribs and the skin needed to be dimpled. Most of the holes were 3.2mm with one row on the trailing edge of the skin being 4.0mm. Nothing too difficult, it took some patience to juggle the skin as it's pretty large.
 
@@ -71,7 +73,7 @@ _Dimple in progress_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP4eLafEzZoJAL5EyFIjTZNKEv0pVNxhL077dLvv9LTF7mDxPeoIR1LZWRlOKZqdjMW789pY0WwT0Ib1_taML6TBpgcNFNOxX_Fkg4YOlKGNcwsHRkpQOdb0rQdIgztJhHlOn_bknPzuTArXzbYNvo9_w=w1290-h1712-s-no-gm?authuser=0)
 _I used a sawhorse with foam blocks to support the skin while dimpling_
 
-## Builidng a fuel tank jig
+#### Builidng a fuel tank jig
 
 As I was dimpling the skin, the skin shook a lot with my unstable hands. I decided to build a jig to provide supoprt.
 
@@ -84,7 +86,7 @@ _Quick and dirty tank jig_
 
 Then I dumped the skin to this jig for the last few dimples on the trailing edge using a hand squeezer.
 
-## Test fitting fuel line
+#### Test fitting fuel line
 
 And I also test fitted fuel pickup and overflow lines. The length of inlet felt a little too short. It's supposed to be riveted on the rib using a small aluminum ring wrapped around the pipe, but the pre-drilled rivet hole is exactly at the bend where the mesh solders to the pipe. I am worried if I force the rivet the enforcement structure will squash the solder and eventually wear it out. I might drill another hole further out. We will see.
 
@@ -94,7 +96,7 @@ _inlet mesh bending too close to the rivet hole in my opinion_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOm9kq43hx__RKxgAYoALurTycXawl24Y9iGRMHvRhHEqky0L-rvEySQ3gYE8iWWMLCzCLCM5vvQeHOpRST1rYh64hyRgl-1CT5s-D2xw453JRuKv2oIwMRbEPGpMF2bw1_GrJOnlFWOysHnFACbRXY4A=w2274-h1712-s-no-gm?authuser=0)
 _Test fitting fuel overflow line, seem to fit ok_
 
-## Test fitting the ribs
+#### Test fitting the ribs
 
 Then I proceeded to test fit the skeleton together. The ribs do not have much rigidity yet, so putting them together was a breeze.
 
@@ -103,7 +105,7 @@ _Ribs test fit_
 
 Note I had the black clecos on the inside. I was hoping this will provide enough clearance to test fit the entire structure onto the wing. It turns out the answer is no, the cleco butts still interfered with the wing spar. So later I had to remove these clecos.
 
-## Test fitting the skin
+#### Test fitting the skin
 
 I installed one side of the skin on table, then dumped the whole thing into the tank jig I just built. Using the jig I was able to cleco the other side of the skin with a little bit of force.
 
@@ -112,7 +114,7 @@ Once I got a few clecos in, the rest was easy.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNYR8N9hqxPL3NAiHiS66fVLQe_jGTFBNLioz9li6GaHt3n1ebClHtswQ5lZXOdZjkZVn6aC3WLL43FlR8xAOjZAzCBnSBD_tMhpG8UJhwJMlStCBR24HpLwO7AkcmY1LOCZlVnJ2YLKd17x-rNi6RsnQ=w1290-h1712-s-no-gm?authuser=0)
 _Skin is clecoed_
 
-## Test fitting the entire fuel tank
+#### Test fitting the entire fuel tank
 
 At last I clecoed the entire fuel tank to the wing. As mentioned earlier, some cleco's butt was interfering with the clearance, so I had to back trace and remove skin, remove clecos, then re-cleco skin in order to put the fuel tank on the wing.
 
@@ -121,7 +123,7 @@ _Fuel tank on the wing_
 
 With the tank on the wing, it's starting to look like a real wing!
 
-## Match drill
+#### Match drill
 
 I then match drilled every fuel tank hole visible on the skin. With each drill, I took a marker and draw a checkmark next to it so I remember which holes are drilled.
 
@@ -129,7 +131,7 @@ Up to now the build process did not really require match drilling, so I am hones
 
 Once the drilling is done, I put the tank back to the jig. Tomorrow I will desemble it for thorugh clean, and will go into the sealant step.
 
-# Next step
+### Next step
 
 I still have a few preparation work to do before breaking out the sealant.
 

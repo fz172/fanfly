@@ -22,7 +22,7 @@ I ordered a new part from Sling, but without knowing their ETA I really want to 
 
 So I decided to make my own cover. And while I am there, I also decided to make a new doubler because the old one was shit too.
 
-## Molding
+### Molding
 
 The first step is to create a mold. I followed Another builder's experience shared on the Sling build facebook ground.
 
@@ -47,7 +47,7 @@ Here is the completed product:
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOSo50jHZL5DyiEgvhYAjWf9F0OwZta0y-hKB3S0r88dJjippNd_BRWrmv8uPMLwB7CTuUUgxw0KIcc9aM-UWWNQWnZK9SO0KBcz3Gyxgb9LB_cQm2ld_Rgjt3lh-BQ34YnxcSk70cIk1fnPdWzHdKu8w=w4080-h3072-s-no-gm?authuser=0)
 _Mold for the cover_
 
-## Template for doubler
+### Template for doubler
 
 Next I needed to manufacture a doubler.
 
@@ -68,14 +68,14 @@ _Inner shape cut as well_
 
 The new doubler is ugly, but it works. I get to drill the holes exactly where I need them.
 
-## Drilling
+### Drilling
 
 I attached the doubler with cleco clamps on the wing, then drilled all the holes to the size for M3 rivnuts. Then I installed the rivnuts with Loctite 277. I did a test fit, some rivnuts are little tight but they all fit. I think I will slightly enlarge a few holes on the skin to make them fit better during final assembly.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPeFrywIhNMU4EeOH9ka8Elitw-pBYfZ5EnIltpwgoVStpQdR1cisLBp6c-aZUkr2NVJHDrEKPOr2n_1cB5VbWe0L4X0N30L5MpHDcNUYX9SPFlS5yatCVQQEDYg64SnWS7129eb3CD5im6mNhj5SPLBw=w4080-h3072-s-no-gm?authuser=0)
 _Doubler completed_
 
-## Polycarbonate cover
+### Polycarbonate cover
 
 I bought a 12x12 Polycarbonate sheet on amazon as the new cover. The thickness is 1/16. As it turns out it's too thick. It's too difficult to bend.
 

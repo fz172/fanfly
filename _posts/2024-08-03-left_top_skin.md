@@ -14,7 +14,7 @@ minutes: 120
 
 ## Details
 
-## EAA tech counsel visit
+### EAA tech counsel visit
 
 Jason from my EAA chapter came by earlier this week to check out my work. He shared a few tips on solid riveting. In particular, I showed him a smiley face rivet I messed up on the trailing edge of the right wing. We decided that it's not
 worth drilling out and redo, because there is a chance I'd make the situation worse. That sounds good to me. I will probably leave it along.
@@ -23,7 +23,7 @@ We discussed painting and priming. One thing I've always confused is that why I 
 
 We also discussed wire planning. For example, I used a 4.8 rivet on an adel clamp to secure the wiring for pitot tube. It would be easier to service if I have used a rivnut. That's a good point. I will think about servicibility in the future for parts in close quarters.
 
-## Landing lights
+### Landing lights
 
 The back ordered landing light and wing tips arrived this week. I finally have all the parts to fully close the wing.
 
@@ -48,7 +48,7 @@ _Sat into the wing_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMUDz163R-xYQdEzuDm3dXlNQA47Dr01R8qtqfxVdmQ1-o_b-Pjeg6v-StpuRSWSqwxoKf8TnZ77960RephOJHReG5aoidON6Qs9rBOf8hUhlSSXjrn6Vc1lfg9W7OTS3eqqqM9C9fUyMxrINCqO5J96A=w4080-h3072-s-no-gm?authuser=0)
 _View from behind_
 
-## Left skin closed
+### Left skin closed
 
 After checking everything looked good, I closed the top skin on the left wing. It's a super tedious process, but nothing difficult. It took me about 3-4 hours to finish the job. The wing root and tip are still balanced and aligned before and after riveting.
 
@@ -61,7 +61,7 @@ _Perfectly level in relation to the wing tip_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNkR2_uHtnHIJcZHJr_iG03LOVbkWoG-pB7GzcroTXLuJm98-CFO1QZhXExxTxbktK6g1ngYe2SstboVBSvzSf2W2ETEcLQWM0vYdgvn54_GbChWeKrNDu5Zr9jh5oPZsaRpwE5E4acYM8AxuOXD6F5jw=w2328-h3092-s-no-gm?authuser=0)
 _And done_
 
-# Video
+## Video
 
 Here is a video summary of the work in the past week or so.
 

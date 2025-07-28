@@ -6,13 +6,13 @@ tags: [wing, WG-ASS-002-R-F-0]
 minutes: 240
 ---
 
-### TLDR
+## TLDR
 
 - Fixed rib 9 rivet clearance
 - Cleaned a bunch of parts for right top skin
 - Started dimpling
 
-### Details
+## Details
 
 ### Rib 9
 

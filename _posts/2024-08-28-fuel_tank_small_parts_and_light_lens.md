@@ -11,11 +11,13 @@ minutes: 120
 - Fuel sender and a few smal parts for left tank
 - Tried to fit left landing light lens
 
-# Fuel tank parts
+## Details
+
+### Fuel tank parts
 
 I wanted to front load some work before sealing the left tank.
 
-## Fuel level sender
+#### Fuel level sender
 
 I chose to first finish the fuel level sender. I took apart the fuel level sender from its original assembly. Then installed it to the Sling sender cover. I needed to slightly enlarge a few holes to make the o-ring fit. But overall it's not too bad.
 
@@ -32,14 +34,14 @@ _Another shot_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP_t-yQbTSlRZBOS_E4vXsk4ifY6At1ODsRUl_mNzK5QMvx33sx3WsttlfEkYfVO8Ueg2pz3p9Qgy8dPN_UlsdJqWpCQF5JxLWcJ4uxeINcYSx6K16US1AOpacrmzj4C7COqYv_ILaakuShZ4aR7zAbTQ=w1290-h1712-s-no-gm?authuser=3)
 _Back shot_
 
-## AN fittings
+#### AN fittings
 
 There is an AN4 fitting on the fuel overflow port, and an AN6 for the fuel inlet. I tried to fit them on the rib with washers. I didn't tighten them yet. I want to hold off pro-sealing until I match drill everything. Once all the match drilling shavings are cleaned up I will pro-seal them both.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPNsJWo1QXIhGffoKG88nBMpRQ9pVAMVkIe1MYytqW1F2cBTy6zODQZPGgEahfvzArcpRZ5EhMpoKtOEWYQ5xySDuP0spEOpZoST7vLEvJj7XBHyEzvqVue3J_VczwQGuFzCk4-cXs49RqmyPsY9Rq5bw=w2274-h1712-s-no-gm?authuser=3)
 _Fuel inlet fitting dry-fit, not torqued yet_
 
-## Landing light cover
+### Landing light cover
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPFA5BD7lFo3lN_Xcbh7sICmGYSgr3tRU1uSiL8_SzwAtfdMBybldQudnaALHiilEYht1B8uRaq4UU6tOh5LmuEsDqapkNrsl1fSPoM6hj2SwelpIBzDIJ7dorKrijsXnbEhv07MUwHfYXnoEJpTutEtQ=w2274-h1712-s-no-gm?authuser=3)
 Cover and doubler\_

@@ -6,13 +6,13 @@ tags: [wing, WG-ASS-003-R-F-0, avionics]
 minutes: 240
 ---
 
-### TLDR
+## TLDR
 
 - Laid out wiring harness in the right wing
 - Built connectors
 - Tested continuity
 
-### Details
+## Details
 
 Call me slow but a 30 minutes job turned into 4 hours across 2 days.
 

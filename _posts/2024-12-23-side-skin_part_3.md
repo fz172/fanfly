@@ -13,7 +13,7 @@ minutes: 420
 
 ## Details
 
-## Side skin riveting
+### Side skin riveting
 
 I installed all rivets on the bottom (between side skin and bottom skin), and also riveted connections between center and rear fuselage.
 
@@ -21,7 +21,7 @@ Right now the only remaining rivets are the ones near the side skin support ribs
 
 This part took surprisingly long. It was maybe 4-5 hours as many holes were so perfectly aligned, so I spent a lot of time adjusting. But in the end I only match drilled less than 5 holes. So I am pretty happy with the alignment and connection overall.
 
-## Firewall mounting strips
+### Firewall mounting strips
 
 There are two of them.
 

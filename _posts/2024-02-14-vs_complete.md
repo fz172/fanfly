@@ -6,7 +6,7 @@ tags: [empennage, VS-ASS-001-C-F-0-A-6, video]
 minutes: 90
 ---
 
-### TLDR
+## TLDR
 
 - Test twist
 - Riveting
@@ -15,7 +15,7 @@ minutes: 90
 
 {% youtube pRV0-dbIdMw %}
 
-### Details
+## Details
 
 After the wiring is laid into the VS assembly, I was able to install the skin and complete the vertical stabilizer.
 

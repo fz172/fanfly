@@ -12,7 +12,7 @@ minutes: 240
 - Dimpled replacement leading edge
 - Riveted a few solid rivets for trailing edge
 
-### Details
+## Details
 
 ### Leading edge
 

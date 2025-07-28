@@ -21,7 +21,7 @@ before fully closing the tank.
 
 So this week I sealed the ribs, the front channel, and the skin together. I intentionally did not rivet the back baffle.
 
-## Riveting
+### Riveting
 
 I mixed the 3 oz proseal in a tube, and smeared it across all connection points on the front channel, then riveted all ribs onto the channel.
 
@@ -38,7 +38,7 @@ _Proseal on the front channel_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO_n6UwGzhNjw0Cn0X7ct-8319R-gnGJPKmbsGb_e3C_xLUPilpQdNQDEvS67ksS0wwXNqjuVAVKWTPMOKGC5DmCA-1OfgaTGjmF66Gx5z9gupNofSR5_t4oHzxxIrQLg_P90teReJ7DV_wbmvPM4ibLw=w2328-h3092-s-no-gm?authuser=0)
 _Done rivieting_
 
-## More prosealing and some small parts
+### More prosealing and some small parts
 
 As I finished the rivets, I mixed some more proseal (50 grams or so), and smeared them along all channels and rivets. My goal is to fully immerse everything into proseal. This part took 2 hours or so.
 
@@ -59,12 +59,12 @@ _Back side of the fuel fitting_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMq1ZMa2mf_8uGzz5YsOx3PORUM1EUuQUYUOs9H6Jzt-vXBfvgnTYX2nMy8Oi2PWgiS5-6cTzKCDB_-GPAXZqRbzIxPhEMQLIHHPYAu4HheA-kTy7GibRPIgkZhQ5t2hYw-xp0kYdFKr4JEmoiWmib55g=w2328-h3092-s-no-gm?authuser=0)
 _Drain_
 
-## Cleaning up
+### Cleaning up
 
 Today morning (roughly 12 hours since sealing), I used acetone to clean the excessive sealant spilled on the tank skin.
 
 It's a tedious work. Just had to take it slow, one rivet at a time. Eventually I got it done.
 
-# Next step
+## Next step
 
 Now I just need to wait for a week or so, then put some water in the tank to check for leaks on the front channel and side skin. If they are good, I will put the back baffle on next.

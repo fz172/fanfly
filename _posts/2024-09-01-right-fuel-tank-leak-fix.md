@@ -17,7 +17,7 @@ This is tracking a lot of small actions across a long month.
 
 I sealed the right fuel tank at the beginning of August, and waited a week and a half to do the first round of leak test. Got a leak, tried different ways to find the leak, fixed, waited, then tested again.
 
-## Test setup
+### Test setup
 
 Many people build their own manometer to test air preassure change in the tank. I hear it's more accurate but I never quite figure out how to build the jig. So I decided to go with pre-made PSI gauge.
 
@@ -43,7 +43,7 @@ Process:
 - Disconnect the pump and wait a few hours
 - Pressure remain the same after it stops fluctuating in the first few minutes
 
-## Incident before first test
+### Incident before first test
 
 When I tried to connect the gauge to fuel return fitting, it does not screw into the fitting nicely. The threads felt like it's jammed.
 
@@ -59,7 +59,7 @@ If anyone run into similar issue, DO NOT buy rethread die. Try a thread chaser f
 
 The test resumes.
 
-## First result: leak
+### First result: leak
 
 When I first set up the process, I only pumped to 0.5 PSI as a trail run. It's immediately clear that I have a leak. The pressure drops to 0 within 20 minutes or so.
 
@@ -82,7 +82,7 @@ Fixing the fitting is standard. I mixed a bunch of proseal and smeared it to bot
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO1PeIhMpDmevgexVA6UawwWeT2jwBaj_vVPjjwl6zO5b-kXDP7EPc3EnrMP5gJRPUvmXiddb6WmkzMTlg5vBzPIrje3_SNRrTwaZbkyjKmnPvmm-83qCSVmfDNVtIa6aWDBL_GBRPPhXiIYhNFZJb01A=w3836-h2888-s-no-gm?authuser=0)
 
-## Gasket upgrade
+### Gasket upgrade
 
 The fixed required removing the sender cover and the gasket, so I had a chance to upgrade the gasket.
 
@@ -96,7 +96,7 @@ _Old gasket_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMYIjelZzrps72KvBidDIwARyEUXCYLg0xqBKr3W1r5ki-ONQjT_mGnZQstK0Tkn52QCt6Oh1J9FL9kJORyRElgBPvf2S_m9fWQ7WHyy2W3AxVqA2s5wELCp8bUZD5aVkobgN8YQFeuAhYlavFGeaXe1Q=w2174-h2888-s-no-gm?authuser=0)
 _New gasket_
 
-## Second test
+### Second test
 
 After having done all these work, I started the second round of test 2 days ago.
 
@@ -119,7 +119,7 @@ The third day, the pattern repeated and I ended the test at 7:40pm, with PSI AT 
 ![img](https://docs.google.com/spreadsheets/d/e/2PACX-1vRs8wZikI9lHKcyj5SJtuq2DIKkEilYZsqQZtAw7w6nqoqQtwgZGg-qS4-pK-PSlObX8HiyrmZfBAYX/pubchart?oid=1038779643&format=image)
 _Pressure change over time_
 
-## Installing on the wing
+### Installing on the wing
 
 With the results above, I concluded the tank is good.
 

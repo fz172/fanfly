@@ -15,7 +15,7 @@ minutes: 180
 
 I've decided skip ahead and work on the center fuselage while waiting for Sling technical's advise on RF floor skin.
 
-## Rear spar
+### Rear spar
 
 Standard process - I deburred, cleaned all parts for the rear fuselage, and then just riveted them together.
 
@@ -29,7 +29,7 @@ _Rear spar_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPU_LkAWuoySiez_63w6bu1mxP3RC4fbDVM7_PFdfiTMvV7JaKNBn5KKfFgFsstvqMuLF-jXWyhJpk-LlLoKTfENvbIMSDz9AZM_8GNIlpXg-2a8BcXvwqZa0bI5fqOrVRrL505VDaXTjIbH1u3K8aXYw=w1354-h1019-s-no-gm?authuser=0)
 _Rear spar_
 
-## Main spar autopilot brackets
+### Main spar autopilot brackets
 
 There are 3 brackets to be installed on the main spar. Two of them are pretty easy, and the last one requires four M4 bolts. The position of the nuts are extremely tricky to get to. It took me about a full hour to bolt them in place.
 

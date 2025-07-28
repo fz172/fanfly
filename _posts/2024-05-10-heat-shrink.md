@@ -6,11 +6,11 @@ tags: [avionics, misc]
 minutes: 10
 ---
 
-## Task completed
+## TLDR
 
 - Test fitted a few different size heat shrink
 
-### Details
+## Details
 
 I have been waiting for my wing kit to arrive, and today I noticed the labels I attached to some of my wires went loose.
 

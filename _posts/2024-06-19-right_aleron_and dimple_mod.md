@@ -6,12 +6,14 @@ tags: [wing, tooling, AI-ASS-001-R-F-0]
 minutes: 120
 ---
 
-### TLDR
+## TLDR
 
 - Prepped right aileron parts
 - Modified dimple die to fit DRDT
 
-## Dimple die
+## Details
+
+### Dimple die
 
 I needed to grind a little chunk off of the 4.0mm female dimple die. This is to provide clearance to dimple the aileron ribs.
 
@@ -26,7 +28,7 @@ _Using safety wire as retainer on the dimple die_
 
 I'm so happy I finally solved this issue. It's the little things in life ... :)
 
-## Parts prep
+### Parts prep
 
 I decided to prime the ribs this time, Mainly because the aileron is a moving part, so I wanted to provide a little extra protection to this part.
 

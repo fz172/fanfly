@@ -21,7 +21,7 @@ tags:
 minutes: 540
 ---
 
-### TLDR
+## TLDR
 
 - Right aileron minus alignment
 - Right flap minus alignment
@@ -30,7 +30,7 @@ minutes: 540
 - Riveted all left ribs
 - Left rear spar
 
-### Details
+## Details
 
 A lot of progress was made in the last couple of days.
 

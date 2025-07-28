@@ -6,12 +6,14 @@ tags: [wing, WG-ASS-003-R-F-0, video, avionics]
 minutes: 180
 ---
 
-### TLDR
+## TLDR
 
 - Riveted the right bottom skin (except 1 rivet)
 - Prepped wing hardness
 
-## Rigth bottom skin
+## Details
+
+### Rigth bottom skin
 
 Continuing the work I started earlier this week, I spent many hours to insert rivets and pulled all but one rivets on the bottom skin.
 
@@ -25,20 +27,20 @@ _Riveting_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPKC4-34TAY0GMqhvHgYuGyCygzTBpYm5uVoZFCEZfr-L7l9MW5y91q0bOCfALrgzfnVTCW5p576bcy1IYdKkn76rs0A7NbvIvE-Kdj4-mAdNh3bwouA9DlRxs4zCc8XTYJhDZooHNxQSxi9pO6SC9NUA=w2166-h2888-s-no-gm?authuser=0)
 _Riveted_
 
-### Rib 9
+#### Rib 9
 
 One rivet was unable to go in on the rear end of rib 9. The rivet hits the rib as there is not enough clearance. I sent an email to Sling technical, hopefully I will have an answer soon. My guess is that I will need to file down the rib a little bit for the rivet to fit.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN5yKd-DQ-_HdmbGP7kwGPbT76qmM4bblwjkZMF3ZnbeUC80IwMBEy6GplTEcOJT5zQ-9GX0luwMrQhUeKYdR97nT9tFjUXN4mC_V4DVwBL84TNi4D-CbJbW8gQk77BNjd9LshApc_RfBgu4Id8s8clOw=w1080-h1440-s-no-gm?authuser=0)
 _Rib 9 does not have enough clearance_
 
-## Wing harness
+### Wing harness
 
 I am almost ready to install the wing harness. I ordered some plastic grommet which should be here on Monday. I will replace the rubber grommet with the plastic ones as rubber will decay overtime.
 
 I also put some braided cable sleeve on a section of the wing harness to provide an extra protection when it goes through the ribs. I haven't decided if I need cable sleeve on the entire cable. Maybe..
 
-### AD3?
+#### AD3?
 
 One interesting note: on right wing harness I found an extra set of connectors labeled AD3C22. I am not sure what those are. Sling build instruction only mentioned position lights and landing lights. I already have connection for them. Someone on facebook said this is the OAT connector. It makes a lot of sense.. I will confirm with MPB. I also need to find out where my OAT is.. I have not seen it in my kit.
 

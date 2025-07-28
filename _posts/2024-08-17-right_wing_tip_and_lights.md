@@ -12,14 +12,16 @@ minutes: 720
 - Installed light lens on the right wing
 - Installed right wing tip and nav lights
 
-# Wing stand
+## Details
+
+### Wing stand
 
 Last weekend I spent an afternoon to build the EAA wing stand following [this instruction](https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/tools-and-workshop/how-to-make-a-wing-stand).
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOicNyI6mcQLLVbyUsPzDawlkFIMGxoCtjvxHsuIiY4TWVC2uiaevnnsUqEghBDuKmEccqicXMltiR0Dw4kE_rHqHTkHLho75LEBIrtkn1KJDmznle1QIR5U01kMPt6gn-C4bW3p8eY-_LZ8mvIAZ9bjA=w957-h1271-s-no-gm?authuser=0)
 _Still mising the strap, will install next week_
 
-# Landing light lens
+### Landing light lens
 
 For the most part of last week, I battled with the landing light lens installation.
 
@@ -44,7 +46,7 @@ _Work in progress_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPAg3kAkW0octiOegBaOS41xbJFUhxnSBt6cUKPwthiwbWzuP1lsLk_zh8ibYzcwVcZQpOH9CVMpjnZOCl-chdxFcDwfrus7VNxngTXZlQhjwGJuRYVt_u33wOHAO5aEb_hHRb1pAjCFvfL6BM01PfPow=w1688-h1271-s-no-gm?authuser=0)
 _Finished, back side_
 
-# Nav light
+### Nav light
 
 I also installed nav light to the wing tip.
 
@@ -75,16 +77,16 @@ Then I switched to work on installing wing tip before connecting the wiring. The
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOvt-fjKsKzqzFGiJ3p0ChR-GI56hOJ_tBlEc7TKlDgnuvp9Zfs0vVYtQP7RnqeHxyd3n3LZXYRU1Meik-XsqFulCT12_2-oWQlRNrot6zmgfQvftc106Tcv-A8TYgvUbDy7U-JmIOKZ0qlKXuTEv-qYg=w1688-h1271-s-no-gm?authuser=0)
 _Tied long wires into a loop_
 
-# Wing tip
+### Wing tip
 
-## Outboard Rib 14
+#### Outboard Rib 14
 
 I removed the wing stand on the outboard side, and installed the last rib.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOiBp0W4h0_SbYIQawAZv4g_BytoBv42fDwDiGSYSWqJiH2AlU27Ho1IzDAd_Eyp_ORypoY_sqtF3RZHYPTtaEolirtwhcFEeWaGD2EoH0orL7jXLI1Q3xwyU4FyAxbmtCnJV3-la6EQ37VW2TRh9uNlw=w1688-h1271-s-no-gm?authuser=0)
 _Installed Rib 14 and fed the wire through_
 
-## Fitting the composite wing tip
+#### Fitting the composite wing tip
 
 The composotie wing tip is supposed to fit within the wing skin and touch top and bottom. It is a little too flat, so I cut a yoga foam and inserted it into the tip to hold its shape. This helped the tip to fully fit inside the wing skin during fitting.
 
@@ -110,21 +112,21 @@ At the rear end, the tip is on top of rib so the holes to match drill are covere
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO3WME83uaiADi9fpj5uZmPdEWNccdAdo01uc9vzGa3AG1oFjqkeu6lKLlhy_63VVj1NJWBaivJ1hyEeNincdOsJ4HIh_-Y9JRTNKhnUzF2BsXVi_35bOr5LKWXMKXl_IgMI6Pl35o2YUwzP_ECMHuCFA=w957-h1271-s-no-gm?authuser=0)
 _Hole finder and the holes it found_
 
-## Using washer as doubler
+#### Using washer as doubler
 
 About half of the holes on the wing tip was countersunk to match the dimples on the wing skin. The skin is pretty thin in those areas. So I decided to use washer behind those holes as a doubler. I placed the washers and clecoed them in place, then carefully smeared Loctite 9460 around them and made sure the glue did not touch the cleco. I think JB Weld would have worked, I just had some leftover loctite so that's what I used.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPduYzhRbxpCGR62129oWOJokjJdt3tGaCdN3uO1SJI2iQlkf5aL_V7XbzrGuaTkS6j6grSwJHljPVSnFu2WMrx2FkLLTgv_wvcwSKfOQ5zEfJkBsNZmhfbUF45SuG4EU3QHX9kTjh19NfQcSmOTwhfVw=w1688-h1271-s-no-gm?authuser=0)
 _Adding washers as doubler_
 
-## Riveting and wiring
+#### Riveting and wiring
 
 Then the rest was easy. I put the tip back onto the wing, connected the wires from the nav light, and riveted everything together.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM1BguX3izjN4KTFzdvPI9MOfSPAdW2EqsQPcOMaznrxME-4XN5zd9lHY0OxkLBDNtbhmtLuc7OOiA7snfPcRkiS1floB-BXD7cd0SHev3W0nhGM6viEZgTXZZxZFiZXGPKqfIfldwIrn3TNuUL2qsZBQ=w1688-h1271-s-no-gm?authuser=0)
 _Final result_
 
-## Hanging flap and aileron
+#### Hanging flap and aileron
 
 With wing tip in place, I was finally able to hang the flag and aileron on the wing. I have not shot the final row of rivets yet. I wll leave it to tomorrow.
 

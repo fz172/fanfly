@@ -14,7 +14,7 @@ minutes: 450
 
 ## Details
 
-## Ribs on spars
+### Ribs on spars
 
 Took a while to complete, mainly due to access. The space between ribs were pretty small so I moved slowly using a hand riveter.Œ
 
@@ -30,7 +30,7 @@ _Rear spar attached, another angle_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOcEGqGrxONVpF4yuilAfDZr4MJ5AKUM4SUgWd_G6lGG6ukxFwh1YvO_b3f3lHCaAGrQ1n8fQa8GoVJetOoF57IrkYwtpokrxSqC7KHSBzE9jjVHI2rfrNOnYe_DMQoMFdMc5puXwtbicAtbBIv-RIxPw=w2274-h1712-s-no-gm?authuser=0)
 _Rear ribs attached_
 
-## Rivnuts
+### Rivnuts
 
 Before bottom floor skin, the instruction wants me to install a bunch of rivnuts on channels, skins, etc. So I did that.
 
@@ -38,7 +38,7 @@ It's a little difficult to visualize what they are for. I assume they are for th
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPj5mB-NBbl_DPS5qz-m1AjrpEnaV3gcrX0lbNPsTnqlkg214Wt2C_Clmg4WVpRFoTmL_pj5wgEO48BFUXzzVPiQ7KXKE-_xk3ePV7B48q3v3dFzLoyLzdLyYZxeQy1JCjDSYG4wZlpuC0sUj0LNoxXmA=w2274-h1712-s-no-gm?authuser=0)
 
-## Bottom floor
+### Bottom floor
 
 Then I prepared the bottom skin and its strengthening channels.
 

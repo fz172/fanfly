@@ -17,13 +17,13 @@ minutes: 600
 
 ## Details
 
-## Replacement Gusset
+### Replacement Gusset
 
 Last week I discovered that my kit came with 2 right step support gusset by mistake. Sling was super quick to find a replacement for me, and I received it just with a few days.
 
 So I cleaned, deburred and installed the replacement. Everything is good. I am unblocked to install skin.
 
-## Rudder cable
+### Rudder cable
 
 Before adding skin, I wanted to put in the rudder cabel and tail harness first before access becomes a problem.
 
@@ -46,7 +46,7 @@ _Left cross the right on the top_
 
 None of the nuts and screws are tightened. I will leave those to final rigging.
 
-## Tail harness
+### Tail harness
 
 The tail harness installation is fairly straightforward. I added a cabel sleeve on the harness just for extra protection, then I used the harness made by Midwest Panel Builder. It's preassembled and came with a pretty good install instruction. I ran the harness on the side along the channels, and installed a few M4 rivnuts to hold the harness with adel-clamps.
 
@@ -73,7 +73,7 @@ _Emmpennage wires through the grommet_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP2ia9aT3tD9LmTwlp4ITja1f-90AfCGFxkJdbgTvM8VXrOpY44vzJNNeaLpZC3oVvDoJu77OOqMZ2Xlb9S5zg1guxY0DeTIrHW34iz3PDmGwv2OE2RfQXGBkCKq3UG6UK4cCrIkd8AGzU8pdPwB9EGjw=w1352-h1018-s-no-gm?authuser=0)
 _And secured in the fuselage_
 
-## Damaged parts
+### Damaged parts
 
 Just by random coincedence, I noticed a weird bend on `CF-SKN-006-L` and `CF-SKN-006-R`. The bends are roughly at the same place so I thought that's maybe by design? So I asked Sling technical, and unfortunately that's damaged during shipping.
 
@@ -85,7 +85,7 @@ _Top left flange is bent severely_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOLNu3ifhnsgj7-oLDW53m78pQfViwPQ6IZbuMguTuaV84YIYFU6MrSXlH0Aj3skDnLXo67cZkH92JXslc_1zzoc-EhwFRMhD3UbE0ChTCgt953p7ZKe9BvX21SqwbFKicErmL_M2tO4tLN7wGT7-zRFg=w1352-h1018-s-no-gm?authuser=0)
 _Zooming in_
 
-## Luggage extension box
+### Luggage extension box
 
 I procrasinated a little before installing the skin, so I decided to build something easy. I picked luggage extension box to build.
 
@@ -94,7 +94,7 @@ It's fairly straightforward, just a few large skin clecoed and riveted together.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPa2VkyhbUQ1TDxfVCfTCTNHRd5Ba_tSOojnQe9B5nQO79YKKOgUTwvyc9iCqe1YxzFSr_ON-PKcNo5NzriIHKXL4JnETJ8_TiPXl99rqUL1KKQ82ujEqz4HZlmgWTLV5wqNtOZWXjfiu9Hi5VFRnBB2g=w786-h1044-s-no-gm?authuser=0)
 _Luggage extension box_
 
-## Skin
+### Skin
 
 Finally, with most of the small parts done, I started to install skin.
 

@@ -16,7 +16,7 @@ I'm back from a 3 week business trip and wanted to resume the work from somethin
 
 I was thinking this should be a 2 hour project, and it turned into 4.5 hours. I am not familiar with the NPT fittings and the brake lines but still not difficult overall.
 
-## Nuts and bolts
+### Nuts and bolts
 
 Putting the rivets, rivnuts, bolts together is easy. I just followed Evan's video and the KAI as step by step. Then I torqued everything except the throttle cable bolt.
 
@@ -27,7 +27,7 @@ And I've previously painted the top panel white. It looks pretty nice.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMo4n-ZQwIlCBTHbZKmOxpHt6V7YBzrkkKqb8XgjDSDa-ob4jvjPVtrgqlWDc4f6Y2QL3ZghhfFtUFx9SeuZCArvD61uWosMF5Z2HiSyivLHuhcwC2DjBqOCAo9EYueKWFi0LvDuMrMfC7ay9XLPntqaA=w2174-h2888-s-no-gm?authuser=3)
 _Quadrant assembled_
 
-## Throttle Handle
+### Throttle Handle
 
 One complexity is the throttle handle. It has a M4 bolt go through and I need to obviously tighten it. However the hole for the M4 nuts are deep and none of my tools can reach into the hole.
 
@@ -36,7 +36,7 @@ I am currently leaving it aside. Will need to modify my socket to be thinner to 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNF8CeLONYY9wW7BAHffNgO0-owHBNgxtYy8_z5Kd57V-yVUqdEuXuqC-ore-VnJMekT_48PHCQhtXHfqSQaT1d7e2jiRgQhgBdqxd7JS8eUPMr-4cC0hPNKdgdvA9or_ppi3bUZF5xGIpciyGlz-Wkgg=w2174-h2888-s-no-gm?authuser=3)
 _This bolt is super hard to reach_
 
-## Brake lines
+### Brake lines
 
 The brake handle is connected to a cylinder, which has 4 NPT fittings that connect to brake lines.
 

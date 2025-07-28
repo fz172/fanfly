@@ -6,14 +6,16 @@ tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
 minutes: 240
 ---
 
-### TLDR
+## TLDR
 
 - Installed all right ribs
 - Built inspection hatches
 - Started assembly 3 (bottom skin)
 - Misc: inventory
 
-## Right ribs
+## Details
+
+### Right ribs
 
 I spent a few hours to fully install all ribs to the right wing spar.
 
@@ -38,11 +40,11 @@ I think this should be fine. The critical ones are the ones at the bottom. I sho
 
 To be safe, I think I will change up the ordering for the right wing. I will do bottom skin as planned. Then I think I will switch to aileron and flap, then top skin. This way I will get a better idea of rivet interference.
 
-## Misc inventory
+### Misc inventory
 
 Speaking of flap, I noticed I am missing 2 hinges required to build the flaps. I made an request in the Sling builder app and they are on their way. I should hopefully get them within a few days. So overall progress is not slowed down at all. I will be busy with bottom skin for sure next week.
 
-## Inspection hatch
+### Inspection hatch
 
 I decided to take a short break before tackling the bottom skin (flipping the wing skeleton feels daunting as it's super heavy and suuuuper twisty).
 
@@ -55,7 +57,7 @@ Today's temperature is 87 and my garage felt like 120. So I was able to only fin
 ![ref](/assets/img/20240604/hatch.jpg)
 ![ref](/assets/img/20240604/plate_complete.jpg)
 
-## Bottom skin
+### Bottom skin
 
 I then started on the bottom skin. With help from my dad, we moved the wing spar to the floor so I can reuse the tables for the skin.
 

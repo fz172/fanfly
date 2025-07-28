@@ -6,7 +6,7 @@ tags: [empennage, EL-ASS-001-C-F-0, fabrication]
 minutes: 360
 ---
 
-## Task completed
+## TLDR
 
 - Countersunk and mounted elevator tip
 - Tried to install counterweight

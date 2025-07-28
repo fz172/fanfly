@@ -20,7 +20,9 @@ minutes: 240
 - Installed static port
 - Installed GMU11 mount
 
-# Luggage box
+## Details
+
+### Luggage box
 
 Fitted the luggage box and the front plate on Rib 3 and Rib 4. Then riveted them together. Not difficult, but because the parts were bulky so it took a little bit of fiddling to get them in place.
 
@@ -35,7 +37,7 @@ Then I also installed the safety belt reinforcement plates on both sides.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP_0YGozNTJxyANiRY1unN9Xn5uJWl23qe4jsT47O_C0gazqUD5wRzt4AdLRbsbJbDk07y56HffSyIswxxmeMyHsVhOMoCW6nCymbRkHRvT6-Apazx_sxbw6YcvO80RdEuBAoFKkIFnc0veaRp5Iegrmw=w1352-h1018-s-no-gm?authuser=0)
 _Safety belt reinforcement_
 
-# Static port
+### Static port
 
 I decided to use Vans static port and put it on the rear fuselage. The location is roughly at the middle of the fuselage. I measured 3 rivets after rib 4, and 2 rivets up.
 
@@ -49,7 +51,7 @@ _Vans static ports_
 
 Since I moved the static port location, the hose I got from Midwest Panel Builder wasn't long enough. I ordered some more from stein air. Once it arrives I will install the hoses, which should be trivial.
 
-# GMU 11 Mount
+### GMU 11 Mount
 
 Another easy task I did was installing the GMU 11 mount. It's 8 rivnuts and 8 screws, very simple. The only special part is that the rivnuts are made from aluminum, and the screws are brass to avoid magnetic interference.
 

@@ -6,7 +6,7 @@ tags: [empennage, EL-ASS-001-C-F-0, fabrication]
 minutes: 120
 ---
 
-## Task completed
+## TLDR
 
 - Skin prep
 - Inspection hatch

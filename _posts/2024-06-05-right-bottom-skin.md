@@ -6,19 +6,21 @@ tags: [wing, WG-ASS-003-R-F-0]
 minutes: 330
 ---
 
-### TLDR
+## TLDR
 
 - Prepped the right bottom skin
 - Test fit it onto the spar
 - Reversed a few rivet direction on the rear channel
 
-## Back ordered parts arrived
+## Details
+
+### Back ordered parts arrived
 
 Earlier this week I requested a few parts as they were back ordered, and also requested left rib 304 as it was damaged during shipping. They arrived today! This must be one of the fastest shipping I have seen during this build! Kudos to TAF team.
 
-## Skin prep details
+### Skin prep details
 
-### The usual stuff
+#### The usual stuff
 
 Spent like forever to peel off the plastic protective film from the bottom skin. After this was done my fingers are properly raw. It's my least favorite part of the build process.
 
@@ -38,7 +40,7 @@ The dimpling process was very time consuming but straightforward once all the ma
 ![marks](https://lh3.googleusercontent.com/pw/AP1GczNlMIUIoCJe7BKwpTFgqGMj1_31148RdFg7y9At_GMlz2Ep41Trk7Jrpci6yyDSMGISE7Geaj4MmoPK37OgkJPyQ0wqhxDvqOoUjF9S02HgXrL4FXky4QiMTsLP-6gr8HKmMavn1v2ty9WcEv2mJMVxfg=w2166-h2888-s-no-gm?authuser=3)
 _Dimple all done_
 
-### Inspection hatch
+#### Inspection hatch
 
 While the skin was still off the main spar, I installed the 2 inspection hatches. I did this on the elevator before, so it's a familiar process this time. All holes were already dimpled. I had to enlarge-drill the holes for rivets to go through though. After than, just clecoed the inspection hatch grip on plate (`WG-PLT-014-X-F
 `) to the skin, and shot the rivets. The 2 hatches came out nicely.
@@ -46,7 +48,7 @@ While the skin was still off the main spar, I installed the 2 inspection hatches
 ![hatch](https://lh3.googleusercontent.com/pw/AP1GczOk1niSYqVgXelGlVP30tssKhLv98B06x1eKwvz0aOljNEaAV_m-1ymzE_ixkPD3nBX9y-pw6HAfWcei6NeyHfXCBk2ZBpo_UgfQ4Jk2062ZRnHEaJ1b_ik_BmYBG14mAmFkZxFkux-A0KSp_7Nnd4PYw=w2166-h2888-s-no-gm?authuser=3)
 _Inspection hatch_
 
-## Test fit
+### Test fit
 
 After dimpling and enlarge drilling the 3.2 holes done on the hand squeezer, I started to test fit the skin. I started with clecoing the skin to main spar, then clecoing to the rear spar, lastly ribs.
 
@@ -60,14 +62,14 @@ _Testing flap tube_
 ![flap_tube](https://lh3.googleusercontent.com/pw/AP1GczNkdu9Kpd9pGoIvHL8EbeCabzj-uJF30WucSfksuRJoeI4FZU_6ZAbmvp6Vi9PoavuNnOz-620HTb96UiYZ0BFu6bseiz2QU_MwrnPcua9CjxFfyAHNZZKRNKQ7ctHWnmXKxjaM8PKJW51tdPGApQjaag=w2166-h2888-s-no-gm)
 _Testing flap tube_
 
-### Misdrilled hole?
+#### Misdrilled hole?
 
 During the test fit, I noticed one hole on the overlapping root skin and long skin were factory pre-drilled differently. On the instruction it's supposed to be a 4.0 counterskin hole. And it's predrilled as 4.0 on the long skin. But it's pre-drilled as 4.8 on the root skin, also 4.8 on the spar. So when I fit the 3 pieces together, essentially two 4.8mm holes sandwiched a 4.0mm countersink hole. Obviously that's not going to work. Since the spar is already drilled as 4.8, I flattened the 4.0 countersink hole and enlarged it to 4.8, and decided to go with a 4.8 mm x 15mm rivet for maximum strength.
 
 ![mis_drilled_hole](https://lh3.googleusercontent.com/pw/AP1GczN0emCIGkW2fNlXxyIH0GxfYfeLSNmQtJkIH_7chjuVuZsno_WBr5EfBGgabGfJlmv0RX6tKK8a2Z61ev0VCHjtNCTWNRXLIThSNvJuqXksp4DLMVh1ddHV86FNrQSRLaUFsXCTlEw2crhxDXMFw1IzLw=w2166-h2888-s-no-gm)
 \*The predrilled hole from factory is in the wrong
 
-### Fitting rivets
+#### Fitting rivets
 
 I spent some time to fit rivets into each hole, and my goal is to match drill ZERO holes if possible.
 
@@ -78,11 +80,11 @@ _Fitting rivets_
 ![rivets](https://lh3.googleusercontent.com/pw/AP1GczMJaCYgr_L60XukOn8IddYzZFAUYFWq3j6JEu4FRP0pL8m0XTSwQaW0IYu6TEHFmbvv0519SiQdwJBVCxk7X3YBSkjivbypsdL3RMuw_qACP-pdNRLJSlt-pDQUZQrDgRRjE-OMbn1sfvDQmDpOmJmHSg=w2166-h2888-s-no-gm?authuser=3)
 _Fitting rivets_
 
-### Countersink reinforcement plate
+#### Countersink reinforcement plate
 
 `WG-PLT-012-X-F` - I almost forgot to insert these two strips when fitting the rivets. I picked them out of my pile of parts and set them next to the wing. I will install them when I set rivets next.
 
-## (Experimental) Reversing rear spar channel rivets
+### (Experimental) Reversing rear spar channel rivets
 
 The rear channel (2 long pieces) is connected together using a doubler and 8 rivets. Today I realized that I riveted them in the wrong direction. This will most definitely be a problem when I install alerons/flaps because of their tight clearance. So I decided to drill them out and reverse the direction.
 

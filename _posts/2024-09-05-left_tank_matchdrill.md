@@ -11,13 +11,15 @@ minutes: 180
 - Installed the last few rows of rivet on the bottom side of the wing walk
 - Match drilled the left tank
 
-# Wing walk rivets
+## Details
+
+### Wing walk rivets
 
 I previously left a few rows of rivets on the bottom side of the wing walk due to access issues.
 
 With the wing set on the table, it's more accessible so I spent 30 minutes or so to install those. The last row close to the trailing edge needed to be shortened, so it took a little more time.
 
-# Left tank match drill
+### Left tank match drill
 
 I match drilled every holes on the left tank in preparation of sealant.
 

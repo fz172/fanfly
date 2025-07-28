@@ -12,21 +12,21 @@ minutes: 240
 
 ## Details
 
-## Rudder tension spring
+### Rudder tension spring
 
 Installed two M5 rivnuts at the top end of the rear fuselage right under the luggage floor skin, and connected the rudder springs.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNXioj-no7Kf8WLb1Oxi0jDZYR6A8VLAsYi-ymtMSsC6MxiGUNZw05s3ISWXQx-IC88PECP9KKS87-D0NwZPas5Acm0p2zpOx_Id2-kWFuUCXXzKfu9h-CF-OeLIFdUfafSlhj5OX9YmqWmmYHrOEnfmA=w2274-h1712-s-no-gm?authuser=3)
 _The white stuff is tef-gel for anti-corrosion_
 
-## Connecting the front floor to spar
+### Connecting the front floor to spar
 
 First, test fitting -
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN15BfTCTwDSEdWp6IR-7JpqDIgqFTVPskiCa54CI5cPpBM1NKPeHoBHmT2VSDJEFfp1mwQyAiDwBg8Zd2-FlsO2w0AawUDgyBhUpUGg9RYb1SF2STg9yefV0UnC7u-bTTX4Pi8DoMHcUYlaQb3gGNniA=w2274-h1712-s-no-gm?authuser=3)
 
 Then I removed the floor to flip the spar 90 degrees.
 
-## Control stop
+### Control stop
 
 When test fitting the control stop, had a problem with aligning the holes between the skin and control stop.
 
@@ -34,20 +34,20 @@ The holes from control stop is predrilled to 4mm, and the skin holes are pre-dri
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPdylx7FLobpMyXvOVwPzJUIp9mSJrc90jcXFfs3KNW9dVBk4c7RfOWD--KDxCi1nr66h6dOwE0I1DtSHqRVzlIyF7ulisOjjlB3GaM3Pu6JdEk67_UHx42WsiwoZDh1xzsh92X7y5PY04fdqdA6CCvpg=w2274-h1712-s-no-gm?authuser=3)
 
-## Flap acuator support
+### Flap acuator support
 
 Installed the flap actuator support on the center fuselage floor. I guess it's not necessary to do it now, but it provides some rigidity to the floor.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM7nQ5ODEMR8mABP2RkEYwrpOAj9s9cEHD0D_AdVN9MrwVK1nJWjDJlht3rhfFJkD37M3AiCyrlxgM-62KPGHJSmx2QmZZr4K2PQKn8d21ugJrqwTz2nSySoR26YrK9-fhQn7DhkCYZ-9dmeAVfr9potg=w3836-h2888-s-no-gm?authuser=3)
 _flap actuator support_
 
-## Redoing 2 ribs
+### Redoing 2 ribs
 
 In previous step, I accidentally swapped rib 901-L and 902-L. That's the center two ribs connecting the rear and center fuselage.
 
 So I had to unrivet these 2 ribs and swap them. This took me a good 1 hour to complete. After which I cleaned up the fuselage and reinstalled them the correct way.
 
-## Clecoing fuselages
+### Clecoing fuselages
 
 Then I put in some foam spacer on the rear end of the fuselage to create the proper angle needed, and clecoed the rear and center fuselages together.
 

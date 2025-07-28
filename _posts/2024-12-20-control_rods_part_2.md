@@ -16,13 +16,13 @@ For almost this entire week, I am still tweaking the control tubes and shaving o
 
 There isn't many pictures this time because there is no visible work. The process is essentials: rotate, take the parts off, shave material, put it back, rotate and repeat the process.
 
-## Flap and elevator main tube
+### Flap and elevator main tube
 
 After I don't know how many hours, I finally got the flap tube and front elevator main tube rotate free enough. so I riveted the 6 channel pieces to lock them in place.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPW_2dOwXqn75ATMLPBH_P5QxOhXDaTPq6RHVINeIrPe5LYwvpuxT5jDTIi65UMTWqA0Qi0BX57RgpQuysgDjl6AS4CuMSnCp_aItFbuwIMsSiyYH85_SjLMfkrAjYnRcJZ71o2CP1ZCVdcpz7sy8hjgA=w2174-h2888-s-no-gm?authuser=3)
 
-## Joystick
+### Joystick
 
 Then off to the joystick. I repeated several times of putting on the side skin and removing it just to get the angle correct between center fuselage and the rear.
 
@@ -34,7 +34,7 @@ When I push my finger on the angle just slightly the control stick rotates perfe
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNv3QpZng-m78bawkUV4QHtfoL0IGePyMj665rd_Xg3WqbsPOL7CvHD5y9C_fpLOBlUGP5qb73uHNfjF3cWI8iwujI1P176vHMd4PKUgwnEBKb_Aaop5ZneyfGVhO9SoczkQuX-tqaKqiq4hKa8rmCvJg=w3836-h2888-s-no-gm?authuser=3)
 
-## Short elevator tube
+### Short elevator tube
 
 This tube, again, proved to be very hard to get right.
 
@@ -46,7 +46,7 @@ I then riveted the short torque tubes together.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMHA0JhbLHVbHgflhdN6P0rPiwfB5K07qRJYTU39fS2NFf40UfNsG3GBagqZm0fvxUGyYvzrrWsaquEpseHhA1X_Z3ppnaFQ1dWPUQuHN0prq82w5eNSR9esWkb8eX26q85zjJQcM9AeoegpdmO-GgcUA=w3836-h2888-s-no-gm?authuser=3)
 
-## Rear seat channel
+### Rear seat channel
 
 There are 2 channels that supposed to go on top of the short torque tube to hold the rear seat.
 

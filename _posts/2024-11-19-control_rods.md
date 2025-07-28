@@ -13,7 +13,7 @@ minutes: 1500
 
 ## Details
 
-## Fitting the control rods
+### Fitting the control rods
 
 I started to fit the control rods (joystick assembly, aileron torque tube, elevator torque tubes, flap tube) to the fuselage. I seriously did not expect this step to take so much time.
 
@@ -25,7 +25,7 @@ _These control rods takes forever to adjust_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNJCbh42RHZAHploMYi0YT8NH77UixVpoZjWE9415JW5vDEKZLPqzEBplKoJI9oSRiN9GTR-KWZhXhOrwZ67Quui5g2f10cIEC84EjkN3_07IvbVAEIN00mAcnxP1XxJcfdN8btZT32C4B_Jt6xngeQhg=w2328-h3092-s-no-gm?authuser=0)
 _Also take forever to adjust_
 
-## Side skin
+### Side skin
 
 Before riveting the rods, I wanted to first put on the side skin. This way I will know for certain the skins and ribs are in their final position and I can check the control rods rotation one more time.
 
@@ -48,7 +48,7 @@ _Stringer and stiffeners needed on side skin_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO8fVw_vsK5ub0xR0J-RshycWfM7bT1oLo2kreGJtb9pZO8fpyvyXY7vdH0WCFdY-9qGrmblsXTEaIx5P3xgjE1fBr7KYE7GYEbTAH9ueEw1LaHD5QIouT7dbsyERrYt_JhazI4OZlU30_NIRvYyn6GRg=w4080-h3072-s-no-gm?authuser=0)
 _I can't dimple 3 holes, will buy a long throat c-clamp and try again_
 
-## Video
+### Video
 
 The control rod adjustment is so painful, I have to make a video!
 

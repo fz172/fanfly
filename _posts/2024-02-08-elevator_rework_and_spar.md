@@ -7,12 +7,12 @@ minutes: 120
 mermaid: true
 ---
 
-## Task completed
+## TLDR
 
 - Replaced right rib 1 on elevator (`EL-ASS-001-C-F-0` sheet 10)
 - Riveted all ribs on elevator (`EL-ASS-001-C-F-0` sheet 11)
 
-### Detail
+## Detail
 
 ### Replacing rib1
 

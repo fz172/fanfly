@@ -15,7 +15,7 @@ minutes: 120
 
 ## Details
 
-## Fuel sender
+### Fuel sender
 
 According to the KAI, I bent the fuel sender floater arm to length and tested the ohm readings from a multi-meter.
 
@@ -26,14 +26,14 @@ For now, the multi-meter test is good enough.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMFny8IS2c4JMf5IZ5NJlZphIA0WboNVpHv2USltb7Jd2jLuoyN5HR3yTGJiRwq6DwiHd9odzpUel0Ra5KuUsk0E1Dk0zvCR_Dmyq6Fuui0_3bcgwzy66kh8NfZIXUNRpATlK7pAhv31x-ym2pZ8sgYdg=w1290-h1712-s-no-gm?authuser=0)
 _Bent floater arm_
 
-## Fuel tank cap
+### Fuel tank cap
 
 I countersunk the fuel tank cap yesterday. It was a little tricky because the survey to countersink was not flat, so I had to hold the microstop drill bit flat with my hand. The end result was obviously not perfectly uniformed countersink holes but probably good enough. I will apply a lot of proseal for sure.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOwe62OWdipyVc1P58J7Mf-beE2RocEfFLfH0gi3yuzbu4cgb1ZOrme90gSXmRvpKiKv2jP_TKO8jbCvL_lw4rox4EL7-eoFbeMvL9rB1FMhrFz0tZvCPr_tIsmuAT7ZngqZ0PlvTTVR68uTZtxMrMJFw=w2274-h1712-s-no-gm?authuser=0)
 _Fuel tank cap after countersink_
 
-## Unclecoed fuel tank
+### Unclecoed fuel tank
 
 Not much to say, this is the next step before sealing up the tank. I desembled everything to debur and clean the tank parts again.
 
@@ -44,7 +44,7 @@ I am a little nervous about breaking out the pro-seal, as I don't know if I will
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNUq-s3hcMevPeRqQMRFdPqJAM8OI0wLcqCEHF3ZFVG_E4SRZMwNbmRf8mN8U55naDy47LCygiXLbEs2seSU5iMhb9_aDMnvTYNvkMuNqj2JXW04D_qCnfB2jH4vFzT_L6-zMAxx6j0DKfOJFLrtwPINA=w2274-h1712-s-no-gm?authuser=0)
 _Everything is desembled, it's getting real_
 
-## Left wing
+### Left wing
 
 Lastly, I did some quick work before my EAA technical counselor comes tomorrow.
 

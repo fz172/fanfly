@@ -7,11 +7,11 @@ minutes: 90
 mermaid: true
 ---
 
-### TLDR
+## TLDR
 
 - Installed Delphi GT150 style connector to rudder
 
-### Details
+## Details
 
 After watching some videos on how to install Delphi connectors, I tried to install the first one on the rudder. This will be used to connect
 the tail light cable between rudder and vertical stabilizer.

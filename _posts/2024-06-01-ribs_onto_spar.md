@@ -6,16 +6,18 @@ tags: [wing, WG-ASS-004-R-F-0]
 minutes: 180
 ---
 
-### TLDR
+## TLDR
 
 - Ribs 1-8 riveted to spar
 - Installed flap torque tube
 
-## Spar onto jig
+## Details
+
+### Spar onto jig
 
 I forgot if I have mentioned this before, but I got the right sized bolt from Amazon and installed the main spar onto the jig, and I started to put ribs to spar.
 
-## Rib 1 to 6
+### Rib 1 to 6
 
 As Evan's video suggested, I installed them in reversed order: 6 first, then 5, 4, 3, 2, and 1.
 
@@ -29,14 +31,14 @@ Front:
 Back:
 ![ref](/assets/img/20240601/an3_torqued_back.jpg)
 
-## Flap torque tube
+### Flap torque tube
 
 After ribs 1-6, I installed the torque tube and tried to rotate it to see how much friction I get when rotating. It's got a tiny bit of friction, and I think it's due to the fact that ribs are not secured to skin yet so they are still flexible. The friction should go away when I rivet the ribs and skin together. But for now, I'll leave them as is. No epoxy or anything yet. Will re-evaluate when I have bottom skin on.
 
 ![ref](/assets/img/20240601/torque_tube_1.jpg)
 ![ref](/assets/img/20240601/torque_tube_2.jpg)
 
-## More ribs and rear spar
+### More ribs and rear spar
 
 After 1-6, the other ribs are not as complex. I dimpled and installed a few more ribs. I had to stop at rib 8 because I started to notice the spar started to flex due to the added weight.
 

@@ -21,7 +21,7 @@ minutes: 900
 - Installed landing/taxi lights on left wing
 - Clecoed left leading edge
 
-# Tank
+## Tank
 
 The process took an entire weekend with help from my wife and my dad. I would say it is not possible to do it by myself. I really needed help from time to time.
 
@@ -29,13 +29,13 @@ Overall, I used 3 tubes of 3.5 oz proseal, plus 1 full pint. Pretty sure I went 
 
 I have yet to conduct the test(more detail later). Hoping to do the test some time next week.
 
-## Day 1
+### Day 1
 
-### The ribs
+#### The ribs
 
 The first step I did was the ribs. Per the KAI, I smeared some proseal along the front plate channel and pulled the sealed rivets. Then I applied an additional layer of proseal on top.
 
-### Skin
+#### Skin
 
 I applied plenty of proseal on the skin where it attaches to the ribs.
 
@@ -43,11 +43,11 @@ Then sitting the skin and ribs on a table, I clecoed one side. For the other sid
 
 During this process I was very aware of the time. I think I was at about 1 hour mark since I mixed the proseal at this point.
 
-### Fitting to wing
+#### Fitting to wing
 
 My wife and I lifted the clecoed tank (without back plate), and we matched the rivet holes with the wing and I put in some clecos to hold it it place.
 
-### Riveting skin
+#### Riveting skin
 
 Then we started the rivet process. My wife planted the rivets on the top side when I pulled the rivets on the bottom side. When she was done with the top side I was about half way done on
 the bottom side. Then she helped to take the rivet stem off my hand as I pulled more rivets. The milwaukee rivet gun I use does not automatically dispence the rivet stem towards the back. I
@@ -78,11 +78,11 @@ _Inside the tank_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNaX73U43GUro3N2ipt7Cf6rkCs5wMkBXqYifyAwCF5OseVZsbKgXn_9KjTeuvnk2HtYwDJw2UNV7Us6Z8rBRWYYLNVLOsynDRYHa8Ongi_tkRWdtGAzNYe7JqnMUGUwYxZ1MuQ18J1CAivglM-faxYtw=w1290-h1712-s-no-gm?authuser=0)
 _Inside the tank_
 
-## Day 2
+### Day 2
 
 After the skin, I thought day 2 would be easy. I "just" need to install some small parts and the back plate. Boy that turned into a full day project.
 
-## Small parts
+#### Small parts
 
 Prosealed and riveted the following stuff:
 
@@ -94,7 +94,7 @@ Prosealed and riveted the following stuff:
 - fuel return fitting,
 - Plugged a few manufacture holes
 
-### Fuel sender
+#### Fuel sender
 
 Worth noting is the fuel sender. When I bent the steel arm the other day apparently the length and angle are just suggestions. What really matters is the the actual ohm reading when the fuel
 sender is actually installed.
@@ -103,7 +103,7 @@ So I had to do this experiment quickly before proseal sets.
 
 I installed the sender to its final place, and moved the arm up and down to test the ohm reading. The reading was slightly off so I bent the arm a a little to make sure it can touch bottom and top of the tank skin. After that, the reading became within range. I am happy with the result, so I tightened the screws to specified torque value.
 
-### Back plate
+#### Back plate
 
 While the black plate is clecoed on the tank, I first installed the doubler plates.
 
@@ -117,7 +117,7 @@ _backplace_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM4Kx8OzVPvWIJA1I0l3nIeBvzDQOnSEpbFGRHtEaMtLF1fOfQxPuxuP5_LIUpv5jI5tfnKGNzXnSu2J8MD7IAfALbLNST6efYzuzj_ikKhIwSC6BwYuRlNOByHj6jSoyiZVkroEu7fTwqwyEr7QMzzWA=w1290-h1712-s-no-gm?authuser=0)
 _skin_
 
-## Problem with testing leak
+### Problem with testing leak
 
 Essentially I bought pressure gauge, end cap, air pump connector and a bunch of fittings. My plan is cap the fuel overflow, connect air pump to fuel inlet, and connect a pressure guage to fuel return fitting.
 
@@ -142,11 +142,11 @@ _Fuel return fitting_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMqp_-bwOagIfTrheGx6dFrf8qvDeY75qgr_5HZJoL7jEiehDdy1FYiWqF_aqre8kIdPQ-SF-bgPG5KwZFhUADbsRwRdaxdZW7vYvHM5AUlfcE-i3W3K7g8EvAXlnK0jmRhaI81urrE43f6clCPlqqX0Q=w1290-h1712-s-no-gm?authuser=0)
 _Fuel return fitting_
 
-# Left wing
+## Left wing
 
 While waiting for the proseal to cure, I started to work on some light projects on the left wing.
 
-## Trailing edge
+### Trailing edge
 
 With experience from right wing, I used hand squeezer to install AN470AD4-3 rivets on the left trailing edge.
 
@@ -156,7 +156,7 @@ _Solid rivets on the trailing edge_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNS9Orbw22I_a6KsMQ7Cxa_B3KRfcvoQEAUExlun0UnQkzyeIK7dEoACCmUQVmVJB3PBnXnh5hlP9MPiriz7kwyAVG9oBCs8q62xUs39uXp8d1xTBGuqy30pGC0GclS6mlq1HTHX7SLiZV13CgafYVm6w=w2274-h1712-s-no-gm?authuser=0)
 _Solid rivets on the trailing edge_
 
-## Landing lights
+### Landing lights
 
 This time I installed the lights to the rib before installing the rib to wing. This is so much easier to do. I had so much space to work with.
 
@@ -168,7 +168,7 @@ _Landing/Taxiing lights_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPnZ4AnUeZAGvLxAjwZcWUm58eYtK_iJntOriPaKKECUn_nfc2PqxNALDo422jh3il3LFpoqjLuQiqpQNeKhixdY6Gcbp_Zr5mB2oSVgwHOAqLHoGKgvDeyjxiGarMpwUFsghB-brHP5iC3cV8AJVnkHg=w2274-h1712-s-no-gm?authuser=0)
 _Landing/Taxiing lights_
 
-## Clecoed leading edge
+### Clecoed leading edge
 
 Started from the bottom, clecoed 4.0 holes first, then 3.2 holes on each rib.
 

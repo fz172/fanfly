@@ -7,12 +7,14 @@ tags:
 minutes: 180
 ---
 
-### TLDR
+## TLDR
 
 - Dimpled and clecoed all left ribs
 - Debugged rivet gun
 
-## Left ribs
+## Details
+
+### Left ribs
 
 My friend Daniel came over today to help.
 
@@ -22,7 +24,7 @@ I gave Daniel a 5 minute crash course on how to use rivet gun and clecos. Then o
 
 The instruction was easy to follow, Daniel and I clecoed together rib 1 fairly quickly.
 
-## Rivet gun issue
+### Rivet gun issue
 
 Then we tried to rivet the parts. This is when the rivet gun gave up. Yesterday I had to pull a few times for the gun to grip. Today it just stopped working altogether after a few rivets.
 
@@ -31,13 +33,13 @@ We took the gun apart and cleaned everything. Inspecting visually, nothing broke
 ![broken_gun](https://lh3.googleusercontent.com/pw/AP1GczNl9cyf3K42BiMcDJpx4K6UKQDuwDR1WVsvyqXdxhIUaI4fhJA7z9Ohz-8-juCkIEct-_NCq3DvaaN3VXJHMf7WFxQRc1C_BT1wORSYnmH-FV7-e0Kl2vCPM0Hjhu9rgNPU7DbEhaPW-osdwjvPVopBsg=w2282-h1712-s-no-gm?authuser=0)
 _Nothing look broken, hmm_
 
-## Back to ribs
+### Back to ribs
 
 So we continued to cleco stuff together. In the middle of the build I showed Daniel how to use dimpler (DRDT). Then he helped me dimple to each rib and angle pieces.
 
 We had to take apart rib1 to dimple. We got lucky that we did not rivet everything together on rib1. Otherwise I would have had to drill out a few rivets to provide clearance.
 
-## Wrap up
+### Wrap up
 
 We spent most of the afternoon in my garage clecoing ribs. It's always fun to work with a friend. While the build can be done by a single person, it's absolutely easier and more fun to have more people. #teamwork!
 

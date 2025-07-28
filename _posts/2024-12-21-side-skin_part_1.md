@@ -15,7 +15,7 @@ minutes: 140
 
 So I need to install the side skin (and possibly the firewall) before continue with the joystick, because the joystick sits between center fuselage and the rear fuselage. I need to get the two parts connected and at their final position to ensure the connection angle is finalized. Otherwise I won't know for sure how much more shaving I need to do on the joystick bushing channels.
 
-## Left side
+### Left side
 
 I have already previously dimpled ths skins but missed the top row on both sides. So I did that, and fitted all doublers and stringers on the left side first to see if everything makes sense.
 
@@ -29,7 +29,7 @@ _Test fitting the doublers on the outside because it's easier to access_
 
 The holes on the bottom were super difficult to line up. I had to muscle it quite a bit, but in the end I got the clecos to get in. I expect some clear drilling when I start to rivet the bottom part.
 
-## Right side
+### Right side
 
 After doing the left side, I did the same on the right side.
 

@@ -12,7 +12,7 @@ minutes: 360
 
 ## Details
 
-## Components
+### Components
 
 There are 4 layers to be sandwiched together for the firewall, from outermost layer to innermost:
 
@@ -23,7 +23,7 @@ There are 4 layers to be sandwiched together for the firewall, from outermost la
 
 And the top skin will later sit on top of the firewall, with both left and right sides rest right on top of the spacer. So it's important to test fit the top skin at this stage in case I need to trim the top end of the spacers.
 
-## The test fit
+### The test fit
 
 It's a real struggle to get all the holes to line up between the 4 sandwich layers.
 
@@ -47,7 +47,7 @@ _Step 4: Mounted firewall back and threaded clecos around the side skin. I marke
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNClf7cNUT5E1SQMUQ2k_B6kGP8U61sTGTlJFZ9uTxPZRe45KtZT-_5j2PYKsy2Dz3U70icV4xLqrVgHiGVvefPb-6T6wPB3r_F6gwLf_ZWvCQlkCpjVkSyJnV-YuzKI1mZgUbwtg9vs_mueYCv8-2Y5w=w3836-h2888-s-no-gm?authuser=3)
 _Step 5: Test fitting the top skin. I have cut off some spacer so there is plenty of clearance between spacer and top skin._
 
-## Riveting
+### Riveting
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPgktpkwcmrmhfePQE4exrCa0AeVKaCpS_5oZuLycJOdq-eiZysMSuGl2jSIPQXpFc2TUlLtZn5JNxLEGVE9P7D7XTW6ow1OMeherJk3fJW_1IfpWT1PpCX7ciISDJoPHjdB0z6n2flKuNOtHTg1FJYCA=w4080-h3072-s-no-gm?authuser=0)
 _Step 6: Start riveting the firewall to fuselage_
@@ -63,6 +63,6 @@ _Used a hammer to lightly tap the skin to close gap_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOhaO6Bqn2F__tMTNGsW5SIU6MOP4R9qqPAViusDjZLwlmqQWdgI36W2ZE7-Bt_zpWnsAIv1NDyTo1tpGqs3chc0yTTNV3TGAdoYGStx3SK9oN-KhJm9AuxQE_spJT_5ycU-GPSutT6vwW7G-gOe189gQ=w4080-h3072-s-no-gm?authuser=0)
 _Result: still has some gap but IMO acceptable_
 
-## Final result
+### Final result
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN8Ryf-4T_SY3M_TigDkCQSSKuqW9mY3JFDTcBJb8dLFhasJ0Akeck1LopRQrRrrN3dh05xUs5CrYLNrblprARPdD1OP7Ns1KtItDAZ-Jd8QnmeiwEXQMqwhTuRostogkpKvolSPB0pVM2fC5vfwNJ7bg=w4080-h3072-s-no-gm?authuser=0)

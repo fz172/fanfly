@@ -13,7 +13,7 @@ minutes: 180
 
 ## Details
 
-## The problem
+### The problem
 
 So recently I riveted the center fuselage ribs to connect to the rear fuselage.
 
@@ -38,7 +38,7 @@ Also, the holes on skin and rib do not line up.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNfGNGOlqMzXuJwEc8PhKCojknuJbnI_7HZRFm2JWmjE11IR-tBjfLVKGNU4Rh_Cm0U3zwU8-bRLj3pgILcM3d-ho3M9au5qy_hycWcJWrUdfw7T3eYXCWU9s1-t1goC6smZR7POVuLU_s88dD5LCCREg=w1290-h1712-s-no-gm?authuser=3)
 _holes do not align_
 
-## The solution
+### The solution
 
 I asked Sling technical what to do. Their answer is exactly as I planned. I would first make some spacer to fill the gap, and also make a double on top of the rib. Then I would match drill the whole sandwich to get a line of unified holes and no gaps.
 
@@ -47,7 +47,7 @@ I also decided to enlarge the holes (within edge distance) to 4.0mm and use long
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPyDXQmsxsz4LXZa5U3QY2oaWj9e0540gG4Gf-feXCRAviWaThGrQ_gZJ4r_IMyfASdpYhfpUhHWzkY0VGUq62S-O4t1b7cXBKn0P9HedCyxKP0oAVLqLIVilJpHCJ0UOS0pBH9WaIIyPrVs2oXdlsH2g=w2274-h1712-s-no-gm?authuser=3)
 _Work in progress spacer_
 
-# Video
+## Video
 
 Been a while to do a video update, here is a summary to my last few week's work.
 

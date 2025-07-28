@@ -14,7 +14,7 @@ minutes: 300
 
 ## Details
 
-## Bottom skin & longerons
+### Bottom skin & longerons
 
 This part is easy. Lots of rivets to go through though.
 
@@ -26,7 +26,7 @@ _Clecoed longerons to bottom skin_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPGsWnMcJh6aPpEGgXMjjwasafkrMl0-qIKBIsAvRav7jQ27ISAZmtTef7zBUoY9VOs5eC9Ui7864LWGEv1kiFbiqw8ypMgA_yp6_SlRfxoo7TqnxxnkXQ5EWPcRAA64zN_3_iQryNAA9c8ePwjywBBlA=w2174-h2888-s-no-gm?authuser=3)
 _And riveted_
 
-## Rear bulkhead to the skin
+### Rear bulkhead to the skin
 
 Installing the rear bulkhead to the skin was a little tricky. One row of holes did not line up (The connection between longeron 8 and the rib,see picture)
 
@@ -35,7 +35,7 @@ _The hole where I'm pointing does not line up_
 
 It turns out it's because the rib is slightly too wide on the edge, and it's push against the longeron. So I cut off about 2 mm of the rib where I'm pointing in the picture, and everything lines up perfectly.
 
-## Ribs
+### Ribs
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM2xExKzuf8nMe6MHYXmnZ7Qek1xNT8Z7mo99JMJM_2YgnLEK64hie_hpVEMsWaCgELDuc5rk7_RB0dtTOEIWWXck_1DRlrMaH2kx1qb0nEzssHbcHLTKD11oCDg7W16IbT7TEWlx3jncMliihIXMwATQ=w3836-h2888-s-no-gm?authuser=3)
 _Ribs clecoed_
@@ -45,9 +45,9 @@ Aftter the rearmost piece, I clecoed the rest of the ribs onto the skin. It's st
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO_0815-M1zBggRmubXOm_VzeyNPpld5UVib4VpvZrdhTbPEI9-GNnKKMibSA6v-7iRKvudPljk-xuIBL3xjCeuG4FmfXPWE75GOsz0CDCQ4XNd4j3fNq0o_8thjLam5Jsr5DKIVPEXQe93ywQC5-PQvw=w3836-h2888-s-no-gm?authuser=3)
 _Riveted ribs to the skin_
 
-## Step support
+### Step support
 
-### Incorrect parts
+#### Incorrect parts
 
 On `RF-ASS-001-C-C-0-A-A-1`, I am supposed to have 2 gussets to secure the rib 4 to the bottom longeron on both sides. The two gussets are supposed to be symmetrical, but I got 2 identical parts. The right side works perfectly, but the left side doesn't fit at all.
 
@@ -59,11 +59,11 @@ _Identical gussets, but they are supposed to be symmetrical instead_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOGBTynBUgCc3IKOKq1VRuC2Fg3dXfSB0bmK89Ae8UIhdD80giBqVcioDvvOlc3HMHaNTnifc2IjkH-_RlYCb9evKGD_nQdG5proHu77OhJktUdDbPon1iL2oDIwPHBvKxD5Rt9iUBYIgeFfTiYg7yyJw=w2174-h2888-s-no-gm?authuser=3)
 _Installed on the right side only_
 
-### Steel rivets
+#### Steel rivets
 
 One note is that 26 rivets on both sides securing the rib and longeron need to be steel rivets instead of the common aluminum ones. This is required on SB14. So I dipped them in Tef-gel before shooting. You can see from the picture above there are some white stuff around rivets, that's the tef-gel.
 
-### Brackets between longerons
+#### Brackets between longerons
 
 As I have gone half way through riveting a bracket to the longeron, I realized the corner of the bracket is touching the longeron.
 

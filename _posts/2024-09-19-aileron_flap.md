@@ -12,7 +12,7 @@ minutes: 60
 
 ## Details
 
-## Steps
+### Steps
 
 While waiting for the fuel tank to cure, I installed the left aileron and flap.
 
@@ -33,7 +33,7 @@ _A string on the trailing edge for straightness_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNw6ZEJDNTpu0WIAV2zaecHHdzvonKZ4S7CIFaS2qf_j5IqizZ2c74vNXFoRUeWKbWDCyTAUOiX0AItJyST6c7HbiqY2-x7FVyDrb2nczdyrWJyvnQqD3fm16wAj6TwXJsNhryFAT_tuHsmYXSPaEW7nw=w3836-h2888-s-no-gm?authuser=3)
 _Rivets fully installed_
 
-## Issue
+### Issue
 
 The one issue I noticed is that there is some rubbing between the hinge and rivet at the wing tip when I wiggle the flag.
 

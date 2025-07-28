@@ -6,12 +6,14 @@ tags: [wing, video, WG-ASS-004-L-F-0, mistake_right_leading_edge]
 minutes: 120
 ---
 
-### TLDR
+## TLDR
 
 - Right bottom skin clecoed, and test fitted most rivets
 - Drilled almost all of the rivets from left
 
-## Bottom skin
+## Details
+
+### Bottom skin
 
 I spent some time to cleco and test fit the bottom skin on the left wing.
 
@@ -25,13 +27,13 @@ _The rest of the wing with cleco and rivets for test fitting_
 
 I inserted rivets to every hole (where I am supposed to rivet) except the center stringer. I am pretty sure I will have to match drill the stringer, so I did not bother align the holes perfectly. They still mostly aligned after clecoing, but rivets would not go in without significant force. I will leave the match drilling to the end when I am done riveting the main bottom skin.
 
-### What'd done different compared to the right wing
+#### What'd done different compared to the right wing
 
 1. I did the wiring differently on the left. Instead of riveting everything and threading the wire harness, I laid the harness into the stringer before even clecoing this time. I had more space to work with, and things went faster.
 2. I inserted the aileron tube before installing rib 8 and beyond. Same reason, I had more space to work with.
 3. I rolled the edge on the skin. I did not do this on the right side, and people on the sling builder group said it's fine. But a few folks who did it said it made fuel tank fitting easier. So I rolled the skin edge while it's still available.
 
-## Unriveting the right leading edge
+### Unriveting the right leading edge
 
 I continued my progress to remove rivets from the right leading edge.
 
@@ -39,7 +41,7 @@ It's not difficult, but I had to be very careful to avoid even further damage. I
 
 Anyhow, I am almost done withe the top side. Only 5 rivets left. I will need some help (and more importantly, space) to flip the wing and do the back side. I supposed I have some time because the replacement part hasn't arrived yet.
 
-## Space planning
+### Space planning
 
 The fuselage kit is on the way, but my garage is completely full at this point. I am thinking I will need to use some vertical space.
 

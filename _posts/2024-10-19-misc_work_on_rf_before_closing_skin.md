@@ -19,7 +19,7 @@ minutes: 150
 
 Last week I used some fragmented time to work on small tasks. I think I've reached a point that I can close the rear fuselage skin, or at least can cleco them shut for a test fit.
 
-## Static port tubes
+### Static port tubes
 
 I ordered a 20 ft blue tube from Stein air, and cut to two parts: the shorter part
 connects the 2 static ports, and the longer part goes through the RF and will be
@@ -27,7 +27,7 @@ connected to the panel in the future.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNnvAMovBYnTFy9YxP7Xdkjt7yI9GQdg3D6jlcnWhvTFhQqgwqxIMzkvM3Fmm6hm8iP2N8a60m2ZIs2D2C2cUXEdjgJbVF6c6p_p_mIxW8maiYEqVlqOxUt_NeFnmcg4rJ-9TKfMrG65wVSk4QSwxbU8A=w2274-h1712-s-no-gm?authuser=3)
 _Connecting the static tube_
 
-## Coax cable
+### Coax cable
 
 Similar to the static tube, I also ran the coax cable for com1 through under the luggage
 floor area.
@@ -35,9 +35,9 @@ floor area.
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPzDSQkiEbyBod_CLagb2VnAWw8a1kHvZ9ICQrTjGfWgxEkDNyg2yhKisswwyAaqyDDBQ_O1Tr7FGpDf3ayIICWTWI_2jTxETCgXzx-82Y6N0Z-nel2kskIahnfSXDg6e5-Ku2LGMLh05966VSvFgjD6Q=w2274-h1712-s-no-gm?authuser=3)
 _Coax cable_
 
-## floor & parachute box
+### floor & parachute box
 
-### Floor skin
+#### Floor skin
 
 I riveted the stringers in place for the floor area. A few holes need to be match drilled.
 
@@ -52,7 +52,7 @@ between the bottom of flange an the top of longeron.
 I asked Sling technical and other builders. Apparently this is common and cosmetic
 only. So I man-handled the floor and riveted everything together.
 
-### Parachute box
+#### Parachute box
 
 This is supposed to be an easy task, but as everything goes in this build
 nothing is easy :) I am missing a skin piece on the parachute box. So I can only
@@ -68,7 +68,7 @@ _Parachute box and floor all riveted together_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMh1pu3LbJeL2mdTBQds2HozVnbjm7ldHtFeFlWu4LgnB-Kcp8fJ5wTwOsFkIK1xD5iTbCE5uiNDeswQKkiwsfaBvLNd9CB6bCd3QbCWm9q6eWAxB9m4Wo1w9HJt0wJoKdFdvc_1h5jY-CMsv2NWlMPRw=w1290-h1712-s-no-gm?authuser=3)
 _Another view_
 
-## Longeron 111
+### Longeron 111
 
 This is the longeron on the very top of all ribs, and also carriers the doubler for the COMM1 radio.
 

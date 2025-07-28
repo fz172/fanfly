@@ -13,7 +13,7 @@ minutes: 240
 
 ## Details
 
-## Nose wheel
+### Nose wheel
 
 The inner tube had a L shape valve that needs to go through the rim. I spent a whole evening trying to figure out how to get it through.
 
@@ -31,7 +31,7 @@ _Make and model for the tube for future reference_
 
 I haven't looked at the main wheels yet, but I assume they will both be done the same way.
 
-## Front gear fork
+### Front gear fork
 
 The structure of the fork is straightforward. It only takes 10 bolts to put the 4 main pieces together. However every bolt is extremely tight fit. Again, this took me a good 2 hours to get it done.
 

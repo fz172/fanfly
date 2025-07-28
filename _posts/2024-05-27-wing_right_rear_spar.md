@@ -16,14 +16,14 @@ tags:
 minutes: 360
 ---
 
-## Task completed
+## TLDR
 
 - Built the wing jigs for both left and right
 - Built right wing rear spar
 - Built right rib-1, rib-6
 - Started rib-7
 
-### Details
+## Details
 
 ### Inventory and priming decision
 
