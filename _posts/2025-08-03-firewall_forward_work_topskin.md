@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Closed top front skin"
+title: "Closed Top Front Skin"
 categories: [Fuselage, ~center_fuselage]
 tags: [top_front_skin, static_port]
 minutes: 180
