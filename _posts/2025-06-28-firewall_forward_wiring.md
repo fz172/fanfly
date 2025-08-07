@@ -36,6 +36,6 @@ _#2 wire connected between shunt and master solenoid_
 
 ### Battery ground
 
-One last wire I haven't connected is this #12 guage battery ground. This is not the lug from battery negative pole. That one are already connected to the airframe.
+One last wire I haven't connected is this #12 gauge battery ground. This is not the lug from battery negative pole. That one are already connected to the airframe.
 
 I think this one should also go to the air frame for grounding. I am not sure if it can be anywhere on the air frame or has to be the same place where the battery lug are grounded. I plan to just put a new hole near this wire and connect it with a AN4 bolt.

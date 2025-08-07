@@ -20,9 +20,9 @@ I wanted to run the wires for the prop controller before closing the top skin. T
 
 ### Static ports
 
-I already have static ports connected from the rear fuselage using Van's system. But Sling also has 2 ports right in front of the naca duct. I decided to connect it also, but have the penumatic line just short of connecting to Garmin. If the air speed is not accurate during the test flight, I will switch to using the Sling's static ports.
+I already have static ports connected from the rear fuselage using Van's system. But Sling also has 2 ports right in front of the naca duct. I decided to connect it also, but have the pneumatic line just short of connecting to Garmin. If the air speed is not accurate during the test flight, I will switch to using the Sling's static ports.
 
-The lines is 5mm plastic lines, so I connected them using a few barbed fittings, then converted to the 1/4" penumatic line using a quick-connect.
+The lines is 5mm plastic lines, so I connected them using a few barbed fittings, then converted to the 1/4" pneumatic line using a quick-connect.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNE2gippw4PK6jR4MLqJnqI8WAkApZkOz8psJtTbMKZ6VYIlfGXGVeFp17zfbryeCod2N0mBZOs7G16Gn8OfHj13uTUqOewkprNXeT-hOOvdn50nl-ZIF-4L2hEmj7VEOBHraYtZez2xh291Mbmy7Fe7w=w1314-h1746-s-no-gm?authuser=0)
 
@@ -38,7 +38,7 @@ Before setting the front skin in its final position, I connected a duct from the
 
 #### Glue and rivet
 
-Then I cleaned the top skin and skde skin both with Sika 205, then primed with Sika 206, and smeared a bunch of Sika 296 for water proofing.
+Then I cleaned the top skin and side skin both with Sika 205, then primed with Sika 206, and smeared a bunch of Sika 296 for water proofing.
 
 Positioning the top skin with the sika glue turned out to be a little problematic, because everything was so dark black and a few holes were blocked by the sika 295. it got easier once I aligned a few holes with cleco though.
 

@@ -16,7 +16,7 @@ minutes: 500
 
 ### Top front skin
 
-The sides of the top front skin got a row of skia 295 for added water proofing.
+The sides of the top front skin got a row of sika 295 for added water proofing.
 
 I ran a blue painters tape along the edge of the aluminum side skin, then a 1/4" vinyl tape above, then another line of painters tape. Then I removed the middle vinyl tape to leave a perfectly distanced line for putting the Sika 295 in.
 
@@ -26,7 +26,7 @@ I ran a blue painters tape along the edge of the aluminum side skin, then a 1/4"
 
 Since I'm using the fuel boost pump system from MWPB, I needed to slightly mod the fuel selector mounting position by enlarging the mounting hole.
 
-The kit comes with the jig to set the hole size. I drilled 4 holes and cleco-ed the jig piece on the leather where fule selector would go, then used a cutoff disc to cut away most of the material. Lastly I used a dremel sanding bit to remove all the extra material so the hole cutout was exactly the size I needed.
+The kit comes with the jig to set the hole size. I drilled 4 holes and cleco-ed the jig piece on the leather where fuel selector would go, then used a cutoff disc to cut away most of the material. Lastly I used a dremel sanding bit to remove all the extra material so the hole cutout was exactly the size I needed.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP5q242-Z_e1kfFuTCTZhduud4CZ1D9twaBzOEeh4YTiBblhsPiDhvzTS2FTc4rbuaArIwbDnj93KNfmwgH1u-iUNHgNq27yejKjVGxahzac3HKD7I8i63GoZvFjHbq7PbEAX4xom6o2HJFND_XmTABtw=w1780-h2364-s-no-gm?authuser=0)
 _As you can see there are a lot of roughly edges on the hole. They will be cut away with a craft knife_
@@ -37,11 +37,11 @@ _As you can see there are a lot of roughly edges on the hole. They will be cut a
 
 Then I put the dashboard on top of the front skin. The fitting was a little difficult as a single person job, but wasn't too bad.
 
-One tricky part was connecting the air vent when the dashboard was going in. The. space wasn't really big. Fortunately I'm pretty skinny, I wiggled my hand quite a bit and finaly secured the air vents using some zebra clamps.
+One tricky part was connecting the air vent when the dashboard was going in. The. space wasn't really big. Fortunately I'm pretty skinny, I wiggled my hand quite a bit and finally secured the air vents using some zebra clamps.
 
 #### Instrument panel
 
-After the dashboard was in place, I proceeded to connect wires. So far I stil have a few loose wires: airmaster controller, the fuel pump power, heater related stuff.
+After the dashboard was in place, I proceeded to connect wires. So far I still have a few loose wires: airmaster controller, the fuel pump power, heater related stuff.
 
 I conducted a power on test after the wires were connected. Unfortunately the screen did not turn on. I fell into panic and started to shoot emails to MWPB for help. This process went back and forth for 3+ hours. And at last I realized I simply forgot to turn on avionics switch...
 

@@ -31,7 +31,7 @@ The way I did the install is this:
 
 That's the front end. Once the front end is set, I connect the back end with the front end with the rod. THen:
 
-1. Adjust the back latch's postion so it's roughly the same as the front latch (in locked position)
+1. Adjust the back latch's position so it's roughly the same as the front latch (in locked position)
 2. Install the back strike plate
 3. Drill center hole and install rivnut
 4. Install the latch holder and brass

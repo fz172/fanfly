@@ -17,9 +17,9 @@ minutes: 300
 
 The fuel pump bracket for my installation is slightly different from the instruction in the KAI.
 
-In the KAI, the bracket is supposed to be installed in a upright position. For my naviflow set up, the fuel pumps needs to have its fittings sideways poining to the naviflow. So I need to install the bracket sideways.
+In the KAI, the bracket is supposed to be installed in a upright position. For my naviflow set up, the fuel pumps needs to have its fittings sideways pointing to the naviflow. So I need to install the bracket sideways.
 
-The 4 mounting holes to the bracket is almost perfectly square, but with just a few millimeters offset. So they are actually a rectangle. To install the bracket sideways, I used dremel to slightly make the holes oval shape. The holes are squeeshed closer horizontally, and moved further apart vertically.
+The 4 mounting holes to the bracket is almost perfectly square, but with just a few millimeters offset. So they are actually a rectangle. To install the bracket sideways, I used dremel to slightly make the holes oval shape. The holes are squeezed closer horizontally, and moved further apart vertically.
 
 Adjusting the hole took a lot of time, as I don't want to make them too big. And in the process I broke several grommets.
 
@@ -33,9 +33,9 @@ When the hole and mounting bushing and screw all fit in the end, I used a multi-
 
 #### Naviflow check valve
 
-On the naviflow unit, there are 2 barb fittings to connect to a check valve. Interestingly the check valve I received from Sling has AN6 fittings. I think this is probably a new revision. They used to have 3/8 hose end fittings for 915, and switched to AN6 for 916 engines.  (My engine is 915 but the fireware kit I got was based on 915, that's aother issue).
+On the naviflow unit, there are 2 barb fittings to connect to a check valve. Interestingly the check valve I received from Sling has AN6 fittings. I think this is probably a new revision. They used to have 3/8 hose end fittings for 915, and switched to AN6 for 916 engines.  (My engine is 915 but the firewall kit I got was based on 915, that's another issue).
 
-So anyways, I sent a question to aero inno to ask about my options. I think I might have to get a new check valve with the barb fittings.
+So anyways, I sent a question to aeroinno to ask about my options. I think I might have to get a new check valve with the barb fittings.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOH7TLokO3phh6zABqAbwyZoU7EebPGDmYaAObr-KqJM9Unl9uXTssqGUqh9048u7BYGWQh0GF_OEtfAprFDDioh1pIlywYGpQ0zE95j5PC3ZjktfYqZTdpiIFcENXBuk4PPcAQYnd1cZa9wjFgKq1hPw=w3212-h2418-s-no-gm?authuser=0)
 

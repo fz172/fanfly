@@ -24,7 +24,7 @@ However the space access is really small, so it took a really long time to get i
 
 ### Extract pins
 
-The connector went through a tiny hole below the control stick previously. I needed to get the wires and connector back out. So I had to remove the pins and dissemble the connector. The copilot side was easy, but several pins got stuck from the pilot side when trying to get them out of the CPC using a pin extactor. I ended up damaging a few pins. So I cut the wire and re-attached some new pins.
+The connector went through a tiny hole below the control stick previously. I needed to get the wires and connector back out. So I had to remove the pins and dissemble the connector. The copilot side was easy, but several pins got stuck from the pilot side when trying to get them out of the CPC using a pin extractor. I ended up damaging a few pins. So I cut the wire and re-attached some new pins.
 
 ### Enlarging holes
 

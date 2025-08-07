@@ -37,7 +37,7 @@ _A different angle_
 
 To better guide me with the line routing, I also temporarily installed the center channel skins.
 
-To prepare the skin, it required the standard clean/debur sequence. It's been a while since I did this. I kinda missed peeling off plastic film from sheet aluminum. Anyways, I match cut the leather and carpet upholstery for the skin and glued them together. Took me 2-3 hours to get the cutting and gluing perfect. Then I enlarged each screw holes a little bigger to make rivnuting easier later. Inserting screws after upholstery is done is already very challenging to me.
+To prepare the skin, it required the standard clean/debur sequence. It's been a while since I did this. I kinda missed peeling off plastic film from sheet aluminum. Anyways, I match cut the leather and carpet upholstery for the skin and glued them together. Took me 2-3 hours to get the cutting and gluing perfect. Then I enlarged each screw holes a little bigger to make installing rivnuts easier later. Inserting screws after upholstery is done is already very challenging to me.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOW3LuHkChBxDOMkQ-NCjz2ArIM_r_bznQ_LLp999o4mE2nBKA3FruE2tUpou-oSNO7cVmHsfkBzBTGZiaDK-PZ2N1fCAlhqSbv428mWRsuY8NWCyxcP3TSKLoF8Ih9DpDju2pudp4b17dyLRM16CTRlw=w3648-h2736-s-no-gm?authuser=0)
 

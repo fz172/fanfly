@@ -46,7 +46,7 @@ It took me a minute to figure out how to secure the cable onto the cabin heater.
 
 #### Air ducts
 
-To run the duct to the rear, the center channel was too small for 2 inch ducts. So I splitted the 2 inch duct into 2x one inch ducts to reach the back. I tried to find the proper 2-to-1 splitter but couldn't find any. So I just 3D printed a set.
+To run the duct to the rear, the center channel was too small for 2 inch ducts. So I splat the 2 inch duct into 2x one inch ducts to reach the back. I tried to find the proper 2-to-1 splitter but couldn't find any. So I just 3D printed a set.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOh9fBozCTuIvoT0NRcE8xSkpDmWD35bBoZu94OQ6Dy9dqKZzCboo_gLSq9enCCw7gZ28mV-BMyTTJZtPNokppf86V9QSXNtqb5H-JWIfRsF-NCnoQYpKHE_irSP3M35IvPMNZ6txTaSnFlwnaHpxBbNw=w1290-h1712-s-no-gm?authuser=0)
 
