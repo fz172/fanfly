@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canopy part 3: installation"
-categories: [Canoypy, ~top]
+categories: [Canopy, ~top]
 tags: [CA-ASS-101-C-F]
 minutes: 300
 ---
