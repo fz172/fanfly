@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Airmaster controller, FP1 connector, and passenger door latch"
+title: "Airmaster controller, FP1 connector"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, wiring, door_latch]
-minutes: 360
+tags: [avionics, wiring]
+minutes: 320
 ---
 
 ## TLDR
 
 - Installed Airmaster controller onto the panel
 - Fixed and installed FP1 connector
-- Rebuilt the door latch on passenger side
 
 ## Detail
 
@@ -41,9 +40,3 @@ Today I used a pin extractor to remove pin 15, 16 and checked them against the d
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMftAW854qBB9pnRYdU1hO3hiq4UhNhWTN92EWFqi5rpQM-U1R7PuMTGZef5yYvTEEeHKJL7qB7M10Poh4KEgwGIb9VnGkJt-AhIOd85tQaTYn2beKi2ep9xrOg6TxK0Sn8EIxXPglT7-pi3jcOVuyu0w=w654-h869-s-no-gm?authuser=0)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP1h0I1Zx-wszVp9YwYvu1VhyOH4Xs63-biYRQNadwxi24DlP0ju81ZrJsvzI_XtMRqfwUMHIlOvGBsZh1FewTO8lOSMrSN56nXOYktKTiV2Rw4td8_JH3qYL0vJalf8S-R61UzKwSNOlUoKyhwgpSHEA=w654-h869-s-no-gm?authuser=0)
-
-### Passenger Door Latch
-
-I wasn't happy with the latching motion on the passenger side door since I installed it last month. Today I decided to redo the latch.
-
-I took off the rolling pin holding the lock/latch, and re-measured the position for the rolling pin. Then I drilled a new hole and put the pin back. It's abou3 millimeters next to the original position, but the locking motion is a lot smoother. Once the door is locked, there is no movement on the latch at all. This feels a lot safer than my previous installation. I used some structural epoxy to fill the original hole. I am much happier about the new installation.
