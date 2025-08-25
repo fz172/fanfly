@@ -2,7 +2,7 @@
 layout: post
 title: "Firewall Forward Wiring"
 categories: [Firewall, ~firewall_forward]
-tags: [avionics,wiring]
+tags: [avionics, wiring]
 minutes: 360
 ---
 
