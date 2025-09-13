@@ -3,7 +3,7 @@ layout: post
 title: "Door latch rail cover"
 categories: [Canopy, ~door]
 tags: [door_latch, CA-ASS-101-C-F]
-minutes: 150
+minutes: 190
 ---
 
 ## TLDR
@@ -19,9 +19,11 @@ The door handles required 2 new holes to be drilled on the canopy. The location 
 
 To get the hole location precisely, I temporarily fastened 2 M4 screws on the handle, and cut off the heads. Then I pressed the handle to the canopy very hard. This left a light mark on the screw locations. Then I drilled the holes and countersunk them so they will not block the window installation later.
 
-I do not have M4 countersink screws yet, so I temporarily fastened the handles on the canopy.
+![img](https://lh3.googleusercontent.com/pw/AP1GczOoVMkgllmITDWiPZiMzGG7fCDDajWW7dkctnJdtrSJgsDvZAa3UJUDkfuwen2eePNo6DJUFrvDfT3XtXSnaOrOxvcekLcuNuE6PrZTBYGej5L4kn38gReehV97Cb4m9zq20smcWKJn8SQFvNXV_SCJTg=w657-h873-s-no-gm?authuser=0)
 
-![immg](https://lh3.googleusercontent.com/pw/AP1GczOoVMkgllmITDWiPZiMzGG7fCDDajWW7dkctnJdtrSJgsDvZAa3UJUDkfuwen2eePNo6DJUFrvDfT3XtXSnaOrOxvcekLcuNuE6PrZTBYGej5L4kn38gReehV97Cb4m9zq20smcWKJn8SQFvNXV_SCJTg=w657-h873-s-no-gm?authuser=0)
+After the holes were drilled, I countersunk them to fit M4 flathead screws, and fully secured the handle with 2 M4 each (and loctite 243).
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczNbRih28DjrJWHbzY7mOk_FTG7xZaftYjpFly7v7n-pM7mSRIEe-a5FXGYdAaeALt55B7iYpomoQKsNtfz0Zwz-0fCXIa70htt1SjmyhcqDEIy8o6Ww7ftv__EtnUXGsCj64Eua-kZcb1Pzkth93xYxJA=w2410-h1814-s-no-gm?authuser=0)
 
 ## Latch cover
 
