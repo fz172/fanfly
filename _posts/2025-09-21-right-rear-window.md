@@ -14,14 +14,14 @@ minutes: 240
 
 I installed the right rear window today.
 
-With the experience from the left window, the right one felt faster althrough still very unpleasant due to the dust.
+With the experience from the left window, the right one felt faster although still very unpleasant due to the dust.
 
 ### Cutting and sanding
 
 - Place the window on the frame, trace the outline with a sharpie.
 - Rough cut around the outline
 - More accurate cut on the outline.
-- Place the window on frame again, and use my "sharpie+tracer" combo pen to trace the outline again. Now I have the window outline 2mm shrinked from the canopy frame.
+- Place the window on frame again, and use my "sharpie+tracer" combo pen to trace the outline again. Now I have the window outline 2mm shrank from the canopy frame.
 - Rough cut
 - Sand to exact shape
 
@@ -35,8 +35,7 @@ _Trying my new die grinder_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPUcHKhMzVuFCWewQoh7B2MvIWCceS3oMXq2aFjBMqFjnLOcs5AUpkgERuQwbpuCgBaHS3f29-av9Rqe3sNm642c5n6TRf_1NX9M45fdOtg6a16ttWRzDJHNsK8N2_7Rz17Zlsdw9in8eGnqJJGlkn5GA=w1159-h873-s-no-gm?authuser=0)
 _Rough cut finished._
 
-![img]
-(<https://lh3.googleusercontent.com/pw/AP1GczNvP2qBLLe7QWpg5KiFZU5eBra0uFvb_ZausSTvP6h7uC0eU-AMj-uCpLiNIj06HiPIRe23uINAWSsehCzYqxhYfECDJlOHWy0PV3bvL08f-AUnbsBGVZRx23VTihqJ0vQGbqqVU4W8PNvNXk1vcAl-pw=w1159-h873-s-no-gm?authuser=0>)
+![img](https://lh3.googleusercontent.com/pw/AP1GczNvP2qBLLe7QWpg5KiFZU5eBra0uFvb_ZausSTvP6h7uC0eU-AMj-uCpLiNIj06HiPIRe23uINAWSsehCzYqxhYfECDJlOHWy0PV3bvL08f-AUnbsBGVZRx23VTihqJ0vQGbqqVU4W8PNvNXk1vcAl-pw=w1159-h873-s-no-gm?authuser=0)
 _My tracer pen_
 
 ### Taping and Gluing
