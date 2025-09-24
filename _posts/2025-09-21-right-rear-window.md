@@ -3,7 +3,7 @@ layout: post
 title: "Installing right rear window"
 categories: [Canopy, ~windows]
 tags: [windows]
-minutes: 240
+minutes: 270
 ---
 
 ## TLDR
@@ -54,3 +54,5 @@ _Taped from inside too_
 _Primed with sika 209_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOwOusXhH6QGq2XgAk_93adzGLzZcgLGj55qyoJzvuQbHvfCRjg_R4i8vLKhIi8FxYAfyO18B-jy4gZDPxPFrhKRzLheWXjJ66gAhsSk478YWB4C_qiv8tjYkVR4w-BvEsZ7Ik7SEj1DUayejSbluSOtQ=w1159-h873-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMDS-_2WYC-ybjH7W5R5iXg2zBXDExcUTz-y83K8zSyQG6H0UbIXlu2Z6hpHCQAKaYYOrdNg0xhtYdM2enEtWuhadcmzDfwTFs5x4oOko_x-ZLaJLUk6m_5YWS3c7v70MYIX7FawuJ5NJDNz-ur7ppB5g=w2410-h1814-s-no-gm?authuser=0)
