@@ -44,6 +44,8 @@ Not much to explain here, I spent quite some time to tape around the window and 
 
 Then applied the sika activator, primer and glue, and placed the window to its final position and secured with wingnut clecos.
 
+After a day or so, I removed the wingnut and filled in the groove between the window edge and canopy frame with more Sika 295. This time it's a little bit rough, I think I will need to sand it a little to make it perfectly smooth before painting.
+
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN-xcb1QD4gehoDlRZEoTPyhia8kMK8t37-Qx44DOlwae4oBLFb9QIy8Y8GHtaqtq58P7ZCOQpInjEr0ol1d5xKDbeqScNCoKWbi-YEl7Lj9cxctr87CJDFBFXi7i2_hJLQGwT3gpbEg_YEE57o5uWlew=w1159-h873-s-no-gm?authuser=0)
 _Secured before gluing_
 
