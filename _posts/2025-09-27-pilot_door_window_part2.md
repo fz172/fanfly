@@ -12,7 +12,7 @@ minutes: 360
 
 ## Details
 
-## Fine tuning the window fitting and sanding
+### Fine tuning the window fitting and sanding
 
 Spent a few hours today to fine tune the fitting of the pilot side door window. It's a tedious work, just a lot of putting the window on the juggle, measure and mark, then sand.
 
@@ -21,13 +21,13 @@ I bought a 2" flap wheel for my die grinder. The original purpose was to use it 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNBre4EnAsBWCjf7cQEmMSMFLQb646-2fZDwnNaApFPtUN5ZEGjYPRi-hM7qe3COdKJOLRtmfmx-j44fvvTBO7XXUAYJ_tTrxQKLdmGORqFITLM1F4fhJS1lyU88L-LVQXAyZnfhmh3LXSmizkUpstVIQ=w2410-h1814-s-no-gm?authuser=0)
 _Almost done fitting_
 
-## Protecting glass and canopy
+### Protecting glass and canopy
 
 After fitting, I thoroughly cleaned the canopy juggle and the window, and tape around the corners as carefully as I could.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO74AfBqs7BmHY7TG1SoAaGYEUhtaT355-xSyukF7lb4czPbQooh7nplHUlepGQmgWP2LSWwDMbU23p8k3W85I-A8IOJaemcZ2xQ3s-JspqhrwB59zFWO4gRqYYXhi6xt6_SELupY5U-89x9wZUlwpA6A=w2410-h1814-s-no-gm?authuser=0)
 
-## Activate & Prime
+### Activate & Prime
 
 Applied Sika 205, 209D to prime the parts.
 
@@ -35,7 +35,7 @@ Applied Sika 205, 209D to prime the parts.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOsVQlngO5oDI-6_pRXyy8lOPFP8JykkTZW_PP4EOFQM7XPmC2Zw_DAt7XedjN1Pm-EBAfDtuTezh6XZ4lM8omwBspOo2PWwrfgX8IStXFS7WO4NaR66Xwzlk3yPjYW4ld3JvXhxYZM_E9F5oc8xfpBdg=w2410-h1814-s-no-gm?authuser=0)
 
-## Glue on
+### Glue on
 
 Applied the Sika 295 onto the juggle and used a squeegee to flat the bead.
 
