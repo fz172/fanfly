@@ -3,7 +3,7 @@ layout: post
 title: "Rear floor shutoff skin and transponder antenna hole cover"
 categories: [Fuselage, ~rear_fuselage]
 tags: [CF-ASS-C-C-0-G]
-minutes: 240
+minutes: 270
 ---
 
 ## TLDR
@@ -40,3 +40,8 @@ I measured and cut a 2.5" x 2.5" plate, and drilled 8 3,2mm holes around the edg
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNPjIwyPi3qWFZ8UBEdbfUDWrBuvmZOq_yVL2w2FWmPDmitNgIaACa__t0qFmACXVBAsApno39ASGFYjFdPAIyZjM9E2u_OiFESGJr3lSqArre5TUgncD7xrsXGpOtufV1BytDuJ5dDBf8a3rEw3DqKzw=w1159-h873-s-no-gm?authuser=0)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPsEzRmscZPCffIQ_shzohoq1ZobzD2y8xkLMPqEqZ3UbEPs1oufYigzs_5n8qr56ffBJ8d9ccUBvBpU5jgMRBfRL8L-EpEDJYKdFwRh5p5_eP5QMKtJ1eUCqqq2ZasE0H5w61ThtMvL7m6iA9otq1HLg=w657-h873-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczNZ3zZxBJOFoSTwGTvdbnq6SGrb9Ucu3jZnEe1A9xZREWoTaING8nHi7zUGExl-iGif5wmWyQHX8T8UlbyBu73ya6oeg4wXgXV9uqj8vXxVR1iNAF-n1KAfSssp88FjoBucn34ZuB54OfgnEqTEZxO-3A=w657-h873-s-no-gm?authuser=0)
+_Installed_
+
+When riveting the plate to the fuselage, I used a roller to give the edge a slight curve, and applied a little bit of Sika 295 for water proofing. Then I used 99% alcohol to clean the the area (though I forgot to take a photo).
