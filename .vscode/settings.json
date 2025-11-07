@@ -29,5 +29,12 @@
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
   },
-  "cSpell.words": ["dremel", "gascalator", "pushrod", "pushrods", "rollpin"]
+  "cSpell.words": [
+    "dremel",
+    "gascalator",
+    "pushrod",
+    "pushrods",
+    "rollpin",
+    "zipties"
+  ]
 }

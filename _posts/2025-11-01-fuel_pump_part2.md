@@ -1,50 +1,28 @@
 ---
 layout: post
-title: "Completed the Fuel Pumps & Naviflow Assembly "
+title: "Rotax Fuel Pumps wiring and Installing to Firewall"
 categories: [Firewall, ~firewall_forward]
 tags: [fuel_pump]
-minutes: 160
+minutes: 90
 ---
 
 ## TLDR
 
-- Made a new flaring tube to fit the fuel pump assembly better
-- Tightened all connections and finished the assembly
-- Installed the naviflow unit
+- Wired the Rotax fuel pumps
+- Installed the fuel pump assembly to firewall
 
 ## Details
 
-### Fuel Pumps
+### Wiring
 
-Continuing from last week's saga, I decided to change a few Sling provided parts on the fuel pump to fully stay in compliance with Rotax's instruction.
+Each of the 2 fuel pumps needs 2 wires(power and ground). So I cut a few pieces wires and crimped them with ring terminal. As I said in my last build log, I am slightly worried the terminals might be a little difficult to access once the pumps are installed, so I installed the wires to the pumps before putting them on the firewall.
 
-- Instead of 1/8 NPT fittings on the pump outlet, I switched to M10x1-6AN fitting
-- Instead of 2 washers said by Sling, 1 crush washer only.
+### Installing on the firewall
 
-After I tightened the fittings on both ends of the pump, I connected everything except for the flare tube.
+The unit is attached to the firewall with 4 steel zipties. This is the first time I work with metal ziptie. It's really difficult to tighten by hand. I think I will have to cut them and redo once I buy a ziptie tool from Amazon.
 
-The assembly is symetric, and the flare tube on one side fits pretty good, so I just went ahead and tightened it all the way down.
+Then the other part of the installation is to connect the fuel lines. Since I'm using the PTFE lines from Areospace Innovations, the lines are pre-made to length. So this part did not take much effort at all.
 
-![img](https://lh3.googleusercontent.com/pw/AP1GczNINKSc27bewdlENaP2zu5FrumUpJ0H7PngVqhSbpk5eUKrhKT-_sIM0zEe2ad2jssUItJRTpmrynq40uEcvGB9Kvf0hjBIjeE4lNDLeU-1X_g1iBD18nZU_OIQIk4u1uaiHKBDz9t7QcnIPAz2sUkXMQ=w657-h873-s-no-gm?authuser=0)
+![img](https://lh3.googleusercontent.com/pw/AP1GczOZ1Kb9OKOcc1ze9gCfvNHsqAjji-wLHusEhiAbwdFVZDo-P1ZOy0BXEh8Q84PhwrrYSFtNSSxqbNK8BRhUCawp99n2phvIImpy30f7c2glYBmkb_hBj-yby20zERghnU77ybul3GaszCZaAOLbtjUWnQ=w2418-h1814-s-no-gm?authuser=0)
 
-On the other end, the tube was too long. Yes it's too short last week before I tightened everything but now too long. So I cut a chunk of aluminum tube and just made a new flaring pipe. The new pipe fitted almost perfect.
-
-![img](https://lh3.googleusercontent.com/pw/AP1GczNssJl7264TsNyfJCjcTQuBTQWuV-7PwTD-7TQLRFQiE64yIeW6Klz-hyR9lUgE-B9AgWUG63VGoD9m_1xU0SOHyUsyAboVj3Nup4_skxhKp8hBUJ77GYqWNuA0bughb6MI5YkAJKiD1uJviqnZubzyBA=w1164-h873-s-no-gm?authuser=0)
-
-With that, I finally completed the entire assmebly. I will bring it to the hangar in a few weeks and install it on the airplane.
-
-### Wiring consideration
-
-![img](https://lh3.googleusercontent.com/pw/AP1GczNUSJtvxB_AhRklVFtdDp6E3MhRXdbA8KntFq9QOOBpUU3IdsRGy0Jhk0Z8YRxPfaMHiLIZ_ptNHWJZbruOm8Q_DFDNfbp1xEbxb0lkwlAGJTvQ-1CUOr8h4hDDJ-LC4vWsQbrmEKiRlR4hr3uqMdHkJw=w1164-h873-s-no-gm?authuser=0)
-
-A minor detail on the next step (wiring). After completing everything I noticed the wire terminal of one of the pumps is right behind the fuel line fitting. I am not sure how much clearance I have on the airplane but it's probably not a lot. So I might have a problem connecting the wire there. Next time I go to the hangar, I plan to take a look. Worst case I will make the  wire connector off the airplane first, then install the assembly.
-
-### Naviflow
-
-I also finished the naviflow today.
-
-The only remaining work really is just to torque the 2 banjo bolts and install the whole unit onto the firewall.
-
-I elected to first install the unit, so the whole thing is tightened to a flat surface. Then I torqued the bolts per the instruction (M12  15 ft lb, M14 19 ft lb).
-
-![img](https://lh3.googleusercontent.com/pw/AP1GczOKgWqROfGz9NhFOR6oBiaX4tHuj_T_lAhqBExQAEYHQ2yesUjIP3AdmWtLyqolRXJghSoVLruwsVb5XLooCyQeKAD1pIJ0XCFiAG4GFGhgsnS8UAIqdXFmQh6Bl98clhlsvdtu_nWSoVq_aD3X_bdD7w=w1159-h873-s-no-gm?authuser=0)
+![img](https://lh3.googleusercontent.com/pw/AP1GczPn2E22fulaUHxkUVMavNfRy9W48mRKztA511pVjyhKtJHlusOP71mykOgycRZt8nvtFf2e-o3SPr6hV-3RWF6OR4-vuPUuMLfzzlomoa6mK9oKT21gC2udMn3XxuL9ssUk49SBlCzhURDxkgwRvuDQ3Q=w2418-h1814-s-no-gm?authuser=0)
