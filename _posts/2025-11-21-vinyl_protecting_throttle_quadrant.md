@@ -18,7 +18,7 @@ I first took the quadrant apart and got the top plate off the unit.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOJOCzGyO6ZXEzHZwQ_kqNwVYIJFegi2RDAe9Z9V6HLe4kTmtkGWWXzmSIO-ZpQT9oTjirmeBF70_n4m_gFdwCeH9m6056gEr-R7XKwnQIlZY20tyQUcs6lrJzzJwyF8GH_oxqmI_5MH9EUvbHwrbNulQ=w655-h873-s-no-gm?authuser=0)
 
-Then I cut a large piece of vinyl, stuck it onto the top plate. I used a heat gun to lightly blow the plate for better adhersion. For all the screw holes and slots, I used a craft knife to cut away to extra meterial.
+Then I cut a large piece of vinyl, stuck it onto the top plate. I used a heat gun to lightly blow the plate for better adhesion. For all the screw holes and slots, I used a craft knife to cut away to extra material.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMimyLgIS8QlbSeNpJQeh3dSiIiz1_-Qh74V8S6KPGj-ZvnLQffJ8ma8Se-44YyOI7uG6coZd6I_LKFqud2FzKxe1S9MkCBIu0nXuPi_1n88kWjVydngVT7eFWzrq7TP09KdfqsHwygaXfcnMT-mGz0Sg=w655-h873-s-no-gm?authuser=0)
 

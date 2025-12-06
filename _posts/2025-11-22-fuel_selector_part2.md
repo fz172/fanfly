@@ -15,7 +15,7 @@ minutes: 240
 
 ### Test Fitting the Fuel Selector
 
-Followed the video instruction for installing the fuel selector. The installation required sandwiching a circult board between the fuel slector and a doubler plate. The circult board is required to detect the fuel selector position in order to command the boost pump.
+Followed the video instruction for installing the fuel selector. The installation required sandwiching a circuit board between the fuel sector and a doubler plate. The circuit board is required to detect the fuel selector position in order to command the boost pump.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPiOPuKLs_deDYMqia-7rwp5hHfxz0tf0794UeA63fCrFN7XDyp2bYevKUhbub1c7Le7TNfkafgkPfHxScYupzGSiQK9sWLId1eBWkWRMTF7pNNIAFxd0CVjV9owcQG6d0ECx_D-E7voZcADc2N1601oA=w655-h873-s-no-gm?authuser=0)
 

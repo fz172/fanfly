@@ -20,7 +20,7 @@ Each fitting is connected to the fuel selector unit with 4 little screws. And An
 
 With all the tools, I installed all 6 fittings. Since the fittings are very close to each other, I could not tighten them in place on the unit. I had to tighten them one at a time on the unit, then remove it to make space for the next one.
 
-After all fittings are tightened, I added the screws to sceure them permanently.
+After all fittings are tightened, I added the screws to secure them permanently.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNdH2PW8WuzFhHaJC85iqvZUvauiKxCqYybd-yJZlQ5kbm7nVMSX8acCwf6EFs1g9bd93fFXtMEWZHdD2acd6Nn1NmEb_Eik3I9mPJO_t47CqKw25fuSgu9RO-3SCmr_kzd0MQTBua5TDt28PqsurAsMg=w657-h873-s-no-gm?authuser=0)
 _6 fittings to be installed_

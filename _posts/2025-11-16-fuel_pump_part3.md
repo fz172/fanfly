@@ -23,7 +23,7 @@ Continuing from last week's saga, I decided to change a few Sling provided parts
 
 After I tightened the fittings on both ends of the pump, I connected everything except for the flare tube.
 
-The assembly is symetric, and the flare tube on one side fits pretty good, so I just went ahead and tightened it all the way down.
+The assembly is symmetric, and the flare tube on one side fits pretty good, so I just went ahead and tightened it all the way down.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNINKSc27bewdlENaP2zu5FrumUpJ0H7PngVqhSbpk5eUKrhKT-_sIM0zEe2ad2jssUItJRTpmrynq40uEcvGB9Kvf0hjBIjeE4lNDLeU-1X_g1iBD18nZU_OIQIk4u1uaiHKBDz9t7QcnIPAz2sUkXMQ=w657-h873-s-no-gm?authuser=0)
 
@@ -31,7 +31,7 @@ On the other end, the tube was too long. Yes it's too short last week before I t
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNssJl7264TsNyfJCjcTQuBTQWuV-7PwTD-7TQLRFQiE64yIeW6Klz-hyR9lUgE-B9AgWUG63VGoD9m_1xU0SOHyUsyAboVj3Nup4_skxhKp8hBUJ77GYqWNuA0bughb6MI5YkAJKiD1uJviqnZubzyBA=w1164-h873-s-no-gm?authuser=0)
 
-With that, I finally completed the entire assmebly. I will bring it to the hangar in a few weeks and install it on the airplane.
+With that, I finally completed the entire assembly. I will bring it to the hangar in a few weeks and install it on the airplane.
 
 ### Wiring consideration
 

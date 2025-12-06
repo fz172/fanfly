@@ -16,10 +16,10 @@ minutes: 240
 
 To route the fuel lines through the co-pilot side under the dashboard, I've been thinking a few options.
 
-1. Drill 2 holes on the side panel near the fuel selector and the rudder padal, then feed the fuel lines through so large part of them go inside the center channel. I eventually decided against this approach because of the tight space inside center channel, and I don't want to bend the fuel lines excessively.
+1. Drill 2 holes on the side panel near the fuel selector and the rudder pedal, then feed the fuel lines through so large part of them go inside the center channel. I eventually decided against this approach because of the tight space inside center channel, and I don't want to bend the fuel lines excessively.
 2. Adel clamp the lines against the angle bracket that mounts the side panel. So the lines goes almost flat from the fuel selector to the firewall, then take a 45 degree turn and exit to the firewall forward.
 
-### Adjusting the fuel seletor
+### Adjusting the fuel selector
 
 To make the fuel lines closer to the angle brackets, I had to rotate the fuel selector so the feed/return lines on top of the selector are less protruded out of the center channel.
 
