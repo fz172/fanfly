@@ -27,7 +27,7 @@ This is some reference/lookup charts I use throughout the build.
 
 ### Metrics nuts
 
-https://www.fastenermart.com/files/metric_tighten_torques.pdf
+<https://www.fastenermart.com/files/metric_tighten_torques.pdf>
 
 ## Drill size
 
@@ -39,6 +39,13 @@ Reference: KAI introduction chapter
 | Dome head and Countersunk rivet | 3.2 mm (1/8”)  | 3.3 mm              |
 | Dome head and Countersunk rivet | 4.0 mm (5/32”) | 4.1 mm              |
 | Dome head and Countersunk rivet | 4.8 mm (3/16”) | 4.9 mm              |
+
+## Battery Lug Crimping Sizes
+
+| Gauge | Crimper Size   |
+| ----- | -------------- |
+| AWG2  | 35MM           |
+| AWG4  | 25MM           |
 
 ## Sealants
 
@@ -68,6 +75,11 @@ Reference: KAI introduction chapter
 ## CAN Bus
 
 On my harness, CAN bus always use white as High, and White/Blue as Low.
+
+## G3X hardware
+
+- GDU 460 screws: <https://www.mscdirect.com/product/details/01844893>
+  - #6-32, 1/2"
 
 ## Mods
 
@@ -117,9 +129,3 @@ Through the build I am making some mods, buying parts not included in the factor
 |       |                 |                                                             |
 |       |                 |                                                             |
 |       |                 |                                                             |
-
-
-## G3X hardware
-
-* GDU 460 screws: https://www.mscdirect.com/product/details/01844893
-  * #6-32, 1/2"
