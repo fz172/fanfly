@@ -3,7 +3,7 @@ layout: post
 title: "Misc Work on Firewall Forward"
 categories: [Firewall, ~firewall_forward]
 tags: [starter, wiring, fusebox, avionics]
-minutes: 210
+minutes: 220
 ---
 
 ## TLDR
@@ -82,6 +82,13 @@ After the whole process, I flipped the plate for a test fit. And of course the h
 *New orientation*
 
 I asked Facebook builder group. It seems the orientation depends on the cowling version. 915 should use my original orientation, and 916 should use the flipped down version. Since my cowling is for 916 (even though I have 915 engine), I might have to get a new part that fits. I sent a question to the factory. Once they respond I will decide what to do.
+
+#### Update on 12/13
+
+Got an answer back from Sling technical. The correct orientation is to have the flat side facing down. When installing in this orientation, only 4 of the 8 holes would align. Technical said this is ok, so I will do this.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczPJaRX6xuxEPQyA46SavMhiNXBJOksp7gVOaEf6yzVpalPWWRfGLv5oMgCkAzQuqS_fS5kej0xLl6zyo1Y5JAYliqO3Ko252HRas67TQxMsP_NRsXKwTMiQMEqg62RJMfCjcrrhJLj9ZDDz6-2C_e7y9Q=w1164-h873-s-no-gm?authuser=0)
+*Only the center row of rivets will fit, which is ok per Sling Technical*
 
 ### Throttle Cable Connection
 
