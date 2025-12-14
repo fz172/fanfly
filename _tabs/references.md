@@ -25,6 +25,19 @@ This is some reference/lookup charts I use throughout the build.
 
 - AC 43.13 max torque + (measured friction drag x0.8 for torque wrench accuracy)
 
+### Special cases
+
+| ITEM | TORQUE VALUE (Nm) | TORQUE VALUE (ft.lb) | NOTES |
+| :--- | :--- | :--- | :--- |
+| Wing mounting bolts (front) (AN7). | 55 | 40.57 | |
+| Wing mounting bolts (rear) (AN5). | 18 | 13.28 | |
+| Main spar bolts (AN4). | 7 | 5.16 | |
+| Main landing gear mounting bolts (M10). | 25 | 18.44 | |
+| Propeller mounting bolts spacer to propeller hub (M8). | 20 | 14.75 | Airmaster AP430CTF-WWR72B propeller |
+| Propeller mounting bolts spacer to engine flange (M8). | 24 | 17.70 | |
+| Engine mounting bolts (securing engine suspension frame to engine mount) (M10). | 38 | 28.023 | NOTE: Torque value for these bolts is with oiled thread. |
+| Engine mount mounting bolts (securing engine mount to engine firewall) (AN5). | 16 | 11.80 | |
+
 ### Metrics nuts
 
 <https://www.fastenermart.com/files/metric_tighten_torques.pdf>
