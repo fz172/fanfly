@@ -3,7 +3,7 @@ layout: post
 title: "Misc Work on Firewall Forward"
 categories: [Firewall, ~firewall_forward]
 tags: [starter, wiring, fusebox, avionics]
-minutes: 220
+minutes: 225
 ---
 
 ## TLDR
@@ -28,6 +28,12 @@ Sent email to g3xpert@, and their answer was that I should set GDU to ***NOT PRE
 I then turned off "Crossfill flight plan" in the GNX375 settings, the message went away. When I turn the setting back on however, the message went back.
 
 I will need to check if the crossfill still works when I turn it off. The setting might not have been for G3X.
+
+#### Update on 12/13
+
+In normal mode, I went to menus and turned off "Crossfill flight plan" in the GNX375 settings, and the message went away. I tried to enter a flight plan in 375, it indeed transferred to G3X. I tried to change transponder code on both sides, and they all seemed to work.
+
+The problem seems to have been solved. I think I will keep the setting off for now.
 
 ### Starter Solenoid
 
