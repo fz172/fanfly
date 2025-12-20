@@ -2,7 +2,7 @@
 layout: post
 title: "Misc Work on Firewall Forward"
 categories: [Firewall, ~firewall_forward]
-tags: [starter, wiring, fusebox, avionics]
+tags: [starter, wiring, fusebox, avionics, throttle_cable]
 minutes: 225
 ---
 
