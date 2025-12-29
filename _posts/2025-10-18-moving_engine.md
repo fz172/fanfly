@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving Engine to Hangar"
-categories: [Engine, transport]
+categories: [Engine, ~transport]
 tags: [inventory]
 minutes: 240
 ---

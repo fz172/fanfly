@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Built the Engine Lift"
-categories: [Engine, transport]
+categories: [Engine, ~install]
 tags: [engine_lift]
 minutes: 90
 ---
