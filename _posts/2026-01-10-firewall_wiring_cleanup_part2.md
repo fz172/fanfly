@@ -3,7 +3,7 @@ layout: post
 title: "Firewall Wiring Cleanup, and Master Relay"
 categories: [Firewall, ~forward]
 tags: [avionics, wiring, master_relay]
-minutes: 180
+minutes: 260
 ---
 
 ## TLDR
@@ -32,3 +32,7 @@ I ran into a very frustrating issue though. After I cleaned up the wires I turne
 I took a multimeter and tested the resistance between the two small terminals on the relay, and it showed 120 M omh which made no sense. I'm not electrical expert but I think this meant the coils circuit was open ie broken. I also used my power supply and gave the 2 terminals 12 volt directly, no click. So I think the relay is gone.
 
 I bought a new one on aircraft spruce. It should come next week. I will try to bench test it and replace. We will see what happens then.
+
+In the meantime, removing the old one from the airplane proved to be a huge pain in the ass. I bolted it on the firewall with 2 AN4. The nuts behind the firewall was extremely inaccessible from the back of the firewall. I crawled under the cockpit and tried several times with ratcheting wrench and finally was able to grab onto the nuts so I could loosen them from the firewall forward side.  With such difficulty to remove, I highly doubt I will be able to put them back when the new relay comes. I known I certainly won't have the patience. So I decided to install two 1/4-20 rivnuts instead of using AN4s. I still have a bunch of 1/4 brass bolts left over from building ground lug. I will use the 1/4 bolts to attach the relay.
+
+I think I learned a lesson about Murphy's law here. In the future I will think twice about serviceability before installing anything.

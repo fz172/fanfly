@@ -3,7 +3,7 @@ layout: post
 title: "Firewall Wiring and Heater Hose Cleanup "
 categories: [Firewall, ~forward]
 tags: [avionics, wiring, cabin_heater]
-minutes: 240
+minutes: 260
 ---
 
 ## TLDR
@@ -47,8 +47,13 @@ Basically I missed a step on the KAI when installing the heater hose. I forgot t
 
 However, since Sling keeps changing their heater's installation, my firewall's holes are not pre-drilled to match the two coolant hoses. Instead, one of the holes were way too big.
 
-So I decided to make a patch plate with the proper sized hole. The plate was about 2.5 X 2.5 inches square, and I cut a 32mm hole using the hole puncher. Then I riveted the plate to the firewall to let the hose go through it with a properly sized hole. The hole's diameter was a few mm larger, so I bought a few rubber grommet to fill the gap. I will install them when the grommets arrive.
+So I decided to make a patch plate with the proper sized hole. The plate was about 2.5 X 2.5 inches square, and I cut a 32mm hole using the hole puncher. Then I riveted the plate to the firewall to let the hose go through it with a properly sized hole. The hole's diameter was a few mm larger, so I bought a few rubber grommet to fill the gap.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO4Vyub52Ck-x-y35tzTJD-pvLQKSQBkBZd-2ZhVsQoFW_ZYnH-4wELT-WbLGFCOe7Jat7MZAVLeHcQ1MdnNKgG_uW98xm0hmU_qzvzY94ljTYIOSZ7xNhmxtMVWDRNhQDiMWEDe_7rnE70h5Q6ABTmbg=w655-h873-s-no-gm?authuser=0)
 
-![img](https://lh3.googleusercontent.com/pw/AP1GczOkIe-EO88FWyGlEVJsLJAhsYZXeHfvritDKPiJ3BuyDSC03TT9mHJpW-AY7uAQC6OiZGkDQ_We-lgvcXr2DCdXu6Q2CjT3Jkj1qvJd_hrzrVAfPBaefbEivCtO_28O1FQQ0v-pIHXNWfLuwRyNOxhg4g=w655-h873-s-no-gm?authuser=0)
+![img](<https://lh3.googleusercontent.com/pw/AP1GczOkIe-EO88FWyGlEVJsLJAhsYZXeHfvritDKPiJ3BuyDSC03TT9mHJpW-AY7uAQC6OiZGkDQ_We-lgvcXr2DCdXu6Q2CjT3Jkj1qvJd_hrzrVAfPBaefbEivCtO>
+_28O1FQQ0v-pIHXNWfLuwRyNOxhg4g=w655-h873-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMw9gnvvTY9QOPNeM5nPPaVcOrH4uBQC4Bu0IGCJYh7sXshhl2xXPATrj8UTw8tG73emDXGeTZVOP3_RSr0mEOjuF4d-Lc69z7J8kNSBpvBOkc55knc4syaN77rzP7CVBNWymXC2UtRA1K1gwQiFmIohQ=w1360-h1814-s-no-gm?authuser=0)
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczOtGpxps9STbXNg3Xn-UDSJzY4wYqh7vb6VmnfzjzWEmAxpYN5B48Uiv_HAzHmT5BUEAjcM9YLk6JqLz5Ic9d7u7lTrtELG_94OFb9DA0hyU-MYJE86YMGFE0VRXoVxaYRf0LPE8YP5BPzLwlHhqFQ0ZA=w1360-h1814-s-no-gm?authuser=0)
