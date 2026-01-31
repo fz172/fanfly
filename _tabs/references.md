@@ -14,6 +14,20 @@ This is some reference/lookup charts I use throughout the build.
 
 [Reference](https://www.latten.net/sling2/torque-values/)
 
+### Special ones
+
+| Type                                                                                           | Torque (NM) |
+| ---------------------------------------------------------------------------------------------- | ----------- |
+| Firewall grounding lug (1/4-20 brass bolt)                                                     | 4 NM        |
+| Wing mounting bolts (front) (AN7).                                                             | 55          |
+| Wing mounting bolts (rear) (AN5).                                                              | 18          |
+| Main spar bolts (AN4).                                                                         | 7           |
+| Main landing gear mounting bolts (M10).                                                        | 25          |
+| Propeller mounting bolts spacer to propeller hub (M8).                                         | 20          |
+| Airmaster AP430CTF-Propeller mounting bolts spacer to engine WWR72B propeller flange (M8).     | 24          |
+| Engine mounting bolts (securing engine suspension frame to engine mount) (M10 w/ oiled thread) | 38          |
+| Engine mount mounting bolts (securing engine mount to engine firewall) (AN5)                   | 16          |
+
 ### AN nuts
 
 | Designation | USA Size (in) | EU Size (mm) | Total torque (in.lb) | Thread Size | Wrench size (in) | AC 43.13 torque range | TAF maintenance manual | Measured friction drag torque |
@@ -27,16 +41,16 @@ This is some reference/lookup charts I use throughout the build.
 
 ### Special cases
 
-| ITEM | TORQUE VALUE (Nm) | TORQUE VALUE (ft.lb) | NOTES |
-| :--- | :--- | :--- | :--- |
-| Wing mounting bolts (front) (AN7). | 55 | 40.57 | |
-| Wing mounting bolts (rear) (AN5). | 18 | 13.28 | |
-| Main spar bolts (AN4). | 7 | 5.16 | |
-| Main landing gear mounting bolts (M10). | 25 | 18.44 | |
-| Propeller mounting bolts spacer to propeller hub (M8). | 20 | 14.75 | Airmaster AP430CTF-WWR72B propeller |
-| Propeller mounting bolts spacer to engine flange (M8). | 24 | 17.70 | |
-| Engine mounting bolts (securing engine suspension frame to engine mount) (M10). | 38 | 28.023 | NOTE: Torque value for these bolts is with oiled thread. |
-| Engine mount mounting bolts (securing engine mount to engine firewall) (AN5). | 16 | 11.80 | |
+| ITEM                                                                            | TORQUE VALUE (Nm) | TORQUE VALUE (ft.lb) | NOTES                                                    |
+| :------------------------------------------------------------------------------ | :---------------- | :------------------- | :------------------------------------------------------- |
+| Wing mounting bolts (front) (AN7).                                              | 55                | 40.57                |                                                          |
+| Wing mounting bolts (rear) (AN5).                                               | 18                | 13.28                |                                                          |
+| Main spar bolts (AN4).                                                          | 7                 | 5.16                 |                                                          |
+| Main landing gear mounting bolts (M10).                                         | 25                | 18.44                |                                                          |
+| Propeller mounting bolts spacer to propeller hub (M8).                          | 20                | 14.75                | Airmaster AP430CTF-WWR72B propeller                      |
+| Propeller mounting bolts spacer to engine flange (M8).                          | 24                | 17.70                |                                                          |
+| Engine mounting bolts (securing engine suspension frame to engine mount) (M10). | 38                | 28.023               | NOTE: Torque value for these bolts is with oiled thread. |
+| Engine mount mounting bolts (securing engine mount to engine firewall) (AN5).   | 16                | 11.80                |                                                          |
 
 ### Metrics nuts
 
@@ -55,15 +69,14 @@ Reference: KAI introduction chapter
 
 ## Battery Lug Crimping Sizes
 
-| Gauge | Crimper Size   |
-| ----- | -------------- |
-| AWG2  | 35MM           |
-| AWG4  | 25MM           |
+| Gauge | Crimper Size |
+| ----- | ------------ |
+| AWG2  | 35MM         |
+| AWG4  | 25MM         |
 
 ## Sealants
 
 - Loctite 222
-
   - Inspection panel screws, elevator trim motor installation screws.
   - Propeller extension (bolts securing propeller hub / assembly to the propeller extension).
   - VHF antenna retaining screws.
@@ -74,7 +87,6 @@ Reference: KAI introduction chapter
   - Fuel selector valve retaining screws.
 
 - Loctite 243
-
   - Autopilot aileron and elevator servo mounting screws.
   - Propeller extension (bolts securing propeller extension to engine flange).
   - Bolt securing main wheel fairing to main axle spacer.
@@ -94,51 +106,34 @@ On my harness, CAN bus always use white as High, and White/Blue as Low.
 - GDU 460 screws: <https://www.mscdirect.com/product/details/01844893>
   - #6-32, 1/2"
 
-## Mods
+## Important Part Numbers
 
 Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
 
-|                     | Part                   | Description                                                         |
-| ------------------- | ---------------------- | ------------------------------------------------------------------- |
-| Tail                | Trim servo             | Ray Allen T2-7A                                                     |
-|                     | Tail light             | Aveo minimax aero                                                   |
-|                     | Nav lights             | Aero Pulsar NSR                                                     |
-| Wing                | Pitot/AOA              | Garmin GAP 26 Heated/Regulated                                      |
-|                     | Fuel cap               | Newton Aero 200                                                     |
-|                     | Fuel sender            | VDO 10-180 ohm                                                      |
-|                     | Fuel sender gasket     | Custom made (Garlock 3000)                                          |
-|                     | Fuel Pump mod          | Aerospace Innovation Intelligent Fuel Boost System                  |
-| Fuel and oil system | Fuel Manifold          | Aerospace Innovation Naviflow                                       |
-|                     | All hoses              | Aerospace Innovation LifeLine system                                |
-|                     | NACA Duct connection   | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
-| Paint               | Interior               | Primer - Rustoleum self-etching                                     |
-|                     |                        | Primer - Stewart System Ekoprime                                    |
-|                     |                        | Top coat - Stewart System EkoCrylic                                 |
-| Fuselage            | Static port            | Vans static port                                                    |
-| Undercarriage       | Brake                  | Matco dual piston upgrade                                           |
-|                     | Grease                 | Fuchs Renolit M2 EP Grease                                          |
-|                     | Brake lines            | FS Flightline PTEF upgrade                                          |
-| Firewall forward    | Cabin heater lines     | Aerospace Innovation                                                |
-|                     | Radiator lines         | Aerospace Innovation                                                |
-|                     | Gascalator             | Andair GAS500-AN6-M-R                                               |
-|                     | Gascalator drain valve | Andair DV125                                                        |
-
-## Service Bulletin
-
-|       | Completion date | Reference                                                   |
-| ----- | --------------- | ----------------------------------------------------------- |
-| SB-2  | 8/25/2024       | Not affected                                                |
-| SB-14 | 10/04/2024      | [Log]({% post_url 2024-10-04-rear_fuselage_rib_assembly %}) |
-| SB-15 | 8/25/2024       | Not affected                                                |
-| SB-16 | 8/25/2024       | Not affected                                                |
-| SB-17 | 11/10/2024      | Not affected                                                |
-| SB-19 | 8/25/2024       | Not affected                                                |
-| SB-21 | 11/10/2024      | Not affected                                                |
-| SB-22 | 8/25/2024       | Not affected                                                |
-| SB-23 | 8/25/2024       | Not affected                                                |
-| SB-25 | 11/10/2024      | Not affected                                                |
-| SB-26 | 01/27/2025      | [Log]({% post_url 2025-01-27-safety_belt %})                |
-|       |                 |                                                             |
-|       |                 |                                                             |
-|       |                 |                                                             |
-|       |                 |                                                             |
+|                     | Part                              | Description                                                         |
+| ------------------- | --------------------------------- | ------------------------------------------------------------------- |
+| Tail                | Trim servo                        | Ray Allen T2-7A                                                     |
+|                     | Tail light                        | Aveo minimax aero                                                   |
+|                     | Nav lights                        | Aero Pulsar NSR                                                     |
+| Wing                | Pitot/AOA                         | Garmin GAP 26 Heated/Regulated                                      |
+|                     | Fuel cap                          | Newton Aero 200                                                     |
+|                     | Fuel sender                       | VDO 10-180 ohm                                                      |
+|                     | Fuel sender gasket                | Custom made (Garlock 3000)                                          |
+|                     | Fuel Pump mod                     | Aerospace Innovation Intelligent Fuel Boost System                  |
+| Fuel and oil system | Fuel Manifold                     | Aerospace Innovation Naviflow                                       |
+|                     | All hoses                         | Aerospace Innovation LifeLine system                                |
+|                     | NACA Duct connection              | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
+| Paint               | Interior                          | Primer - Rustoleum self-etching                                     |
+|                     |                                   | Primer - Stewart System Ekoprime                                    |
+|                     |                                   | Top coat - Stewart System EkoCrylic                                 |
+| Fuselage            | Static port                       | Vans static port                                                    |
+|                     | Fuel Selector                     | FS2020 Duplex Fuel Selector                                         |
+| Undercarriage       | Brake                             | Matco dual piston upgrade                                           |
+|                     | Grease                            | Fuchs Renolit M2 EP Grease (Came with kit)                          |
+|                     | Brake lines                       | PTEF (bought from FS Flightline)                                    |
+| Firewall forward    | Cabin heater lines                | Aerospace Innovation                                                |
+|                     | Radiator lines                    | Aerospace Innovation                                                |
+|                     | Gascalator                        | Andair GAS500-AN6-M-R                                               |
+|                     | Gascalator drain valve            | Andair DV125                                                        |
+|                     | Differential fuel pressure sender | UMA N1EU70D                                                         |
+|                     | Absolute fuel pressure sender     |                                                                     |
