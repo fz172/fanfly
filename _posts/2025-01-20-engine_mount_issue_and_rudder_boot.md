@@ -2,7 +2,7 @@
 layout: post
 title: "Engine mount issue and rudder rod boot"
 categories: [Firewall, ~firewall_forward]
-tags: [controls, FF-ASS-S01-C-F-0]
+tags: [FF-ASS-S01-C-F-0, control_system]
 minutes: 150
 ---
 

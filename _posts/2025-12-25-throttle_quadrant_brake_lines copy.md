@@ -2,7 +2,7 @@
 layout: post
 title: "Brake Lines on Throttle Quadrant"
 categories: [Fuselage, ~center_fuselage]
-tags: [throttle_quadrant, brake]
+tags: [brake, throttle]
 minutes: 45
 ---
 

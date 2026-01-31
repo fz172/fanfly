@@ -2,7 +2,7 @@
 layout: post
 title: "Side skin misc: sound proofing and air channel sealing"
 categories: [Fuselage, ~side_skin]
-tags: [CF-ASS-001-C-C-0, air_vents]
+tags: [CF-ASS-001-C-C-0, air_vent]
 minutes: 120
 ---
 

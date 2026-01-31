@@ -2,8 +2,7 @@
 layout: post
 title: "Rear fuselage: Misc work before closing the top skin"
 categories: [Fuselage, ~rear_fuselage, ~rf_floor, ~rf_parachute_box]
-tags:
-  [RF-ASS-001-C-C-0-B-A-1, RF-ASS-001-C-C-0-C-A-1, static_port, avionics, comm1]
+tags: [RF-ASS-001-C-C-0-B-A-1, RF-ASS-001-C-C-0-C-A-1, avionics, com_radio, static_system]
 minutes: 150
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Takes a village... flaring fuel lines"
 categories: [Wing, ~boost_pump]
-tags: [boost_pump]
+tags: [fuel_pump]
 minutes: 180
 ---
 

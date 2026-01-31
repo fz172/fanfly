@@ -2,7 +2,7 @@
 layout: post
 title: "Rudder cable guides"
 categories: [Fuselage, ~rear_fuselage]
-tags: [controls, rudder_cable]
+tags: [control_system, rudder]
 minutes: 35
 ---
 

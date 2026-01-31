@@ -2,7 +2,7 @@
 layout: post
 title: "Remove Boost Pumps"
 categories: [Wing, ~boost_pump]
-tags: [boost_pump]
+tags: [fuel_pump]
 minutes: 60
 ---
 

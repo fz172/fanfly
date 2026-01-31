@@ -2,7 +2,7 @@
 layout: post
 title: "Odds and Ends on Canopy"
 categories: [Canopy, ~door]
-tags: [windows, door]
+tags: [door, window]
 minutes: 240
 ---
 

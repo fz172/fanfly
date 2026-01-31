@@ -2,7 +2,7 @@
 layout: post
 title: "Installing the windshield"
 categories: [Canopy, ~windows]
-tags: [windows]
+tags: [window]
 minutes: 540
 ---
 

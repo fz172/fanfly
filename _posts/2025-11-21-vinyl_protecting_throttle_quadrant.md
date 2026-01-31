@@ -2,7 +2,7 @@
 layout: post
 title: "Protecting Throttle Quadrant with Vinyl"
 categories: [Fuselage, ~center_fuselage]
-tags: [throttle_quadrant]
+tags: [throttle]
 minutes: 90
 ---
 

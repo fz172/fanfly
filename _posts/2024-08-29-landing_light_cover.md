@@ -2,7 +2,7 @@
 layout: post
 title: "Remaking left landing light cover - Part 1"
 categories: [Wing, ~left_skin]
-tags: [wing, landing_light]
+tags: [lights, wing]
 minutes: 360
 ---
 

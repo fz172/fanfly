@@ -2,7 +2,7 @@
 layout: post
 title: "Installing right rear window"
 categories: [Canopy, ~windows]
-tags: [windows]
+tags: [window]
 minutes: 270
 ---
 

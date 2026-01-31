@@ -2,7 +2,7 @@
 layout: post
 title: "Copilot door window"
 categories: [Canopy, ~windows]
-tags: [windows]
+tags: [window]
 minutes: 480
 ---
 

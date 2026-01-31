@@ -2,7 +2,7 @@
 layout: post
 title: "Cold air ducts"
 categories: [Fuselage, ~center_fuselage]
-tags: [ducts]
+tags: [duct]
 minutes: 60
 ---
 

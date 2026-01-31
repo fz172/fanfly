@@ -2,7 +2,7 @@
 layout: post
 title: "Audio jack issues"
 categories: [Fuselage, ~rear_fuselage]
-tags: [avionics, audio_jacks, wiring]
+tags: [audio_jack, avionics, wiring]
 minutes: 460
 ---
 

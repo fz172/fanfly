@@ -2,7 +2,7 @@
 layout: post
 title: "Routing harness part2: wing connectors and GTR 205xR"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, harness, gtr205xr]
+tags: [avionics, gtr205xr, wiring]
 minutes: 120
 ---
 

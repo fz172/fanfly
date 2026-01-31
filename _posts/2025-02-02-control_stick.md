@@ -2,7 +2,7 @@
 layout: post
 title: "Pilot side control stick"
 categories: [Fuselage, ~center_fuselage]
-tags: [controls, joystick, avionics]
+tags: [avionics, control_system, joystick]
 minutes: 240
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Seat belts"
 categories: [Fuselage, ~center_fuselage]
-tags: [seat_belt, SB26, service_bulletin]
+tags: [seat_belts, service_bulletin]
 minutes: 480
 ---
 

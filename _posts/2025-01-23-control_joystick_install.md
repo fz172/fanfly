@@ -2,7 +2,7 @@
 layout: post
 title: "Control joystick torque tube install"
 categories: [Fuselage, ~center_fuselage]
-tags: [controls, joystick]
+tags: [control_system, joystick]
 minutes: 360
 ---
 

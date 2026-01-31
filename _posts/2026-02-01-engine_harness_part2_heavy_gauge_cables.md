@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Harness - Part 2 - Starter Cables and Fuel Pressure Sender"
 categories: [Engine, ~harness]
-tags: [avionics, starter, fuel_pressure_sensor, video]
+tags: [avionics, sensors, starter, video]
 minutes: 180
 ---
 

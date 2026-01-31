@@ -2,7 +2,7 @@
 layout: post
 title: "Pilot Door Window: Part 1"
 categories: [Canopy, ~windows]
-tags: [windows]
+tags: [window]
 minutes: 60
 ---
 

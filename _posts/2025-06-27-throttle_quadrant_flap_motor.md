@@ -2,7 +2,7 @@
 layout: post
 title: "Test fitting throttle quadrant"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, throttle_quadrant]
+tags: [avionics, throttle]
 minutes: 150
 ---
 

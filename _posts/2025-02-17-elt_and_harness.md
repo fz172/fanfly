@@ -2,7 +2,7 @@
 layout: post
 title: "Starting to route harness, and relocating ELT"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, harness, elt]
+tags: [avionics, elt, wiring]
 minutes: 180
 ---
 

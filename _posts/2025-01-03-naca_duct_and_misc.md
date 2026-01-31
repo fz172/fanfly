@@ -2,7 +2,7 @@
 layout: post
 title: "NACA Duct & Static port"
 categories: [Fuselage, ~side_skin]
-tags: [CF-ASS-001-C-C-0, air_vents, avionics, static_port]
+tags: [CF-ASS-001-C-C-0, air_vent, avionics, static_system]
 minutes: 180
 ---
 

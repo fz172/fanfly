@@ -2,7 +2,7 @@
 layout: post
 title: "Door latch center slide"
 categories: [Canopy, ~door]
-tags: [door_latch, CA-ASS-101-C-F]
+tags: [CA-ASS-101-C-F, door]
 minutes: 60
 ---
 

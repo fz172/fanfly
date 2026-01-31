@@ -2,7 +2,7 @@
 layout: post
 title: "Started to work on brake lines"
 categories: [Undercarriage, ~brake]
-tags: [brake, throttle_quadrant]
+tags: [brake, throttle]
 minutes: 180
 ---
 

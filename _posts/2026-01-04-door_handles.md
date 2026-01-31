@@ -2,7 +2,7 @@
 layout: post
 title: "New Door Handles"
 categories: [Canopy, ~door]
-tags: [door_handle]
+tags: [door]
 minutes: 60
 ---
 

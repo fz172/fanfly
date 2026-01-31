@@ -2,7 +2,7 @@
 layout: post
 title: "Trim motor install"
 categories: [Empennage, ~elevator]
-tags: [empennage, trim, EL-ASS-001-C-F-0, trim_motor]
+tags: [EL-ASS-001-C-F-0, empennage, trim]
 minutes: 30
 ---
 

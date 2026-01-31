@@ -2,7 +2,7 @@
 layout: post
 title: "Autopilot Servos"
 categories: [Fuselage, ~center_fuselage]
-tags: [autopilot_servos, avionics]
+tags: [autopilot, avionics]
 minutes: 150
 ---
 
