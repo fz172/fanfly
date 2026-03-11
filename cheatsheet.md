@@ -17,5 +17,3 @@ NODE_ENV=production npx rollup -c --bundleConfigAsCjs
 ```
 mogrify -define jpeg:extent=800kb -resize 1000 */*.jpg
 ```
-
-Test change
