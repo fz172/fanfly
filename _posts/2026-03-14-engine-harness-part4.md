@@ -59,4 +59,24 @@ So I think this means the ECU is working fine. And the problem is CAN wiring.
 
 ### Tracing CAN wires
 
-TBD
+I designed a few tests to trace the wires between ECU and G3X, specifically between the 2 HIC connectors and the GEA24 J244 connector.
+
+According to my diagram, the following should be true:
+
+1. GEA J244 Pin 17 white wire(CAN HI), pin 33 white/blue wire (CAN LO).
+2. HIC-A #6, HIC-B #8 and GEA J244 #17 should have continuity since they are spliced together according to my wiring diagram (I don't have SCU)
+3. HIC-A #5, HIC-B #7 and GEA J244 #33 should have continuity for the same reason.
+
+I used a multimeter to test these connections. The results were:
+
+1. Appears to be correct
+2. No continuity
+3. No continuity
+
+So the problem is somewhere between the HIC connectors and the GEA24 connector. I removed the G3X screen from the panel to expose the harness wires, and used a boroscope to look for where the HIC wires and the GEA24 wires spliced together. I found a connector that's supposed to be a jumper to merge the 6 wires together. I suspect the issue is with the jumper.
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczNAtplSOl3ilWtqtx-0oAYnWGrnYjqnYtdaCbGTUZP8c1SrcTNudqCD1DtCNs8KX5_zoc3R6bZK5cqdSLEKY_PopVQYrpjNGb8xC1uu3p_P8PETc1t96auaDB8_PNmUcEgyoOLwsiAGTrum9goGlD_O5A=w1229-h922-s-no-gm?authuser=0)
+_G3X removed_
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczP0ROfOOVnKWWgKaFpKjfD1nrWwnakFo18Obg8E-O5_xTMDcOWJPPmfcGdhWN0ShYpGnm0PHWoi0khiR3SUKWGnWCaiZdla6LSRsEUgapwSTSykOo1vLx-R6zOo3mcg5loqzX01N7dWVrmOkuFYXCJ67w=w1229-h922-s-no-gm?authuser=0)
+_The jumper, though it does not look like looping any wires around internally. Next step: take it apart and look inside_
