@@ -11,7 +11,7 @@ const config = {
   variables: true,
   // The `safelist` should be changed appropriately for future development
   safelist: {
-    standard: [/^collaps/, /^w-/, 'shadow', 'border', 'kbd'],
+    standard: [/^collaps/, /^w-/, /^bg-/, /^text-/, 'shadow', 'border', 'kbd'],
     greedy: [/^col-/, /tooltip/]
   }
 };
