@@ -23,11 +23,40 @@ layout: page
 
     <li>
       {% assign ts = post.date | date: '%s' %}
-      <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-        {{ post.date | date: df_strftime_m }}
+      
+      {% assign cat_index = 0 %}
+      {% for category in site.categories %}
+        {% if category[0] == post.categories[0] %}
+          {% break %}
+        {% endif %}
+        {% assign cat_index = cat_index | plus: 1 %}
+      {% endfor %}
+      
+      {% assign colors = "bg-primary,bg-success,bg-warning text-dark,bg-info text-dark,bg-danger,bg-light text-dark" | split: "," %}
+      {% assign color_index = cat_index | modulo: colors.size %}
+      {% assign chip_color = colors[color_index] %}
+
+      <span class="meta-left" style="display: inline-flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; width: 145px; padding-right: 0.5rem; position: relative; vertical-align: top; margin-top: 0.8rem;">
+        <span class="date-wrapper" style="flex-shrink: 0; line-height: 1;">
+          <span class="date day" data-ts="{{ ts }}" data-df="DD" style="right: auto;">{{ post.date | date: '%d' }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}" style="right: auto;">
+            {{ post.date | date: df_strftime_m }}
+          </span>
+        </span>
+        {% if post.minutes %}
+        <span class="time-spent text-muted small" style="margin-top: 1.0rem; line-height: 1;">
+          <i class="fas fa-hammer fa-fw" style="font-size: 0.75rem;"></i>{% include format-minute.html minutes=post.minutes wrap='span' %}
+        </span>
+        {% endif %}
       </span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">
+        <span style="display: inline-flex; flex-direction: column; vertical-align: top; text-align: left; line-height: 1.2; position: relative; max-width: calc(100% - 210px); overflow: hidden; margin-top: 0.75rem;">
+          <span style="padding-bottom: 0.5rem; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ post.title }}</span>
+          {% if post.categories.size > 0 %}
+            <span class="badge badge-sm {{ chip_color }} mb-0" style="width: fit-content; line-height: 1;">{{ post.categories[0] }}</span>
+          {% endif %}
+        </span>
+      </a>
     </li>
 
     {% if forloop.last %}</ul>{% endif %}

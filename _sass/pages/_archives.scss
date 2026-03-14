@@ -33,7 +33,7 @@
       @extend %timeline;
 
       height: 72px;
-      left: 79px;
+      left: 164px;
       bottom: 16px;
     }
 
@@ -52,7 +52,7 @@
       border-radius: 50%;
       width: 12px;
       height: 12px;
-      left: 21.5px;
+      left: 106.5px;
       border: 3px solid;
       background-color: var(--timeline-year-dot-color);
       border-color: var(--timeline-node-bg);
@@ -64,9 +64,10 @@
   ul {
     li {
       font-size: 1.1rem;
-      line-height: 3rem;
-
-      @extend %text-ellipsis;
+      padding: 0.5rem 0;
+      min-height: 4.5rem;
+      position: relative;
+      /* removed @extend %text-ellipsis; so it doesn't clip */
 
       &:nth-child(odd) {
         background-color: var(--main-bg, #ffffff);
@@ -83,9 +84,11 @@
       &::before {
         @extend %timeline;
 
+        position: absolute;
         top: 0;
-        left: 77px;
-        height: 3.1rem;
+        bottom: 0;
+        height: auto;
+        left: 162px;
       }
     }
 
@@ -131,7 +134,7 @@
       height: 8px;
       float: left;
       top: 1.35rem;
-      left: 71px;
+      left: 160px;
       background-color: var(--timeline-node-bg);
       box-shadow: 0 0 3px 0 #c2c6cc;
       z-index: 1;
