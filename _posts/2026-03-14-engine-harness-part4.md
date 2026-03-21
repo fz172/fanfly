@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Harness - Part 4 - Continue with Wiring Investigation"
 categories: [Engine, ~harness]
-tags: [avionics, ecu, fusebox]
+tags: [avionics, ecu, fusebox, wiring]
 minutes: 600
 ---
 
