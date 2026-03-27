@@ -54,4 +54,6 @@ Adam walked through a bunch of other testings with me step by step. We tested th
 
 By the end of the work, I felt much relieved that the calvery came and helped me debug the harness, and finally got the see things working!!
 
-Remaining things not tested yet is the Generator chariging. This cannot be tested until the engine start, which hopefully can be soon!
+Remaining things not tested yet include the generator chariging fuel pump, and OAT . This cannot be tested until the wings are attached and engine start, which hopefully can be soon!
+
+![img](https://lh3.googleusercontent.com/pw/AP1GczMXcybG8zTeExADnRA5zdEXi8eX55pYuqPqqe3tPuuwIWe29R2rBJ_fsVJC1VssU6Amh8Re5mMp7b1WRmus8i-JHK_xoY7VMhbPM7CuHVxHP_ot37h_aOsONHroIDxlZ8Bqv8_Q30fEA0GCK_XDHi7aFQ=w1440-h1080-s-no-gm?authuser=0)
