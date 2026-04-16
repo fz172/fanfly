@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Installing the mount for wing harness connector"
+title: "Mounting Wing Harness Connector, Wire Management on Firewall Forward"
 categories: [Fuselage, ~center_fuselage]
 tags: [avionics, wiring]
-minutes: 60
+minutes: 120
 ---
 
 ## TLDR
@@ -39,3 +39,15 @@ The connetor itself is mounted on the plate through 4 M4 screws and locknuts on 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMCwi-X4_TwYFwL2gs8Tat8uwuBOYaLga-yXwTe3R8y1Co-4fAwkoONEeKwTbn5Y376SJ6aQ8f9Cb6efc4jXrvdgbfNBQ2Yc7-rr0TPTJsFjgX1pasepk1rqBbV-TkNdrBbLo1jo8bWSTSkCFiJcRcy3Q=w1159-h869-s-no-gm?authuser=0)
 
 As a note, I rotated the connectors so first pin is at the top. I will remember this when connecting the wing harness wires.
+
+### Wire Management on Firewall Forward
+
+Spent another hour cleaning up the wires on the firewall forward to make sure they don't chafe on anything, and don't have any move when the engine is running.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczOFI8gVMndeIlNwFBVLGcHbx1sNJCRHvak4zWffEUV_1-hk-GqEzcqK6GrkpRUCKVSwSoZe_kQOeY54qSr3JXunYyT-dVxbz1_oJe6NImv1nbULsHEaS_5eJxMKhVCARzZ5h5lrBNEnqNOlNQc3sOKBmA=w1159-h869-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPiFIz1jSSBExDgmzH_enCRywRzf0S4lE8g4D5PynudYWLLZpKXTV_y6cA-iW-IaUpcDt64CfN5X0joqvy9XvKQvjlnZzgOAKvrnC7O9F__9bCMogX60YdfUlf9v5li7_KsqdtSq9T7wDc7fkzYC2IrQQ=w1159-h869-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNXDvw4Q7iCXX2cV-JD8RTPSUph_HzzgyPX8Zq4t6AE_F--A3YRS5GsSefkpT-627bups1Dl97Pjk5tiaymR2nNt3Ucxvzc0A0v4epHTQhgHVSJxJsJwnZ6IggOzvf3Xj3VXHvuAjDEvBNAv88J6bsAtQ=w1159-h869-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczOWcd5_qSKUUq54HLbQWaqqFX4gsKbgs792RgqxMeHUkTwC0pfBmmlPtFpxqZGeKI1GIPQBaZBxFP_n6nbSYjhJD8-Ov5wSw72hdvhiNmDtWBVNEpdcahlquNtPnxCrdRA7gyJcW_egI1s49FsnVD261w=w1159-h869-s-no-gm?authuser=0)
