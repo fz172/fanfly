@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling - Day 1 & Day 2"
 categories: [Firewall, ~cowling]
-tags: [cowling]
+tags: [cowling, jig]
 minutes: 540
 ---
 
