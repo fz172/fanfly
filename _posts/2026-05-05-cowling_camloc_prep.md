@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cowling_day4_camloc_prep"
+title: "Cowling Day4: Camloc Prep"
 categories: [Firewall, ~cowling]
 tags: [cowling]
 minutes: 120
