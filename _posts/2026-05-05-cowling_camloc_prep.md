@@ -2,13 +2,13 @@
 layout: post
 title: "Cowling Day4: Camloc Prep"
 categories: [Firewall, ~cowling]
-tags: [cowling]
+tags: [cowling, camloc]
 minutes: 120
 ---
 
 ## TLDR
 
-- Prepped the cowling for camloc
+- Installed camlocs
 
 ## Details
 
@@ -16,15 +16,15 @@ From yesterday's work, I decided to install all camlocs around the firewall stif
 
 ### Tools
 
-A few pieces of specialty tools are required.
+A few specialty tools are required.
 
-I bought a snap ring installation tool from Yardstore, and a camloc plier from Amazon.
+I bought a snap ring installation tool from Yardstore, and camloc pliers from Amazon.
 
 ### Matching holes
 
 The camloc holes are already pre-drilled by the factory on the firewall stiffener strip. And I drilled small pilot holes last week and used them to cleco the cowling onto the airframe.
 
-Today I used a step drill to enlarge each hole I drilled previously to roughly the same size as the pre-drilled camloc holes (1/2 inch), then used a sanding tip on dremel to enlarge the hole on the composite material and eventually match it to the pre-drilled holes.
+Today I used a step drill to enlarge each hole I drilled previously to roughly the same size as the pre-drilled camloc holes (1/2 inch), then used a sanding tip on a Dremel to enlarge the hole on the composite material and eventually match it to the pre-drilled holes.
 
 ### Camloc Socket
 
