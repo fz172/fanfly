@@ -9,6 +9,7 @@ minutes: 180
 ## TLDR
 
 - Installed camlocs
+- Started to fit inspection doors
 
 ## Details
 
