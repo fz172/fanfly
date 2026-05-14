@@ -12,7 +12,7 @@ minutes: 315
 - Installed 2 bottom camlocs
 - Installed the top cowling louver
 
-## Why I Built It
+## Details
 
 Throughout the build, I was frustrated on many steps: fuel tank, wiring harness, control tubes fitting.
 
