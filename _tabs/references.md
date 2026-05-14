@@ -107,18 +107,18 @@ Through the build I am making some mods, buying parts not included in the factor
 | Category | Part | Description |
 | :------------------ | :------------------- | :------------------------------------------------------------------ |
 | Tail | Trim servo | Ray Allen T2-7A |
-| | Tail light | Aveo minimax aero |
-| | Nav lights | Aero Pulsar NSR |
+| Tail | Tail light | Aveo minimax aero |
+| Tail | Nav lights | Aero Pulsar NSR |
 | Wing | Pitot/AOA | Garmin GAP 26 Heated/Regulated |
-| | Fuel cap | Newton Aero 200 |
-| | Fuel sender | VDO 10-180 ohm |
-| | Fuel sender gasket | Custom made (Garlock 3000) |
-| | Fuel Pump mod | Aerospace Innovation Intelligent Fuel Boost System |
+| Wing | Fuel cap | Newton Aero 200 |
+| Wing | Fuel sender | VDO 10-180 ohm |
+| Wing | Fuel sender gasket | Custom made (Garlock 3000) |
+| Wing | Fuel Pump mod | Aerospace Innovation Intelligent Fuel Boost System |
 | Fuel and oil system | Fuel Manifold | Aerospace Innovation Naviflow |
-| | All hoses | Aerospace Innovation LifeLine system |
-| | NACA Duct connection | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
+| Fuel and oil system | All hoses | Aerospace Innovation LifeLine system |
+| Fuel and oil system | NACA Duct connection | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
 | Paint | Interior | Primer - Rustoleum self-etching |
-| | | Primer - Stewart System Ekoprime |
-| | | Top coat - Stewart System EkoCrylic |
+| Paint | Interior | Primer - Stewart System Ekoprime |
+| Paint | Interior | Top coat - Stewart System EkoCrylic |
 | Fuselage | Static port | Vans static port |
-| | Fuel Selector | FS2020 Duplex |
+| Fuselage | Fuel Selector | FS2020 Duplex |
