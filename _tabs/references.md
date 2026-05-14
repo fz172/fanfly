@@ -101,6 +101,10 @@ On my harness, CAN bus always use white as High, and White/Blue as Low.
 - GDU 460 screws: <https://www.mscdirect.com/product/details/01844893>
   - #6-32, 1/2"
 
+## Boost Pump Web Console
+
+- 192.168.4.1
+
 ## Important Part Numbers
 
 Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
