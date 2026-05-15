@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Oil Cooler, Oil Lines, and Some Riveting"
+categories: [Engine, ~oil_cooler]
+tags: [oil_cooler, oil_lines]
+minutes: 180
+---
+
+## TLDR
+
+- Fitted the oil cooler
+- Started to place oil lines
+- Riveted the rear fuselage parachute box
+
+## Details
+
+I started to work on the oil system today.
+
+First things first, I wanted to install the oil cooler on the cowling to get the exact location set, then I can start to fit the oil lines.
+
+### Oil Cooler
+
+Before anything starts, I wrapped the oil cooler with some cardboard for protection.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMZpIcCtq5Xc1BUesdX6UDh9-2fbaApWDUrPR379mD942JXLzy36qbPI6TXC41VN2RZsyNTiaagpgy9h3bee_G901MyP2BcCItxR-4pA1--yOP4pW_VCONPPpeadYWsDh6tk-W7fxrvdvPE9EvbDJKrmQ=w3194-h2396-s-no-gm?authuser=0)
+
+The oil cooler installs in the same way as the coolant radiator. It's latched onto the cowling with 2 locks. One half of the latch goes onto the oil cooler, which took 20 maybe 30 minutes top.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMevri9l_YmPwFlAWKOHBRvxxeZRrfQQHxjTdlPaSxLnOINF0DEb_m9EINlJ2vXivJA-G6_JZremAK-1Zbj1tdJ_dD08lu_U_bNJVsqi2FAqmlJBC3Z1JuOKgJoJRM7axIxZ1t1jxoDgcCLXfAKq3ghMA=w3194-h2396-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczM03EowCwAn1rPvqwP0f0KKN7vbdOhLPaTD4d4OmqQjwCfQpMf0LfQ4aUSI0_3irWz-v6tdfPidsogSBHXmrNr86lWzShKtVO_wYp1MojCEqL2yvKxa6BvJSH1tZzZXM3uR0mXh2apun1w85e1ubvKnTA=w3194-h2396-s-no-gm?authuser=0)
+
+The other half goes onto the cowling composite. This is the tricky part, as it's really difficult to pinpoint the lock's location and mark drilling holes. Firstly there were not a lot of space to get the pen in, and secondly the latch lock can't be too close or too far from the oil filter or it won't latch properly.
+
+So anyways I spent about 2 hours trying to find the right location to drill the holes for the 2 sets of latches. Fortunately, I the the locks installed and it locks correctly.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMT0-Sml-3AuAsHDTr0ByVQwGHNvL8qg2DwX2lwXQDV_eZTz_0QWKlG64Ut2oDeySZvtrH4eP9hRpaqqlUg7k9marolzPZeWSdtYW-1zpWGd79MOts3dZfiJWXSJRoI95sDWO7K41SLd5ypo3_JnDfiLg=w3194-h2396-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNLMZFRELIDRQJdjoWUZtdZFVKhnh0b7S_gRUFgbTLMbvbeNdirMEHxYnm7vtS6xU73tp6dNVbeaFPoqJpvp6T67izJ0qVW0AEF_6yw1g7dJu-US-Hze8EuHg5_ZHhn2uclUm8hFp5WQcR6_MrJQ7uYGw=w3194-h2396-s-no-gm?authuser=0)
+
+I haven't installed the seal yet. Once the seal is installed the latch should lock slightly more firmly which is a good thing.
+
+### Oil Lines
+
+I temporarily placed the oil tank on the airplane, and loosely connected the oil lines to visualize how the lines will run.
+
+This part is dreading because 1. I don't want to let go of the oil from the engine. 2. the fittings all have extremely tight access. 3. I'd probably have to redo a lot of wire organization to avoid chafing.
+
+### Riveting
+
+I decided to punt of actually connecting the oil lines for a day. I wanted to do something more fun.
+
+As it turns out riveting is my happy place. I forgot to take video on this part, but I reveted the surrounding area of the parachute box.
+
+I originally thought the circle or rivet holes around the parachute box is designed to hold the blowout skin. But after watching some more photos and instruction videso I think the surrounding holes can be riveted right away. For the blowout skin I'd need to drill new holes.
+
+So, I just zipped a bunch of rivets to offcially close the rear fuselage. That was fun.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczOPtZNoagRzQyc3OmBrwxOZ4kGnjcM3FWowVoshvPq-aM0u00_frKKyPavvlU8gL-VQN_4MdVbO1zZvZEEWMvE_b0lTs5X5x-EShiHz8wpiyV4iq6Y_EokFT73FnDNWx2asWmfxb5wtFQJ1S3KXhbgk6g=w3194-h2396-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczOVjhCbeXrhSuD_yQjdP6mBhTrdWFHNRD23Usgy1l0vaDvuzmpwK4nYKe4YPlaxSOXE5_gB9YC9E4crUdkTDaHGlD6OnZ20mD6udTZPvmBHE--XYoDkVZKhXYRJZTu7-aAyX-j6qkzLLf5WW1dsdScOwQ=w3194-h2396-s-no-gm?authuser=0)
