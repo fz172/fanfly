@@ -2,7 +2,7 @@
 layout: post
 title: "Exhaust Pipe - Part 2"
 categories: [Engine, ~exhaust_pipe]
-tags: [exhaust_pipe]
+tags: [exhaust_pipe, video]
 minutes: 360
 ---
 
@@ -68,3 +68,9 @@ Step 8: Fit the second exhaust pipe clamp
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMqhuXadV-brRItSwGSwS2t9gbpd2aYzSJfTzxQPX6X1rFAId_lBXBK0RZS35QzW7DbcdYl0t-33uCSBszZdxpaL7cEh4vz7aR99k3CqTT4TQYDAdEa0l2eJzm3csrMDVtFp0jc68Wgr1B4MINsmUcOSA=w1709-h1282-s-no-gm?authuser=0)
 _The second clamp is super easy fit though_
+
+## Video
+
+I made a video to summarize exhaust pipe work. Here it is:
+
+{% youtube eYWx0nzvBGI %}

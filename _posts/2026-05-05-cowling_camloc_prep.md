@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling Day4: Camloc Prep"
 categories: [Firewall, ~cowling]
-tags: [cowling, camloc]
+tags: [cowling, camloc, video]
 minutes: 120
 ---
 
@@ -35,3 +35,9 @@ Then I shot 3.2mm countersink rivets to install the camloc sockets to the airfra
 ### Cleaning Up
 
 Drilling the composite material on the cowling is extremely dusty. I spent some time to clean up the engine bay, and vacuumed the floor to keep my workspace clean.
+
+### Video
+
+I made a video to summarize cowling work so far. Here it is:
+
+{% youtube 6hVqwQPBoMM %}

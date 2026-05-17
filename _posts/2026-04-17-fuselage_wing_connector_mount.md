@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting Wing Harness Connector, Wire Management on Firewall Forward"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, wiring]
+tags: [avionics, wiring, video]
 minutes: 120
 ---
 
@@ -51,3 +51,9 @@ Spent another hour cleaning up the wires on the firewall forward to make sure th
 ![](https://lh3.googleusercontent.com/pw/AP1GczNXDvw4Q7iCXX2cV-JD8RTPSUph_HzzgyPX8Zq4t6AE_F--A3YRS5GsSefkpT-627bups1Dl97Pjk5tiaymR2nNt3Ucxvzc0A0v4epHTQhgHVSJxJsJwnZ6IggOzvf3Xj3VXHvuAjDEvBNAv88J6bsAtQ=w1159-h869-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOWcd5_qSKUUq54HLbQWaqqFX4gsKbgs792RgqxMeHUkTwC0pfBmmlPtFpxqZGeKI1GIPQBaZBxFP_n6nbSYjhJD8-Ov5wSw72hdvhiNmDtWBVNEpdcahlquNtPnxCrdRA7gyJcW_egI1s49FsnVD261w=w1159-h869-s-no-gm?authuser=0)
+
+## Video
+
+I made a video to summarize last couple of months' work. Here it is:
+
+{% youtube HKkEKflMLJg %}
