@@ -41,5 +41,5 @@ _Starting to measure and cut the heat shield to fit the cowling shape_
 ![](https://lh3.googleusercontent.com/pw/AP1GczNh4uUALj7eIzKomjo61bD4__uS-aIRtC3zT9xbTjQ-E4Dg89LFuKgn7wMEAiStZyczzRDDJn_juIRywJC6qhKIJqc7po-n-1mlXgD11ek4npB_0DNhR68gEdzjhKXDPbuHPPzBS8c78razl7T02CnqFA=w3166-h2374-s-no-gm?authuser=0)
 _Another large piece measured and cut_
 
-![](https://lh3.googleusercontent.com/pw/AP1GczMOx7lLd0mA7jBi4tlsnUoYz5x0n5KBnHUiKgC8a31iCAkCliaGw2l3KeKRIZLX8eYXSEttygaZZnOLp6kmKrro0axOVGL3Cl-0xdjVHDSUqTTAFHtSbgjZYwY51RWRJpcmzq54Mae1o98Ak0psK9fEYA=w3166-h2374-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMOx7lLd0mA7jBi4tlsnUoYz5x0n5KBnHUiKgC8a31iCAkCliaGw2l3KeKRIZLX8eYXSEttygaZZnOLp6kmKrro0axOVGL3Cl-0xdjVHDSUqTTAFHtSbgjZYwY51RWRJpcmzq54Mae1o98Ak0psK9fEYA=w3166-h2374-s-no-gm?authuser=0)a
 _Another few smaller pieces, and all glued to the cowling with contact cement_
