@@ -55,7 +55,7 @@ At this point of the build, I've learned to expect the unexpected. Just as I sta
 
 The connector is pushed onto the spark plug and protected by a very thick rubber boot. I tried a few times but couldn't remove the connector.
 
-I bought a [spark plug connector plier](http://summitracing.com/parts/lil-51410?seid=srese1&ppckw=pmax-tools&gad_source=1&gad_campaignid=19201424812&gbraid=0AAAAAD_vmJJZOd2ggbQuSVyeaJ9_XuOKX&gclid=CjwKCAjwxITRBhBYEiwA6mZm7V2liN2Frs3kUkXxzYcnI2xlr5CSE-fhxm7numBfHmM_Tar-hVMbHBoCuk8QAvD_BwE), which is basicall a needle nose plier with a circle opening to hold the connector. With the plier as leverage I was able to pull all 8 plug connectors very easily.
+I bought a [spark plug connector plier](https://summitracing.com/parts/lil-51410?seid=srese1&ppckw=pmax-tools&gad_source=1&gad_campaignid=19201424812&gbraid=0AAAAAD_vmJJZOd2ggbQuSVyeaJ9_XuOKX&gclid=CjwKCAjwxITRBhBYEiwA6mZm7V2liN2Frs3kUkXxzYcnI2xlr5CSE-fhxm7numBfHmM_Tar-hVMbHBoCuk8QAvD_BwE), which is basicall a needle nose plier with a circle opening to hold the connector. With the plier as leverage I was able to pull all 8 plug connectors very easily.
 
 Then I bascially just followed the instruction:
 
