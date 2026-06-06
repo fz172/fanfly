@@ -104,25 +104,3 @@ On my harness, CAN bus always use white as High, and White/Blue as Low.
 ## Boost Pump Web Console
 
 - 192.168.4.1
-
-## Important Part Numbers
-
-Through the build I am making some mods, buying parts not included in the factory kit. And the kit comes with some pre-made parts.
-| Category | Part | Description |
-| :------------------ | :------------------- | :------------------------------------------------------------------ |
-| Tail | Trim servo | Ray Allen T2-7A |
-| Tail | Tail light | Aveo minimax aero |
-| Tail | Nav lights | Aero Pulsar NSR |
-| Wing | Pitot/AOA | Garmin GAP 26 Heated/Regulated |
-| Wing | Fuel cap | Newton Aero 200 |
-| Wing | Fuel sender | VDO 10-180 ohm |
-| Wing | Fuel sender gasket | Custom made (Garlock 3000) |
-| Wing | Fuel Pump mod | Aerospace Innovation Intelligent Fuel Boost System |
-| Fuel and oil system | Fuel Manifold | Aerospace Innovation Naviflow |
-| Fuel and oil system | All hoses | Aerospace Innovation LifeLine system |
-| Fuel and oil system | NACA Duct connection | 3D printed parts ([ref](https://www.thingiverse.com/thing:6903645)) |
-| Paint | Interior | Primer - Rustoleum self-etching |
-| Paint | Interior | Primer - Stewart System Ekoprime |
-| Paint | Interior | Top coat - Stewart System EkoCrylic |
-| Fuselage | Static port | Vans static port |
-| Fuselage | Fuel Selector | FS2020 Duplex |
