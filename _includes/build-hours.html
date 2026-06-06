@@ -1,0 +1,212 @@
+{%- comment -%}
+  Build-hours donut + legend. Self-contained and theme-aware.
+  Sums post.minutes per top-level category, draws an SVG donut, an
+  hours-sorted legend, and links segment <-> legend on hover.
+{%- endcomment -%}
+
+{% assign chart_labels = '' | split: '' %}
+{% assign chart_minutes = '' | split: '' %}
+{% assign chart_total = 0 %}
+{% assign bh_categories = site.categories | sort %}
+
+{% for category in bh_categories %}
+  {% assign category_name = category | first %}
+  {% assign posts_of_category = category | last %}
+  {% assign first_post = posts_of_category | first %}
+  {% if category_name == first_post.categories[0] %}
+    {% assign cat_minutes = 0 %}
+    {% for post in posts_of_category %}
+      {% assign cat_minutes = cat_minutes | plus: post.minutes %}
+    {% endfor %}
+    {% assign chart_labels = chart_labels | push: category_name %}
+    {% assign chart_minutes = chart_minutes | push: cat_minutes %}
+    {% assign chart_total = chart_total | plus: cat_minutes %}
+  {% endif %}
+{% endfor %}
+
+{% assign palette = '#2a6f97,#e07a3f,#5a9367,#b5546b,#6c8ead,#d4a23a,#8a6fa1,#c98a7a,#7d8597,#a9c0a6' | split: ',' %}
+{% assign palette_size = palette | size %}
+
+{% if chart_total > 0 %}
+<style>
+  .hours-chart {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.25rem 2.25rem;
+    margin: 0 0 1.75rem;
+    background: transparent;
+  }
+  .hours-chart__head {
+    flex: 1 0 100%;
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+  .hours-chart__total {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--text-color);
+    font-variant-numeric: tabular-nums;
+  }
+  .hours-chart__total-label {
+    font-size: 0.9rem;
+    color: var(--text-muted-color);
+  }
+  .hours-chart__viz {
+    flex: 0 0 auto;
+    width: 190px;
+    height: 190px;
+    margin-inline: auto;
+  }
+  .hours-donut {
+    width: 100%;
+    height: 100%;
+    animation: hours-donut-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+  .hours-donut__track { stroke: var(--tb-border-color); }
+  .hours-donut__seg {
+    stroke-linecap: butt;
+    cursor: pointer;
+    transition: opacity 0.18s ease, stroke-width 0.18s ease;
+  }
+  /* Hovering any slice or legend row dims the rest; the active one pops. */
+  .hours-chart.is-hovering .hours-donut__seg { opacity: 0.3; }
+  .hours-chart.is-hovering .hours-donut__seg.is-active {
+    opacity: 1;
+    stroke-width: 4.7;
+  }
+  .hours-legend {
+    flex: 1 1 240px;
+    min-width: 220px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .hours-legend__item {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    padding: 0.45rem 0.6rem;
+    margin: 0 -0.6rem;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background-color 0.18s ease;
+  }
+  .hours-legend__item.is-active {
+    background: color-mix(in srgb, var(--link-color) 10%, transparent);
+  }
+  .hours-legend__swatch {
+    flex: 0 0 auto;
+    width: 0.85rem;
+    height: 0.85rem;
+    border-radius: 3px;
+  }
+  .hours-legend__name {
+    font-weight: 500;
+    color: var(--text-color);
+    text-decoration: none;
+  }
+  .hours-legend__item.is-active .hours-legend__name,
+  .hours-legend__name:hover { color: var(--link-color); }
+  .hours-legend__val {
+    margin-left: auto;
+    font-size: 0.85rem;
+    color: var(--text-muted-color);
+    font-variant-numeric: tabular-nums;
+  }
+  @keyframes hours-donut-in {
+    from { opacity: 0; transform: scale(0.9) rotate(-8deg); }
+    to   { opacity: 1; transform: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .hours-donut { animation: none; }
+  }
+</style>
+
+<div class="hours-chart">
+  <div class="hours-chart__head">
+    <span class="hours-chart__total">{{ chart_total | divided_by: 60 }}</span>
+    <span class="hours-chart__total-label">
+      hours logged across {{ chart_labels | size }} categories
+    </span>
+  </div>
+
+  <div class="hours-chart__viz">
+    <svg class="hours-donut" viewBox="0 0 36 36" role="img"
+         aria-label="Build hours by category">
+      <circle class="hours-donut__track" cx="18" cy="18" r="15.915"
+              fill="none" stroke-width="3.6" />
+      <g transform="rotate(-90 18 18)">
+        {% assign cumulative = 0 %}
+        {% for m in chart_minutes %}
+          {% assign cidx = forloop.index0 | modulo: palette_size %}
+          {% assign seg = m | times: 100.0 | divided_by: chart_total | round: 3 %}
+          {% assign rest = 100 | minus: seg %}
+          {% assign off = cumulative | times: -1 %}
+          <circle class="hours-donut__seg" data-idx="{{ forloop.index0 }}"
+                  cx="18" cy="18" r="15.915" fill="none"
+                  stroke="{{ palette[cidx] }}" stroke-width="3.6"
+                  stroke-dasharray="{{ seg }} {{ rest }}"
+                  stroke-dashoffset="{{ off }}">
+            <title>{{ chart_labels[forloop.index0] }}: {{ m | divided_by: 60.0 | round: 1 }} h</title>
+          </circle>
+          {% assign cumulative = cumulative | plus: seg %}
+        {% endfor %}
+      </g>
+    </svg>
+  </div>
+
+  {%- comment -%} Sort legend by hours, descending, keeping original index for color/hover {%- endcomment -%}
+  {% assign sort_keys = '' | split: '' %}
+  {% for m in chart_minutes %}
+    {% assign padded = m | prepend: '0000000' | slice: -7, 7 %}
+    {% capture key %}{{ padded }}|{{ forloop.index0 }}{% endcapture %}
+    {% assign sort_keys = sort_keys | push: key %}
+  {% endfor %}
+  {% assign sort_keys = sort_keys | sort | reverse %}
+
+  <ul class="hours-legend">
+    {% for key in sort_keys %}
+      {% assign parts = key | split: '|' %}
+      {% assign oidx = parts[1] | plus: 0 %}
+      {% assign cidx = oidx | modulo: palette_size %}
+      {% assign m = chart_minutes[oidx] %}
+      {% assign label = chart_labels[oidx] %}
+      {% assign pct = m | times: 100.0 | divided_by: chart_total | round: 0 %}
+      {% capture _ctg_url %}/categories/{{ label | slugify | url_encode }}/{% endcapture %}
+      <li class="hours-legend__item" data-idx="{{ oidx }}">
+        <span class="hours-legend__swatch" style="background: {{ palette[cidx] }};"></span>
+        <a class="hours-legend__name" href="{{ _ctg_url | relative_url }}">{{ label }}</a>
+        <span class="hours-legend__val">
+          {{ m | divided_by: 60.0 | round: 1 }} h&nbsp;·&nbsp;{{ pct }}%
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+  (function () {
+    var chart = document.querySelector('.hours-chart');
+    if (!chart) return;
+    function setActive(idx, on) {
+      chart.classList.toggle('is-hovering', on);
+      var nodes = chart.querySelectorAll('[data-idx="' + idx + '"]');
+      for (var i = 0; i < nodes.length; i++) {
+        nodes[i].classList.toggle('is-active', on);
+      }
+    }
+    var targets = chart.querySelectorAll('[data-idx]');
+    for (var i = 0; i < targets.length; i++) {
+      (function (el) {
+        var idx = el.getAttribute('data-idx');
+        el.addEventListener('mouseenter', function () { setActive(idx, true); });
+        el.addEventListener('mouseleave', function () { setActive(idx, false); });
+      })(targets[i]);
+    }
+  })();
+</script>
+{% endif %}
