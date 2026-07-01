@@ -1,6 +1,8 @@
 
 <!--
-  Minute formatter: 185 minutes -> 3:05
+  Minute formatter:
+    default:            240 -> 4 hrs, 210 -> 3.5 hrs, 200 -> 3.3 hrs
+    round_to_hour=true: 240 -> 4
 -->
 
 {% assign wrap_elem = include.wrap | default: 'em' %}
@@ -10,7 +12,9 @@
   class="{% if include.class %}{{ include.class }}{% endif %}"
 >
   {% if round_to_hour != true %}
-    {{ include.minutes | divided_by: 60 }}:{{ include.minutes | modulo: 60 | prepend: "00" | slice: -2, 2 }}
+    {%- assign hours = include.minutes | times: 1.0 | divided_by: 60.0 | round: 1 -%}
+    {%- assign whole_hours = hours | floor -%}
+    {%- if hours == whole_hours -%}{{ whole_hours }}{%- else -%}{{ hours }}{%- endif %} hrs
   {% else %}
     {{ include.minutes | divided_by: 60 }}
   {% endif %}
