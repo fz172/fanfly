@@ -2,7 +2,7 @@
 layout: post
 title: "Fuselage Prep for Wing Attachment"
 categories: [Fuselage, ~center_fuselage]
-tags: [wing_mounting_prep]
+tags: [wing_mounting]
 minutes: 220
 ---
 
