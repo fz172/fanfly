@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wing Mounting Prep - Center Channel Cover"
-categories: [Fuselage, ~center_fulselage]
+categories: [Fuselage, ~center_fuselage]
 tags: [throttle_quadrant, avionics, wiring, wing_mounting]
 minutes: 180
 ---
