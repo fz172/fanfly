@@ -2,7 +2,7 @@
 layout: post
 title: "Redoing Propeller Safety Wire, Wiring Clean Up, Air Filter Fitting, Oil Purge"
 categories: [Engine, ~accessary]
-tags: [oil_tank, fluid_lines, avionics, wiring, air_filter]
+tags: [oil_tank, fluid_lines, avionics, wiring, air_filter, video]
 minutes: 600
 ---
 
@@ -75,3 +75,7 @@ For spark plugs, before I put them back I applied a little bit of heat paste on 
 Just for fun, I put on both the bottom and upper cowl, and took an inspirational picture. It's looking like an airplane :-)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMSS3zvViJ1Mf8MP_UMu4J2LA9FJIZ3DR9XdQlD2-DM5WekF-VK-IcTpYA7HRQXgYUYzNFuOLM4ls6DwybBpA8S3I1n2HcCz03EL_R5TFPwZh5ufc64y8Bd-1Zt6NDR3rLq7vOYdS3jLVhhxOKEMPeWNg=w3166-h2374-s-no-gm?authuser=0)
+
+### Video
+
+{% youtube 4pieNXORwzo %}

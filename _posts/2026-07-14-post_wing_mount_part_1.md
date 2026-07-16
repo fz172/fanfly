@@ -2,7 +2,7 @@
 layout: post
 title: "Post Wing Mounting Work - Part 1"
 categories: [Fuselage, ~center_fuselage]
-tags: [wing_mounting, seat, upholstery]
+tags: [wing_mounting, seat, upholstery, video]
 minutes: 180
 ---
 
@@ -48,3 +48,7 @@ Unfortunately, the seat does not slide freely. After a close look, the seat latc
 I put the leather side panels back after the seat rail install. This is probalby the 7th time I remove/install this particular panel. There are like 20 screws on each side. I hope I will stop doing it for a while :-)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNskxgH83sOVoo9wff03caQMy0xOIICJE6_JgO9Q2gIrTFC4U7FvxlUgpMPLMRL6u7wibN7I71ySVNV2UE29Ml6ePNYPyEwWpzVXXh5_Ozpotwhbv4TGy61EeVnaGofFrWX-giwfLn4KLFkMKVN0RkVCQ=w3136-h2352-s-no-gm?authuser=0)
+
+## Video
+
+{% youtube nXOIhf6ab5o %}

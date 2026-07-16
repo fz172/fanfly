@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Propeller"
 categories: [Engine, ~propeller]
-tags: [propeller, airmaster]
+tags: [propeller, airmaster, video]
 minutes: 180
 ---
 
@@ -41,3 +41,7 @@ I moved on to install the lock plate and safety wired the screws holding the loc
 ![](https://lh3.googleusercontent.com/pw/AP1GczPOLIsqCZcDFgrckanpHlKIOTMiEg0_Jxxsgf0MuW9ULd4z59CAm0MPk-duyhDGy45VxMuyN9yAOe0_ANuhGEhVGqYoP0BE2oSCfksEoSereizpBWd_oLQlr5vmWgjkOZiBUMEM4sdHprslA-XROU0c4Q=w1780-h2374-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPtP66KIE70Pm-iYgWwNtUkR9VC86UWJiIa-QFTwksRWEbd59aN-dCcDsPVbnwxbuJUXAXS7EoR9UNAy7ai2nHBfJZ6ad2To8_C63s4Q17mTljTuqWTewwM1WnnpT1bSI_LVtZJF4U4vQlFyqCWX3L-8w=w3166-h2374-s-no-gm?authuser=0)
+
+## Video
+
+{% youtube p16PlpG3ptE %}
