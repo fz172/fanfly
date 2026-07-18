@@ -81,4 +81,4 @@ I don't understand why it says "doesn't appear to be shutting off", since the pu
 
 Since both pumps are not working, and pump override isn't even starting anything, I believe something common between the two pumps are messed up. It's unlikely that I have 2 bad pumps.
 
-I have started to trace the wire diagram. I hope this doesn't turn into a bug debug marathon like the rotax fusebox drama.
+I have started to trace the wire diagram. I hope this doesn't turn into a debug marathon like the rotax fusebox drama.
