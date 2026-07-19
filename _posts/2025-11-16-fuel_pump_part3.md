@@ -2,7 +2,7 @@
 layout: post
 title: "Completed the Fuel Pumps & Naviflow Assembly"
 categories: [Firewall, ~firewall_forward]
-tags: [fuel_pump]
+tags: [fuel_selector, fuel_pump]
 minutes: 160
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Fuel Selector Install"
 categories: [Fuselage, ~center_fuselage]
-tags: [fuel_selector]
+tags: [fuel_selector, fuel_pump]
 minutes: 240
 ---
 

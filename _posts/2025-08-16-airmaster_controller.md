@@ -2,7 +2,7 @@
 layout: post
 title: "Airmaster controller, FP1 connector"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, wiring]
+tags: [avionics, wiring, fuel_pump]
 minutes: 320
 ---
 

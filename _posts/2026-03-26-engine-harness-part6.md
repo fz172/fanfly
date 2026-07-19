@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Harness - Part 6 - Fixing harness wires & testing "
 categories: [Engine, ~harness]
-tags: [avionics, ecu, wiring, elt]
+tags: [avionics, ecu, wiring, elt, fuel_pump]
 minutes: 150
 ---
 
