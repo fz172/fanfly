@@ -127,7 +127,7 @@ So I make a short probe wire to temporarily connect FP1-11, then turned on the p
 
 I could tested more by connecting FP1 and moving to RH2, but decided to skip this test and just connect the full harness and test the end to end.
 
-#### Testing End to End
+### Testing End to End But Ran into a Second Problem
 
 Spent 20 minutes to reconnect everything back to operational state, then turned on the master switch.
 
@@ -173,7 +173,7 @@ Once crimped, I put everything back and reconnected the plugs.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMRxO3uO6WmZTVlmY68dno4EixitxIPx9SQY6TMATzgojGrW8PUWEUJbITrjakcEKcb79tivfG6JQbg4dWOVZiSHF8ufImtlVN56DVGlajW1E38vp4MiaVmj2pXH2KyhFtNPxUX4knoGCyerMPQCajwOA=w1780-h2374-s-no-gm?authuser=0)
 
-#### Testing End to End (Second Attempt)
+### Testing End to End (Second Attempt)
 
 Second time is the charm.
 
