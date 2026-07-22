@@ -12,41 +12,41 @@ minutes: 120
 
 ## Details
 
-After addressing the boost pump wiring issue, I went back to my normal program. The next task on the list was to install both ailerons.
+After addressing the boost pump wiring issue, I went back to my normal project list. The next task was to install both ailerons.
 
-The install was pretty straightforward with a few tweak points.
+The installation was pretty straightforward, with a few tweak points.
 
 ### Bolts and Washers
 
-Each aileron is connected to the wing through 2 AN4 bolts via hinges. On the outboard hinge, when I moved the aileron up and down the aileron hinge rubs against the wing hinge.
+Each aileron is connected to the wing by two AN4 bolts through the hinges. On the outboard hinge, when I moved the aileron up and down, the aileron hinge rubbed against the wing hinge.
 
-The rubbing is so slight, it's just 1 millimeter or less clearance needed between the two ailerons.
+The rubbing was so slight that only about 1 millimeter or less of clearance was needed between the two hinges.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPYQvtmfQQKBefhNCc3qb3wvoQdnkQFzz7cZ4dGQe1g7Lg9mA1jMmipQIxvp_-5bL8XgWV5qc0QmIQCwd-GNAJ-x0ZsdfwI5hUT3Igb6vwVzS4IqO3KPeB0nnB-YOC5Z_J5aDJaW1VtfSByVmUNoOZ_vA=w3166-h2374-s-no-gm?authuser=0)
 
-I played with adding/removing washers between the hinges to get the clearance needed. On the instruction, it says I need a thin AN4 washer bewteen the two hinges. I ended up using a thin washer and a normal washer.
+I experimented with adding and removing washers between the hinges to achieve the necessary clearance. The instructions said I needed a thin AN4 washer between the two hinges. I ended up using one thin washer and one standard washer.
 
-Everything else was easy. No more rubbing, clearance was good, so I torqued down both AN4 bolts to secure the aileron.
+Everything else was easy. There was no more rubbing, and the clearance was good, so I torqued both AN4 bolts to secure the aileron.
 
 ### Torque Tubes
 
-Then I installed the torque tube linking the aileron to the main bell crank inside the wing.
+Then I installed the torque tube that links the aileron to the main bell crank inside the wing.
 
-I tried to get the screw started connecting the torque tube and the rod end on the aileron. But I couldn't fit my finger into the small hole to hold the rod end. I'm sure some people can do it, but I decided to just take off the aileron to get more room.
+I tried to start the screw that connects the torque tube to the rod end on the aileron, but I could not fit my finger into the small hole to hold the rod end. I’m sure some people can do it, but I decided to remove the aileron to gain more room.
 
-So I removed the bolts I just torqued and took the aileron off the airplane, connected the torque tube by just a thread, then put the aileron back.
+So I removed the bolts I had just torqued, took the aileron off the airplane, connected the torque tube with only a few threads engaged, and then put the aileron back.
 
-Then I connected the other end of the torque tube to the bell crank throught he wing's inspection hatch. There were no access issues here, so the work finished pretty quickly.
+Then I connected the other end of the torque tube to the bell crank through the wing’s inspection hatch. There were no access issues there, so the work was finished fairly quickly.
 
-Thirdly, I connected the long torque tube in the wing to the control stick's rod end. This completes the entire control stick -> aileron torque tubing.
+Next, I connected the long torque tube in the wing to the control stick’s rod end. This completed the entire control stick-to-aileron torque tube linkage.
 
-I did the same on the left side after the right side is finished.
+I did the same on the left side after finishing the right side.
 
 ### Fine Tuning for Later
 
-With the torque tubes connected, I moved he control surfaces up/down to ensure the movement is smooth and no weird noises were heard.
+With the torque tubes connected, I moved the control surfaces up and down to ensure that the movement was smooth and that there were no unusual noises.
 
-I corase adjusted the tubes so that the control sticks are at the neutral position when the ailerons are flush with the wing. I have not measured the actual movement range. Nor have I torqued the set screws. I will do that later when final rigging.
+I roughly adjusted the tubes so that the control sticks were at the neutral position when the ailerons were flush with the wing. I have not measured the actual movement range, nor have I torqued the set screws. I will do that later during final rigging.
 
 But for now, I have all my control surfaces on the airplane!
 
