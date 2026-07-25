@@ -57,6 +57,9 @@ Then I put the parachute in the box, and connected the cables with a D-shackle. 
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNXrO9AFfj877Ey2lz__thwdVMG0HYLq9BDARWjLQVJrwT9py5wgCrO9RVlpE8jsM_DF0xPjDohUof_laJ9jdisomnwx7tbpLUsy8riuH_iNd-mO9th9JyIlkJKRlez5tf9FBvZnHuiC6Qi0TGl-TNMTg=w3166-h2374-s-no-gm?authuser=0)
 
+![](https://lh3.googleusercontent.com/pw/AP1GczPJj-HdGNStHc-7eCr8lc9AKmZVXR7_VE_oVPLCa2QY3q2xqHs4Y9ogpKNqcVRtJ-dwsEpRWvmFelBmm1HtPP-l2I6LhlNQwlQvE0TQ0cnvedVWiSC5vRm47zcitka053hvYMg3OKTRSJoXrB41OSGm8w=w1776-h2368-s-no-gm?authuser=0)
+_On the back of the parachute bag, I put a bunch of zipties to attach it with the airframe to avoid chafing and reduce noise_
+
 ### Blowout Cover Prep
 
 I spent the last hour of the day to clean up the blow out cover - debur, degrease, etc.
