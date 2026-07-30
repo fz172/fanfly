@@ -2,14 +2,14 @@
 layout: post
 title: "Calibrating Control Surfaces and Cable Routing"
 categories: [Fuselage, ~center_fuselage]
-tags: [rigging, avionics, flap, trim, rudder]
+tags: [rigging, avionics, flap, trim, rudder, elevator]
 minutes: 240
 ---
 
 ## TLDR
 
-- Calibrated all control surfaces except the elevator:
-  - flap, aileron, trim, rudder
+- Calibrated all control surfaces:
+  - flap, aileron, trim, rudder, elevator
 - Routed the parachute pull cable along the center channel
 - Rerouted pitot/AoA/static pneumatic lines behind the dashboard for better organization
 
@@ -46,6 +46,14 @@ I think I can get the range closer to 22 degrees. I will leave it like this for 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMV4ktWN1cUvasBI0DFxWSfZv6kSWxJJXyRXQ5NwgbGkhkKDBb2fQwMtDeiBUTLTHstXARUfICYVhcYHrW6VVsWMjfSz1sQfNtxTbzMtFNHwU7a87plNI0wPhFpGVtHHDyBac_xnEmGdWDQBveGtdXGrQ=w1774-h2364-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNay4U0gllnFc9p0vaxolJwucwIy0JjRJNLRJkyDIzKR2iLvFffUGvtF39uL08MYnjXNTIYh7gbhxaELMQEHNNx1WM23wYZfot4N_ibGQSSnJCUK17AMIDS9WeYfSwIB3TSYcQhE-RS596pWwXCgdNoMQ=w1774-h2364-s-no-gm?authuser=0)
+
+### Elevator Calibration
+
+Used the same digital angle measure. Moved the elevator full up then full down. The reads are within range as required by the POH.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPWzP_ElpysfUpplziwP_ESlXY_3La1Eq7w9mN3okHogD2kxJpdaO7SS-46s31TAlRLKnrwR6UsOMxKfLyfHQcCwSqsl6lbwY3xT27qL6x68qybG8b4BaCcNM10jGkI7TKlL8IlTCiwdVEehgr6h_SzIw=w1774-h2364-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMeqrdQb4eic2CFmbG0_Vz3A_BDWRdIpEwJ-Xf2AjLkPOMCzxHW448MJjaPttDUXcemqOUAZI2TBpacGVBj4F0OIazxkEFeAbFCo3cAjVTJf8kbfwUc_1VKQ1P-uGjP9DwSz1mL2Y0W1dyJHv4GX_DlwA=w1774-h2364-s-no-gm?authuser=0)
 
 ### Routing Parachute Pull Cable
 
