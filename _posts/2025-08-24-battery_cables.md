@@ -20,9 +20,9 @@ I decided to redo a segment of the battery cable - from master contact to the sh
 
 The previous cable was working, but the way it was routed interfered with installing the shunt cover, so I made a new one.
 
-Process was pretty straighforward:
+Process was pretty straightforward:
 
-- Rough measured  & and cut the cable length
+- Roughly measured and cut the cable length
 - Crimped one side
 - Bent the cable and test fitted it on the airplane
 - While on the airplane, I "clocked" the other end of the cable lug, and marked the position using a sharpie.
@@ -32,7 +32,7 @@ Process was pretty straighforward:
 
 With the cable properly routed, I installed the shunt cover. The only tricky part was to identify the correct position to drill the screw holes on the shunt.
 
-I laid a piece of paper on the airplane and poked the holes on top of the rivnuts. Then I transferred the hole position from the paper to the cover, then then drilled away.
+I laid a piece of paper on the airplane and poked the holes on top of the rivnuts. Then I transferred the hole position from the paper to the cover, then drilled away.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPryAg28zvHr8AM9dXOw_pETQY1R3rJaVTZ8mudkPVqGSlKGkOmN5kHumadIHJkLc7jR34wOYGvkEhUXJBAlkVZVj6Yc73_XM-LC6cvtrzIKgTr7jZE4HR_tYZz-WudFnuqjf5BmxXQgN7Y5p3V2LK4qw=w1213-h913-s-no-gm?authuser=0)
 
@@ -48,7 +48,7 @@ I noticed several error messages on my GNX375 so I took a picture. I have not go
 
 I suppose the second message is expected, as I am working inside my hangar.
 
-But I am unsure what to do with the other 2 messsages. For the first one "crossfill inoperative". I tried to crossfill flight plan from 375 to G3X and vice versa, and they seem to work. I also tried transponder code, they worked too.
+But I am unsure what to do with the other 2 messages. For the first one "crossfill inoperative". I tried to crossfill flight plan from 375 to G3X and vice versa, and they seem to work. I also tried transponder code, they worked too.
 
 And for the "Transponder has failed" code, I have no idea what it means. The transponder says " 1200 standby", and I was able to change to a different code. There are no red crosses on either G3X or GNX375..
 

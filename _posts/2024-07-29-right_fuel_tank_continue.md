@@ -35,14 +35,14 @@ _Fuel tank cap after countersink_
 
 ### Unclecoed fuel tank
 
-Not much to say, this is the next step before sealing up the tank. I desembled everything to debur and clean the tank parts again.
+Not much to say, this is the next step before sealing up the tank. I disassembled everything to deburr and clean the tank parts again.
 
 I am a little nervous about breaking out the pro-seal, as I don't know if I will have sufficient work time to get the job done. I have 3 tubes of proseal right now, and I think I will get the pint or quart canned proseal for the next fuel tank so I can mix as I go..
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM9aqdA7Giw5t48JuL_KeaT40XjlfjaSTTLGuRrsghEPGTA9Gx03YUf6dOTDazXFtIImnCIbttCAz1mK1X5hLd0jT6I6KpAiVK3DqYUQkE7h8jz968JJYz55Lh4hX4JF13HX7HzgD6GZ13fxuTCkAGGGQ=w2274-h1712-s-no-gm?authuser=0)
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNUq-s3hcMevPeRqQMRFdPqJAM8OI0wLcqCEHF3ZFVG_E4SRZMwNbmRf8mN8U55naDy47LCygiXLbEs2seSU5iMhb9_aDMnvTYNvkMuNqj2JXW04D_qCnfB2jH4vFzT_L6-zMAxx6j0DKfOJFLrtwPINA=w2274-h1712-s-no-gm?authuser=0)
-_Everything is desembled, it's getting real_
+_Everything is disassembled, it's getting real_
 
 ### Left wing
 
@@ -52,4 +52,4 @@ I unclecoed and removed the top skin from left wing. I imagine we will take a lo
 
 I also tried to fit the main spar doubler one more time. The doubler's hole was really terribly drilled. This is unlike Sling's typical worksmanship. I'd say 30% of the holes just didn't match.
 
-I managed to match all the holes on the bottom side with no match drilling, but there is no way the top will match. I previously asked Sling if I can cut the doubler in half and match individually and they said it's fine. So I matched about half of top doubler, match drilled a few, then drew a line using marker between the holes that I think will for sure not match. That's aboutu 6 holes towards the outboard end. I will cut them in half along the marker line and match individually. Probalby will also use super glue to hold it to the spar before riveting.
+I managed to match all the holes on the bottom side with no match drilling, but there is no way the top will match. I previously asked Sling if I can cut the doubler in half and match individually and they said it's fine. So I matched about half of the top doubler, match-drilled a few, then drew a line using a marker between the holes that I think will for sure not match. That's about 6 holes towards the outboard end. I will cut them in half along the marker line and match individually. Probably will also use super glue to hold it to the spar before riveting.

@@ -25,9 +25,9 @@ So I cleaned, deburred and installed the replacement. Everything is good. I am u
 
 ### Rudder cable
 
-Before adding skin, I wanted to put in the rudder cabel and tail harness first before access becomes a problem.
+Before adding skin, I wanted to put in the rudder cable and tail harness first before access becomes a problem.
 
-Installing rudder cabel isn't difficult. The KAI has step by step instruction to ensure the brackets are installed correctly and the cables cross each other correctly.
+Installing the rudder cable isn't difficult. The KAI has step by step instruction to ensure the brackets are installed correctly and the cables cross each other correctly.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMpdMFMAsRLIeSmys1epOKYODvx5F64FWpVK__lIoxBSLjq2ztCfCZ8Y6B56hBOabTHPd742-Lhhe1-dYPeUll25_LQ8-rSdXbTYclbhqIH_prQiTqcbMmR9CokO_a0b86vJvYolI3AzzZ5bzV7J5XYiA=w786-h1044-s-no-gm?authuser=0)
 _Rudder cables are pre-assembled_
@@ -48,7 +48,7 @@ None of the nuts and screws are tightened. I will leave those to final rigging.
 
 ### Tail harness
 
-The tail harness installation is fairly straightforward. I added a cabel sleeve on the harness just for extra protection, then I used the harness made by Midwest Panel Builder. It's preassembled and came with a pretty good install instruction. I ran the harness on the side along the channels, and installed a few M4 rivnuts to hold the harness with adel-clamps.
+The tail harness installation is fairly straightforward. I added a cable sleeve on the harness just for extra protection, then I used the harness made by Midwest Panel Builder. It's preassembled and came with a pretty good install instruction. I ran the harness on the side along the channels, and installed a few M4 rivnuts to hold the harness with adel-clamps.
 
 Towards the empennage, the wire goes out through a 2 grommets, and I installed GT150 connectors for the tail strobe light and the trim motor.
 
@@ -87,7 +87,7 @@ _Zooming in_
 
 ### Luggage extension box
 
-I procrasinated a little before installing the skin, so I decided to build something easy. I picked luggage extension box to build.
+I procrastinated a little before installing the skin, so I decided to build something easy. I picked a luggage extension box to build.
 
 It's fairly straightforward, just a few large skin clecoed and riveted together. And I followed what most others has done, and added some sound proofing foam around the box.
 

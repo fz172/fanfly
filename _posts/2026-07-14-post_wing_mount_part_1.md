@@ -8,16 +8,16 @@ minutes: 180
 
 ## TLDR
 
-- Disembled wing storage cradle
+- Disassembled wing storage cradle
 - Installed Seat Rail
 - Test fitted front seats
 - Installed passenger row leather panels
 
 ## Details
 
-### Disemble Wing Storage Cradle
+### Disassemble Wing Storage Cradle
 
-After the wing is mounted, I needed some storage back in the hangar, so I took down the wing storage cradle. This is the cradle storing the wings vertically, not the cradle used to mounting the wing. I still need the wing mouting cradle to help my friend Kevin when he mounts his wings in a few weeks.
+After the wing is mounted, I needed some storage back in the hangar, so I took down the wing storage cradle. This is the cradle storing the wings vertically, not the cradle used to mount the wing. I still need the wing mounting cradle to help my friend Kevin when he mounts his wings in a few weeks.
 
 I picked the wrong day for this job though. The weather is about 100 degrees. I went to Harbor Freight for a shop fan, but even with the fan it didn't cool down much.
 
@@ -45,7 +45,7 @@ Unfortunately, the seat does not slide freely. After a close look, the seat latc
 
 ### Leather Side Panels
 
-I put the leather side panels back after the seat rail install. This is probalby the 7th time I remove/install this particular panel. There are like 20 screws on each side. I hope I will stop doing it for a while :-)
+I put the leather side panels back after the seat rail install. This is probably the 7th time I remove/install this particular panel. There are like 20 screws on each side. I hope I will stop doing it for a while :-)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNskxgH83sOVoo9wff03caQMy0xOIICJE6_JgO9Q2gIrTFC4U7FvxlUgpMPLMRL6u7wibN7I71ySVNV2UE29Ml6ePNYPyEwWpzVXXh5_Ozpotwhbv4TGy61EeVnaGofFrWX-giwfLn4KLFkMKVN0RkVCQ=w3136-h2352-s-no-gm?authuser=0)
 

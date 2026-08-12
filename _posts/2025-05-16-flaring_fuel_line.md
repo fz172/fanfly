@@ -22,7 +22,7 @@ I needed a flaring tool. The tool is available on aircraft spruce. A nice one is
 
 ### Flaring
 
-I cut some tubes to practice, then started to make real ones.  The surface is _definitely_ more smooth than the factory ones. I am confident the previous leak was due to the bad finish on the flaring.
+I cut some tubes to practice, then started to make real ones. The surface is _definitely_ smoother than the factory ones. I am confident the previous leak was due to the bad finish on the flaring.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOvGVL4ILHzQUp4rGLaTt9p768rMdnr0fY6NRfqtLihdOO2zP7K0b4O7yr8rhRMfG-nd2Wh056ZBCBOitGIlGOgoEGG2UWnoanpDWtCQpkYFNucnWrEIXyXc-y-RroA-QpbH75u6RAF8pQK-cYR_3b8vw=w1284-h1712-s-no-gm?authuser=0)
 _Newly made flare tube_

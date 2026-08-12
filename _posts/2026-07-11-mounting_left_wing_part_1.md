@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mouting the Left Wing - Part 1"
+title: "Mounting the Left Wing - Part 1"
 categories: [Wing]
 tags: [wing_mounting]
 minutes: 300

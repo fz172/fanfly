@@ -14,9 +14,9 @@ minutes: 60
 
 Last time when I went to the hangar I brought back home the pilot/copilot side doors, windows and the tools for making the windows. So I am able to work on the door windows at home rather than having to go to the hangar :)
 
-This evening after work I started to work on the pilot side door.  I followed the same process as rear windows, and attached the window to the door and drew the outline with a expo marker. But just before that, I had to remove the door lock handle so nothing is in the way to fit the window.
+This evening after work I started to work on the pilot side door. I followed the same process as rear windows, and attached the window to the door and drew the outline with an Expo marker. But just before that, I had to remove the door lock handle so nothing was in the way to fit the window.
 
-After the outline was drawn, I used my die grinder to cut it execessive pieces.  I staerted to fine tune and sand down the window, but didn't quite finish today. Planning to continue over the weekend.
+After the outline was drawn, I used my die grinder to cut out the excessive pieces. I started to fine-tune and sand down the window, but didn't quite finish today. Planning to continue over the weekend.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMy307jxv6JHNd8TRaYTQFXw8ZgslccoLqL4aBb_D5K-8Y32BdPgOawSO4rFII6YtFd3hyCX91c4pDgD4o7QiYgyP39dNvDFAqh1PpwNf9gzv3XhnhIBWnXt3fFu7VeBmr6EhxLMJiK0T8GxP4tWD_ZWw=w1366-h1814-s-no-gm?authuser=0)
 _Lock handle removed_

@@ -14,7 +14,7 @@ minutes: 150
 
 The parachute cable was fed through the entire center channel, with the red pull handle coming out of the instrument panel, and the rocket connector right below the rocket tube.
 
-In order to feed the cabel through, I removed the throttle quadrant back cover (the cover with 2 headset cable holes and USB plug). I thought I'd have to remove the rear seat, but it wasn't necessary. I just lifted the rear seat slightly. Overall it wasn't difficult to get the cable through the channel.
+In order to feed the cable through, I removed the throttle quadrant back cover (the cover with 2 headset cable holes and USB plug). I thought I'd have to remove the rear seat, but it wasn't necessary. I just lifted the rear seat slightly. Overall it wasn't difficult to get the cable through the channel.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPWDSGTUbgj_8CKJWW4oatk95TkSBEP-CoHQmM5PL2n515BetFY9LOzJQMAFGtVPUiNic-H9hgVvDhmkJKYPnAiw3ejg2YeoyLBQLz3Mfkx_jD0dS69p-1gI8zsKWQYdV--zbuZGyRK9SVox7TuQxjGcQ=w1776-h2368-s-no-gm?authuser=0)
 _Cable pulled through_

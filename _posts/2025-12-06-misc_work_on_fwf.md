@@ -21,9 +21,9 @@ This week I multi-threaded on quite a few small projects, although none of them 
 
 I continued my debugging journey on the GNX375 message "GDU Disconnected, external flight plan crossfill inoperative".
 
-Sent email to g3xpert@, and their answer was that I should set GDU to ***NOT PRESENT*** in the configuration mode. Reason: that setting is for TXi system, not G3X system.
+Sent email to g3xpert@, and their answer was that I should set GDU to **_NOT PRESENT_** in the configuration mode. Reason: that setting is for TXi system, not G3X system.
 
- So I did that. But the message was not cleared.
+So I did that. But the message was not cleared.
 
 I then turned off "Crossfill flight plan" in the GNX375 settings, the message went away. When I turn the setting back on however, the message went back.
 
@@ -77,15 +77,15 @@ So what I did was remove the nuts of the two long bolts holding the bushings sec
 
 With the extra space I was able to remove the drilled-out lower rivet butts.
 
-For the other 6 rivets, I had to do it one side at a time.  It required removing the top bushing too.
+For the other 6 rivets, I had to do it one side at a time. It required removing the top bushing too.
 
 After the whole process, I flipped the plate for a test fit. And of course the holes did not line up at all.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNAr0XV3U-Tk3i28NzAL6gG_V8ubVDsZ6s9efBV23sKfO_DppBmaVIL97Si2Lb-wDDkHOqGMPMl5EpKxNSJFJg--AoGY3NBUBFgWj6iKHyNJU0wB12qCBZuIp6fyx64UT_mfRL8gcUrjkqo5ArQ3vijwA=w1164-h873-s-no-gm?authuser=0)
-*old orientation*
+_old orientation_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNWdT3UuffYPIxua8hFiSlOVyK3PfIy5ZTQQFAE9oz4ud1FajX3CaTEcB7_B0AwiKJew-0bUT4o_pUfJIt2C9bulF0qUffLewMuA9tOdDXpAhxWO0tBAzFX6bByDp0TUNvsdVdoY9Ec4b5Kl9gDF1oMhg=w655-h873-s-no-gm?authuser=0)
-*New orientation*
+_New orientation_
 
 I asked Facebook builder group. It seems the orientation depends on the cowling version. 915 should use my original orientation, and 916 should use the flipped down version. Since my cowling is for 916 (even though I have 915 engine), I might have to get a new part that fits. I sent a question to the factory. Once they respond I will decide what to do.
 
@@ -94,7 +94,7 @@ I asked Facebook builder group. It seems the orientation depends on the cowling 
 Got an answer back from Sling technical. The correct orientation is to have the flat side facing down. When installing in this orientation, only 4 of the 8 holes would align. Technical said this is ok, so I will do this.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPJaRX6xuxEPQyA46SavMhiNXBJOksp7gVOaEf6yzVpalPWWRfGLv5oMgCkAzQuqS_fS5kej0xLl6zyo1Y5JAYliqO3Ko252HRas67TQxMsP_NRsXKwTMiQMEqg62RJMfCjcrrhJLj9ZDDz6-2C_e7y9Q=w1164-h873-s-no-gm?authuser=0)
-*Only the center row of rivets will fit, which is ok per Sling Technical*
+_Only the center row of rivets will fit, which is ok per Sling Technical_
 
 ### Throttle Cable Connection
 

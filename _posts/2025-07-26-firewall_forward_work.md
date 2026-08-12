@@ -22,7 +22,7 @@ Super easy to install. Clecoed the bracket on the firewall and shot 10x 4.0mm ri
 
 The left and bottom side of the battery bracket went on easily.
 
-But the right side has a strengthener. There was not enough space for the rivet gun. So I had to rivet the strengthener and teh bracket. from the back of the firewall. And in order to to do that, I had to first temporarily remove the cabin heater. It was a bit of a mess, but I got it done eventually.
+But the right side has a strengthener. There was not enough space for the rivet gun. So I had to rivet the strengthener and the bracket from the back of the firewall. And in order to do that, I had to first temporarily remove the cabin heater. It was a bit of a mess, but I got it done eventually.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMF-pXISDTiF5J4Kj-rigM-DjxIHY_gB1V6fSpzuKdCOILXmKR8xZUt-83tMKq3cnniYxdPeye8y2623XgZ3CkGSyHJlfu2pbdD5in4w3tsCYzPl16YM_sseYmEAp-Hn0UmCYCgjPJvXeebRVFyXiER6Q=w3438-h2588-s-no-gm?authuser=0)
 
