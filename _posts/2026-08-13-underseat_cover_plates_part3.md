@@ -2,7 +2,7 @@
 layout: post
 title: "Cockpit Upholstery & Underseat Cover Plate"
 categories: [Fuselage, ~center_fuselage]
-tags: [seat]
+tags: [seat, upholstery]
 minutes: 180
 ---
 
