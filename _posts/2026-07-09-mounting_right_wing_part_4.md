@@ -23,11 +23,11 @@ The thing is, the wire has 3 strands whereas I only need 1 wire to connect to th
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPTd7fzVmU3DTCo6GRLPxYFbtu08yOdtUGzVCnBxLSyICz-FnSF7XCQuT18Qbqc6Vp5ZVjvMIsuMGAuqxWltSU1Yx0s_ts-84koKTZtvsa4N4gBzL9Jrx1wCliY4-wBzxxLJk4DeOcy0W-uZ3W83gC5GA=w1768-h2358-s-no-gm?authuser=0)
 
-Adam from Midwest Panel Builder previous told me I just need the signal wire from the bundle, and can tuck the others away. I sent him an email to confirm which wire is the sinal wire - he told me it's the white-blue wire.
+Adam from Midwest Panel Builders previously told me I just need the signal wire from the bundle, and can tuck the others away. I sent him an email to confirm which wire is the signal wire - he told me it's the white-blue wire.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMAH2GMkWeG4gB3PBV2vhqlMyAFeerh5jej_NhTWmwgMGQFOEZLqBiKa2BC8hswxDD--3jKE1qs4yayUW6KyA5XdCVjdfYhpy71gDmK4DP_CvR1_6X137MtaB9bzidCZ1-4jrzxHhLZdE0Uph30LnhSCQ=w1768-h2358-s-no-gm?authuser=0)
 
-So I striped the wire and crimped it with a blade connector. That's it for now. I won't actually connect it until I am done with fuel line connections, otherwise this wire will interfere in the space when I work on fuel lines.
+So I stripped the wire and crimped it with a blade connector. That's it for now. I won't actually connect it until I am done with fuel line connections, otherwise the wire will get in the way when I work on fuel lines.
 
 ### Flap locking collars
 

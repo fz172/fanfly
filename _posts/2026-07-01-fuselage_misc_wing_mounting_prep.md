@@ -27,7 +27,7 @@ The two leather panels for the rear row are huge. I want to install them while i
 
 The pilot side was pretty easy. Most of the holes for the rivnut still lined up. I used black M4 screws to mount the panel and only had to grind a few holes slightly to make them align.
 
-The copilot side had more misalignments. Probably because the ELT antenna was interfering behind the panel so it couldn't stick to the skin flat. I cut a few places around the panel, and made a notch where the ELT antenna is. After that, the panel fitted better but most of the screw holes needed some grinding to align.
+The copilot side had more misalignments. Probably because the ELT antenna was interfering behind the panel so it couldn't lie flat against the skin. I cut a few places around the panel, and made a notch where the ELT antenna is. After that, the panel fit better but most of the screw holes needed some grinding to align.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNsPQ8yK3Pj_WEiNw_7yui3gYTo2eck_qpVMlSZA4MJNWU7vu9Ky4tpGjvQfeyHxpYt9_BkuAxKzwvLXhkf5Tt7iPBh6bAxvcHnVgtzyCY9wqx-DzCro5cr2GfERyUSfGvh5sbvgyd0KSBw_WsmVSo_eQ=w3166-h2374-s-no-gm?authuser=0)
 
@@ -35,7 +35,7 @@ The copilot side had more misalignments. Probably because the ELT antenna was in
 
 #### Air Vents
 
-After the leather panel is in place, the 2" holes I cut a few months ago lined up with the leather perfectly. I finally get to install the air vent for the rear passenger row. The installation is pretty easy. The vent is just a plastic piece that snaps onto the wall.
+After the leather panel is in place, the 2" holes I cut a few months ago lined up with the leather perfectly. I finally got to install the air vent for the rear passenger row. The installation is pretty easy. The vent is just a plastic piece that snaps onto the wall.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPXS0PmWGZWYxQ4pXGdCxWBNdag9AD-pc7C938JVcAZrcBsmOhWdWVVhmBTSwBeTxJqW6wOC1H_hbmTNX6XNxA7vLzxCc5kh99A7vw2GpFwsvEFl0tx2IoWhEqDUZvsiQ1OfJqLYIx1S4BYy48ZWOeZ7Q=w1780-h2374-s-no-gm?authuser=0)
 
@@ -47,7 +47,7 @@ After the leather panel is in place, the 2" holes I cut a few months ago lined u
 
 I need to find a routing to get the fuel pump wires from the cockpit side to the wing side. Since all the existing holes are already used or will be used for torque tubes, I decided to cut a new hole.
 
-I picked a location between the fule inlet and return lines. First I drilled a 1/4" pilot hole, enlarged it to 1/2", then used a small hole puncher to make it large enough to feed the fuel pump lines over. Then I added a rubber grommet for wire protection.
+I picked a location between the fuel inlet and return lines. First I drilled a 1/4" pilot hole, enlarged it to 1/2", then used a small hole puncher to make it large enough to feed the fuel pump lines over. Then I added a rubber grommet for wire protection.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM6IboOFyPmD9t15uTPOdGIkAQ2elFWEYsCWos6Ga4Lhbq2moBPPPGHpY0U3p4-Gc4IYFz3YlsZc9JYUHyVG4HW4i7la6gvXSVj48I4YNskwol96mo-SBT6mjK20LulEenThJCyH5su0cpYCFRGGK2tgA=w3166-h2374-s-no-gm?authuser=0)
 _Hole Punch_

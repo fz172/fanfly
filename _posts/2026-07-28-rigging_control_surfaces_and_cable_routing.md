@@ -39,7 +39,7 @@ Full up/down was easy. To find neutral, I stuck a digital angle measure on the t
 
 ### Rudder Calibration
 
-To calibrate the rudder, I need to ensure it moves 22 +/- 2 degrees on both sides. To measure the movement, I downloaded an app called Protractor from the Play Store and stuck my phone to the side of the rudder. Then as I moved the rudder, the app read a degree offset from the starting point. I checked the offset was 20.x degrees on both sides, so it was within range.
+To calibrate the rudder, I needed to ensure it moves 22 +/- 2 degrees on both sides. To measure the movement, I downloaded an app called Protractor from the Play Store and stuck my phone to the side of the rudder. Then as I moved the rudder, the app read a degree offset from the starting point. I checked the offset was 20.x degrees on both sides, so it was within range.
 
 I think I can get the range closer to 22 degrees. I will leave it like this for now and adjust if the turning doesn’t feel right after I get the engine started.
 
@@ -49,7 +49,7 @@ I think I can get the range closer to 22 degrees. I will leave it like this for 
 
 ### Elevator Calibration
 
-Used the same digital angle measure. Moved the elevator full up then full down. The reads are within range as required by the POH.
+Used the same digital angle measure. Moved the elevator full up then full down. The readings are within range as required by the POH.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPWzP_ElpysfUpplziwP_ESlXY_3La1Eq7w9mN3okHogD2kxJpdaO7SS-46s31TAlRLKnrwR6UsOMxKfLyfHQcCwSqsl6lbwY3xT27qL6x68qybG8b4BaCcNM10jGkI7TKlL8IlTCiwdVEehgr6h_SzIw=w1774-h2364-s-no-gm?authuser=0)
 
@@ -57,7 +57,7 @@ Used the same digital angle measure. Moved the elevator full up then full down. 
 
 ### Routing Parachute Pull Cable
 
-I spent another yoga session under the dashboard ziptieing the parachute pull cable. There was not much to it, just a lot of twisting and swearing. So far I have crawled under the instrument panel a few dozen times; I think the trick is: you have to be skinny lol.
+I spent another yoga session under the dashboard zip-tying the parachute pull cable. There was not much to it, just a lot of twisting and swearing. So far I have crawled under the instrument panel a few dozen times; I think the trick is: you have to be skinny lol.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNv-wYLN7VMynWLQRAqckMWtR8-jNzsJKBYf1wa5rf15jknSpP76SmEL6M7N6XhjURW4rEJ-Df6ktFzS3FJ97CmuCzqew5FSeu08CjgVvXKx49qXgYirSl0oi1ztoQJI8W5cv5riUxKTbCw3DyNozOuWw=w1774-h2364-s-no-gm?authuser=0)
 

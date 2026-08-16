@@ -13,18 +13,11 @@ minutes: 195
 
 ## Details
 
-I was originally planning to go to Torrance this week for my transition training. Unfortunately the training airplanes are down for maintenance, so the transition has to postpone.
-
 I had originally planned to go to Torrance this week for my transition training. Unfortunately, the training airplanes are down for maintenance, so the transition has been postponed.
 
 Instead of training, I continued working on the underseat cover plates.
 
 Copilot side:
-
-- Fitted the plate some more, enlarged a few holes slightly to align the M4 screws and the rivnuts.
-- Glued the carpet onto the metal plate.
-- Connected the heater air hose to the air outlet.
-- Installed the plate to the airplane.
 
 - Fitted the plate further and enlarged a few holes slightly to align the M4 screws and rivnuts.
 - Glued the carpet to the metal plate.
@@ -32,10 +25,6 @@ Copilot side:
 - Installed the plate on the airplane.
 
 Pilot side:
-
-- Fitted the plate to align all screws and rivnut holes.
-- Glued the carpet onto the metal.
-- The rest will be done tomorrow.
 
 - Adjusted the plate to align all screws and rivnut holes.
 - Glued the carpet to the metal plate.

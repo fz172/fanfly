@@ -8,13 +8,13 @@ minutes: 330
 
 ## TLDR
 
-- Still work in progress but mostly done, prepared the underseat coverplates for installation
+- Still work in progress but mostly done, prepared the underseat cover plates for installation
 
 ## Details
 
-There are several cover plates under the pilot and copilot seats. They cover the gaps below the seats, and closes the access to the main spar area.
+There are several cover plates under the pilot and copilot seats. They cover the gaps below the seats, and close the access to the main spar area.
 
-The plates were very difficult to install. They fit very tight in the space. I do a few rounds of test fit and marked edges to be trimmed and took them to a benchgrinder, then repeat.
+The plates were very difficult to install. They fit very tight in the space. I did a few rounds of test fitting and marked the edges to be trimmed, then took them to a bench grinder and repeated.
 
 ### The Front Side
 
@@ -32,9 +32,9 @@ After test fit, I glued the upholstery onto the metal plate and drilled the hole
 
 ### The Back Side
 
-The back side was a whole piece. Similar to the front, I test fitted several rounds to get the edges fit nicely and not chafe on anything.
+The back side was a whole piece. Similar to the front, I did several rounds of test fitting to get the edges to fit nicely and not chafe on anything.
 
-Then, I opened a 1.5 inch hole with a hole puncher on each of the plate as the hot air outlet.
+Then, I opened a 1.5-inch hole with a hole puncher on the plate as the hot air outlet.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN9Mg6XhRnqchhU4lLEbOWJE-NMec10wU5RLoOckP4UefJJRIybgL-eoeXi6Iy1dXALZ1AxtoUE6XUQLQkJKj4R4rXyfN1HOVswANDqbQUgPkVR6IDK-yieBlKhSHqYZoULgflaXOS54kF3KHh87LlRtQ=w1774-h2364-s-no-gm?authuser=0)
 _Marked area to be drilled for hot air vent_
@@ -49,4 +49,4 @@ Then I test fitted everything.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczP0JH8Jh8njrUYuTBAT1OMiN1Pz3V1zQhz1TPORndr26JEalW7EwPgIaxSp5hwm-EzZ48LgnTigXHSck7vkhEPfNTdrWUI9g6qCmI8xmcxNE0MMUW3gLhBi2Ov7a9dRH1ppOqVvF_MAmsIlZymJu-qYEQ=w3152-h2364-s-no-gm?authuser=0)
 
-I stopped today's work at this point. Still need to be done: upholstery, connecting the air outlet to the air duct, mount them.
+I stopped today's work at this point. Still to do: upholstery, connecting the air outlet to the air duct, and mounting them.

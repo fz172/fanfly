@@ -12,7 +12,7 @@ minutes: 240
 
 ## Details
 
-With the help of a my wife Ye, fellow builder Kevin, and my hangar friend Brian and Kelly, I mounted the right wing to the fuselage.
+With the help of my wife Ye, fellow builder Kevin, and my hangar friends Brian and Kelly, I mounted the right wing to the fuselage.
 
 The wing is attached with 8 AN7 bolts. In the 4 hours of work, I was able to get 5 out of the 8 bolts through.
 
@@ -30,7 +30,7 @@ We wheeled the cradle around to insert the wing into the fuselage, then manipula
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM08VgU6U9NG8I80pRnNP5Yo1LQ6MrA3ZqVrhAQNHwIz_lzE6UY9yAVK4IAJQl8tPonhdwkpWiWxBLnT7vySm3mB_OcRg0WXOGej64eM7GQFEcKS19lAwDZecFAoeGvMNaRQt9P_DQ0uJjbHORGTSfy8g=w3144-h2358-s-no-gm?authuser=0)
 
-Then I put the bullet through one of the holes, and used a punch to temporarily hold the rear spar to the fuselage in their AN5 hole.
+Then I put the bullet through one of the holes, and used a punch to temporarily hold the rear spar to the fuselage in its AN5 hole.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNNV2fXCBO0LDRGIRZSWI4VKAfmjBBWUqNj7AmScF2wS9rznPCd7sEY6hsrfNtvYqd4IgMJKttehXfpVo-4uiLXALot4bxgl_LGZJ-2__ttk2wRQiZhQRVYDbRG3kPEBR6G06pnysjrDfgZDVYZVExVqQ=w3144-h2358-s-no-gm?authuser=0)
 
@@ -40,17 +40,17 @@ I also ensured the flap torque tube locking collar is installed before aligning 
 
 ### Installing Bolts
 
-The AN7 bolts on the main spar are extremely tight fit. I absolutely cannot push them in with my hands.
+The AN7 bolts on the main spar are an extremely tight fit. I absolutely cannot push them in with my hands.
 
-I first tried rubber mallet. I immediately realized it was way too weak.
+I first tried a rubber mallet. I immediately realized it was way too weak.
 
-Then I switched to 3 lb metal hammer. It worked great for the first bolt (center bolt on the top row), but didn't work well for the second bolt (center bolt at the bottom) due to awkward spacing that I couldn't use full force to hammer it.
+Then I switched to a 3-lb metal hammer. It worked great for the first bolt (center bolt on the top row), but didn't work well for the second bolt (center bolt at the bottom) due to the awkward spacing, which meant I couldn't use full force to hammer it.
 
-So I switched to air compressor driven rivet gun. Just as I set up the tools my air compressor decided to break. So I borrowed an compressor from Brian.
+So I switched to an air-compressor-driven rivet gun. Just as I set up the tools my air compressor decided to break. So I borrowed a compressor from Brian.
 
-With his air compress, I was back in business. Rivet gun tapped a few more bolts in. Even with rivet gun they are still very difficult. I had to switch between using hammer and rivet gun.
+With his air compressor, I was back in business. The rivet gun tapped a few more bolts in. Even with the rivet gun, they were still very difficult. I had to switch between the hammer and the rivet gun.
 
-And as soon as the bolts are thorugh the hole, I stopped tapping and turned a AN7 nut on the bolts to pull them through the hole.
+And as soon as the bolts are through the hole, I stopped tapping and turned an AN7 nut on the bolts to pull them through the hole.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNfdXLKCabYJs537oAN7O4PlHGnwB6yQxzoMgk9Qdth5nRYvnaTH4y15OU8yV8YJ5VdTQf_OThHMf_Gb-b5oau5tuIcXlzsb4pWVN_qnhtxStzIkcDhRtDdZwyefYmYCO5VkaZMGWkslQ_gDL172FwoLA=w1768-h2358-s-no-gm?authuser=0)
 
@@ -60,9 +60,9 @@ And as soon as the bolts are thorugh the hole, I stopped tapping and turned a AN
 
 ### Better Tools
 
-On the last bolt of today (the 5th one), I was really stuck with my rivet gun. The bolt is at the bottom row and not very accessible, and my rivet gun is too long for that bolt, as in I cannot fully align the riet gun with the bolt (the gun is tilted). The hammer force cannot be fully transferred to the bolt. No matter how hard I tried, the bolt was stuck in the middle.
+On the last bolt of today (the 5th one), I was really stuck with my rivet gun. The bolt is at the bottom row and not very accessible, and my rivet gun is too long for that bolt, as in I cannot fully align the rivet gun with the bolt (the gun is tilted). The hammer force cannot be fully transferred to the bolt. No matter how hard I tried, the bolt was stuck in the middle.
 
-My other hangar friend Kelly came to the rescue. He had a shorter rivet gun - actually I think it's an air hammer rather than rivet gun. This one can lay flat and directly point to the bolt. I tried his tool, and with just a little effort it tapped the bolt through the main spar!
+My other hangar friend Kelly came to the rescue. He had a shorter rivet gun - actually I think it's an air hammer rather than a rivet gun. This one can lay flat and directly point to the bolt. I tried his tool, and with just a little effort it tapped the bolt through the main spar!
 
 ### Wrapping Up
 

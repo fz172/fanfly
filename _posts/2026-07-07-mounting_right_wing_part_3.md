@@ -26,9 +26,9 @@ Besides requiring a huge torque value, the AN7 bolts were not difficult to torqu
 
 ### Wing Walk Strips
 
-The wing walk strips are not a core item to install. But since it's so easy to install, and I want to add some protection to the wing, I decided to install it anyway.
+The wing walk strips are not a core item to install. But since they're so easy to install, and I want to add some protection to the wing, I decided to install them anyway.
 
-First I just dry fitted the strips. Then I used acetone and 99% alcohol to clean the areas, then just put the strip on.
+First I just dry fitted the strips. Then I used acetone and 99% alcohol to clean the areas, then just put the strips on.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNe3pSfUc9G8mvTEdJQHls6A159qKwq37GlqYs3DLA-XlPAfylPlQhmIrqN6Px5NpNzofu-TjWBdzI0NtbV6ImIUpzeFn4gQ7Th1A9em7BLz8L9WK6EmpIGGwOml_JLMjd5YGKp_vtZFIJBL9dQ99B7sQ=w3144-h2358-s-no-gm?authuser=0)
 
@@ -40,7 +40,7 @@ First I just dry fitted the strips. Then I used acetone and 99% alcohol to clean
 
 The harness on this wing has a prebuilt place to plug in the OAT connector.
 
-I first tested the OAT with wiring, then drilled a small hole on the wing to accept the OAT sensor, then tightened the OAT probe through the hole.
+I first tested the OAT with wiring, then drilled a small hole on the wing to accept the OAT sensor, then screwed the OAT probe through the hole.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczO2S3I5uYuZPRLL_IIULBka0cbRMu1d4SeIzSznW-pxi_wnmFeoTNP5Q6Ym6cukJUrPTAmQtHJrrIlZnhMC7qJkpHzRZypHMDhng4oGQgZXZBKxyux2R2778W0ZzvPcPNONQ4pWN_Q9KIkxhG7roOMdcA=w1768-h2358-s-no-gm?authuser=0)
 

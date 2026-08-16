@@ -14,17 +14,17 @@ minutes: 330
 
 ## Details
 
-The parachute I ordered arrived last week. I was hoping to install it sooner but the fuel boost pump work took a detour. Now that it's solved, I spent yesterday and today to install the parachute tube and the parachute bag itself.
+The parachute I ordered arrived last week. I was hoping to install it sooner but the fuel boost pump work took a detour. Now that it's solved, I spent yesterday and today installing the parachute tube and the parachute bag itself.
 
 ### Rocket Tube
 
-The rocket tube is secured onto a vertical wall in the luggage compartment via 6 AN4 bolts and a bunch of washers of various thickness.
+The rocket tube is secured onto a vertical wall in the luggage compartment via 6 AN4 bolts and a bunch of washers of various thicknesses.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM6w7g3bnM7z1zwN5W89_lRSa7Rz7psBmyWKwKoCsuXvNJ23Gz80d7oNMEP94WgocoxVe0hbhEveLwwt9MQJQrayC_aT3IrMyRA66iE-KvRr7gnmNgs5nOHtxb2zfmloj4ZnKK5U9T6jQ1dZjb3ICS45g=w1780-h2374-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNHJcaTlB3I-LAns1x6WRNmVYiNnJZKJJ7vSCDo0a1qSBF98UtHRYqFlzl2J1_F7ObpKOCwvAR56E3YAf36Q4aViKFQ8heFqGrOicKKdevt9NOeFeQSwW35MvRlasQ236lEJQSy5gGRPj_443WAuFW-TQ=w1780-h2374-s-no-gm?authuser=0)
 
-Inserting the bolts and the rocket tube was trivial. The trick was getting the washer and nuts onto the bolt, and get the nuts started on the thread. I followed Evan's advice using magnetic to slide the washers on. That worked fantastically. However the magnet trick did not work for getting the nuts on. The build manual shared a different trick which was using tape to hold the nut and turn it onto the bolt. This trick worked. It literally took me 30 seconds to get the last nut on once I understood this trick.
+Inserting the bolts and the rocket tube was trivial. The trick was getting the washers and nuts onto the bolt, and getting the nuts started on the thread. I followed Evan's advice using a magnet to slide the washers on. That worked fantastically. However the magnet trick did not work for getting the nuts on. The build manual shared a different trick which was using tape to hold the nut and turn it onto the bolt. This trick worked. It literally took me 30 seconds to get the last nut on once I understood this trick.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczO18ggWNYJy50-jgpSzdXzhWNk0D58eqsc0xxKku_J7auuxRgKrnJBHtATuRXmKJho2-iMFWatajmWQUZ0hxbLdiaQGWbo8PqE4mDN6k3JDOgFudy03uTQub4RSMAKKnBpej4nciogBFBscaiPvolW0fQ=w1780-h2374-s-no-gm?authuser=0)
 
@@ -53,21 +53,21 @@ Putting the parachute bag into the box required some preparation.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM91jflmAvFLzZNMsoqHJfXlvVpt9BYHilFFLqn3yStBHUukh284lg9LtqJIFSeInk36iC3W6Q34s3CGpQc06WMlvtOP5-RYnKcDb0HNEmoik76cRfV0GXnu_-XiFRrKY9Le3o8IU1RUx2ZFoipqQ3TRQ=w1780-h2374-s-no-gm?authuser=0)
 
-Then I put the parachute in the box, and connected the cables with a D-shackle. I also added a drop of loctite 243 on the shackle to prevent loosing from vibration.
+Then I put the parachute in the box, and connected the cables with a D-shackle. I also added a drop of Loctite 243 on the shackle to prevent it from loosening with vibration.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNXrO9AFfj877Ey2lz__thwdVMG0HYLq9BDARWjLQVJrwT9py5wgCrO9RVlpE8jsM_DF0xPjDohUof_laJ9jdisomnwx7tbpLUsy8riuH_iNd-mO9th9JyIlkJKRlez5tf9FBvZnHuiC6Qi0TGl-TNMTg=w3166-h2374-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPJj-HdGNStHc-7eCr8lc9AKmZVXR7_VE_oVPLCa2QY3q2xqHs4Y9ogpKNqcVRtJ-dwsEpRWvmFelBmm1HtPP-l2I6LhlNQwlQvE0TQ0cnvedVWiSC5vRm47zcitka053hvYMg3OKTRSJoXrB41OSGm8w=w1776-h2368-s-no-gm?authuser=0)
-_On the back of the parachute bag, I put a bunch of zipties to attach it with the airframe to avoid chafing and reduce noise_
+_On the back of the parachute bag, I put a bunch of zip ties to attach it to the airframe to avoid chafing and reduce noise_
 
 ### Blowout Cover Prep
 
-I spent the last hour of the day to clean up the blow out cover - debur, degrease, etc.
+I spent the last hour of the day cleaning up the blowout cover - deburring, degreasing, etc.
 
-The blowout cover is supposed to have a doubler right on top of the rocket tube opening. Once again I did not have this part but it's easy enough to fabricate one. So I cut a piece of aluminum to roughly the same shape of the tube opening, drilled 3.2mm rivet holes to match the pattern on the blowout cover and deburred everything.
+The blowout cover is supposed to have a doubler right on top of the rocket tube opening. Once again I did not have this part but it's easy enough to fabricate one. So I cut a piece of aluminum to roughly the same shape as the tube opening, drilled 3.2mm rivet holes to match the pattern on the blowout cover and deburred everything.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPJBH9LQTTLPua_ZXyW0UdWSd67mcHM9dIF3vARb2ynOph69Skm8mzYKuG94Nv_sbSuEPi2NtdPpF5wJZGaGMbkmbXeIc_CCOO5BKDXfjuN1AVVH1a1IQEV_ByAbID_bGKOhB1vFy0DH7Amt6oeWlD81A=w3166-h2374-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOgBgA5nqIixpKIDillX6Gh7pZCLU5uBTG-wzGZpZTSOzWYq5xCaUzf8opMUzFnSLeqiD2Wf6dhBc3NuMuI3n0Z4Zscl-FUJziqj22NhUACqGdOxnQmlvkTpakUAtBdbaYkNKeuxD23R0FdIkEqYJ4-7Q=w3166-h2374-s-no-gm?authuser=0)
 
-I also took a look at the pull handle assembly to make a game plan for tomorrow. It looks like I need to desembly the handle to feed it through the instrument panel, and get the other end all the way through the center channel and reach the rocket tube on the back. I might have to remove the rear seat for the routing.
+I also took a look at the pull handle assembly to make a game plan for tomorrow. It looks like I need to disassemble the handle to feed it through the instrument panel, and get the other end all the way through the center channel and reach the rocket tube on the back. I might have to remove the rear seat for the routing.

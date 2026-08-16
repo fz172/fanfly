@@ -21,6 +21,6 @@ I only got to stay in the hangar for 30 minutes or so today. Did a quick thing -
 
 ### Parachute
 
-Also, when I returned home I was right in time for FedDx delivery. It's my parachute. It came in 2 packages - the main parachute itself and the rocket box.
+Also, when I returned home I was right in time for FedEx delivery. It's my parachute. It came in 2 packages - the main parachute itself and the rocket box.
 
-I loaded them up in the car, and will bring it to the hangar tomorrow/next week for deep dive.
+I loaded them up in the car, and will bring them to the hangar tomorrow/next week for a deep dive.

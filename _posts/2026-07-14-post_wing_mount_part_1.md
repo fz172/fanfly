@@ -27,7 +27,7 @@ Anyways, the cradle is finally gone and I rearranged the tables, boxes etc to ge
 
 ### Seat rails and test fitting the seat
 
-The seat rail on both sides of the fuselage was built close to 2 years ago but was never installed, because they would interfere with torquing the top bolts for the wing.
+The seat rails on both sides of the fuselage were built close to 2 years ago but were never installed, because they would interfere with torquing the top bolts for the wing.
 
 Now I can finally install them and stop worrying about accidentally losing parts.
 
@@ -41,7 +41,7 @@ And with the seat rail, I put on the front seat to do a test fit.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczP4qgLyErgdN2UwSyEzkJKE6sRKXamLEkcX2rVQYHiNOEjUXXWCfFOQ7feb2yk39PpSiIPVlrI9jSUrB7nIWkGw913GBLluAmkTbs9SVniGeaAXd_F29F2CIj6f43JFjJ4EP0TIpHg5hLPGnKGWQnpJKg=w1764-h2352-s-no-gm?authuser=0)
 
-Unfortunately, the seat does not slide freely. After a close look, the seat latch on the right hand side does not retract fully when I pull the seat adjustment tab. I will need to take it off and may be grind down the locking latch by a few millimeters to clear the distance.
+Unfortunately, the seat does not slide freely. After a close look, the seat latch on the right hand side does not retract fully when I pull the seat adjustment tab. I will need to take it off and maybe grind down the locking latch by a few millimeters to clear the distance.
 
 ### Leather Side Panels
 

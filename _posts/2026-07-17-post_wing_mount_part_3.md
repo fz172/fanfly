@@ -22,7 +22,7 @@ The shelves in my hangar are dangerously close to my wing when the airplane is f
 So I decided to move the shelves to the rear of the hangar. It took me 40 minutes to unload the stuff from all shelves, move the shelves, and put the stuff back. I wanted to clean up the floor but forgot to bring my power washer to the hangar, oops.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPAMu8oeziKBLkA-OfZA11hvyKz7-zgGJauCROSjzjc4BQ9jpZdURcno1aFlQ7dYYnDz5lezlVQ2NjiQmso4FmwZQwPKQl9rp4Meo-dz4unHorHV67jV97lqHS0xr8eVAuk6OSjLFU8gY1TlLyJqeYttA=w1764-h2352-s-no-gm?authuser=0)
-_Before clean up_
+_Before cleanup_
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOGDJeUheJZb7q1wEIEqyEzavxPPEFGZAcP9KCP1E2dSv3GFFoz-n7r9H215qtGMISpdOf1Ka62mYzrm_wp-sDPpzKHWkLlcxmdrVawwhynqyr54wC1U8O5Nm8JbEBTSQq8-R5mfzwNaqlffbE6oSizEQ=w3136-h2352-s-no-gm?authuser=0)
 _Shelves gone from behind the wings_
@@ -32,7 +32,7 @@ _Shelves moved to the back_
 
 ### Vinyl Decals
 
-I alo printed a bunch of decals for various parts of the airplane, things like: fuel quantity and quality sticker, max luggage weight etc.
+I also printed a bunch of decals for various parts of the airplane, things like: fuel quantity and quality sticker, max luggage weight etc.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMVp0cGP82TAzWeSJ2KQYe9hmQU6W_7V4DXShLDR9Z9Fgak_noZ170JY41riN-VDoz6kIIr3O3hAkJi6a7kEJZ-OdrXF2fYrme-KPe67uQ5SxIL6CeSsxJ-shX4VxF_gfEjwiKbq-5IuNewUk_Uc7dozg=w3136-h2352-s-no-gm?authuser=0)
 
@@ -46,9 +46,9 @@ I alo printed a bunch of decals for various parts of the airplane, things like: 
 
 Next - I connected the fuel and return lines in both wings.
 
-The connection fitting is AN6. I wiped the fittings clean with some alcohol, then hand-tightened the lines before turning with a wrench 90 degrees.
+The connection fitting is AN6. I wiped the fittings clean with some alcohol, then hand-tightened the lines before turning them 90 degrees with a wrench.
 
-The space was tight for wrench to turn, I tried a few different ones until I found a good position to turn. Eventually I got it done.
+The space was tight for the wrench to turn, I tried a few different ones until I found a good position to turn. Eventually I got it done.
 
 And I also connected the wires for fuel boost pumps (more on this later) as well as the fuel sender signal wire.
 
@@ -79,6 +79,6 @@ In the boost pump web portal, there is an error message:
 
 I don't understand why it says "doesn't appear to be shutting off", since the pump isn't on in the first place. But the voltage 0.00 is concerning.
 
-Since both pumps are not working, and pump override isn't even starting anything, I believe something common between the two pumps are messed up. It's unlikely that I have 2 bad pumps.
+Since both pumps are not working, and pump override isn't even starting anything, I believe something common between the two pumps is messed up. It's unlikely that I have 2 bad pumps.
 
 I have started to trace the wire diagram. I hope this doesn't turn into a debug marathon like the rotax fusebox drama.

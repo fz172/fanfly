@@ -64,7 +64,7 @@ With more questions than answers after tracing the wiring diagram, I started to 
 
 #### VP-X Power
 
-I started with the easier task: checking VP-X power. This was done by connecting an Ethernet cable to my laptop and running the VP-X configurator app. The pin supplying the power should be always on. Since the pump control unit is working, I did not expect this part to be a problem. And indeed it was configured correctly.
+I started with the easier task: checking VP-X power. This was done by connecting an Ethernet cable to my laptop and running the VP-X configurator app. The pin supplying the power should always be on. Since the pump control unit is working, I did not expect this part to be a problem. And indeed it was configured correctly.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczM-RDkkZurloF5jiCLilK36tGhehCk506rXGlKz3BA14S2dwKekQ4-kle5xKSeEYi_ACF2VGbzRTbm55Hu91AYNgN4t317oO-R5VP56_9sXuBB34AJV9b0x6DKnlLJxio3hAWmnB-pdUXw0EEtENGPP7A=w3166-h2374-s-no-gm?authuser=0)
 
@@ -131,7 +131,7 @@ I could have tested more by connecting FP1 and moving to RH2, but I decided to s
 
 I spent 20 minutes reconnecting everything back to an operational state, then turned on the master switch.
 
-This time, I heard the right pump clicking for a few seconds and then stop. That is a good sign.
+This time, I heard the right pump click for a few seconds and then stop. That is a good sign.
 
 However, I still do not hear the left pump working. And the web portal (192.168.4.1) confirms that the left pump's voltage is still 0.
 

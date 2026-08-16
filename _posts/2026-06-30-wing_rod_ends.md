@@ -8,11 +8,11 @@ minutes: 240
 
 ## TLDR
 
-- Installed a bunch rod ends for wing torque tubes
+- Installed a bunch of rod ends for wing torque tubes
 
 ## Details
 
-There are many rod ends for the control surface torque tubes. I started to install them before the space becomes tight after wing attachment.
+There are many rod ends for the control surface torque tubes. I started to install them before the space became tight after wing attachment.
 
 Today, I completed:
 
@@ -20,7 +20,7 @@ Today, I completed:
 - bell crank rod ends on both wings
 - flap rod ends on right wing
 
-I also discovered I am missing a set of rod ends - order placed through Sling's builder app. I really need them to get the true location of the flap torque tube and put the locking bush in.
+I also discovered I was missing a set of rod ends - order placed through Sling's builder app. I really need them to get the true location of the flap torque tube and put the locking bush in.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMaBMEfADqNwrMe7cvrcembbsvO8VqKJB3at_gCzXQzi0emJ9QUhfLOmTeD-7wngBcepu5edsgzF-37G1OKSjEtEosNzjKCOjxPYFA6ZXOVRGMV84chxzvSlSzp-UzsPUZheEDv92Na1vNVZYkthJMXYQ=w1780-h2374-s-no-gm?authuser=0)
 
@@ -30,7 +30,7 @@ I also discovered I am missing a set of rod ends - order placed through Sling's 
 
 ### Aileron Rod End
 
-Most rod ends install took ~5 to 10 minutes each. But the 2 rod ends directly under the main spar are a joy to put on. I spent 3 hours and almost broke my back to get them on.
+Most of the rod end installs took ~5 to 10 minutes each. But the 2 rod ends directly under the main spar are a joy to put on. I spent 3 hours and almost broke my back to get them on.
 
 The space to work on it was extremely small. I had to line up the bolt, multiple washers, the rod end itself, more washers, and the nut all in a perfect line. And I also had to find a creative angle to work my torque wrench on the AN4 bolt.
 

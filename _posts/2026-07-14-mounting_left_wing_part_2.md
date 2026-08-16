@@ -10,13 +10,13 @@ minutes: 150
 
 - Torqued the left wing mounting bolts
 - Installed left flap torque tube locking collar
-- Connected wing wire harness and penumatic lines
+- Connected wing wire harness and pneumatic lines
 
 ## Details
 
 ### Bolt Torquing
 
-All 8 bolts through the main spar were installed last time, so today's work is just torquring them to 55 nm. And also the rear spar bolt (AN5) needs to be torqued to 18 NM. Both tasks went smoothly.
+All 8 bolts through the main spar were installed last time, so today's work is just torquing them to 55 nm. And also the rear spar bolt (AN5) needs to be torqued to 18 NM. Both tasks went smoothly.
 
 And my friend Brian gave me a creeper to work under the airplane's belly. It's much more comfortable than just laying on the floor :=)
 
@@ -26,14 +26,14 @@ And my friend Brian gave me a creeper to work under the airplane's belly. It's m
 
 ### Torque Tube Locking Collar
 
-Same as the right side. There are 2 locking collars to install. A smaller one near the wing root, and a longer one connect the flap torque tube with the flap motor tube.
+Same as the right side. There are 2 locking collars to install. A smaller one near the wing root, and a longer one connects the flap torque tube with the flap motor tube.
 
 #### Small locking collar
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNvVWC2AMhd3mBh7b0oNEuF-o530RI5ENKApwJXXMovxTyjbIDy287yaLvqW4S9hzYRMwFEBLldhoSTl7LV8Vvx-ZyycfkRizAy7vCnG3VEOJ2puowPujd2jNYSgI4h-5l3KAKLcKAI3RLlxhEbfyBzLg=w3136-h2352-s-no-gm?authuser=0)
 _The smaller one is installed near the wing root_
 
-When I was working on the right wing, it was really painful to drill the hole for the small locking collar when the wing was already attached. So this time I pre-aligned the tubes and pre-drilled the hole before attaching the wing. So once the wing was attached I just need to rivet it. Using a hand riveter in the space was still extremely painful, but not as bad as drilling.
+When I was working on the right wing, it was really painful to drill the hole for the small locking collar when the wing was already attached. So this time I pre-aligned the tubes and pre-drilled the hole before attaching the wing. So once the wing was attached I just needed to rivet it. Using a hand riveter in the space was still extremely painful, but not as bad as drilling.
 
 #### Large locking tube
 
@@ -45,7 +45,7 @@ While doing all of these, I used a gust lock to put the flap at 0 degrees positi
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMpONI3mvfAr2bYr8bM6vtx5kvJC9w5wJt3YwF9yPxHDLfKHXaR-pb3c0fWxBPmmO9ub93yeMbvXg1yGBYrsewp_eXRfbuMzCtmZfaCUffZobLgZ0M_8h5ihao2u57Yzjfl4nS-3Qoc6OB6qTDwwUOIPA=w1764-h2352-s-no-gm?authuser=0)
 
-After drilling and torquing, I powered on the avionics and tried to move the flap up and down. Both left/right side seem to be aligned and moves smoothly.
+After drilling and torquing, I powered on the avionics and tried to move the flap up and down. Both left/right sides seem to be aligned and move smoothly.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczO7NjlyqZb4B-coFC8Bf0MwqgOPc6bNxAFU7z6RrVwotqUjVeIUR-k-8jM4hnNM__nRryHTwJzYifcPrd-bRP3VM3f6stVf7qxXhZlwdrYRjauUadArwrCvWmteJ_EDhpHOd9YemGBk18Keth0tILMdjg=w3136-h2352-s-no-gm?authuser=0)
 
@@ -53,9 +53,9 @@ After drilling and torquing, I powered on the avionics and tried to move the fla
 
 ### Wing Harness
 
-The other thing on the wing was connecting the harness and penumatic lines from the pitot tube.
+The other thing on the wing was connecting the harness and pneumatic lines from the pitot tube.
 
-The wing connector is secured on the fuselage with 4 M4 screws, and the air lines just goes through the fuselage through 2 gromet holes. Both are pretty easy to connect.
+The wing connector is secured on the fuselage with 4 M4 screws, and the air lines just go through 2 grommet holes in the fuselage. Both are pretty easy to connect.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN5JQQ66zTKelfL7nvwWYtzBO21zTi-3kwvQ9DaiaLdTIkaj4GDRcbn8AUoQ4UVXrlKZE54IK7Fhn_SeD7mxr2maAhQudyM32M3ZnGr9Wg8-R_YFFPXqBEsh85G9W8Gjlg0pWdNyxrjBtOzCzR46vitDw=w3136-h2352-s-no-gm?authuser=0)
 
@@ -66,6 +66,6 @@ _Used long screws to align the hole, then replaced with properly sized screws on
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczOGOh8DLjzX2TO7SwZcwfJ8WoUw0IDnXocLb8s6excPY6C1tFEeettfHR95Oz17B1JfN1pvNa2psgOpUFrhqmT_RTDgZ13_MCbrlWmUK0LDt3WlcQqXn8yZidWBbN10Np-NltiCfMzJtf8ciP6paZ_YJg=w3136-h2352-s-no-gm?authuser=0)
 
-One cavaet on the wing harness: the wire was pretty long. To prevent it from chafing on the metal or torque tubes, I used ziptie to bundle the wires and added some edge protector on wing rib sharp edges.
+One caveat on the wing harness: the wire was pretty long. To prevent it from chafing on the metal or torque tubes, I used zip ties to bundle the wires and added some edge protector on the wing rib's sharp edges.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMWk8lRKLX56qrcsugfhapciV5mMpu4XlAYE4rH21nEKz6SIbAnQefhFmQ78tUhfmNfsnkF-U8svWdgvDYMUgtpxhBY_rVjnD2ZeWne1584dphF0f1pSmcDZTP5DrSf0g64zKrAy4XyNAHNZ2bxGdwj2g=w3136-h2352-s-no-gm?authuser=0)
