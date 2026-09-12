@@ -2,19 +2,19 @@
 layout: post
 title: "Installing Interior Panels under Center Channel"
 categories: [Fuselage, ~center_fuselage]
-tags: [throttle_quadrant]
-minutes: 90
+tags: [throttle_quadrant, upholstery]
+minutes: 210
 ---
 
 ## TLDR
 
-- Test fitting upholstery panels under the throttle quadrant
+- WIP install upholstery panels under the throttle quadrant
 
 ## Details
 
 2 pieces of large aluminium panel (with leather glued on) goes under the throttle quadrant and the center channel.
 
-Today I started to test fit the pilot side.
+Today I started to test fit and install the pilot side.
 
 The lower half went in perfectly. But the top half needed a little tweak. The front end sticks up too much and it interferes with the throttle quadrant's top cover panel.
 
@@ -25,3 +25,7 @@ _Lower half_
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPWIc-EGBN41BRFcou_9Cic2iP0wT-Spv1nk4SBhRCQCNID6yotD1i17jWILXlMQgA4dcybJzYJCwHBicqyw6nwfJlkAyMa5hv2nOGa-lsd8k_kmwzAVYatQjXhG87rMOTat_2oFkajO6YAeItnAlRw1w=w2750-h2062-s-no-gm?authuser=0)
 _Top half_
+
+After fitting, the top pre-drilled rivnut holes no longer aligns with the throttle quadrant's screw locations. So I drilled one new hole for rivnut. With that, the panel was installed with all screws successfully.
+
+![](https://lh3.googleusercontent.com/pw/AP1GczOWdNIpIP3gKthGYX-Ue5OI6aGW-AfmUOAQp7S-xFTAPvj6yIHCD_kqgIlNbM_6otkczUN78hsvjuQmmAYqar1oEorbuQULNzgreMTW8PPBmpQCk0PTfBuCbVW4hMxcIzUbFEVzVvkiOD19gaI8b390Qw=w3040-h2280-s-no-gm?authuser=0)
