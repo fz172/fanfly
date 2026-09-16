@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing Interior Panels under Center Channel"
+title: "Installing Interior Panels under Center Channel - Part 1"
 categories: [Fuselage, ~center_fuselage]
 tags: [throttle_quadrant, upholstery]
 minutes: 210
