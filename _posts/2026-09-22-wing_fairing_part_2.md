@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wing Fairing - Part 1"
+title: "Wing Fairing - Part 2"
 categories: [Wing, fairing]
 tags: [fairing]
 minutes: 240
