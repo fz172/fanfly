@@ -120,6 +120,28 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     user-select: none;
   }
 
+  .root-site-link {
+    @extend %clickable-transition;
+    @extend %sidebar-link-hover;
+
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 1.25rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+
+    i {
+      font-size: 85%;
+      transition: transform 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    &:hover i {
+      transform: translateX(-3px);
+    }
+  }
+
   ul {
     margin-bottom: 2rem;
 
@@ -170,6 +192,76 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
 
       &:not(:first-child) {
         margin-top: 0.25rem;
+      }
+    }
+  }
+
+  .squawkit-promo {
+    width: 100%;
+    padding: 1.25rem 1.5rem 0;
+    margin-bottom: 1.5rem;
+    border-top: 1px solid var(--sidebar-border-color);
+
+    @include bp.xxxl {
+      @include mx.pl-pr(2.75rem);
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .squawkit-name {
+      font-size: 0.95rem;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      color: var(--sidebar-active-color);
+    }
+
+    .squawkit-pitch {
+      margin-top: 0.2rem;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      text-wrap: balance;
+      color: var(--sidebar-muted-color);
+    }
+
+    .squawkit-stores {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.375rem;
+      margin: 0.75rem 0 0;
+      padding: 0;
+      list-style: none;
+
+      a {
+        @extend %clickable-transition;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.35rem;
+        height: 2.125rem;
+        border-radius: 0.5rem;
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--sidebar-active-color);
+        background-color: var(--sidebar-btn-bg);
+        box-shadow: var(--sidebar-border-color) 0 0 0 1px;
+
+        i {
+          font-size: 0.85rem;
+          opacity: 0.85;
+        }
+
+        &:hover {
+          background-color: var(--sidebar-hover-bg);
+          box-shadow: var(--sidebar-muted-color) 0 0 0 1px;
+        }
+
+        &:focus-visible {
+          outline: 2px solid var(--sidebar-active-color);
+          outline-offset: 2px;
+        }
       }
     }
   }

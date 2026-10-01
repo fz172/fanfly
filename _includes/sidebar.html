@@ -2,6 +2,12 @@
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
+    <!-- link back to the root site -->
+    <a href="https://fanfly.dev" class="root-site-link">
+      <i class="fas fa-arrow-left"></i>
+      <span>fanfly.dev</span>
+    </a>
+
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
       {%- if site.avatar != empty and site.avatar -%}
         {%- capture avatar_url -%}
@@ -39,6 +45,44 @@
       {% endfor %}
     </ul>
   </nav>
+
+  <!-- SquawkIt promo -->
+  <section class="squawkit-promo" aria-labelledby="squawkit-name">
+    <p id="squawkit-name" class="squawkit-name">SquawkIt</p>
+    <p class="squawkit-pitch">My app for tracking squawks &amp; inspections</p>
+    <ul class="squawkit-stores">
+      <li>
+        <a
+          href="https://apps.apple.com/us/app/squawkit/id6801955033"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Download SquawkIt on the App Store"
+        >
+          <i class="fab fa-apple" aria-hidden="true"></i><span>iOS</span>
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://play.google.com/store/apps/details?id=dev.fanfly.wingslog"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Get SquawkIt on Google Play"
+        >
+          <i class="fab fa-google-play" aria-hidden="true"></i><span>Android</span>
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://squawkit.fanfly.dev"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open the SquawkIt web app"
+        >
+          <i class="fas fa-globe" aria-hidden="true"></i><span>Web</span>
+        </a>
+      </li>
+    </ul>
+  </section>
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
