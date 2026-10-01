@@ -10,11 +10,19 @@ minutes: 0
 
 - I wrote a maintenance tracking app called SquawkIt. It's now on Android, iOS and the web.
 - I've been using it to track squawks and TODOs on my Sling TSi instead of a spreadsheet.
-- It's free to try. Links at the bottom.
+- It's free to try. Links right below.
+
+### Links
+
+Shameless plug time. If you are building or already flying and you're tired of the spreadsheet, give it a try and tell me what's broken. I read every piece of feedback.
+
+- Android: <https://play.google.com/store/apps/details?id=dev.fanfly.wingslog>
+- iPhone / iPad: <https://apps.apple.com/us/app/squawkit/id6801955033>
+- Web: <https://squawkit.fanfly.dev>
 
 ## Details
 
-A few of you have noticed me mentioning "my tracking app" in recent posts (the brake not holding at 4000 RPM, the fuel pressure saga). Time for a proper introduction.
+A few of you have noticed me mentioning "my tracking app" in recent posts (the brake not holding at 4000 RPM, the fuel pressure saga). Time for a proper introduction. You might remember it as **Hopply** from [my earlier post](/posts/hopply/) — the same app, renamed and published as **SquawkIt**.
 
 ![](/assets/img/20260912/hero.png)
 
@@ -81,13 +89,5 @@ _Export everything, including attachments_
 - This is a personal convenience tool. It does NOT replace the official logbooks that the FAA wants to see. Treat the export as a backup.
 - The free tier has ads. There is a subscription that removes them. That's how I pay for the servers.
 - It also does cars, boats, bikes and home maintenance. I built it for the airplane first, but once the airplane part worked, I figured the house water heater deserves a schedule too.
-
-### Links
-
-Shameless plug time. If you are building or already flying and you're tired of the spreadsheet, give it a try and tell me what's broken. I read every piece of feedback.
-
-- Android: <https://play.google.com/store/apps/details?id=dev.fanfly.wingslog>
-- iPhone / iPad: <https://apps.apple.com/us/app/squawkit/id6801955033>
-- Web: <https://squawkit.fanfly.dev>
 
 Now back to the fuel pressure problem.
