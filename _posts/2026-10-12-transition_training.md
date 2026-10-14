@@ -3,7 +3,7 @@ layout: post
 title: "Transition Training"
 categories: [Misc]
 tags: [training]
-minutes: 120
+minutes: 300
 ---
 
 ## TLDR

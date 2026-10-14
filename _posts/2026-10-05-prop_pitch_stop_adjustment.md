@@ -38,6 +38,6 @@ Once the correct screw position is adjusted, I tightened the jam nut and put the
 
 ### Another oil leak
 
-As I was working on the prop, I discovered a drip of oil hanging under the right hand side AN8 fitting at the oil pump inlet.
+As I was working on the prop, I discovered a drip of oil hanging under the right hand side AN8 fitting at the oil return port.
 
 This is extremely annoying. Since it's on the suction side so it's a big deal. I don't want leak, and I absolutely don't want air to be sucked in from the leak. So I will have to come up with something to stop this leak... To be continued I guess.
