@@ -2,7 +2,7 @@
 layout: post
 title: "Installed Blowout Cover"
 categories: [Fuselage, ~rear_fuselage]
-tags: [parachute]
+tags: [parachute, video]
 minutes: 60
 ---
 
@@ -27,3 +27,9 @@ Then I applied permatex around the blowout cover, and used a popsicle stick to p
 Before the gasket dries, I removed the tape so the gasket could form a crisp line around the cover skin.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPaPQyJTlp5F_xKIB3lmwbAmmvP3biRTGRd8SQenK7xIh0J5pwsAxH-xdq4vlzZSS52OSNE6NhwWMNKYM5aMDdkh-8pBMWEM4tywHUbI0s-0hDqNAn9GS_KVazWgW4-oTL0z_N2GMHhQu7_p0AUftwBSw=w3138-h2354-s-no-gm?authuser=0)
+
+## Video
+
+I updated my vlog to talk about the parachute building process. Video attached below.
+
+{% youtube InZrQKZFEgw %}
