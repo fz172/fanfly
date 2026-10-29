@@ -2,7 +2,7 @@
 layout: post
 title: "High Fuel Pressure Investigation - Part 2"
 categories: [Engine, ~accessary]
-tags: [fuel_selector, fuel_pump, fluid_lines]
+tags: [fuel_selector, fuel_pump, fluid_lines, service_bulletin]
 minutes: 90
 ---
 
@@ -12,10 +12,7 @@ minutes: 90
 
 ## Details
 
-I'm still investigating the high fuel pressure issue. I compiled a list of TODOs for the next few days.
-
-![](https://lh3.googleusercontent.com/pw/AP1GczPBde2IzhOwLoASDoEht5639dEid8UM5KrWoQHOspAtWOBuhtk0jE9SrvpapwozHASn-22gSdrOymBL3vROXJ_0RO6NAikTcwPSmS2I3aqNivJBQI0C7W87Xq5zYVjcX26Zu17ogBiEspXkWCWxMD17hg=w1054-h2366-s-no-gm?authuser=0)
-_Investigation TODOs_
+I'm still investigating the high fuel pressure issue.
 
 ### Removing return lines
 
@@ -35,7 +32,7 @@ So far I have not found any smoking gun.
 
 ### Fuel Selector Check Valve
 
-I also took this opportunity to install a checkvalve (0.8-1.2 bar) to bypass the fuel selector in case there is a total blockage on the fuel selector itself. The check valve was recently introduced in the latest build manual, so I did not have this when building this part of the airplane before.
+I also took this opportunity to install a checkvalve (0.8-1.2 bar) to bypass the fuel selector in case there is a total blockage on the fuel selector itself. This is required in service bulletin 30. The check valve was recently introduced in the latest build manual, so I did not have this when building this part of the airplane before.
 
 Today I only got the install started, only one T-fitting was test fitted. A few more hours to go.
 
