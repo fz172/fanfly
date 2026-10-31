@@ -19,88 +19,93 @@ script_includes:
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
 
-    <div class="post-meta text-muted">
-      <!-- published date -->
-      <span>
-        {{ site.data.locales[lang].post.posted }}
-        {% include datetime.html date=page.date tooltip=true lang=lang %}
-      </span>
-
-      <!-- lastmod date -->
-      {% if page.last_modified_at and page.last_modified_at != page.date %}
-        <span>
-          {{ site.data.locales[lang].post.updated }}
-          {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
-        </span>
-      {% endif %}
-      <!-- build time -->
-      {% if page.minutes %}
-        <span>
-          {{ site.data.locales[lang].post.time_spent_on_task }}
-          {% include format-minute.html minutes=page.minutes %}
-        </span>
-      {% endif %}
-
-      {% if page.image %}
-        {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-        {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
-
-        {% if page.image.lqip %}
-          {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+    {% if page.categories.size > 0 or page.tags.size > 0 %}
+      <div class="post-meta text-muted d-flex flex-wrap align-items-center gap-3 mb-3">
+        <!-- categories -->
+        {% if page.categories.size > 0 %}
+          <div>
+            <i class="far fa-folder-open fa-fw me-1"></i>
+            {% for category in page.categories %}
+              <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
+              {%- unless forloop.last -%},{%- endunless -%}
+            {% endfor %}
+          </div>
         {% endif %}
 
-        <div class="mt-3 mb-3">
-          <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
-          {%- if page.image.alt -%}
-            <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-          {%- endif -%}
-        </div>
-      {% endif %}
+        <!-- tags -->
+        {% if page.tags.size > 0 %}
+          <div class="post-tags">
+            <i class="fa fa-tags fa-fw me-1"></i>
+            {% for tag in page.tags %}
+              <a
+                href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
+                class="post-tag no-text-decoration"
+              >
+                {{- tag -}}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
 
-      <div class="d-flex justify-content-between">
-        <!-- author(s) -->
+    <div class="post-meta text-muted d-flex justify-content-between flex-wrap gap-2">
+      <div>
+        <!-- published date -->
         <span>
-          {% if page.author %}
-            {% assign authors = page.author %}
-          {% elsif page.authors %}
-            {% assign authors = page.authors %}
-          {% endif %}
-
-          {{ site.data.locales[lang].post.written_by }}
-
-          <em>
-            {% if authors %}
-              {% for author in authors %}
-                {% if site.data.authors[author].url -%}
-                  <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-                {%- else -%}
-                  {{ site.data.authors[author].name }}
-                {%- endif %}
-                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
-              {% endfor %}
-            {% else %}
-              <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-            {% endif %}
-          </em>
+          {{ site.data.locales[lang].post.posted }}
+          {% include datetime.html date=page.date tooltip=true lang=lang %}
         </span>
 
-        <div>
-          <!-- pageviews -->
-          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
-            <span>
-              <em id="pageviews">
-                <i class="fas fa-spinner fa-spin small"></i>
-              </em>
-              {{ site.data.locales[lang].post.pageview_measure }}
-            </span>
-          {% endif %}
+        <!-- lastmod date -->
+        {% if page.last_modified_at and page.last_modified_at != page.date %}
+          <span>
+            {{ site.data.locales[lang].post.updated }}
+            {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+          </span>
+        {% endif %}
 
-          <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
-        </div>
+        <!-- build time -->
+        {% if page.minutes %}
+          <span>
+            {{ site.data.locales[lang].post.time_spent_on_task }}
+            {% include format-minute.html minutes=page.minutes %}
+          </span>
+        {% endif %}
+      </div>
+
+      <div>
+        <!-- pageviews -->
+        {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+          <span>
+            <em id="pageviews">
+              <i class="fas fa-spinner fa-spin small"></i>
+            </em>
+            {{ site.data.locales[lang].post.pageview_measure }}
+          </span>
+        {% endif %}
+
+        <!-- read time -->
+        {% include read-time.html content=content prompt=true lang=lang %}
       </div>
     </div>
+
+    {% if page.image %}
+      {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
+      {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+      {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+
+      {% if page.image.lqip %}
+        {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+      {% endif %}
+
+      <div class="mt-3 mb-3">
+        <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
+        {%- if page.image.alt -%}
+          <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+        {%- endif -%}
+      </div>
+    {% endif %}
   </header>
 
   {% if enable_toc %}
@@ -132,41 +137,17 @@ script_includes:
   </div>
 
   <div class="post-tail-wrapper text-muted">
-    <div class="d-flex justify-content-between align-items-center gap-3 mb-3">
-      <!-- categories -->
-      {% if page.categories.size > 0 %}
-        <div class="post-meta">
-          <i class="far fa-folder-open fa-fw me-1"></i>
-          {% for category in page.categories %}
-            <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
-            {%- unless forloop.last -%},{%- endunless -%}
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      <!-- "Edit this post" link -->
-      {% include post-edit.html lang=lang %}
-    </div>
-
-    <!-- tags -->
-    {% if page.tags.size > 0 %}
-      <div class="post-tags">
-        <i class="fa fa-tags fa-fw me-1"></i>
-        {% for tag in page.tags %}
-          <a
-            href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
-            class="post-tag no-text-decoration"
-          >
-            {{- tag -}}
-          </a>
-        {% endfor %}
+    <!-- "Edit this post" link -->
+    {% if site.actions.edit_post.enabled %}
+      <div class="d-flex justify-content-end mb-2">
+        {% include post-edit.html lang=lang %}
       </div>
     {% endif %}
 
     <div
       class="
         post-tail-bottom
-        d-flex justify-content-between align-items-center mt-5 pb-2
+        d-flex justify-content-between align-items-center py-3
       "
     >
       <div class="license-wrapper">
