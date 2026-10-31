@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coolant Leak Checks and Misc Tasks"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [fluid_lines, avionics]
 minutes: 180
 ---

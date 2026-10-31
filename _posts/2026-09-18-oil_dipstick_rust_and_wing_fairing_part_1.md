@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oil Dipstick Rusting and Wing Fairing - Part 1"
-categories: [Wing, fairing]
+categories: [Wing, ~fairing]
 tags: [fairing]
 minutes: 90
 ---

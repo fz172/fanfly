@@ -2,7 +2,7 @@
 layout: post
 title: "Rebuilt battery cables, installed shunt cover"
 categories: [Firewall, ~firewall_forward]
-tags: [avionics, wiring, GNX375]
+tags: [avionics, wiring, gnx375]
 minutes: 120
 ---
 

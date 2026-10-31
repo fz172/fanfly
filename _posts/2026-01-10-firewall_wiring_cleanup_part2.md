@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Firewall Wiring Cleanup, and Master Relay"
-categories: [Firewall, ~forward]
+categories: [Firewall, ~firewall_forward]
 tags: [avionics, wiring, master_relay, sensors]
 minutes: 260
 ---

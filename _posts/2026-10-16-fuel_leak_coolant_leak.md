@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fuel leak, Coolant leak"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [fluid_lines]
 minutes: 180
 ---

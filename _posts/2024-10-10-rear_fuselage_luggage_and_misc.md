@@ -5,7 +5,7 @@ categories: [Fuselage, ~rear_fuselage, ~rf_floor]
 tags:
   [
     avionics,
-    RF-ASS-001-C-C,
+    RF-ASS-001-C-C-0,
     RF-ASS-001-C-C-0-B-A-1,
     static_port,
     gmu11,

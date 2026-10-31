@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Firewall Forward Parts"
 categories: [Firewall, ~firewall_forward]
-tags: [oil_tank, battery_bracket, naviflow, gascalator]
+tags: [oil_tank, battery_bracket, naviflow, gascolator]
 minutes: 180
 ---
 
@@ -10,7 +10,7 @@ minutes: 180
 
 - Installed the bracket for oil tank
 - Installed battery bracket
-- Install the gascalator and naviflow base plate
+- Install the gascolator and naviflow base plate
 
 ## Detail
 
@@ -30,6 +30,6 @@ But the right side has a strengthener. There was not enough space for the rivet 
 
 ### Naviflow base plate
 
-The layout of the naviflow baseplate is fairly self-explanatory. I double checked the instruction with their youtube video, and installed the gascalator on the base plate with 3 M5 screws. Then I installed the assembled unit to the firewall using another 3 M5 screws.
+The layout of the naviflow baseplate is fairly self-explanatory. I double checked the instruction with their youtube video, and installed the gascolator on the base plate with 3 M5 screws. Then I installed the assembled unit to the firewall using another 3 M5 screws.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOZ9DxSxP8klLqAQazvyGHCQfJcqq5OpCqs_QMKIiQIasVil0DRaNm4Xf2togT91JT5SaPaFpnDyplsXWfG-N_Z4Y_-2dCkXXaopKrX1QFT3PEQZLNuWhP8qxWhUduNVRS8uy2A_l6nJHX1O3VqsqTrSw=w3438-h2588-s-no-gm?authuser=0)

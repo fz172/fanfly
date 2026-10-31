@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Misc Firewall Forward Tasks"
-categories: [Firewall, ~forward]
+categories: [Firewall, ~firewall_forward]
 tags: [wiring, naviflow]
 minutes: 300
 ---

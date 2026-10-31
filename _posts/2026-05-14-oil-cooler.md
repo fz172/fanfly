@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oil Cooler, Oil Lines, and Some Riveting"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [oil_cooler, fluid_lines]
 minutes: 240
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Coolant System, and EAA Tech Counselor Visit"
-categories: [Engine, ~coolant]
-tags: [coolant, coolant_radiator, eaa_tech_counselor]
+categories: [Engine, ~accessory]
+tags: [coolant, fluid_lines, eaa_tech_counselor]
 minutes: 480
 ---
 

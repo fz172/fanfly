@@ -2,7 +2,7 @@
 layout: post
 title: "Post Wing Mounting Work - Part 5 - Installing Ailerons"
 categories: [Wing, ~left_aileron, ~right_aileron]
-tags: []
+tags: [wing_mounting, control_system, rigging]
 minutes: 120
 ---
 

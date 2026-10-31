@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oil Lines, Exhaust Pipe, and Cleaning Day"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [fluid_lines, exhaust_pipe]
 minutes: 270
 ---

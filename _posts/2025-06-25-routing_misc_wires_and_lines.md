@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Routing misc wires and fluid lines"
-categories: [Fuselage, ~front_fuselage]
-tags: [avionics, upholstery, CF-ASS-001-C-C]
+categories: [Fuselage, ~center_fuselage]
+tags: [avionics, upholstery, CF-ASS-001-C-C-0]
 minutes: 480
 ---
 

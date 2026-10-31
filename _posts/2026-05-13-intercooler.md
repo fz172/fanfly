@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intercooler Fitting"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [intercooler]
 minutes: 270
 ---

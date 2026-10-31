@@ -2,7 +2,7 @@
 layout: post
 title: "Dispose Canopy Crate"
 categories: [Misc]
-tags: []
+tags: [canopy]
 minutes: 45
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Firewall loom sealing bracket"
-categories: [Firewall, ~forward]
+categories: [Firewall, ~firewall_forward]
 tags: [avionics, wiring, FF-ASS-S02-C-F]
 minutes: 75
 ---

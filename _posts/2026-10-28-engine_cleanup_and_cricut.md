@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engine Compartment Clean Up Continued"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [fluid_lines]
 minutes: 90
 ---

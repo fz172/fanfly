@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wing Mounting Prep - Passenger Seats"
-categories: [Fuselage, ~rear_fulselage]
+categories: [Fuselage, ~rear_fuselage]
 tags: [seat, wing_mounting]
 minutes: 90
 ---

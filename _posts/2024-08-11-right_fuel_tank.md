@@ -9,7 +9,7 @@ tags:
     WG-RIB-S26-R-F-0,
     WG-AFT-003-R-F-0,
     avionics,
-    landing_light
+    lights
   ]
 minutes: 900
 ---

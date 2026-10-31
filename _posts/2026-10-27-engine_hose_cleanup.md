@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engine Hose & Wire Clean Up"
-categories: [Engine, ~accessary]
+categories: [Engine, ~accessory]
 tags: [coolant, fluid_lines, avionics]
 minutes: 240
 ---
