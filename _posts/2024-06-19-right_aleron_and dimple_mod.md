@@ -2,7 +2,7 @@
 layout: post
 title: "Right aileron part prep"
 categories: [Wing, ~right_aileron]
-tags: [wing, tooling, AI-ASS-001-R-F-0]
+tags: [aileron]
 minutes: 120
 ---
 

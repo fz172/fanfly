@@ -2,7 +2,7 @@
 layout: post
 title: "Routing avionics harness"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, video, wiring]
+tags: [avionics, wiring, brake, video]
 minutes: 240
 ---
 

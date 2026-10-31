@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator tip forming and shortening rivets"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0, video, fabrication]
+tags: [elevator, skin, video]
 minutes: 120
 ---
 

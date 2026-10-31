@@ -2,7 +2,7 @@
 layout: post
 title: "Side skin continued"
 categories: [Fuselage, ~side_skin]
-tags: [CF-ASS-001-C-C-0]
+tags: [skin]
 minutes: 240
 ---
 

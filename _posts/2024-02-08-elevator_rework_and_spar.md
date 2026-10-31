@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator rib1 rework and spar"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0]
+tags: [elevator, elevator_spar, empennage_rib]
 minutes: 120
 mermaid: true
 ---

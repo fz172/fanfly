@@ -2,7 +2,7 @@
 layout: post
 title: "Horizontal Stabilizer Close"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [empennage, HS-ASS-001-C-F-0, video]
+tags: [horizontal_stabilizer, skin, video]
 minutes: 300
 mermaid: true
 ---

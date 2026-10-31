@@ -2,7 +2,7 @@
 layout: post
 title: "Fuel leak, Wheel pants"
 categories: [Engine, ~accessory]
-tags: [fluid_lines, fairing]
+tags: [fuel_lines, fairing, wheel_pants, engine, wheels, nose_wheel]
 minutes: 180
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Firewall Wiring and Heater Hose Cleanup "
 categories: [Firewall, ~firewall_forward]
-tags: [avionics, wiring, cabin_heater]
+tags: [avionics, wiring, cabin_heater, firewall]
 minutes: 260
 ---
 

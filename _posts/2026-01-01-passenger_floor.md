@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Passenger Row Floor"
 categories: [Fuselage, ~center_fuselage]
-tags: [brake, CF-ASS-001-C-C]
+tags: [brake, floor]
 minutes: 120
 ---
 

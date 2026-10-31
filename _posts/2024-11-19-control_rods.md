@@ -2,7 +2,7 @@
 layout: post
 title: "Fitting control rods & prepping side skin"
 categories: [Fuselage, ~center_fuselage]
-tags: [control_system, joystick, video]
+tags: [control_system, joystick, skin, video]
 minutes: 1500
 ---
 

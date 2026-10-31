@@ -2,7 +2,7 @@
 layout: post
 title: "Misc Firewall Forward Work"
 categories: [Firewall, ~firewall_forward]
-tags: [intercooler, brake, cowling]
+tags: [intercooler, brake, cowling, propeller]
 minutes: 210
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Misc Work on Firewall Forward"
 categories: [Firewall, ~firewall_forward]
-tags: [avionics, fusebox, starter, throttle, wiring]
+tags: [avionics, fusebox, starter, throttle, wiring, engine, wheels, nose_wheel]
 minutes: 225
 ---
 

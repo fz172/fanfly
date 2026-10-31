@@ -2,7 +2,7 @@
 layout: post
 title: "Right bottom skin riveted"
 categories: [Wing, ~right_skin]
-tags: [wing, WG-ASS-003-R-F-0, video, avionics]
+tags: [skin, avionics, video]
 minutes: 180
 ---
 

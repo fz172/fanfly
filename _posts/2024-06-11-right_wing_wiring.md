@@ -2,7 +2,7 @@
 layout: post
 title: "right wing harness"
 categories: [Wing, ~wiring]
-tags: [wing, WG-ASS-003-R-F-0, avionics]
+tags: [avionics, wiring]
 minutes: 240
 ---
 

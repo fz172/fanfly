@@ -2,7 +2,7 @@
 layout: post
 title: "Completed ELT Wiring"
 categories: [Fuselage, ~rear_fuselage]
-tags: [avionics, elt, video]
+tags: [avionics, elt, wiring, antenna, video]
 minutes: 180
 ---
 

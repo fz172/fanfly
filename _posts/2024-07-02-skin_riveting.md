@@ -2,7 +2,7 @@
 layout: post
 title: "Left bottom skin riveted"
 categories: [Wing, ~left_skin]
-tags: [wing, video, WG-ASS-004-L-F-0]
+tags: [skin, video]
 minutes: 180
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Continue on wiring harness (part 3)"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, pitot_tube, wiring]
+tags: [avionics, pitot_tube, wiring, elevator, fuselage_spar]
 minutes: 720
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Adjusting Fuel Selector and Fuel Lines"
 categories: [Fuselage, ~center_fuselage]
-tags: [fuel_selector]
+tags: [fuel_selector, fuel_lines]
 minutes: 240
 ---
 

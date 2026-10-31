@@ -2,7 +2,7 @@
 layout: post
 title: "Clecoing and adjust HS front spar"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [empennage, HS-ASS-001-C-F-0, video]
+tags: [horizontal_stabilizer, horizontal_stabilizer_spar, video]
 minutes: 120
 mermaid: true
 ---

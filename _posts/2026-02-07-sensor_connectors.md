@@ -2,7 +2,7 @@
 layout: post
 title: "Making Sensor Connectors & PCV Mount"
 categories: [Engine, ~harness]
-tags: [avionics, sensors, wiring, fuel_pump, pcv]
+tags: [avionics, sensors, wiring, fuel_pump, pcv, engine]
 minutes: 240
 ---
 

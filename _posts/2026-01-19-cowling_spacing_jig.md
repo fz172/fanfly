@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling Spacing Jig"
 categories: [Engine, ~cowling]
-tags: [jig, cowling]
+tags: [cowling, engine, propeller]
 minutes: 90
 ---
 

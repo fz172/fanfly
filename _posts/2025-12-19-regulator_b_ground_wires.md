@@ -2,7 +2,7 @@
 layout: post
 title: "Regulator B Ground Wire & Misc Clean Up"
 categories: [Firewall, ~firewall_forward]
-tags: [FF-ASS-S03-C-F, avionics, fusebox, regulator, throttle]
+tags: [avionics, fusebox, regulator, throttle, firewall, wiring, master_relay]
 minutes: 150
 ---
 

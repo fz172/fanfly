@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Taillight"
 categories: [Empennage, ~rudder]
-tags: [avionics, lights]
+tags: [avionics, lights, rudder]
 minutes: 60
 mermaid: true
 ---

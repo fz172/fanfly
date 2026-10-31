@@ -2,7 +2,7 @@
 layout: post
 title: "Rear floor shutoff skin and transponder antenna hole cover"
 categories: [Fuselage, ~rear_fuselage]
-tags: [CF-ASS-C-C-0-G]
+tags: [skin, floor, antenna, transponder]
 minutes: 270
 ---
 

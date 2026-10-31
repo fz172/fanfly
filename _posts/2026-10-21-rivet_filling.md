@@ -2,7 +2,7 @@
 layout: post
 title: "Rivet Filling"
 categories: [Wing]
-tags: [bodywork]
+tags: []
 minutes: 240
 ---
 

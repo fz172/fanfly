@@ -2,7 +2,7 @@
 layout: post
 title: "Left wing: wing tip"
 categories: [Wing, ~wing_tip]
-tags: [wing]
+tags: [wing_tip]
 minutes: 180
 ---
 

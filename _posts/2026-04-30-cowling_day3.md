@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling - Day 3"
 categories: [Firewall, ~cowling]
-tags: [cowling]
+tags: [cowling, firewall]
 minutes: 480
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling Day4: Camloc Prep"
 categories: [Firewall, ~cowling]
-tags: [cowling, camloc, video]
+tags: [cowling, firewall, video]
 minutes: 120
 ---
 

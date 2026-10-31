@@ -2,7 +2,7 @@
 layout: post
 title: "Lots of things before putting on dashboard"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, wiring, cabin_heater]
+tags: [avionics, wiring, cabin_heater, seat, fuel_lines, brake, panel, fusebox, master_relay]
 minutes: 480
 ---
 

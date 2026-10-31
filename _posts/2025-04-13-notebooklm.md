@@ -2,7 +2,7 @@
 layout: post
 title: "NotebookLM"
 categories: [Misc, ~tooling]
-tags: [research]
+tags: []
 minutes: 20
 ---
 

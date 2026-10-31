@@ -2,7 +2,7 @@
 layout: post
 title: "Fuselage rivet filling"
 categories: [Fuselage, ~rear_fuselage]
-tags: [bodywork]
+tags: []
 minutes: 200
 ---
 

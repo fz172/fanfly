@@ -2,7 +2,7 @@
 layout: post
 title: "Painting Window Trim and Working on Fuel Pressure Sensor"
 categories: [Canopy, ~windows]
-tags: [painting, sensors, window]
+tags: [sensors, window, trim, canopy, fuel_lines]
 minutes: 180
 ---
 

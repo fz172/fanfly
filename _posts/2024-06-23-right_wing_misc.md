@@ -3,21 +3,7 @@ layout: post
 title: "Lots of things going on the right wing, and starting on the left"
 categories:
   [Wing, ~right_aileron, ~right_flap, ~left_spar, ~left_ribs]
-tags:
-  [
-    wing,
-    avionics,
-    lights,
-    WG-ARS-001-L-F-0,
-    WG-RIB-S01-L-F-0-A-4,
-    WG-RIB-S06-L-F-0-A-4,
-    WG-RIB-S07-L-F-0-A-5,
-    WG-RIB-S08-L-F-0-A-4,
-    WG-RIB-S10-L-F-0-A-4,
-    WG-RIB-S11-L-F-0-A-6,
-    AI-ASS-001-R-F-0,
-    FL-ASS-001-R-F-0
-  ]
+tags: [wing_spar, wing_rib, aileron, flap, avionics, lights]
 minutes: 540
 ---
 

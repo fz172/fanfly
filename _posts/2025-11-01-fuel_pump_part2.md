@@ -2,7 +2,7 @@
 layout: post
 title: "Rotax Fuel Pumps wiring and Installing to Firewall"
 categories: [Firewall, ~firewall_forward]
-tags: [fuel_pump]
+tags: [fuel_pump, firewall, engine, wiring]
 minutes: 90
 ---
 

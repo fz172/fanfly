@@ -2,7 +2,7 @@
 layout: post
 title: "Wiring harness (part 4) & coax"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, wiring, antenna]
+tags: [avionics, wiring, antenna, seat]
 minutes: 180
 ---
 

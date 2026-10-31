@@ -2,7 +2,7 @@
 layout: post
 title: "Wire standoff and EAA Tech Counseling visit"
 categories: [Misc, ~sheet_metal]
-tags: [research, eaa_tech_counselor, avionics, wiring]
+tags: [avionics, wiring, eaa_tech_counselor]
 minutes: 120
 mermaid: true
 ---

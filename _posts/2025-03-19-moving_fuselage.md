@@ -2,7 +2,7 @@
 layout: post
 title: "Moving fuselage to the hangar"
 categories: [Misc]
-tags: [moving]
+tags: [fuselage]
 minutes: 300
 ---
 

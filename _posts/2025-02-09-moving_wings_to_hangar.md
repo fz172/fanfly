@@ -2,7 +2,7 @@
 layout: post
 title: "Moving wings to hangar"
 categories: [Misc]
-tags: [moving]
+tags: [wing]
 minutes: 300
 ---
 

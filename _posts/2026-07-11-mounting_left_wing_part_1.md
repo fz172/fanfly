@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting the Left Wing - Part 1"
 categories: [Wing]
-tags: [wing_mounting]
+tags: [aileron]
 minutes: 300
 ---
 

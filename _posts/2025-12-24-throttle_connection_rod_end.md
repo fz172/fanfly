@@ -2,7 +2,7 @@
 layout: post
 title: "Making Throttle Cable Connection Rod End"
 categories: [Fuselage, ~center_fuselage]
-tags: [throttle]
+tags: [throttle, control_system]
 minutes: 60
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Exhaust Pipe - Part 1"
 categories: [Engine, ~exhaust_pipe]
-tags: [exhaust_pipe]
+tags: [exhaust_pipe, engine]
 minutes: 120
 ---
 

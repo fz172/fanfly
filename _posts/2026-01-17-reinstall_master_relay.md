@@ -2,7 +2,7 @@
 layout: post
 title: "Installing new Master Relay"
 categories: [Firewall, ~firewall_forward]
-tags: [avionics, master_relay]
+tags: [avionics, master_relay, firewall]
 minutes: 45
 ---
 

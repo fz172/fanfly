@@ -2,7 +2,7 @@
 layout: post
 title: "Parts cleaning and priming"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [empennage, priming, HS-ASS-001-C-F-0]
+tags: [horizontal_stabilizer]
 minutes: 180
 mermaid: true
 ---

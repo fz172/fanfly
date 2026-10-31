@@ -2,7 +2,7 @@
 layout: post
 title: "High Fuel Pressure Investigation - Part 1"
 categories: [Engine, ~accessory]
-tags: [fuel_selector, fuel_pump, fluid_lines]
+tags: [fuel_selector, fuel_pump, fuel_lines, engine]
 minutes: 240
 ---
 

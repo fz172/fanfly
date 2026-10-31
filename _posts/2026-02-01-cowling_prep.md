@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Cowling Prep"
 categories: [Engine, ~cowling]
-tags: [cowling, FF-ASS-F04-C-F-0-A-0]
+tags: [cowling, engine]
 minutes: 120
 ---
 

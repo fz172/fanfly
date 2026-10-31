@@ -2,7 +2,7 @@
 layout: post
 title: "Calibrating Control Surfaces and Cable Routing"
 categories: [Fuselage, ~center_fuselage]
-tags: [rigging, avionics, flap, trim, rudder, elevator]
+tags: [avionics, flap, trim, rudder, elevator, aileron, parachute, control_system, panel, pitot_tube]
 minutes: 240
 ---
 

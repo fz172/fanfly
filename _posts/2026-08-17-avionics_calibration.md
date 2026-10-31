@@ -2,7 +2,7 @@
 layout: post
 title: "Calibration on Avionics and Nose Wheel, and adding coolant"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, nose_wheel, pitot_tube, coolant]
+tags: [avionics, nose_wheel, pitot_tube, coolant, engine, wheels]
 minutes: 240
 ---
 

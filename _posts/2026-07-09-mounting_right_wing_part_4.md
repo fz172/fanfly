@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting the Right Wing - Part 4"
 categories: [Wing]
-tags: [wing_mounting]
+tags: [flap]
 minutes: 260
 ---
 

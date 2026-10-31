@@ -2,7 +2,7 @@
 layout: post
 title: "Fuel Pressure Test, Seat Adjustment, Tail Fairing"
 categories: [Fuselage, ~rear_fuselage]
-tags: [avionics, seat, naviflow, fairing]
+tags: [avionics, seat, fuel_pump, fairing, fuel_lines]
 minutes: 270
 ---
 

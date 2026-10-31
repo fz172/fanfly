@@ -2,7 +2,7 @@
 layout: post
 title: "Right leading edge skin damage"
 categories: [Wing, ~right_skin]
-tags: [WG-ASS-002-R-F-0, mistake, wing]
+tags: [skin]
 minutes: 90
 ---
 

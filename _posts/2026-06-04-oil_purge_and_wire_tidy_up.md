@@ -2,7 +2,7 @@
 layout: post
 title: "Redoing Propeller Safety Wire, Wiring Clean Up, Air Filter Fitting, Oil Purge"
 categories: [Engine, ~accessory]
-tags: [oil_tank, fluid_lines, avionics, wiring, air_filter, video]
+tags: [oil_tank, oil_lines, avionics, wiring, air_filter, engine, propeller, video]
 minutes: 600
 ---
 

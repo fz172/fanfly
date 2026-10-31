@@ -2,7 +2,7 @@
 layout: post
 title: "Post Wing Mounting Work - Part 1"
 categories: [Fuselage, ~center_fuselage]
-tags: [wing_mounting, seat, upholstery, video]
+tags: [seat, upholstery, video]
 minutes: 180
 ---
 

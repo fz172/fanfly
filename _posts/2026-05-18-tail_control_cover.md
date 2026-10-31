@@ -2,7 +2,7 @@
 layout: post
 title: "Control Cover on the Tail"
 categories: [Empennage, ~vertical_stabilizer]
-tags: [FN-ASS-S02-C-F-0-A-0]
+tags: [fairing]
 minutes: 150
 ---
 

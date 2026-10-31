@@ -2,7 +2,7 @@
 layout: post
 title: "Left bottom skin clecoed, and some rivet drilling"
 categories: [Wing, ~left_skin, ~right_skin]
-tags: [WG-ASS-004-L-F-0, mistake, video, wing]
+tags: [skin, video]
 minutes: 120
 ---
 

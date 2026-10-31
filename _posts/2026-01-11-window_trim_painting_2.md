@@ -2,7 +2,7 @@
 layout: post
 title: "Painting Window Trim - Part 2"
 categories: [Canopy, ~windows]
-tags: [painting, window]
+tags: [window, trim, canopy]
 minutes: 140
 ---
 

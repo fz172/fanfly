@@ -2,7 +2,7 @@
 layout: post
 title: "Post Wing Mounting Work - Part 3"
 categories: [Wing, ~boost_pump]
-tags: [fuel_pump]
+tags: [fuel_pump, fuel_lines]
 minutes: 240
 ---
 

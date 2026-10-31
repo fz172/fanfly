@@ -2,7 +2,7 @@
 layout: post
 title: "Starter Relay and Fusebox, Regulator"
 categories: [Firewall, ~firewall_forward]
-tags: [starter, fusebox, regulator, avionics, FF-ASS-S03-C-F]
+tags: [starter, fusebox, regulator, avionics, firewall, engine]
 minutes: 240
 ---
 

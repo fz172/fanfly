@@ -2,7 +2,7 @@
 layout: post
 title: "Building the Fuel Pumps and Naviflow"
 categories: [Firewall, ~firewall_forward]
-tags: [naviflow, fuel_pump]
+tags: [fuel_pump, firewall, engine]
 minutes: 240
 ---
 

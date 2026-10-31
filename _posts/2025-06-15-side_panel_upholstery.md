@@ -2,7 +2,7 @@
 layout: post
 title: "Side panel upholstery and floor doubler"
 categories: [Fuselage, ~center_fuselage]
-tags: [upholstery]
+tags: [upholstery, skin, floor]
 minutes: 360
 ---
 

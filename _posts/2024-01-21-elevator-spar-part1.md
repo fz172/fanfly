@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator spar part 1"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0]
+tags: [elevator, elevator_spar]
 minutes: 240
 mermaid: true
 ---

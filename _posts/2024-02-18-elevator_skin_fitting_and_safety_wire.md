@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator skin fitting and safety wire"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0]
+tags: [elevator, trim, skin]
 minutes: 120
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cabin heather assembly"
 categories: [Fuselage, ~center_fuselage]
-tags: [cabin_heater]
+tags: [cabin_heater, firewall]
 minutes: 180
 ---
 

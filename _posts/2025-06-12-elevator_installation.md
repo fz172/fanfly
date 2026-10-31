@@ -2,7 +2,7 @@
 layout: post
 title: "Installed the elevator"
 categories: [Empennage, ~elevator]
-tags: [empennage, assembly, FN-ASS-S02-C-F-0-A-0]
+tags: [elevator]
 minutes: 120
 ---
 

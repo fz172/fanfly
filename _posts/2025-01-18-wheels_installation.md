@@ -2,7 +2,7 @@
 layout: post
 title: "Installing the wheels"
 categories: [Undercarriage, ~wheels]
-tags: [UN-ASM-001-X-F]
+tags: [wheels]
 minutes: 240
 ---
 

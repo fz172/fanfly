@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Propeller"
 categories: [Engine, ~propeller]
-tags: [propeller, airmaster, video]
+tags: [propeller, engine, video]
 minutes: 180
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Side skin part 3"
 categories: [Fuselage, ~side_skin]
-tags: [CF-ASS-001-C-C-0]
+tags: [skin, firewall]
 minutes: 420
 ---
 

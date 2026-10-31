@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Compartment Clean Up Continued"
 categories: [Engine, ~accessory]
-tags: [fluid_lines]
+tags: [fuel_lines, engine, wiring, static_port]
 minutes: 90
 ---
 

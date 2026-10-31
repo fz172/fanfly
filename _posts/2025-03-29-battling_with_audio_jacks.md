@@ -2,7 +2,7 @@
 layout: post
 title: "Audio jack ground loop(??)"
 categories: [Fuselage, ~rear_fuselage]
-tags: [audio_jack, avionics, wiring]
+tags: [audio_jack, avionics, wiring, fuselage_rib]
 minutes: 120
 ---
 

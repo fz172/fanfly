@@ -2,8 +2,7 @@
 layout: post
 title: "Fuselage kit arrived, and left aileron"
 categories: [Wing, ~left_aileron, ~left_flap]
-tags:
-  [wing, inventory, pitot_tube, avionics, FL-ASS-001-L-F-0, AI-ASS-001-L-F-0]
+tags: [aileron, flap, wing, pitot_tube, avionics]
 minutes: 300
 mermaid: true
 ---

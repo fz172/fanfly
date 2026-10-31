@@ -2,7 +2,7 @@
 layout: post
 title: "Fuel Tank Calibration, Fuel Flow Test, and ADHARS Calibration"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, fuel_pump]
+tags: [avionics, fuel_pump, fuel_tank]
 minutes: 360
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "She's on the ground!"
 categories: [Misc]
-tags: [moving, video]
+tags: [landing_gear, wheels, video]
 minutes: 25
 ---
 

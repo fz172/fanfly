@@ -2,7 +2,7 @@
 layout: post
 title: "Comm2 Antenna"
 categories: [Fuselage, ~rear_fuselage]
-tags: [avionics, antenna]
+tags: [avionics, antenna, com_radio]
 minutes: 40
 ---
 

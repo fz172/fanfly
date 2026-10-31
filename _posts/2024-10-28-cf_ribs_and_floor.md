@@ -2,7 +2,7 @@
 layout: post
 title: "Center fuselage: ribs and floor skin"
 categories: [Fuselage, ~center_fuselage, ~cf_spars, ~cf_floor]
-tags: [CF-ASS-001-C-C-0-B-A-2, CF-ASS-001-C-C-0-A-0-A]
+tags: [fuselage_spar, fuselage_rib, skin, floor]
 minutes: 450
 ---
 

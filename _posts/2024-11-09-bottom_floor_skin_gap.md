@@ -2,7 +2,7 @@
 layout: post
 title: "Center fuselage connection and bottom floor skin"
 categories: [Fuselage, ~center_fuselage, ~cf_spars, ~cf_floor]
-tags: [CF-ASS-001-C-C-0, video]
+tags: [fuselage_spar, skin, floor, fuselage_rib, video]
 minutes: 180
 ---
 

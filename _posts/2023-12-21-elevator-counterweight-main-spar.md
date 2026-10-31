@@ -2,7 +2,7 @@
 layout: post
 title: "Balance counterweigh assembly & main spar"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0, video]
+tags: [elevator, elevator_spar, video]
 minutes: 360
 mermaid: true
 ---

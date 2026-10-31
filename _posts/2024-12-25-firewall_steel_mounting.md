@@ -2,7 +2,7 @@
 layout: post
 title: "Firewall mounting part 1"
 categories: [Firewall, ~mounting]
-tags: [CF-ASS-001-C-C-0]
+tags: [firewall]
 minutes: 360
 ---
 

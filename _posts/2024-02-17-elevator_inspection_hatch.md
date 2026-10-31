@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator skin prep and inspection hatch"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0, fabrication]
+tags: [elevator, skin]
 minutes: 120
 ---
 

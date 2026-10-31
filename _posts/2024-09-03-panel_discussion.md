@@ -2,7 +2,7 @@
 layout: post
 title: "Left wing skin misc clean up, and discussing panel with MPB"
 categories: [Wing, ~left_skin]
-tags: [wing, avionics, WG-ASS-002-L-F-0]
+tags: [skin, avionics]
 minutes: 150
 ---
 

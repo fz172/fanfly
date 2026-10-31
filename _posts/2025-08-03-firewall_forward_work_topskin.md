@@ -2,7 +2,7 @@
 layout: post
 title: "Closed the Top Front Skin"
 categories: [Fuselage, ~center_fuselage]
-tags: [static_system, top_front_skin]
+tags: [static_system, skin, propeller, static_port]
 minutes: 180
 ---
 

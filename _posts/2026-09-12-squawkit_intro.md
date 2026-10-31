@@ -2,7 +2,7 @@
 layout: post
 title: "SquawkIt - The App I Built to Track My Build"
 categories: [Misc, ~tooling]
-tags: [tooling, squawkit]
+tags: [squawkit]
 minutes: 0
 ---
 

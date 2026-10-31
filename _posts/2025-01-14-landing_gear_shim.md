@@ -2,7 +2,7 @@
 layout: post
 title: "Main landing gear shim"
 categories: [Undercarriage, ~landing_gear]
-tags: [UN-ASM-001-X-F]
+tags: [landing_gear]
 minutes: 240
 ---
 

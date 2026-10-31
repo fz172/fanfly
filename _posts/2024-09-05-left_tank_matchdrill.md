@@ -2,7 +2,7 @@
 layout: post
 title: "Left tank match drilling, left wing root trailing edge"
 categories: [Wing, ~left_tank, ~left_skin]
-tags: [wing, WG-AFT-003-L-F-0]
+tags: [skin, fuel_tank]
 minutes: 180
 ---
 

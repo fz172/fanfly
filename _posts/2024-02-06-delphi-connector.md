@@ -2,7 +2,7 @@
 layout: post
 title: "Wiring delphi connector for tail light"
 categories: [Empennage, ~rudder]
-tags: [avionics, lights, video]
+tags: [avionics, lights, rudder, wiring, video]
 minutes: 90
 mermaid: true
 ---

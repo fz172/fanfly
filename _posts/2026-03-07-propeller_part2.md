@@ -2,7 +2,7 @@
 layout: post
 title: "Propeller - Part 2"
 categories: [Engine, ~propeller]
-tags: [propeller, propeller_hub]
+tags: [propeller, engine]
 minutes: 60
 ---
 

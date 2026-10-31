@@ -2,7 +2,7 @@
 layout: post
 title: "Throttle Cable and Fire Extinguisher"
 categories: [Engine, ~accessory]
-tags: [control_system, throttle]
+tags: [control_system, throttle, engine]
 minutes: 90
 ---
 

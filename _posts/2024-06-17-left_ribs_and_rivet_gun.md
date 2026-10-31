@@ -2,8 +2,7 @@
 layout: post
 title: "Clecoing left ribs, and update on rivet gun"
 categories: [Wing, ~left_ribs]
-tags:
-  [wing, WG-RIB-S08-L-F-0, WG-RIB-S10-L-F-0, WG-RIB-S11-L-F-0, WG-RIB-S14-L-F-0]
+tags: [wing_rib]
 minutes: 180
 ---
 

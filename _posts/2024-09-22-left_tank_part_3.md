@@ -2,7 +2,7 @@
 layout: post
 title: "Left tank: part 3 (leak test and install)"
 categories: [Wing, ~left_tank]
-tags: [wing, WG-AFT-003-L-F-0, video]
+tags: [fuel_tank, video]
 minutes: 210
 ---
 

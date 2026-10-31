@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing for top front skin installation"
 categories: [Fuselage, ~center_fuselage]
-tags: [top_front_skin]
+tags: [skin]
 minutes: 540
 ---
 

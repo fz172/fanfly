@@ -2,7 +2,7 @@
 layout: post
 title: "Finishing luggage door and designing throttle quadrant label"
 categories: [Fuselage, ~rear_fuselage]
-tags: [luggage, throttle]
+tags: [baggage_door, throttle]
 minutes: 150
 ---
 

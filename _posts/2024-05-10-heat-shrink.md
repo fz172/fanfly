@@ -2,7 +2,7 @@
 layout: post
 title: "Misc non-build updates"
 categories: [Misc]
-tags: [avionics, misc]
+tags: [avionics]
 minutes: 10
 ---
 

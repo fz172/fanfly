@@ -2,17 +2,7 @@
 layout: post
 title: "Getting started on the right wing (rear spar and a few ribs)"
 categories: [Wing, ~right_spar, ~right_ribs]
-tags:
-  [
-    wing,
-    WG-JIG-S01-R-F-0,
-    WG-JIG-S02-R-F-0,
-    WG-ARS-001-R-F-0,
-    WG-RIB-S01-R-F-0,
-    WG-RIB-S06-R-F-0,
-    WG-RIB-S07-R-F-0,
-    tooling
-  ]
+tags: [wing_spar, wing_rib]
 minutes: 360
 ---
 

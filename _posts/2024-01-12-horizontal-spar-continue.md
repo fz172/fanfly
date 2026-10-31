@@ -2,7 +2,7 @@
 layout: post
 title: "Back to HS front spar"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [empennage, HS-ASS-001-C-F-0]
+tags: [horizontal_stabilizer, horizontal_stabilizer_spar]
 minutes: 180
 mermaid: true
 ---

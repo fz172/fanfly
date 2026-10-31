@@ -2,7 +2,7 @@
 layout: post
 title: "Rigging the elevator"
 categories: [Empennage, ~elevator]
-tags: [rigging]
+tags: [elevator, trim, control_system]
 minutes: 240
 ---
 

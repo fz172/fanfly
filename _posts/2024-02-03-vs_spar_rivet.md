@@ -2,7 +2,7 @@
 layout: post
 title: "Vertical stabilizer spar riveting"
 categories: [Empennage, ~vertical_stabilizer]
-tags: [empennage, VS-ASS-001-C-F-0-A-6]
+tags: [vertical_stabilizer, vertical_stabilizer_spar, empennage_rib, skin]
 minutes: 90
 mermaid: true
 ---

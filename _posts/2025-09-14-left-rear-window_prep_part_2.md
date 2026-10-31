@@ -2,7 +2,7 @@
 layout: post
 title: "Installing left rear window"
 categories: [Canopy, ~windows]
-tags: [avionics, transponder, window]
+tags: [avionics, transponder, window, canopy]
 minutes: 360
 ---
 

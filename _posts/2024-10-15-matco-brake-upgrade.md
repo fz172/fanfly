@@ -2,7 +2,7 @@
 layout: post
 title: "Matco brake upgrade"
 categories: [Undercarriage, ~brake]
-tags: [matco, brake]
+tags: [brake]
 minutes: 45
 ---
 

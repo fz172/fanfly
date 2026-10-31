@@ -2,16 +2,7 @@
 layout: post
 title: "Working on right top skin and left ribs"
 categories: [Wing, ~left_ribs, ~right_skin]
-tags:
-  [
-    wing,
-    WG-RIB-S01-R-F-0,
-    WG-RIB-S06-R-F-0,
-    WG-RIB-S07-R-F-0,
-    WG-RIB-S08-R-F-0,
-    WG-RIB-S10-R-F-0,
-    WG-RIB-S11-R-F-0
-  ]
+tags: [wing_rib, skin]
 minutes: 140
 ---
 

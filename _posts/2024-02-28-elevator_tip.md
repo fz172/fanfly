@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting elevator tip"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0, fabrication]
+tags: [elevator]
 minutes: 360
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "High Fuel Pressure Conclusion, Brake Conditioning, and Magnetometer Calibration"
 categories: [Engine, ~accessory]
-tags: [fuel_pump, fluid_lines, brake, avionics, gmu11]
+tags: [fuel_pump, fuel_lines, brake, avionics, gmu11, engine]
 minutes: 100
 ---
 

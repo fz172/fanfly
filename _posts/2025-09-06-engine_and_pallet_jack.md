@@ -2,7 +2,7 @@
 layout: post
 title: "Engine inspection and pallet jack"
 categories: [Engine, ~transport]
-tags: [inventory]
+tags: [engine]
 minutes: 120
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Door latch rail cover"
 categories: [Canopy, ~door]
-tags: [CA-ASS-101-C-F, door]
+tags: [door, canopy]
 minutes: 190
 ---
 

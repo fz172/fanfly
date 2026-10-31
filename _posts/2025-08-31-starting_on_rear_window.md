@@ -2,7 +2,7 @@
 layout: post
 title: "Starting to prep rear windows"
 categories: [Canopy, ~windows]
-tags: [window]
+tags: [window, canopy]
 minutes: 120
 ---
 

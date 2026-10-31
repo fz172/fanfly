@@ -2,7 +2,7 @@
 layout: post
 title: "Adjusting Prop Fine Pitchstop"
 categories: [Engine, ~propeller]
-tags: [propeller, propeller_hub, fluid_lines]
+tags: [propeller, engine]
 minutes: 120
 ---
 

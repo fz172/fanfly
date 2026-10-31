@@ -2,7 +2,7 @@
 layout: post
 title: "Fuselage misc: rivet filling, countersink and throttle quadrant"
 categories: [Fuselage, ~center_fuselage]
-tags: [CF-ASS-001-C-C-0, throttle, seat]
+tags: [throttle, seat]
 minutes: 150
 ---
 

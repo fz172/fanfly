@@ -2,7 +2,7 @@
 layout: post
 title: "Left tank: part 2 (Sealing back channel)"
 categories: [Wing, ~left_tank]
-tags: [wing, WG-AFT-003-L-F-0]
+tags: [fuel_tank]
 minutes: 240
 ---
 

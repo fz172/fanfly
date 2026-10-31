@@ -2,7 +2,7 @@
 layout: post
 title: "Installing pitot tube"
 categories: [Wing, ~pitot_tube, ~wiring]
-tags: [wing, avionics, pitot_tube, WG-ASS-003-R-F-0]
+tags: [avionics, pitot_tube, wiring]
 minutes: 300
 ---
 

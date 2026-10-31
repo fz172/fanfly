@@ -2,7 +2,7 @@
 layout: post
 title: "Hangar Washing & Aileron Rigging"
 categories: [Wing, ~left_aileron, ~right_aileron]
-tags: [rigging]
+tags: [aileron, control_system]
 minutes: 120
 ---
 

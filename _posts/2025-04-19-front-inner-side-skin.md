@@ -2,7 +2,7 @@
 layout: post
 title: "Front inner skin"
 categories: [Fuselage, ~center_fuselage]
-tags: [inner_skin]
+tags: [skin]
 minutes: 300
 ---
 

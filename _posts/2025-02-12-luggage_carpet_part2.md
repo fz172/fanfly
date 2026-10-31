@@ -2,7 +2,7 @@
 layout: post
 title: "Luggage area carpeting continued"
 categories: [Fuselage, ~rear_fuselage]
-tags: [upholstery]
+tags: [upholstery, center_console, baggage_compartment]
 minutes: 360
 ---
 

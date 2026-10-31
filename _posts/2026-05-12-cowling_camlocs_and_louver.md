@@ -2,7 +2,7 @@
 layout: post
 title: "Composite is Annoying - Cowling Day 6"
 categories: [Firewall, ~cowling]
-tags: [cowling, camloc]
+tags: [cowling, firewall, door]
 minutes: 315
 ---
 

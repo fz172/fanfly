@@ -2,7 +2,7 @@
 layout: post
 title: "Spring break Rivet Filling & Rear Fuselage Rib Replacement (Part 1)"
 categories: [Fuselage, ~center_fuselage]
-tags: [CF-ASS-001-C-C-0]
+tags: [fuselage_rib]
 minutes: 160
 ---
 

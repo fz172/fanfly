@@ -2,7 +2,7 @@
 layout: post
 title: "Installing doors"
 categories: [Canopy, ~door]
-tags: [window]
+tags: [window, door, canopy]
 minutes: 50
 ---
 

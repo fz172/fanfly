@@ -2,7 +2,7 @@
 layout: post
 title: "Setting the throttle idle"
 categories: [Engine, ~throttle]
-tags: [throttle]
+tags: [throttle, engine]
 minutes: 30
 ---
 

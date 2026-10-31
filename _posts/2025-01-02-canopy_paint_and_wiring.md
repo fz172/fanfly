@@ -2,7 +2,7 @@
 layout: post
 title: "Canopy part 1: paint and wiring"
 categories: [Canopy, ~top]
-tags: [CA-ASS-101-C-F, avionics, painting]
+tags: [avionics, canopy, wiring, lights]
 minutes: 360
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Throttle Cable"
 categories: [Engine, ~throttle]
-tags: [throttle]
+tags: [throttle, engine]
 minutes: 240
 ---
 

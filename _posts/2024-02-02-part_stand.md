@@ -2,7 +2,7 @@
 layout: post
 title: "Horizontal stabilizer and elevator stand"
 categories: [Misc, ~tooling]
-tags: [jig]
+tags: [elevator, horizontal_stabilizer]
 minutes: 60
 mermaid: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic Prop Balancing"
 categories: [Engine, ~propeller]
-tags: [propeller]
+tags: [propeller, engine]
 minutes: 180
 ---
 

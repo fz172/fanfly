@@ -2,7 +2,7 @@
 layout: post
 title: "Starting to rivet ribs to spar"
 categories: [Wing, ~right_ribs, ~right_flap]
-tags: [wing, WG-ASS-004-R-F-0]
+tags: [wing_spar, wing_rib, flap, control_system]
 minutes: 180
 ---
 

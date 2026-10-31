@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting the Right Wing"
 categories: [Wing]
-tags: [wing_mounting]
+tags: []
 minutes: 240
 ---
 

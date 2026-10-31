@@ -2,7 +2,7 @@
 layout: post
 title: "Rear fuselage skin & fixing a damaged inner skin"
 categories: [Fuselage, ~rear_fuselage, ~rf_skin]
-tags: [RF-ASS-001-C-C-0-A-A-1, avionics, rudder, video]
+tags: [avionics, rudder, skin, baggage_compartment, wiring, video]
 minutes: 600
 ---
 

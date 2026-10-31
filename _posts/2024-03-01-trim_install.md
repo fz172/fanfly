@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator trim tab install"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0, video]
+tags: [elevator, trim, video]
 minutes: 120
 ---
 

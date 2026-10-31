@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator bottom skin, and trim motor hardware"
 categories: [Empennage, ~elevator]
-tags: [EL-ASS-001-C-F-0, empennage, fabrication, trim]
+tags: [elevator, trim, skin]
 minutes: 180
 ---
 

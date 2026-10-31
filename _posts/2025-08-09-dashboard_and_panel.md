@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Instrument Panel & Prepping Fuel Selector"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, fuel_pump, fuel_selector, top_front_skin, wiring]
+tags: [avionics, fuel_pump, fuel_selector, skin, wiring, panel, sensors]
 minutes: 680
 ---
 

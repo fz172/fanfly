@@ -2,7 +2,7 @@
 layout: post
 title: "Airmaster propeller inventory"
 categories: [Firewall, ~firewall_forward]
-tags: [propeller, airmaster]
+tags: [propeller, firewall]
 minutes: 20
 ---
 

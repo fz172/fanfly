@@ -2,7 +2,7 @@
 layout: post
 title: "Wing Mounting Prep - Rod Ends"
 categories: [Wing, ~right_flap, ~right_aileron, ~left_flap, ~left_aileron]
-tags: [wing_mounting]
+tags: [aileron, control_system]
 minutes: 240
 ---
 

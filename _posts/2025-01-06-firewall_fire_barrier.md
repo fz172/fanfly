@@ -2,7 +2,7 @@
 layout: post
 title: "Firewall mounting part 2: fire barrier and naviflow"
 categories: [Firewall, ~mounting]
-tags: [CF-ASS-001-C-C-0, fireproof, fuel, naviflow]
+tags: [fuel_lines, fuel_pump, firewall]
 minutes: 100
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Front row seats"
 categories: [Fuselage, ~center_fuselage]
-tags: [ST-ASS-101-L-X, seat, video]
+tags: [seat, video]
 minutes: 300
 ---
 

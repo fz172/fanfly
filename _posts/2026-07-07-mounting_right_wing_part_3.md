@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting the Right Wing - Part 3"
 categories: [Wing]
-tags: [wing_mounting]
+tags: [flap, wing_spar, sensors]
 minutes: 260
 ---
 

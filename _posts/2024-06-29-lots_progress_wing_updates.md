@@ -2,7 +2,7 @@
 layout: post
 title: "Right aileron, flap, trailing edge, and left spar"
 categories: [Wing, ~right_aileron, ~right_flap, ~left_spar, ~left_skin]
-tags: [wing, video, WG-ASS-004-L-F-0]
+tags: [wing_spar, skin, aileron, flap, video]
 minutes: 180
 ---
 

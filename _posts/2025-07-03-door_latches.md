@@ -2,7 +2,7 @@
 layout: post
 title: "Door latches"
 categories: [Canopy, ~door]
-tags: [door]
+tags: [door, skin, canopy]
 minutes: 600
 ---
 

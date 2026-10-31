@@ -2,7 +2,7 @@
 layout: post
 title: "Right bottom skin fitting and an successful experiment"
 categories: [Wing, ~right_skin]
-tags: [wing, WG-ASS-003-R-F-0]
+tags: [skin, wing_spar]
 minutes: 330
 ---
 

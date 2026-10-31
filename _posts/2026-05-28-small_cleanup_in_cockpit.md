@@ -2,7 +2,7 @@
 layout: post
 title: "Clean Up in the Cockpit"
 categories: [Fuselage, ~center_fuselage]
-tags: [upholstery, throttle_quadrant]
+tags: [upholstery, throttle_quadrant, rudder_pedals]
 minutes: 150
 ---
 

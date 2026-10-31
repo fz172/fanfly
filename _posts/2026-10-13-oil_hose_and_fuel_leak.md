@@ -2,7 +2,7 @@
 layout: post
 title: "Addressing leaks in oil and fuel hose"
 categories: [Engine, ~accessory]
-tags: [fluid_lines]
+tags: [fuel_lines, engine, oil_lines]
 minutes: 180
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Misc work to Prepare for Engine Install"
 categories: [Engine, ~install]
-tags: [FF-ASS-S06-C-F-0-A-2, coolant, engine_mount]
+tags: [coolant, engine_mount, battery]
 minutes: 120
 ---
 

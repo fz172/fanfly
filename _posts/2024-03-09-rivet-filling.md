@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator rivet filling"
 categories: [Empennage, ~elevator]
-tags: [EL-ASS-001-C-F-0, avionics, bodywork, empennage, trim, video]
+tags: [avionics, elevator, trim, video]
 minutes: 30
 ---
 

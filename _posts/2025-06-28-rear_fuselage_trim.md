@@ -2,7 +2,7 @@
 layout: post
 title: "Rear Fuselage Trim Cover"
 categories: [Fuselage, ~rear_fuselage]
-tags: [upholstery]
+tags: [upholstery, trim]
 minutes: 120
 ---
 

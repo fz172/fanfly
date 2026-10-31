@@ -2,7 +2,7 @@
 layout: post
 title: "Fuel leak, Coolant leak"
 categories: [Engine, ~accessory]
-tags: [fluid_lines]
+tags: [fuel_lines, engine, coolant_lines, coolant_radiator, cowling]
 minutes: 180
 ---
 

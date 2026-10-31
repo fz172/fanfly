@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Firewall Forward Parts"
 categories: [Firewall, ~firewall_forward]
-tags: [oil_tank, battery_bracket, naviflow, gascolator]
+tags: [oil_tank, battery, fuel_pump, gascolator, fuel_tank]
 minutes: 180
 ---
 

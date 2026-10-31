@@ -2,7 +2,7 @@
 layout: post
 title: "Starting to install side skin"
 categories: [Fuselage, ~side_skin]
-tags: [CF-ASS-001-C-C-0]
+tags: [skin]
 minutes: 140
 ---
 

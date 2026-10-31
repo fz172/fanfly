@@ -2,7 +2,7 @@
 layout: post
 title: "Landing wheels"
 categories: [Undercarriage, ~wheels]
-tags: [UN-ANS-003-C-X-0]
+tags: [wheels]
 minutes: 90
 ---
 

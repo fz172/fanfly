@@ -2,7 +2,7 @@
 layout: post
 title: "Trim motor wiring"
 categories: [Empennage, ~elevator]
-tags: [EL-ASS-001-C-F-0, avionics, empennage, trim]
+tags: [avionics, elevator, trim, wiring]
 minutes: 60
 mermaid: true
 ---

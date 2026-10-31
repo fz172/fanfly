@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting control stick wiring connector to airframe"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics, joystick, wiring]
+tags: [avionics, joystick, wiring, control_system]
 minutes: 180
 ---
 

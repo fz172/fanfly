@@ -2,7 +2,7 @@
 layout: post
 title: "Rotax engine service training"
 categories: [Engine, ~install]
-tags: [training, research, engine]
+tags: [engine_mount, engine]
 minutes: 2400
 ---
 

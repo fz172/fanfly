@@ -2,7 +2,7 @@
 layout: post
 title: "Priming experiment"
 categories: [Misc]
-tags: [painting, priming]
+tags: []
 minutes: 120
 mermaid: true
 ---

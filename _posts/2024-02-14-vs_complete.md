@@ -2,7 +2,7 @@
 layout: post
 title: "Vertical stabilizer complete"
 categories: [Empennage, ~vertical_stabilizer]
-tags: [empennage, VS-ASS-001-C-F-0-A-6, video]
+tags: [vertical_stabilizer, rudder, video]
 minutes: 90
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Transition Training"
 categories: [Misc]
-tags: [training]
+tags: []
 minutes: 300
 ---
 

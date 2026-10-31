@@ -2,7 +2,7 @@
 layout: post
 title: "Engine Harness - Part 1 - Fusebox and Starter"
 categories: [Engine, ~harness]
-tags: [avionics, fusebox, starter]
+tags: [avionics, fusebox, starter, wiring]
 minutes: 60
 ---
 

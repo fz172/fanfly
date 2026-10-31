@@ -2,7 +2,7 @@
 layout: post
 title: "Right leading edge done"
 categories: [Wing, ~right_skin]
-tags: [wing, WG-ASS-002-R-F-0, video]
+tags: [skin, video]
 minutes: 240
 ---
 

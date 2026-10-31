@@ -2,7 +2,7 @@
 layout: post
 title: "Coolant System Fluid Lines - Part 1"
 categories: [Engine, ~accessory]
-tags: [coolant, fluid_lines, avionics, sensors]
+tags: [coolant, coolant_lines, avionics, sensors, engine]
 minutes: 240
 ---
 

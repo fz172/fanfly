@@ -2,7 +2,7 @@
 layout: post
 title: "Empennage arrived!!"
 categories: [Empennage]
-tags: [inventory, empennage, dimple]
+tags: [empennage]
 minutes: 180
 mermaid: true
 ---

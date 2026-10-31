@@ -2,7 +2,7 @@
 layout: post
 title: "Left wing: landing light cover and fuel level sender"
 categories: [Wing, ~left_tank, ~left_skin]
-tags: [WG-AFT-003-L-F-0, lights, wing]
+tags: [lights, skin, fuel_tank]
 minutes: 120
 ---
 

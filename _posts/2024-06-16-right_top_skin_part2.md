@@ -2,7 +2,7 @@
 layout: post
 title: "Right top skin and leading edge"
 categories: [Wing, ~right_skin]
-tags: [wing, WG-ASS-002-R-F-0]
+tags: [skin]
 minutes: 480
 ---
 

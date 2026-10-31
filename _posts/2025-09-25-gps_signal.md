@@ -2,7 +2,7 @@
 layout: post
 title: "Checked GPS Antenna Installation"
 categories: [Fuselage, ~center_fuselage]
-tags: [avionics]
+tags: [avionics, antenna]
 minutes: 15
 ---
 

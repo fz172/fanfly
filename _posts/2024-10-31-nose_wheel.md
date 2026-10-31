@@ -2,7 +2,7 @@
 layout: post
 title: "Undercarriage: nose wheel and front fork"
 categories: [Undercarriage, ~wheels, ~front_gear_assembly]
-tags: [UN-ANS-003-C-X-0]
+tags: [wheels, landing_gear, nose_wheel]
 minutes: 240
 ---
 

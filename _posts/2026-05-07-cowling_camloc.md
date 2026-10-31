@@ -2,7 +2,7 @@
 layout: post
 title: "Cowling Day5: Camlocs & Prepping the Inspection Doors"
 categories: [Firewall, ~cowling]
-tags: [cowling, camloc]
+tags: [cowling, firewall, door]
 minutes: 180
 ---
 

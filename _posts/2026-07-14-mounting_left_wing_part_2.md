@@ -2,7 +2,7 @@
 layout: post
 title: "Mounting the Left Wing - Part 2"
 categories: [Wing]
-tags: [wing_mounting]
+tags: [flap, control_system, wiring]
 minutes: 150
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Installed the luggage door"
 categories: [Fuselage, ~rear_fuselage]
-tags: [luggage]
+tags: [baggage_door]
 minutes: 45
 ---
 

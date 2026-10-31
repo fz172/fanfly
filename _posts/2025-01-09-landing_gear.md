@@ -2,7 +2,7 @@
 layout: post
 title: "Putting on the main landing gear"
 categories: [Undercarriage, ~landing_gear]
-tags: [UN-ASM-001-X-F]
+tags: [landing_gear]
 minutes: 60
 ---
 

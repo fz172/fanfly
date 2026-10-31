@@ -2,7 +2,7 @@
 layout: post
 title: "Finishing up trim motor and rudder cable"
 categories: [Empennage, ~rudder]
-tags: [avionics, assembly, rigging, trim, FN-ASS-S02-C-F-0-A-0]
+tags: [avionics, trim, rudder, control_system]
 minutes: 150
 ---
 

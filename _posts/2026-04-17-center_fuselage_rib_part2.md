@@ -2,7 +2,7 @@
 layout: post
 title: "Center Fuselage Rib Replacement (Part 2)"
 categories: [Fuselage, ~center_fuselage]
-tags: [CF-ASS-001-C-C-0]
+tags: [fuselage_rib]
 minutes: 90
 ---
 

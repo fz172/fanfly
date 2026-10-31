@@ -2,7 +2,7 @@
 layout: post
 title: "Post Wing Mounting Work - Part 2"
 categories: [Wing, ~left_flap]
-tags: [wing_mounting, parachute]
+tags: [parachute, flap]
 minutes: 30
 ---
 

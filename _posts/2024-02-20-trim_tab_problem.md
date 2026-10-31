@@ -2,7 +2,7 @@
 layout: post
 title: "Elevator trim tab fitting problem"
 categories: [Empennage, ~elevator]
-tags: [empennage, EL-ASS-001-C-F-0]
+tags: [elevator, trim]
 minutes: 60
 ---
 

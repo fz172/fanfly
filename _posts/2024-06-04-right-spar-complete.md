@@ -2,7 +2,7 @@
 layout: post
 title: "Right spar assembly 4 complete, started assmebly 3"
 categories: [Wing, ~right_spar, ~right_ribs, ~right_skin]
-tags: [wing, WG-ASS-004-R-F-0, WG-ASS-001-R-F-0, WG-ASS-003-R-F-0]
+tags: [wing_spar, wing_rib, skin]
 minutes: 240
 ---
 

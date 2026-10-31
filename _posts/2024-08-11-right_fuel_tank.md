@@ -2,15 +2,7 @@
 layout: post
 title: "Prosealing the right fuel tank, left wing leading edge & lights"
 categories: [Wing, ~right_tank, ~left_skin, ~wiring]
-tags:
-  [
-    wing,
-    WG-RIB-S22-R-F,
-    WG-RIB-S26-R-F-0,
-    WG-AFT-003-R-F-0,
-    avionics,
-    lights
-  ]
+tags: [skin, fuel_tank, avionics, lights, wiring]
 minutes: 900
 ---
 

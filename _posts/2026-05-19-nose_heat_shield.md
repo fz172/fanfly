@@ -2,7 +2,7 @@
 layout: post
 title: "Lower Cowling Epoxy Work and Heat Shield"
 categories: [Engine, ~cowling]
-tags: [cowling]
+tags: [cowling, engine]
 minutes: 180
 ---
 

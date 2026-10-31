@@ -2,7 +2,7 @@
 layout: post
 title: "Countersink, more cleaning, and clecoing"
 categories: [Empennage, ~horizontal_stabilizer]
-tags: [empennage, priming, HS-ASS-001-C-F-0]
+tags: [horizontal_stabilizer, horizontal_stabilizer_spar]
 minutes: 120
 mermaid: true
 ---
