@@ -12,14 +12,14 @@ minutes: 105
 
 ## Details
 
-I completed the weight and balance of the airplane today. The process is pretty straight forward:
+I completed the weight and balance of the airplane today. The process is pretty straightforward:
 
 - Prepare the weight & balance sheet
 - Drain the fuel from airplane
 - Make sure all permanent parts are on the airplane
 - Push it to the scale
 - Read the numbers
-- Plug in the numbers to the weight & blance sheet and get the empty weight CG
+- Plug in the numbers to the weight & balance sheet and get the empty weight CG
 
 ### Preparation
 
@@ -31,7 +31,7 @@ In case anyone is interested in the template, [here it is](https://drive.google.
 
 #### Getting the Airplane to Final Weight
 
-On the airplane itself, I removed all the building tools & chocks from the baggage compartment, and drained the fuel from both tanks through the drain port. I did not care to drain the tank to the last drop, After the fuel was drained from the draining port, some were still left in the tank as unuseable fuel.
+On the airplane itself, I removed all the building tools & chocks from the baggage compartment, and drained the fuel from both tanks through the drain port. I did not care to drain the tank to the last drop. After the fuel was drained from the draining port, some were still left in the tank as unusable fuel.
 
 #### Leveling the Airplane
 
@@ -51,7 +51,7 @@ With a tow bar, I pulled the airplane's two main wheels onto the scale pretty ea
 
 Then I had to get the last scale under the nose wheel. Normally a second person can help push the tail down and I can just put the scale under the nose wheel. Unfortunately I didn't have any helper today. So I just tied a piece of long string to the scale so I can pull the string to move the scale at the back of the airplane.
 
-I then pushed the tail down. While having the tail still pushed down, I pulled the string to drag the scale under the nose wheel. This sounds pretty difficult but it's actually very easy to accompolish.
+I then pushed the tail down. While having the tail still pushed down, I pulled the string to drag the scale under the nose wheel. This sounds pretty difficult but it's actually very easy to accomplish.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN_oT7zidYmJYIiuPJRD6MX5sEZL9CKQoI2dbz_noKcJdf9UGJnSszASqNJzmv0cLQgSbN7AEMYpGOnNtjUGR-QA4gn1nPz_hHaiwW1BF8uFRZWEN2nnWzri-2XWTE6msJ4b8HzwQrzUXXKTH5yjaMt4w=w3024-h2268-s-no-gm?authuser=0)
 

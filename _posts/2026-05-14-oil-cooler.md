@@ -26,7 +26,7 @@ The oil coolers has 2 straight fitting that needs to convert to AN8 fitting. The
 
 ### Oil Line to Engine
 
-There a a total of 5 hoses to connect for the oil system:
+There a total of 5 hoses to connect for the oil system:
 
 - Engine left to oil tank
 - Engine right to oil tank
@@ -34,7 +34,7 @@ There a a total of 5 hoses to connect for the oil system:
 - Oil cooler to oil pump
 - Oil pump to oil tank
 
-All hoses need to be routed carefully to avoid touching the super hot exhaust system. The PTEF lines I bought from Aerospace Innovations came with heat sleeve pre-installed so that's one less thing I need to worry about.
+All hoses need to be routed carefully to avoid touching the super hot exhaust system. The PTFE lines I bought from Aerospace Innovations came with heat sleeve pre-installed so that's one less thing I need to worry about.
 
 However, the fitting for the oil line on the right side of the engine is very difficult to connect. It just doesn't have the clearance to wiggle the fitting to get the connection started.
 
@@ -43,7 +43,7 @@ I had my camera recording, and turns out I spent close to 2 hours on this single
 Finally, I had a brainwave and made a few changes to get the connection started.
 
 - I temporarily removed the adel clamp holding some pipes right in front of the fitting on the engine.
-- I rolled up the heat sleve from the PTFE hose to expose the aluminium braiding.
+- I rolled up the heat sleeve from the PTFE hose to expose the aluminium braiding.
 
 With these 2 changes, I got maybe 5 mm additional clearance when wiggling the connectors. And the additionally clearance was the key.
 

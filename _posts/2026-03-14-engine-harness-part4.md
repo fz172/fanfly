@@ -23,13 +23,13 @@ In no particular orders, I checked the following over a few days of work:
 - Opened the Rotax fusebox, and checked the fuses
   - 3 fuses were blown!! 35A, and two 7.5A fuses.
 - Check the wiring on the connector that supplies power to the Rotax fusebox (ie. RE1 connect)
-  - continuity test between pin 1&56, 1&7, 2&6, 2&7. Since 1 is supposed to be power and 5 is ground, I expected 1 & 6 have contunuity and 2&7 have continuity. However my test result was 1&7/2&6 have continuity.
+  - continuity test between pin 1&56, 1&7, 2&6, 2&7. Since 1 is supposed to be power and 5 is ground, I expected 1 & 6 have continuity and 2&7 have continuity. However my test result was 1&7/2&6 have continuity.
   - Under advice from MWPB, I also tested the load between 1&5 using a incandesent light. It lit up. So there is load between 1 & 5.
   - Also tested voltage between 1 & 5. It shows -12V.
 
 So a lot of signs pointed to that my RE1 1 & 5 were swapped. I swapped them back with the help from MWPB over phone and email. Initally I tried to depin using a special tool MWPB sent me. But I was only able to remove one out of the two pins out of the connector. Eventually I gave up on that and just cut the 2 wires, and reconnected them in the right order using a crimp splice.
 
-Once I did that, I did another test by turning master and EMS BKUP on. On G3X the engine instrument was still blank, but the good news was that the LED lighgts on the fusebox all lit up, and the lane lights looked much more normal. It turned on for 5 seconds then went off. From what I read online this is the expeced behavior for Rtoax ECU start-up.
+Once I did that, I did another test by turning master and EMS BKUP on. On G3X the engine instrument was still blank, but the good news was that the LED lighgts on the fusebox all lit up, and the lane lights looked much more normal. It turned on for 5 seconds then went off. From what I read online this is the expeced behavior for Rotax ECU start-up.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOeYJazMvo2HKkm1XgduI-7gj3aKdXJli1Obs6amOyihwasf4oEDaTGdHw89AQb5uCoWh_QymFrP3vPP598hkU9Z5jELmcGAgfNsupylv37OblYI86dWCS3zc0wsxtE0DwSBKCwOQCztgnlLkxv86ZKUg=w1229-h922-s-no-gm?authuser=0)
 _Blown fuses_

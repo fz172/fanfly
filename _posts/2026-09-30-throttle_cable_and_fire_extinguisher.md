@@ -15,7 +15,7 @@ minutes: 90
 
 ### Throttle Cable
 
-Before I adjusted the throttle idle position, I intentionally did not torque the torttle cable. This was completed today.
+Before I adjusted the throttle idle position, I intentionally did not torque the throttle cable. This was completed today.
 
 There were just a few bolts holding the throttle cable on the engine's throttle assembly. I used 2 10mm wrench to tighten them and applied torque seal.
 

@@ -12,7 +12,7 @@ minutes: 150
 
 ## Details
 
-Way back from when I built the vertical stablizer, there are a row of rivnuts on each side of the vertical stablizer.
+Way back from when I built the vertical stabilizer, there are a row of rivnuts on each side of the vertical stabilizer.
 
 Today I installed the cover plates going on top of these rivnuts.
 

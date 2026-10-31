@@ -27,7 +27,7 @@ _Work in progress installing the leading edge skin_
 I gave up using the penumatic squeezer, and went back to the hand squeezer with a few changes.
 
 1. Instead of 3 inch yoke, I switched to a 2 inch yoke for better control and less flex.
-2. instead of -4 rivets, I swtiched to -3 rivets. I still think -3 is a little too short, but everyone else is using -3 on Sling Builder group, as is recommended by Sling Technical.
+2. instead of -4 rivets, I switched to -3 rivets. I still think -3 is a little too short, but everyone else is using -3 on Sling Builder group, as is recommended by Sling Technical.
 
 With some more practice, the final result was not too bad. There were a few places where my squeezer cannot reach, so I will just use pop rivet in these spots, not a big deal.
 
@@ -73,9 +73,9 @@ _Dimple in progress_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczP4eLafEzZoJAL5EyFIjTZNKEv0pVNxhL077dLvv9LTF7mDxPeoIR1LZWRlOKZqdjMW789pY0WwT0Ib1_taML6TBpgcNFNOxX_Fkg4YOlKGNcwsHRkpQOdb0rQdIgztJhHlOn_bknPzuTArXzbYNvo9_w=w1290-h1712-s-no-gm?authuser=0)
 _I used a sawhorse with foam blocks to support the skin while dimpling_
 
-#### Builidng a fuel tank jig
+#### Building a fuel tank jig
 
-As I was dimpling the skin, the skin shook a lot with my unstable hands. I decided to build a jig to provide supoprt.
+As I was dimpling the skin, the skin shook a lot with my unstable hands. I decided to build a jig to provide support.
 
 The process is not difficult at all. And it required a lot less precision than I expected.
 
@@ -129,13 +129,13 @@ I then match drilled every fuel tank hole visible on the skin. With each drill, 
 
 Up to now the build process did not really require match drilling, so I am honestly a little nervously with having to drill so many holes.
 
-Once the drilling is done, I put the tank back to the jig. Tomorrow I will desemble it for thorugh clean, and will go into the sealant step.
+Once the drilling is done, I put the tank back to the jig. Tomorrow I will desemble it for through clean, and will go into the sealant step.
 
 ### Next step
 
 I still have a few preparation work to do before breaking out the sealant.
 
-- Countsink the fuel caps
+- Countersink the fuel caps
 - Put on enforcement plates, match drill those
 - Drill new hole for inlet mesh plate (both ribs)
 - Bend fuel senders

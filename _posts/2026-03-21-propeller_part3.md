@@ -17,7 +17,7 @@ minutes: 90
 
 Torquing the 6 AN5 bolts on the hub was pretty straightforward with a crowfoot.
 
-I turned the crowfoot 90 degrees perperpendicular to the torque wrench to avoid any moment arm error, and turned the bolts in a star pattern to ensure even pressure. The final torque value is 24 NM.
+I turned the crowfoot 90 degrees perpendicular to the torque wrench to avoid any moment arm error, and turned the bolts in a star pattern to ensure even pressure. The final torque value is 24 NM.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM5PoQUgaYozsFeYl98wu07nBXe7aU9NVBHvoBtijkjD2zR7-HGhGZDXZdHtApbcDh8T1nNzVChPDstWIbFIoe_FRSqaVU5DWXDitu0JiifW_IrIug2yJuQRS55pjcIyCAi9IJ53CrF5C9tI9AKqJ_Mbg=w692-h922-s-no-gm?authuser=0)
 

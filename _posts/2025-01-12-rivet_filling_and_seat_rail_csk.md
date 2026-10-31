@@ -49,4 +49,4 @@ So I took it apart and will paint it with my next batch of paint job.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO7czgWpoGVNevZsC9epgmGKm9lcUD5jOYEv3j7VfJnttyiNTtLc37rvKfvoUUAbiwC39lxE0Wt2Z_DmeDW3ObeUvK3zULjkLv_pFPfcvL56usYRNGz7Mk3_OOMAap_Y-IkDo0MaFw-eZZEQpwFywHLlQ=w1290-h1712-s-no-gm?authuser=0)
 
-I also ordered the PTEF custom brake lines from FS Flightlines to replace the nylon brake lines for better safety. I will keep the throttle quadrant open and install the new lines when they arrive in a couple of weeks.
+I also ordered the PTFE custom brake lines from FS Flightlines to replace the nylon brake lines for better safety. I will keep the throttle quadrant open and install the new lines when they arrive in a couple of weeks.

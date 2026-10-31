@@ -29,7 +29,7 @@ _Pop off valve is detached_
 
 ### Rotate the Connection Hose 90 Degrees
 
-I didn't take picture for this step, but there is a 3/4" hose at the bottom of the pop-off valve. Once the pop-off valve is fitting to Sling's desired location this hose will interfere with the cowling. So Sling instruction said it needs to be rotated 90 degress.
+I didn't take picture for this step, but there is a 3/4" hose at the bottom of the pop-off valve. Once the pop-off valve is fitting to Sling's desired location this hose will interfere with the cowling. So Sling instruction said it needs to be rotated 90 degrees.
 
 It's held together with 4 M5 hex bolts. I loosened them and rotated the hose fitting, then re-tightened the bolts to 5nm.
 

@@ -34,7 +34,7 @@ The holes from control stop is predrilled to 4mm, and the skin holes are pre-dri
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPdylx7FLobpMyXvOVwPzJUIp9mSJrc90jcXFfs3KNW9dVBk4c7RfOWD--KDxCi1nr66h6dOwE0I1DtSHqRVzlIyF7ulisOjjlB3GaM3Pu6JdEk67_UHx42WsiwoZDh1xzsh92X7y5PY04fdqdA6CCvpg=w2274-h1712-s-no-gm?authuser=3)
 
-### Flap acuator support
+### Flap actuator support
 
 Installed the flap actuator support on the center fuselage floor. I guess it's not necessary to do it now, but it provides some rigidity to the floor.
 

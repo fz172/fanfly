@@ -9,7 +9,7 @@ minutes: 120
 ## TLDR
 
 - Prepped all parts for trim sub-assembly
-- Installed trim on elelvator
+- Installed trim on elevator
 
 ## Details
 

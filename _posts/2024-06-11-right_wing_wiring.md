@@ -66,7 +66,7 @@ For the male end, I'm really not very fast at building electrical stuff. Connect
 - Pring label for each wire
 - head shrink the label onto the wire
 - Crimp the wire to GT 150 pins
-- Asemble the GT150 connector
+- Assemble the GT150 connector
 
 Then, I connected the male/female connectors, and used a multi-meter to test the continuity between the pigtail end and the wing root connector. Everything worked!! Time to package it up and store safely for the OAT probe in the near future!!
 ![wire](https://lh3.googleusercontent.com/pw/AP1GczNUIdU9iYvhsNFU3Y94xljXr9QOOLBhkkZ1terRDm8f_cnLJYyma39Mydhqjabd_emLwSgLSwePMIJw0ARUuCOQ7HrtEw7G6OEt41czmSRdHJjaAFj6da05jNpoAGLlThLEWDamPHNEMc_SESHuJ46_eA=w2320-h3092-s-no-gm?authuser=0)

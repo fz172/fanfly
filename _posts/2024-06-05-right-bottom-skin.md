@@ -64,7 +64,7 @@ _Testing flap tube_
 
 #### Misdrilled hole?
 
-During the test fit, I noticed one hole on the overlapping root skin and long skin were factory pre-drilled differently. On the instruction it's supposed to be a 4.0 counterskin hole. And it's predrilled as 4.0 on the long skin. But it's pre-drilled as 4.8 on the root skin, also 4.8 on the spar. So when I fit the 3 pieces together, essentially two 4.8mm holes sandwiched a 4.0mm countersink hole. Obviously that's not going to work. Since the spar is already drilled as 4.8, I flattened the 4.0 countersink hole and enlarged it to 4.8, and decided to go with a 4.8 mm x 15mm rivet for maximum strength.
+During the test fit, I noticed one hole on the overlapping root skin and long skin were factory pre-drilled differently. On the instruction it's supposed to be a 4.0 countersink hole. And it's predrilled as 4.0 on the long skin. But it's pre-drilled as 4.8 on the root skin, also 4.8 on the spar. So when I fit the 3 pieces together, essentially two 4.8mm holes sandwiched a 4.0mm countersink hole. Obviously that's not going to work. Since the spar is already drilled as 4.8, I flattened the 4.0 countersink hole and enlarged it to 4.8, and decided to go with a 4.8 mm x 15mm rivet for maximum strength.
 
 ![mis_drilled_hole](https://lh3.googleusercontent.com/pw/AP1GczN0emCIGkW2fNlXxyIH0GxfYfeLSNmQtJkIH_7chjuVuZsno_WBr5EfBGgabGfJlmv0RX6tKK8a2Z61ev0VCHjtNCTWNRXLIThSNvJuqXksp4DLMVh1ddHV86FNrQSRLaUFsXCTlEw2crhxDXMFw1IzLw=w2166-h2888-s-no-gm)
 \*The predrilled hole from factory is in the wrong
@@ -86,7 +86,7 @@ _Fitting rivets_
 
 ### (Experimental) Reversing rear spar channel rivets
 
-The rear channel (2 long pieces) is connected together using a doubler and 8 rivets. Today I realized that I riveted them in the wrong direction. This will most definitely be a problem when I install alerons/flaps because of their tight clearance. So I decided to drill them out and reverse the direction.
+The rear channel (2 long pieces) is connected together using a doubler and 8 rivets. Today I realized that I riveted them in the wrong direction. This will most definitely be a problem when I install ailerons/flaps because of their tight clearance. So I decided to drill them out and reverse the direction.
 
 The 6 rivets further out from the rear spar were easy. I had space for my drill to reach and drill out the rivets. But it's not possible to drill the 2 remaining rivets closer to the spar. I do not want to force it as it will either damage the spar, or elongate the hole. Both were not acceptable to me.
 

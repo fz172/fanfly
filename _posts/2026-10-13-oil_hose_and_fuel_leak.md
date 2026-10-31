@@ -15,13 +15,13 @@ minutes: 180
 
 ### Oil Leak
 
-As I mentioned on my Oct 5 blog, I had an oil leak on the oil return port on the right hand side of the the engine.
+As I mentioned on my Oct 5 blog, I had an oil leak on the oil return port on the right hand side of the engine.
 
 Today after I warmed up the engine, I took an 7/8 wrench to tighten it a tiny bit.
 
 The clearance between the PTFE hose and the exhaust pipe was like 3 mm and I did not pay close attention. As I tightened the -8AN fitting the hose rotated and the heat shrink around the hose touched the exhaust pipe. I immediately untorqued the 8AN fitting to get the hose away.
 
-Then I waited the exhaust to cool down, then inserted several layers of rubber to hold the hose abovec the exhaust, then tightened the fitting again.
+Then I waited the exhaust to cool down, then inserted several layers of rubber to hold the hose above the exhaust, then tightened the fitting again.
 
 After the second tightening, I removed the rubber pieces to ensure the hose still stayed away from the exhaust, and no more oil dripped down.
 

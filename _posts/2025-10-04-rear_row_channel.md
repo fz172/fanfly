@@ -44,4 +44,4 @@ I measured and cut a 2.5" x 2.5" plate, and drilled 8 3,2mm holes around the edg
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNZ3zZxBJOFoSTwGTvdbnq6SGrb9Ucu3jZnEe1A9xZREWoTaING8nHi7zUGExl-iGif5wmWyQHX8T8UlbyBu73ya6oeg4wXgXV9uqj8vXxVR1iNAF-n1KAfSssp88FjoBucn34ZuB54OfgnEqTEZxO-3A=w657-h873-s-no-gm?authuser=0)
 _Installed_
 
-When riveting the plate to the fuselage, I used a roller to give the edge a slight curve, and applied a little bit of Sika 295 for water proofing. Then I used 99% alcohol to clean the the area (though I forgot to take a photo).
+When riveting the plate to the fuselage, I used a roller to give the edge a slight curve, and applied a little bit of Sika 295 for water proofing. Then I used 99% alcohol to clean the area (though I forgot to take a photo).

@@ -27,7 +27,7 @@ Before the filler dried out in the syringe, we got about a few dozen rivets on t
 
 ### Rear Fuselage Rib Replacement
 
-So under the rear seat area there are 6 ribs going across left to right. And I have installed the ELT between the the first and second ribs on the passenger side. Unfortunately, when I was drilling holes to mount the ELT brackets, I accidently drilled a hole through the rib (CF-RIB-007-R-C-3) lighting hole's bending part. After reading up AC43.13 and consulting Gemini, it's possible to just patch it with a doubler, or replace with a new part.
+So under the rear seat area there are 6 ribs going across left to right. And I have installed the ELT between the first and second ribs on the passenger side. Unfortunately, when I was drilling holes to mount the ELT brackets, I accidently drilled a hole through the rib (CF-RIB-007-R-C-3) lighting hole's bending part. After reading up AC43.13 and consulting Gemini, it's possible to just patch it with a doubler, or replace with a new part.
 
 Since the area is still reasonably accessible, I decided to just replace it for the peace of mind.
 

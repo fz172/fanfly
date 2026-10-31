@@ -84,9 +84,9 @@ After cutting and sanding, some part of the cowling did not sit flush to the fir
 
 Evan's video talked about this issue, and he suggested to adjust the stiffener with a flute plier and that's what I did.
 
-I marked where the cowling was sticking up a lot, took the cowling off, and used a flute plier to bend the stiffener back down. This procssed lasted 30 minutes or so and I test fitted the cowling a few more times.
+I marked where the cowling was sticking up a lot, took the cowling off, and used a flute plier to bend the stiffener back down. This processed lasted 30 minutes or so and I test fitted the cowling a few more times.
 
-After this, the top hakf cowling sat almost fully flush with the airframe skin.
+After this, the top half cowling sat almost fully flush with the airframe skin.
 
 ### To be continued
 

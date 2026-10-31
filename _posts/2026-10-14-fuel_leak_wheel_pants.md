@@ -15,7 +15,7 @@ minutes: 180
 
 ### Fuel Leak
 
-I tried to tighten the leak connection on the naviflow unit to stop the leak, unforutunately it did not work. When boost pump + main pumps are on, fuel slowly weeps out of the inboard side of the banjo bolt on the naviflow.
+I tried to tighten the leak connection on the naviflow unit to stop the leak, unfortunately it did not work. When boost pump + main pumps are on, fuel slowly weeps out of the inboard side of the banjo bolt on the naviflow.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMU7P9IjEmJQ9BVlOXUMJ_HnmHRPgprDgnPbkFneFzIrCkVnBK3PE2W9sT2O4Uu3Pb3yhfjKMueIiqNyRhyVzFmABlY4XJVOMBfo_A7eJg_1YRN-j_7R7gi5eCV64_44NM-JDpbplSnoGN8Tl2aOSqaIg=w1712-h2284-s-no-gm?authuser=0)
 

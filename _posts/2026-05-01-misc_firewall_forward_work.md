@@ -8,7 +8,7 @@ minutes: 300
 
 ## TLDR
 
-Worked on a lot of misc tasks on the firwall forward section:
+Worked on a lot of misc tasks on the firewall forward section:
 
 - Counter-sunk all camloc socket mounting points
 - Added more heatshield on firewall

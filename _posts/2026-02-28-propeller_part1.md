@@ -55,4 +55,4 @@ Then, I connected the slip ring to the hub, and secured it with 3 countersink sc
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczN6Moi_ztQY85fjkd6T5OGzroABHLcuWaoOhwBtVmdDxvB_Tnne7ROkyy5hONv4lW7O5ojhwMtCJgmyPJBLFK4JU_QceRAev1Rl65LcH10ETl3uwKyRBDzSAOBF0LXx8or8u8aWB0ox2GWFgolTyFX5PQ=w692-h922-s-no-gm?authuser=0)
 
-Next time I will probably connect the whole assmebly to the engine.
+Next time I will probably connect the whole assembly to the engine.

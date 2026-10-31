@@ -30,7 +30,7 @@ Then I turned on both G3X and G5 in their configuration mode, and selected ADHAR
 
 To do the fuel calibration, I bought 20 gals of UL94 from the airport FBO, and used a 2 GAL tank to transfer the fuel into the tank for calibration.
 
-The calibration process was striaghtforward but took a long time because I had to transfer a lot of fuel from one tank to another manually..
+The calibration process was straightforward but took a long time because I had to transfer a lot of fuel from one tank to another manually..
 
 To complete the calibration process, I set the G3X in configuration mode. Then I put in 2 gals at a time, and wait for the fuel sender to stabilize and record the calibration point. Then I repeated this process until the fuel sender readings stopped change. On the left tank this was 12-14 gals, and the right tank stopped changing at 16 gals.
 

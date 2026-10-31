@@ -26,7 +26,7 @@ _Door bent to match fuselage curvature_
 
 ### Seat stop brackets
 
-Then I clecoced the rear seat stop brackets next to the luggage door.
+Then I clecoed the rear seat stop brackets next to the luggage door.
 
 The holes are pre-punched and the access is easy. But it's super confusing how to orient the pieces. The KAI's drawing was not very helpful. I searched the part number on Facebook builder group and found a picture. Then I just followed what everyone else did and clecoed mine.
 

@@ -44,7 +44,7 @@ After the lifter check, I put the cowling back and pushed the airplane out for a
 
 I kept the engine at 2500-2700 PRM for a few minutes. Interesting, I got lane A/B lights on a few minutes into the run. I noted the issue on G3X (ignition 1/2, ignition 3/4) and shutdown the engine.
 
-I then restarted the engine, and the error was gone. I kept the engine runnig for another minute.
+I then restarted the engine, and the error was gone. I kept the engine running for another minute.
 
 After shutting down, I used the BUDS dongle to extract the logs from the ECU.
 

@@ -8,7 +8,7 @@ minutes: 240
 
 ## TLDR
 
-- Investigaing an high fuel pressure issue
+- Investigaing a high fuel pressure issue
 
 ## Details
 
@@ -20,7 +20,7 @@ Things I've done so far:
 
 - Disconnected the return line from the engine, route the engine return fuel directly to a bucket.
   - Result: Engine off/single pump pressure stayed at 47 PSI.
-  - Conclusion: my fuel pressure is high in the first place. However this doesn't fully rule out return line restrictions because I didn't start the engine and couldn't reproducce the 55PSI scenario during taxi.
+  - Conclusion: my fuel pressure is high in the first place. However this doesn't fully rule out return line restrictions because I didn't start the engine and couldn't reproduce the 55PSI scenario during taxi.
 - Connected the return lines and opened the fuel cap on both tanks.
   - Result: same pressure at 47 PSI
   - Conclusion: the vent lines are probably fine.
@@ -34,7 +34,7 @@ A few things I will need to try next week:
 - Check return lines for debris and kink section by section
 - Change the return lines to larger diameter rubber hoses
 - Disconnect the fittings from fuel selector to check debris
-- Install bypass checkvalve between the main return line and left tank return link near the fuel selector
+- Install bypass check valve between the main return line and left tank return link near the fuel selector
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNq1gI3de7ossuID8E6aD0gFK-2Lcbg9zpvj2DvAbLXhEJJNJ6GLEBHr8JIxJWjvAgZI5-eq6q9IIGf8qiXAyFiJCacr0euiV6eF-LWc1F-DTLlCzfRHLG70ZzmbxHWh-vbNyhkU_rwqnucBh9wqBRajg=w3110-h2332-s-no-gm?authuser=0)
 _Fuel pressure regulator no debris_

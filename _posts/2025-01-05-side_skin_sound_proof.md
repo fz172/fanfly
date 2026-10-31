@@ -9,7 +9,7 @@ minutes: 120
 ## TLDR
 
 - Sealant added to air
-- Added sound proof on side skin
+- Added soundproof on side skin
 
 ## Detail
 
@@ -23,11 +23,11 @@ I used the standard calk gun to apply a bead of the sealant along the channel, t
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO6AWuf6ZQ9AqH3sIOKP228XzzSvk2slNf2LWG4qJf3xEZcC8UZLaTHdb6RENBWmK7yawhLITGSwZMfhuXpqinSAjkRXrECphnLGHpOghxBDxuNpXDSCWLJvc0cYqpO4pVvZZTKOTbMKd7QXmyXGv-9OQ=w2274-h1712-s-no-gm?authuser=0)
 
-### Sound proof
+### soundproof
 
-I basically just traced the shape of side skin and cut the sound proof foam to fit.
+I basically just traced the shape of side skin and cut the soundproof foam to fit.
 
-Fairly simple task, but again somehow too me all night to do. And I ran out of sound proofing foam so I was not able to finish the job. Pretty close to complete though.
+Fairly simple task, but again somehow too me all night to do. And I ran out of soundproofing foam so I was not able to finish the job. Pretty close to complete though.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPAMgHrJf93Yw002h8LKnU9V-uziSrWtlqbJqrvCZSVIT1JifOCQ9rvOVfxU3eO2ebrpm63bxJS_OkdQsoYLcdJLXtNOEXjEHQNndoXwxA8dXcdfd3peT5uM8G2PetGE4bB3u2ce57WvHErmMJsYuiCZA=w1290-h1712-s-no-gm?authuser=0)
 

@@ -33,7 +33,7 @@ I will keep monitoring the rust situation for the next few engine runs. If it st
 
 ### Wing Fairing
 
-Installing the wing fairing is mostly tedious work to align things and drill holes, but not difficult. I spent about 1 hour on the right fairing and finished about 80% match drilling. It's a loop: test fit, match dril, curse why it's not perfect, then repeat.
+Installing the wing fairing is mostly tedious work to align things and drill holes, but not difficult. I spent about 1 hour on the right fairing and finished about 80% match drilling. It's a loop: test fit, match drill, curse why it's not perfect, then repeat.
 
 One tricky point before drilling: the fairing is along side the joint of side fuselage skin and the bottom skin. On top of that there are a bunch of ribs and other important structural components near the edge of the fairing, so I had to be extremely careful planning where to drill. I have to avoid drilling into anything important.
 

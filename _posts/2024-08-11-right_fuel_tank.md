@@ -31,13 +31,13 @@ The first step I did was the ribs. Per the KAI, I smeared some proseal along the
 
 I applied plenty of proseal on the skin where it attaches to the ribs.
 
-Then sitting the skin and ribs on a table, I clecoed one side. For the other side, I moved the half clecoed skin into the tank jig to give it some clamping power. I clecod the other side of the tank skin.
+Then sitting the skin and ribs on a table, I clecoed one side. For the other side, I moved the half clecoed skin into the tank jig to give it some clamping power. I clecoed the other side of the tank skin.
 
 During this process I was very aware of the time. I think I was at about 1 hour mark since I mixed the proseal at this point.
 
 #### Fitting to wing
 
-My wife and I lifted the clecoed tank (without back plate), and we matched the rivet holes with the wing and I put in some clecos to hold it it place.
+My wife and I lifted the clecoed tank (without back plate), and we matched the rivet holes with the wing and I put in some clecos to hold it place.
 
 #### Riveting skin
 
@@ -88,12 +88,12 @@ Prosealed and riveted the following stuff:
 
 #### Fuel sender
 
-Worth noting is the fuel sender. When I bent the steel arm the other day apparently the length and angle are just suggestions. What really matters is the the actual ohm reading when the fuel
+Worth noting is the fuel sender. When I bent the steel arm the other day apparently the length and angle are just suggestions. What really matters is the actual ohm reading when the fuel
 sender is actually installed.
 
 So I had to do this experiment quickly before proseal sets.
 
-I installed the sender to its final place, and moved the arm up and down to test the ohm reading. The reading was slightly off so I bent the arm a a little to make sure it can touch bottom and top of the tank skin. After that, the reading became within range. I am happy with the result, so I tightened the screws to specified torque value.
+I installed the sender to its final place, and moved the arm up and down to test the ohm reading. The reading was slightly off so I bent the arm a little to make sure it can touch bottom and top of the tank skin. After that, the reading became within range. I am happy with the result, so I tightened the screws to specified torque value.
 
 #### Back plate
 
@@ -111,7 +111,7 @@ _skin_
 
 ### Problem with testing leak
 
-Essentially I bought pressure gauge, end cap, air pump connector and a bunch of fittings. My plan is cap the fuel overflow, connect air pump to fuel inlet, and connect a pressure guage to fuel return fitting.
+Essentially I bought pressure gauge, end cap, air pump connector and a bunch of fittings. My plan is cap the fuel overflow, connect air pump to fuel inlet, and connect a pressure gauge to fuel return fitting.
 
 Everything worked except the fuel return fitting. The AN6 fitting does not thread well with connectors.
 
@@ -164,7 +164,7 @@ _Landing/Taxiing lights_
 
 Started from the bottom, clecoed 4.0 holes first, then 3.2 holes on each rib.
 
-Wrapped around to top side, clecode a few 3.2mm holes on the rib leading edge, but couldn't align the holes towards the wing. So I used a racheting strap to hole the skin, then clecoed everything together.
+Wrapped around to top side, clecoed a few 3.2mm holes on the rib leading edge, but couldn't align the holes towards the wing. So I used a racheting strap to hole the skin, then clecoed everything together.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPSMxnTYQv2Qrw9E377PzNGiQBi9Uxfo6yUaWj9rRezqtw9iQdpqxOT4B94QM6iRpm_nRbN5MN_wbdORxoTOop1HrHMWSRk1xYMvMQg5at401LOemxPvGRrw9S7JEyvn6X64kgH7FSqbfNlHj3lnMEWtg=w1290-h1712-s-no-gm?authuser=0)
 _Leading edge_

@@ -16,7 +16,7 @@ minutes: 100
 
 ### Fire barrier
 
-I bought some 3M firemaster 2000+ sealant to apply along the perimeters of the cawling strip, as there is a gap that can let air go through between the firewall forward and cockpit. I don't know if this is an important thing, but I decided to seal it anyway.
+I bought some 3M firemaster 2000+ sealant to apply along the perimeters of the cowling strip, as there is a gap that can let air go through between the firewall forward and cockpit. I don't know if this is an important thing, but I decided to seal it anyway.
 
 The foam material that came with Sling is Teknofibra 6mm self-adhesive heat barrier.
 

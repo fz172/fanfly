@@ -50,7 +50,7 @@ _Finished, back side_
 
 I also installed nav light to the wing tip.
 
-In order to do that, I need to cut a hole on the wing tip for the wire to go through, also dril 3 rivet holes for the light's back plate.
+In order to do that, I need to cut a hole on the wing tip for the wire to go through, also drill 3 rivet holes for the light's back plate.
 
 I used a cardboard to trace the general shape of the light, and marked the hole's position on the card board.
 

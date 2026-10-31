@@ -65,9 +65,9 @@ order: 1
 
 # Building an airplane in my garage
 
-I'm **Fan**, and I'm assembling a [Sling Tsi](https://www.airplanefactory.com/aircraft/sling-tsi/), a sleek four-seat aircraft, from a box of parts in the San Francisco Bay Area.
+I'm **Fan**, and I'm assembling a [Sling TSi](https://www.airplanefactory.com/aircraft/sling-tsi/), a four-seat aircraft running Rotax 915 engine.
 
-This is my build log. Thousands of rivets, miles of wire, and a fair amount of patience, slowly turning into a flying machine. The good days and the head-scratchers are all here.
+This is my build log. The build started from several boxes of aluminium parts. Thousands of rivets, miles of wire, and a fair amount of patience, slowly turning into a flying machine. The good days and the head-scratchers are all here.
 
 ## Follow along
 

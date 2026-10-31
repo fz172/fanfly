@@ -8,7 +8,7 @@ minutes: 360
 
 ## TLDR
 
-- Ran into a issue with ECU power, tracing wires
+- Ran into an issue with ECU power, tracing wires
 
 ## Details
 

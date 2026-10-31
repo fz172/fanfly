@@ -14,7 +14,7 @@ minutes: 300
 
 I spent 4 days in Torrance with the Sling Pilot Academy to finish my transition training.
 
-During my tranining, I sat in N916TS and N91551 with my 3 instructors Shannon, Derek, Garrett. They are awesome! We flew all sorts of maneuvers like slow flight, stalls, steep turns, etc, and did a bunch of landings in Torrance and Long Beach. I focused entirely on flying when my CFIs handled my radio calls.
+During my training, I sat in N916TS and N91551 with my 3 instructors Shannon, Derek, Garrett. They are awesome! We flew all sorts of maneuvers like slow flight, stalls, steep turns, etc, and did a bunch of landings in Torrance and Long Beach. I focused entirely on flying when my CFIs handled my radio calls.
 
 It was so fun to fly with these people, and I got to feel what a completed, flying TSi handles like. By the end of the training, I think I now have the skills and confidence to do my first flight.
 

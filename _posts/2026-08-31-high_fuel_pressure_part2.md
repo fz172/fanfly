@@ -26,13 +26,13 @@ _removed the line between fuel selector and cockpit bulkhead_
 
 ### Borescope
 
-As I removed each segment, I took a borescope camera through the lines, and checked for debris, kink marks and anything suspicous.
+As I removed each segment, I took a borescope camera through the lines, and checked for debris, kink marks and anything suspicious.
 
 So far I have not found any smoking gun.
 
 ### Fuel Selector Check Valve
 
-I also took this opportunity to install a checkvalve (0.8-1.2 bar) to bypass the fuel selector in case there is a total blockage on the fuel selector itself. This is required in service bulletin 30. The check valve was recently introduced in the latest build manual, so I did not have this when building this part of the airplane before.
+I also took this opportunity to install a check valve (0.8-1.2 bar) to bypass the fuel selector in case there is a total blockage on the fuel selector itself. This is required in service bulletin 30. The check valve was recently introduced in the latest build manual, so I did not have this when building this part of the airplane before.
 
 Today I only got the install started, only one T-fitting was test fitted. A few more hours to go.
 

@@ -12,7 +12,7 @@ minutes: 60
 
 ## Details
 
-I previously already installed a set of door handles towards the rear side of the door. The other day when I was sitting inthe cockpit and trying things out, the handle position was not comfortable to pull.
+I previously already installed a set of door handles towards the rear side of the door. The other day when I was sitting in the cockpit and trying things out, the handle position was not comfortable to pull.
 
 So I bought two new handles from Sling, and installed them towards the front side of the door.
 

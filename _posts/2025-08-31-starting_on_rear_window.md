@@ -20,14 +20,14 @@ The rough process (in my mind) should go like this:
 
 - Have 2 straps loop around the fuselage to hold the windows closely to the fuselage
 - Put the window in, mark the cut
-- Rought cut then fine tune
+- Rough cut then fine tune
 - Glue it on
 
 Each step took longer than I expected.
 
 ### 2 straps
 
-I got 2 ratcheting straps around the fuselage easily. Howver I am not so sure they are effective hold the window to the fuselage. Especially around the corner. When working on the rear window, the corner sticks out and the straps isn't very effective. Provided, I haven't really tied it down yet. But I don't thnk I will tie it down super hard because I don't want to damage the fuselage skin.
+I got 2 ratcheting straps around the fuselage easily. Howver I am not so sure they are effective hold the window to the fuselage. Especially around the corner. When working on the rear window, the corner sticks out and the straps isn't very effective. Provided, I haven't really tied it down yet. But I don't think I will tie it down super hard because I don't want to damage the fuselage skin.
 
 For fitting the window, I think the straps work just fine. But when it comes to sikaflex glueing, I might need to figure out a different way to get the window stick close to the skin. I am thinking one of two ways:
 
@@ -41,7 +41,7 @@ _Before cutting, the window panel is way over sized_
 
 I mistakenly used permanent markers to do my markings. Fortunately, I was conservative and the markings were all outside of the juggle, so they were all cut away. I should have used wet erase markers instead.
 
-Cutting was a huge pain. I am using dremel with cutoff discs. It's able to cut the material, but omg the dust.. There were so much dust and they filled my hangar within 30 seconds. My entire body were also covered by the dust. It's just very uncomfortable. I speng close to 2 hours getting the first, and also the smallest piece, 70% done. 4 more large pieces to go. Ugh not looking forward to that.
+Cutting was a huge pain. I am using dremel with cutoff discs. It's able to cut the material, but omg the dust.. There were so much dust and they filled my hangar within 30 seconds. My entire body were also covered by the dust. It's just very uncomfortable. I spent close to 2 hours getting the first, and also the smallest piece, 70% done. 4 more large pieces to go. Ugh not looking forward to that.
 
 So anyways, I was (almost) able to fit the first window. The corners are little uneven but all fixable. I went a little slow on this one as I wanted to practice the skills on this one.
 

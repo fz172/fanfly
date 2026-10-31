@@ -56,7 +56,7 @@ I used a special tool for the last 2 holes. I don't know what it's called, but b
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOyC38plU9ejrfKZhRWjFNuwElbZFgghQl16tP8kcR75ODw4Sd6cvPSiCjja1y047L8mNhM0Bfw24IELjV4bY7uPIAXbBnOSnuQWUd0oodAh-38JQHGQqPPWAbzfSgK94KUjDFjZNUh44VmaVrZ-Y_a7g=w4080-h3072-s-no-gm?authuser=3)
 _I used this tool to locate holes with equal distance_
 
-Then I countersunk the holes that needed to be countersunk and put a aluminum washer on the back as strengthener.
+Then I countersunk the holes that needed to be countersunk and put an aluminum washer on the back as strengthener.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMou-cqTpUwGeF7Y4G1qKlZgZt66R3LF_GdkwPwQ994ItdWbddHxxz7vYX5wPPoomPVDPNyujPhx89BBz4tkAJpfhCJyZgFyP-aDZfiyzz4PU-O_2bxc_wMlH7qwNbJvg3kdvACNgndMD1GhyfGzI7z6A=w4080-h3072-s-no-gm?authuser=3)
 _Match drilled holes_

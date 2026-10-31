@@ -18,7 +18,7 @@ Today's still preparing for the engine start.
 
 ### Fuel Pressure Test
 
-I connected the fuel line to the engine inlet. The full fuel circult is complete.
+I connected the fuel line to the engine inlet. The full fuel circuit is complete.
 
 Then I turned on the Rotax pumps to see the fuel pressure. It reads 46.1/46.2 PSI, which is slightly higher than the 46 PSI normal operation range but smaller than the max range. I am not sure what to think of that.
 

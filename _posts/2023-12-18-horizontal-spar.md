@@ -15,7 +15,7 @@ When making dimples on the parts for sheet 2, many pre-drilled holes are very cl
 
 I googled around and it seems most folks would grind down their dimple die and the hand dimpling tool.
 
-Easy enough, I pulled out my bench grinder and got it grinded down slightly.
+Easy enough, I pulled out my bench grinder and ground it down slightly.
 
 ![dimple_die](/assets/img/20231218/dimple_die.jpg)
 

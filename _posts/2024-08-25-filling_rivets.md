@@ -40,7 +40,7 @@ As I was filling the rivet on right aileron, I noticed the aileron binds when I 
 
 After some finding, it turns out the 2 hinges on the far outboard side binds to each other when the aileron goes up. The binding is not severe, but it definitely should not be there.
 
-I did not try to solve it today. I will log this as an issue, and I will play with the spacing when doing final assmebly. I'm thinking I might need to either bend the hinges some more, or adjust the washers to provide more spacing between the 2 hinges.
+I did not try to solve it today. I will log this as an issue, and I will play with the spacing when doing final assembly. I'm thinking I might need to either bend the hinges some more, or adjust the washers to provide more spacing between the 2 hinges.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMe4Ffymg9DaACVUSTfm1WHiuPqULoU2w5hjTFMrPmIHCSgcE6zRMMM327U5Svj18-KrErvrnkmtV8ZrGOlmSayGInZPJLS2YZRtPPdYpXcuqX4qyMUU3I79YulbM8ly28hPehTrBdC4h4G6BTrby1lMQ=w2174-h2888-s-no-gm?authuser=0)
 _The green part rubs against the other hinge_
@@ -59,4 +59,4 @@ _Tank ribs being clecoed_
 
 I didn't take pictures, but I also test fitted the small parts on each end ribs: fuel return fitting, fuel inject, drain sump.
 
-Next step: I will put the assmebly on the wing, then match drill everything.
+Next step: I will put the assembly on the wing, then match drill everything.

@@ -16,11 +16,11 @@ I need to adjust the prop fine pitchstop before first flight to ensure the RPM i
 
 I fired up the engine and waited for the oil temp etc to warm up, then taxiied to the run-up area to do this.
 
-The engine was cranked to full throttle, while I kept the prop pitch at manual. Then as the RPM stablized, I used the manual adjust switch in the cockpit to move the blade pitch to finer.
+The engine was cranked to full throttle, while I kept the prop pitch at manual. Then as the RPM stabilized, I used the manual adjust switch in the cockpit to move the blade pitch to finer.
 
 Once I reached 5700 RPM I started moving the blade angle.
 
-Then I taxiied back to the hangar and removed the prop hub to expose the pitchstop adjusment screws.
+Then I taxiied back to the hangar and removed the prop hub to expose the pitchstop adjustment screws.
 
 Based on the service manual from Airmaster, I turned the adjustment screw between blade #1 and #3 counter-clockwise to reduce the fine pitch RPM. I was in a very quite hangar so I was actually able to hear when the pitchstop microstop switch touched the screw. That's the spot I wanted to set.
 

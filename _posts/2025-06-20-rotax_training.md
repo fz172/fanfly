@@ -12,7 +12,7 @@ minutes: 2400
 
 ## Details
 
-This week I went to Petaluma to attend some trainings on servicing the Rotax engine. The training school is Motive.areo and they offer a lot of classes. I signed up for service rating, maintenance rating, and the installation class. The goal is to learn as much about the engine as possible before the actual installation.
+This week I went to Petaluma to attend some trainings on servicing the Rotax engine. The training school is Motive.aero and they offer a lot of classes. I signed up for service rating, maintenance rating, and the installation class. The goal is to learn as much about the engine as possible before the actual installation.
 
 The week started with the 2 day service rating class. We did some class lecturing, spent quite a lot of time working on a real engine. We did oil change, practiced burping, purging, carburetor synchronization, and a few other things.
 

@@ -31,7 +31,7 @@ A benefit is that I won't need to get under the dashboard to attach/detach thing
 
 Per Sling instruction `FF-ASS-S06-C-F-0-A-2`, the OEM 90 degree angled coolant flange needs to be replaced by a straight fitting. This looks much easier to do when the engine is not attached. So I just did it.
 
-Removing the 2 hex bolts was trivial. I swapped the flange with the new one provided by Sling, then put the bolts back at 10 nm torque. Easy.
+Removing the 2 hex bolts were trivial. I swapped the flange with the new one provided by Sling, then put the bolts back at 10 nm torque. Easy.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNaI08PVp5moL92AA32Xy0S6gpzkSEc4AW0IXiWys7dLWnYhYvtKfbX5_V9RtnslaxS2Ta-pmibYcpKBkXC7Qmv-fCgwOo7UJkvvM-0RESMEV3JRA264TJWQTeAqDYLBht8F8kYdoL1P2yLMdVu6rQ0iA=w618-h823-s-no-gm?authuser=0)
 _The old flange_

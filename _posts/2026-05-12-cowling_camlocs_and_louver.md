@@ -16,7 +16,7 @@ minutes: 315
 
 Throughout the build, I was frustrated on many steps: fuel tank, wiring harness, control tubes fitting.
 
-But working is compoisite is close to the top of my least favorite type of work. It's not precise, and super duper dusty.
+But working is composite is close to the top of my least favorite type of work. It's not precise, and super duper dusty.
 
 As I started the day thinking: today let me just spent 1 hour to install the inspect doors then I will work on the intercooler, it turned into a properly full day of fiberglass trimming and fitting. The silver lining, by the end of the day, is that I have probably completed 80%-90% of all fiberglass work required on my airplane.
 

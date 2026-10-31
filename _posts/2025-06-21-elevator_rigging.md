@@ -21,7 +21,7 @@ First thing in the morning today, I connected the harness/connector for the trim
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNb0471lv19EEwZfJK0qpvSbbteAe_yHP9_cdBedXB4WddM773pNQA0VR_hLS9FDKW4JsFoyQsRgsVrV6OQOsmg5RqcQLpnexY9kntP6ZfBJZtSGs9sB_xFKXsIpLI-xy3J0Qp9DO96KfuDAVnwiNlgJg=w1290-h1712-s-no-gm?authuser=0)
 
-While connecting the wires, I also spent some time to cable tie the wires. I also added a small piece of sound proofing foam right next to the wire to avoid rubbing the connector directly against the skin.
+While connecting the wires, I also spent some time to cable tie the wires. I also added a small piece of soundproofing foam right next to the wire to avoid rubbing the connector directly against the skin.
 
 When all the connectors connected, I ran a quick power-on test for the trim motor.
 

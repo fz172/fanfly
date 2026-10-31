@@ -27,7 +27,7 @@ I first drilled a tiny hole on the rib, then switched to a dremel head to enlarg
 ![slot](https://lh3.googleusercontent.com/pw/AP1GczP_u-s9hnWBqyfmuW6pGliffWKald1DAxUAaYUpFVGa46h7vDGy_S0zvkVwofRorph_E02NiUSXHsShjW8lakAZ6rbmZksEJ35b9BU33NYwseEMasaMaCbISWdPkC5nONi6ZiHzDt-I0clglngx8N57Tg=w3850-h2888-s-no-gm?authuser=3)
 _Here is the final result_
 
-### Cleaning and dimping parts
+### Cleaning and dimpling parts
 
 Finally it's time for the right top skin.
 

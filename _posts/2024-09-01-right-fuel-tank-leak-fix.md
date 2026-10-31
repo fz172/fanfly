@@ -23,7 +23,7 @@ Many people build their own manometer to test air preassure change in the tank. 
 
 I bought all equipments from Amazon:
 
-- Clock with capabiilty to show temperature
+- Clock with capability to show temperature
 - AN4 end cap
 - An6 to 1/4 NPT fitting (need 2)
 - Low reading pressure gauge, measing up to 3 PSI
@@ -32,9 +32,9 @@ I bought all equipments from Amazon:
 
 Set up:
 
-- Use AN4 end cap to seal the fule overflow port
+- Use AN4 end cap to seal the fuel overflow port
 - AN6 to 1/4 NPT connect to both fuel return fitting and fuel inlet fitting
-- Bike vavle to 1/4 NPT
+- Bike valve to 1/4 NPT
 - Pressure gauge to 1/4 NPT
 
 Process:
@@ -53,7 +53,7 @@ I then started to research rethreading, and bought (mistakenly) an AN6 rethread 
 
 I tried to use it on the fuel return fitting, the die immediately jammed and required a huge force to turn. I understand how it worked but really was not comfortable turning that hard.
 
-I returned the rethreading die resumed my research. And apparently there is something called `thread chaser`. It works in similar ways as a rethreading die, but is much less intrusive. I bought a set of thread chaser from Amazon. When it arrived, I first tried on a good AN6 fitting. The chaser die turned onto the good fitting smoothly, and did not cut anything. I was happy with the result, then I started to use it on the return fitting. It shared away so metal, and then I was finally able to install the preassure guage.
+I returned the rethreading die resumed my research. And apparently there is something called `thread chaser`. It works in similar ways as a rethreading die, but is much less intrusive. I bought a set of thread chaser from Amazon. When it arrived, I first tried on a good AN6 fitting. The chaser die turned onto the good fitting smoothly, and did not cut anything. I was happy with the result, then I started to use it on the return fitting. It shared away so metal, and then I was finally able to install the preassure gauge.
 
 If anyone run into similar issue, DO NOT buy rethread die. Try a thread chaser first. If it doesn't work, then consider rethreading. But don't do it form the get go!
 
@@ -78,7 +78,7 @@ _Leak detected_
 
 Looking at the fitting, I don't know what I was thinking. I did not put proseal around the washers!
 
-Fixing the fitting is standard. I mixed a bunch of proseal and smeared it to both inside and outside of the tank, covering the washer and amost the bolt entirely.
+Fixing the fitting is standard. I mixed a bunch of proseal and smeared it to both inside and outside of the tank, covering the washer and almost the bolt entirely.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO1PeIhMpDmevgexVA6UawwWeT2jwBaj_vVPjjwl6zO5b-kXDP7EPc3EnrMP5gJRPUvmXiddb6WmkzMTlg5vBzPIrje3_SNRrTwaZbkyjKmnPvmm-83qCSVmfDNVtIa6aWDBL_GBRPPhXiIYhNFZJb01A=w3836-h2888-s-no-gm?authuser=0)
 
@@ -102,9 +102,9 @@ After having done all these work, I started the second round of test 2 days ago.
 
 Friday afternoon 6:30, I pumped the air to 0.95 PSI. The gauge dropped to 0.90 within 15 minutes.
 
-- Theory: air coming from the pump is heated so it takes a while to stablize the pressuring.
+- Theory: air coming from the pump is heated so it takes a while to stabilize the pressuring.
 
-Over the next fiew hours, the pressure kept dropping. By 11:30pm, it dropped to 0.8 PSI.
+Over the next few hours, the pressure kept dropping. By 11:30pm, it dropped to 0.8 PSI.
 
 - Theory: Night temperature drop significantly affected the pressure in the tank.
 
@@ -128,7 +128,7 @@ I clecoed the tank to the wing with some help with my wife, and we riveted it on
 ![img](https://lh3.googleusercontent.com/pw/AP1GczNxnrg895XwLueH_r1J5PGeDN_te6cJTwcH87d7JrXefkafOSe_dzmkoyc0QJZ09kK5Sm715YDZx2jrsT3tuQ3CE6jfPSCLyqWLHPN96DKG4X023jjrvXobEVJppDS4ylGEIXsIq4lf036HAXa8HKzZHg=w1290-h1712-s-no-gm?authuser=0)
 _Tank is finally on the wing!!_
 
-I chose to use S.S. rivets near the wing root 50cm length out of precaution. This is sugggested on S.B 14 for Sling 2 but not for Tsi. I don't think it hurts though, so I just did it. I don't have duralac or
+I chose to use S.S. rivets near the wing root 50cm length out of precaution. This is suggested on S.B 14 for Sling 2 but not for Tsi. I don't think it hurts though, so I just did it. I don't have duralac or
 tel-gel as anti-corrosion agent on the steel rivet, so I just dabbed them in proseal. This is acceptable per the KAI.
 
 With everything done, I moved the wing onto the rack. Time for next wing :)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Right spar assembly 4 complete, started assmebly 3"
+title: "Right spar assembly 4 complete, started assembly 3"
 categories: [Wing, ~right_spar, ~right_ribs, ~right_skin]
 tags: [wing_spar, wing_rib, skin]
 minutes: 240

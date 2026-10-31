@@ -8,7 +8,7 @@ minutes: 120
 
 ## TLDR
 
-- Fuel sender and a few smal parts for left tank
+- Fuel sender and a few small parts for left tank
 - Tried to fit left landing light lens
 
 ## Details

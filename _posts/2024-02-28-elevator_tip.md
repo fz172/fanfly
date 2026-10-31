@@ -39,7 +39,7 @@ On the left side, the match between skin and tip is perfect. On the right side, 
 Next I dimpled the skin, which was pretty straightforward. The DRDT is already calibrated so I just pressed away.
 ![wip](/assets/img/20240228/dimple.jpg)
 
-The most unpleasant part of the task is countersinking. The composite is pretty soft and it has a notch above the holes to countersink. These things made it impossible to lay the countershink microstop flat on the surface.
+The most unpleasant part of the task is countersinking. The composite is pretty soft and it has a notch above the holes to countersink. These things made it impossible to lay the countersink microstop flat on the surface.
 
 I cut a small strip of aluminum roughly at the same thickness of the notch, and put under the microstop as a shim. Then the drill was able to lay (kind of) flat. I closely controled the drill speed to make sure it didn't remove too much material. It took a long time to finish all 40 holes but the final result was ok.
 ![wip](/assets/img/20240228/countersink.jpg)

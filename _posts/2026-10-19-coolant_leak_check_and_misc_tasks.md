@@ -26,9 +26,9 @@ Next check: run the engine warm and let it cool down, then check if the level ch
 
 I wasn't happy about the fuel calibration that I did a few weeks ago, especially on the left tank. During last calibration, I read the resistor's voltages for every 2 gallons of added fuel. But I wasn't happy about the readings as some of them were way too close.
 
-Since I had to drain the fuel for W&B anyway, I took this opportuinity to redo the fuel calibration on the left tank.
+Since I had to drain the fuel for W&B anyway, I took this opportunity to redo the fuel calibration on the left tank.
 
-Same process as last time: 2-3 gals added to the tank in increments, and read/record the votage readings on G3X. With experience from last time, the calibration this time went smoothly.
+Same process as last time: 2-3 gals added to the tank in increments, and read/record the voltage readings on G3X. With experience from last time, the calibration this time went smoothly.
 
 ### Inspection Hatch Install Tool
 

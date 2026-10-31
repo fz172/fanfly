@@ -23,7 +23,7 @@ With the wing set on the table, it's more accessible so I spent 30 minutes or so
 
 I match drilled every holes on the left tank in preparation of sealant.
 
-The entire process is mindless and tedious. It was really easy to miss a hole. My system is to draw a line direclty on top of the hole with a marker after match drilling. Then I double check each hole has been marked.
+The entire process is mindless and tedious. It was really easy to miss a hole. My system is to draw a line directly on top of the hole with a marker after match drilling. Then I double check each hole has been marked.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOs8gZ81Bb9D2HdpOYxR7-6wOkYnSvJxpf6cabSF7PGVw0GChSkPS2H37tK-HjXnimM8fBwiWnssPvFi8i_jPYR1EsMN9yrbBxuXaq5KeCsnroY74NbJZL8iQtVtOCBbNmCkqWdzB2RFxtlpOhJ1BP_NQ=w1290-h1712-s-no-gm?authuser=0)
 _Marked holes are match drilled_

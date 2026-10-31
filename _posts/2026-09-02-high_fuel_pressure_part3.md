@@ -32,7 +32,7 @@ I guess it's not surprising, because I previously disconnected the line from the
 
 ### Inspection Found Fuel Leak
 
-Yesterday I connected the rebuilt rubber fuel hoses to the engine, and today I found a fuel leak before testing the engine again. The access was fortunately easy, so I just tightned it another 1/8 turns.
+Yesterday I connected the rebuilt rubber fuel hoses to the engine, and today I found a fuel leak before testing the engine again. The access was fortunately easy, so I just tightened it another 1/8 turns.
 
 ### Redoing the Manifold Air Hose
 
@@ -44,7 +44,7 @@ While I was redoing the clamps, I also rerouted the air hose just to be sure the
 
 So the next test I did this afternoon focused on higher RPM runs.
 
-My theory: Midwest told me they've seen 47-50s PSI when airplane was on the ground. It makes me wonder maybe the high PSI that I'm seeing isn't really a problem. Maybe it's truly because of the pump and not some kind of kink in my fuel lines. So if I can run it at higher RPM, maybe the engine drinks more fule, AND the manifold pressure goes up, so the differential pressure can go down a little?
+My theory: Midwest told me they've seen 47-50s PSI when airplane was on the ground. It makes me wonder maybe the high PSI that I'm seeing isn't really a problem. Maybe it's truly because of the pump and not some kind of kink in my fuel lines. So if I can run it at higher RPM, maybe the engine drinks more fuel, AND the manifold pressure goes up, so the differential pressure can go down a little?
 
 I did the normal engine start-up, and built up the RPM to 4000 RPM. What made me feel better was that the pressure didn't shoot up like last week.
 

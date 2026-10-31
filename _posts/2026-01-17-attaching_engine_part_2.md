@@ -18,7 +18,7 @@ I came back to the hangar today and finished the remaining work for attaching th
 
 The Sling instruction calls for `38 nm` with oiled torque. In my initial installation I greased the bolts.
 
-As I researched into difference in torque values, it turns out the the value is different between an oiled bolt and a greased bolt.
+As I researched into difference in torque values, it turns out the value is different between an oiled bolt and a greased bolt.
 
 The grease is smoother, more sticky. So it's better at reducing friction when torquing compared to oil. So if I torque the bolt to 38nm when greased, it will be over torqued.
 

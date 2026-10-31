@@ -29,7 +29,7 @@ The passenger seats on the back are slightly more difficult to upholster. There 
 
 So I first installed the leather seat cover, then burned holes using soldering icon to reveal the rivnuts, and finally installed the screws on the back of the seats.
 
-The time consuming part is finding the right position to burn holes. I was a a little worried that the burnt holes might be slightly misaligned with the rivnuts. But turns out it was a non-issue. I used a ice pick to poke through the material until I found each rivnut under the cover. It was pretty accurate, and everything turned out to be fine.
+The time consuming part is finding the right position to burn holes. I was a little worried that the burnt holes might be slightly misaligned with the rivnuts. But turns out it was a non-issue. I used a ice pick to poke through the material until I found each rivnut under the cover. It was pretty accurate, and everything turned out to be fine.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPSEEZr5lePdNJ0vzkCyIH2qYeTCp5YJ-2SqWy9EiHX5BGkq7mg3Okukd8uYfnZd6VInp_W-6P9X1vHIpEca8xc2xJV7LvCG2g29QlVP2Qc4KInmK-E2FINtcUnbxOrEpy0_MlhCQavdpsHtT-Te9bP7Q=w3836-h2888-s-no-gm?authuser=0)
 

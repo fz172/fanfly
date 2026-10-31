@@ -16,7 +16,7 @@ I'm done with the canopy windows, and moved the remaining parts to a smaller box
 
 With that, the canopy crate is officially empty!
 
-I need the space to put the engine crate. So I spent some time to disemble the crate and throw it out in parts.
+I need the space to put the engine crate. So I spent some time to disassemble the crate and throw it out in parts.
 
 The process was pretty much just muscle work, with some help of a band saw. 45 minutes later, the crate is gone :-)
 

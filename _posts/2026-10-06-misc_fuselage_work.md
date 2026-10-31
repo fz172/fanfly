@@ -19,7 +19,7 @@ I finally received my permanent registration card from the FAA.
 
 I compared the writings on the registration and the data plate's writing. Everything looked correct. I drilled 2 small holes on the side of fuselage and put the data plate on.
 
-The data plate was made from stainless steel. Out of caution, I applied some tef-gel on the plate to prevent disimilar metal galvanization.
+The data plate was made from stainless steel. Out of caution, I applied some tef-gel on the plate to prevent dissimilar metal galvanization.
 
 ### MFD Installation
 

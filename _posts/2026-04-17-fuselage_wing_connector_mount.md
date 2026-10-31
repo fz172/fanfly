@@ -34,7 +34,7 @@ Then riveted the plates permanently in place with 4.0mm rivets.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMk0yPgeZgo9quNTq6I8fvBpW4Nq96dYTe432FF81C11WQMBX52hUWaKIaNrYIbHtUJrEiEVMokNQDvSD7G9JWOJo-Z0vH85X29zsOtBOe3RaxqwG3B9iEq46EX5n_Id1_njhRHBIBQmUO3abUfKOYaaw=w1159-h869-s-no-gm?authuser=0)
 
-The connetor itself is mounted on the plate through 4 M4 screws and locknuts on the back.
+The connector itself is mounted on the plate through 4 M4 screws and locknuts on the back.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMCwi-X4_TwYFwL2gs8Tat8uwuBOYaLga-yXwTe3R8y1Co-4fAwkoONEeKwTbn5Y376SJ6aQ8f9Cb6efc4jXrvdgbfNBQ2Yc7-rr0TPTJsFjgX1pasepk1rqBbV-TkNdrBbLo1jo8bWSTSkCFiJcRcy3Q=w1159-h869-s-no-gm?authuser=0)
 

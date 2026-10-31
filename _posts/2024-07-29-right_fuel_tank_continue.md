@@ -19,7 +19,7 @@ minutes: 120
 
 According to the KAI, I bent the fuel sender floater arm to length and tested the ohm readings from a multi-meter.
 
-At full, the reading is 4 ohm. And and empty the reading is 180-ish on both fuel senders. I will need to wait for fuel tank skin and rib to be riveted before test fitting the fuel sender and make sure the floater ball touches both top and bottom skin.
+At full, the reading is 4 ohm. And empty the reading is 180-ish on both fuel senders. I will need to wait for fuel tank skin and rib to be riveted before test fitting the fuel sender and make sure the floater ball touches both top and bottom skin.
 
 For now, the multi-meter test is good enough.
 
@@ -50,6 +50,6 @@ Lastly, I did some quick work before my EAA technical counselor comes tomorrow.
 
 I unclecoed and removed the top skin from left wing. I imagine we will take a look at the innards before I close the wing.
 
-I also tried to fit the main spar doubler one more time. The doubler's hole was really terribly drilled. This is unlike Sling's typical worksmanship. I'd say 30% of the holes just didn't match.
+I also tried to fit the main spar doubler one more time. The doubler's hole was really terribly drilled. This is unlike Sling's typical workmanship. I'd say 30% of the holes just didn't match.
 
 I managed to match all the holes on the bottom side with no match drilling, but there is no way the top will match. I previously asked Sling if I can cut the doubler in half and match individually and they said it's fine. So I matched about half of the top doubler, match-drilled a few, then drew a line using a marker between the holes that I think will for sure not match. That's about 6 holes towards the outboard end. I will cut them in half along the marker line and match individually. Probably will also use super glue to hold it to the spar before riveting.

@@ -23,7 +23,7 @@ Previously I had 2 grounding lugs on the firewall, one near the battery and the 
 
 So the plan is to route everything to the lug near the battery. Some wires were too short, so I bought some 14GA wires from Aircraft Spruce and will rebuild those wires when my order arrive. I decided to use adel clamps to secure the wires along the route.
 
-I removed the the few connections going to the fusebox grounding lug. The hole was pretty big, so I installed an M5 rivnut (instead of my usual M4) to cover the hole.
+I removed the few connections going to the fusebox grounding lug. The hole was pretty big, so I installed an M5 rivnut (instead of my usual M4) to cover the hole.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPfLuSjbnMk_uQHj1CKUCeoftbRMm5Z0BH8HinGrwxGCZM_wa1AXxUrJlQ0aAErufgsEFNhuMpLN-r31Q7GTRLPIhF-E50w3D3plm0iN9no16xeC08CmM_a6ObLp4DC6BLYqwYUHaY-YrpoS1-kSRAFyg=w655-h873-s-no-gm?authuser=0)
 

@@ -40,7 +40,7 @@ _Tail harness connectors_
 
 4 wires from the harness needs to connect with the cabin overhead wires to power the cabin lights.
 
-I elected to use GT150 delphi connector just because I have a few in my tool box. The process was slow due to spacing, but pretty straight forward following the wire diagram from MWPB.
+I elected to use GT150 delphi connector just because I have a few in my tool box. The process was slow due to spacing, but pretty straightforward following the wire diagram from MWPB.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPLh6ka3ijiZ8Ot9hni0qbenmaLvtxvhK_GFBts6kIpxlGhjZwp2Rg-MmG58z_0EiYnRUenAlOtTT1Io708tcm7CTUavPKj9TlJgtOvT1RnXfWpb9LS1iZTdlwE3rmnhMyPR-eRDXpFXaxRG5iMOcbZLQ=w2174-h2888-s-no-gm?authuser=0)
 

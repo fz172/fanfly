@@ -29,7 +29,7 @@ This was a long evening - 4 hours of prosealing and riveting on the back channel
 
 The process isn't complex, I mixed proseal up, squeezed to the back channel and ribs, and then riveted them together.
 
-There were a lot of rivets, and proseal sticks to everything and slow down the process signficantly. So the entire process took more than 4 hours to complete.
+There were a lot of rivets, and proseal sticks to everything and slow down the process significantly. So the entire process took more than 4 hours to complete.
 
 I was trying to focus and speed up in the process, so I didn't take too many pictures.
 

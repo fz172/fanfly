@@ -28,7 +28,7 @@ It's secured in a metal cage through 2 screws. Once the screws are removed the r
 
 3. Arm the striker pins (there are 2 of them)
 
-I forgot to take picture at this step. I have vieo footage though. I will include them when I upload my next video blog.
+I forgot to take picture at this step. I have video footage though. I will include them when I upload my next video blog.
 
 4. Assemble the trigger
 

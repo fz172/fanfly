@@ -9,7 +9,7 @@ mermaid: true
 
 I decided to crack open step 1 (`HS-ASS-001-C-F-0`, sheet 2) of the empennage instruction this evening and get something done.
 
-This steps requires dimpling a bunch of parts which becomes a horizontal stabilizing rib assembly.
+These steps require dimpling a bunch of parts which becomes a horizontal stabilizing rib assembly.
 
 ### Steps
 

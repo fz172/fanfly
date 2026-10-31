@@ -53,7 +53,7 @@ The rudder is connected to the VS through 3 AN4 bolts. Installing them is a big 
 
 Anyways, the sequence was roughly: connect the wire, shove the connector into the VS, then connect the center bolt, then top bolts, then bottom bolt. That's the only sequence I found working for me. If I connect the top and bottom first, the middle bolt just won't align.
 
-Also, inserting the washer for each bolt was super painful too. Each bolt needed 4 washers. The top and bottom ones were easy, but the center 2 that needed to be sandwiched between the parts was simply not accessible by hand. I again used the 3D printed washer holder with a dab of glue for help. It required a bit practice, but after having to redo this part 50 times, I got pretty good at it.
+Also, inserting the washer for each bolt was super painful too. Each bolt needed 4 washers. The top and bottom ones were easy, but the center 2 that needed to be sandwiched between the parts were simply not accessible by hand. I again used the 3D printed washer holder with a dab of glue for help. It required a bit practice, but after having to redo this part 50 times, I got pretty good at it.
 
 #### Torquing the bolts
 

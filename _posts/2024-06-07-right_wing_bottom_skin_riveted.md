@@ -13,7 +13,7 @@ minutes: 180
 
 ## Details
 
-### Rigth bottom skin
+### Right bottom skin
 
 Continuing the work I started earlier this week, I spent many hours to insert rivets and pulled all but one rivets on the bottom skin.
 

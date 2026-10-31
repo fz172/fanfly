@@ -16,7 +16,7 @@ minutes: 240
 
 ### Leading edge
 
-I was busy this week and didn't spend much time on the build unfortunately. I managed to put in a few hours and finally got the right leading edge off the wing asembly today!
+I was busy this week and didn't spend much time on the build unfortunately. I managed to put in a few hours and finally got the right leading edge off the wing assembly today!
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMHgZtvBgBBbTP86VCpaBhkuUgdO1an6MZwhLd4RHoa-mUp3M-Wb-VNxP9UK2KwiTToxnjwwtdbMjV16E1CfQC35TWMEBNpdd9_v5Jhc5ekoaK1pKsCx1z4cA7g3BFCkgiBn_0IOwYmzdL7Gl2xG4wcIw=w4080-h3072-s-no-gm?authuser=3)
 _Right leading edge is removed_

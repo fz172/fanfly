@@ -28,7 +28,7 @@ The pitot tube assembly was missing 3 rivets. I have been holding it together us
 
 And there is a huge gap between the assembly and the wing skin itself. I am very confused why there is such a gap. The whole assembly is really not secured solid by anything. When Jason my EAA tech counselor first saw this I remember he was confused as well.
 
-As he suggseted, I added a band of blue RTV to seal the gap. The stuff is pretty soft, so it doesn't stop the pitot tube from wobbling when I shake it, but at least it blocks air and dirt from going into the wing.
+As he suggested, I added a band of blue RTV to seal the gap. The stuff is pretty soft, so it doesn't stop the pitot tube from wobbling when I shake it, but at least it blocks air and dirt from going into the wing.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczOqmf3tjH47P4eBhIlumbpieGME31CZEv1yb6BKEVdkHuEnSpdXWpfjRrES9HTGB9_fXnLvXtKp2jvKSuaBgVbmnnXSSLl0Kuk6hJ0uX4u28FBioAmE_OOIUG7upJS-uCeER5QUOWUTaySkV3S3JIWxBA=w2174-h2888-s-no-gm?authuser=3)
 _RTV on top, and 3 new rivets on the assembly (bottom three)_
@@ -43,4 +43,4 @@ my panel.
 In the end, we reached agreement on the panel design, and alas the panel works begins!!
 
 The TLDR is that I am going with single G3X + dual comm radio + GNX 375 navigator, and no nav radio. Since I have bought the smart fuel boost pump
-system, they will also just build the wiring harness direclty into the main wire bundle, which is very nice.
+system, they will also just build the wiring harness directly into the main wire bundle, which is very nice.

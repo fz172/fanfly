@@ -28,7 +28,7 @@ By lunch time, I pretty much got the bottom cowling cut and fitted.
 
 After fitting the bottom cowling, I did another measurement with caliper on the front cowling gap. This time I got 5mm - 7mm gaps all around. It's still within the range specified by Sling and Airmaster.
 
-### Camloc Pilit Holes
+### Camloc Pilot Holes
 
 I used a hole finder between each pre-drilled camloc hole on the airframe and the cowing, and drilled 3.2mm holes on the composite part. After drilling the holes, I used a cleco with a home-made washer to hold the cowling and the airframe together.
 
@@ -39,9 +39,9 @@ _I cut this strip to 8-9 pieces of little squares and drilled a hole on them, an
 
 ### Stiffener Strip Painting
 
-Since the stiffener will likely go through a lot of wear and tear in the future, I dicided to prime and paint it for an extra layer of protection.
+Since the stiffener will likely go through a lot of wear and tear in the future, I decided to prime and paint it for an extra layer of protection.
 
-I used the films left over from window painting and carefully covered the engine and skin near the the stiffener strip. Then I used a rattle can spray primer/paint on the stiffener.
+I used the films left over from window painting and carefully covered the engine and skin near the stiffener strip. Then I used a rattle can spray primer/paint on the stiffener.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczO2nhCQoi861XUf5t_baB7Dv9s4w3Ukopv8kXiazSSgxYJwOKpfUydWVisj3i-0KB_NyWhK6blFCMZnULIxW79uvUuTGx1w1PLj6scmGYT_QbFUmpUwUuDkUe4YTu1RzafZ9en-evI7ESSMZisK22El2w=w1709-h1282-s-no-gm?authuser=0)
 

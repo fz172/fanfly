@@ -29,7 +29,7 @@ _I used the dowty seal at the bottom of this picture, purchased from summit raci
 
 I have been witnessing a slow coolant level drop in the overflow tank ever since I had the first engine start. I didn't know if if it was normal and I've been looking at every single connection/joint when the cowling was off.
 
-Today I found a spot leaking coolant. It's the plastic connection on the overflow tank. It's connected to a rubber hose with an ear clamp. There is no heavy drip, but I could see a tiny trace of liquid seeping through uthe rubber hose. I am really hoping this is the reason for my coolant level drop.
+Today I found a spot leaking coolant. It's the plastic connection on the overflow tank. It's connected to a rubber hose with an ear clamp. There is no heavy drip, but I could see a tiny trace of liquid seeping through the rubber hose. I am really hoping this is the reason for my coolant level drop.
 
 So I cut off the ear clamp, and replaced it with a spring clamp. A sprint clamp should hold constant tension better when the coolant temperature changes between hot and cold.
 
@@ -45,7 +45,7 @@ _Changed to sprint clamp_
 
 Another misc task from today was that I adjusted the cowling seal against the coolant radiator so it sealed better.
 
-The coolant radiator is latched onto the cowling, and there is some sealing foam around the radiator perimeter to force the air go through the radiator. On mine, some part of the seal was not fully sealted against the radiator.
+The coolant radiator is latched onto the cowling, and there is some sealing foam around the radiator perimeter to force the air go through the radiator. On mine, some part of the seal was not fully sealed against the radiator.
 
 So I removed the seal from the cowling and did it again. This time, I put a layer or rubber before the foam seal so the seal could get closer to the radiator when mounted.
 

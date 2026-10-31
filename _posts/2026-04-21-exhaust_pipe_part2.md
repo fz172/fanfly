@@ -36,7 +36,7 @@ _The cutting has started_
 ![](https://lh3.googleusercontent.com/pw/AP1GczNo3Lt3cxhEBgST2uQDNNWkHrzo4daa8kxPBVdrb4PVtTPnrTMPeGaGznYGP-IQLSe9ee8Xyh6Jere_gNfyAIfGQ7zfj229gKLaDgndzwTjSJDwQrp7X37phdThaLB_Cwl0I60AGX1SERVQ4ceXpQah_A=w1709-h1282-s-no-gm?authuser=0)
 _Almost done for this step_
 
-Step 3: cut the exposed parts below the welded cover where the the angle grinder can still reach.
+Step 3: cut the exposed parts below the welded cover where the angle grinder can still reach.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczNdEmnec5tvV1N08b88PiQA-m_c5V-hnBlzjglYQ-CpENG4_eWlFHy0B15TnjROgpl3oDUcDq7C1HQ-LuBBh6pB6sMseQp7h5_XkJ8yjNUqV5c88wN1mDQZn6CIHKiZ9HYw1md7485iRZBbhLtIiy2AtQ=w1709-h1282-s-no-gm?authuser=0)
 _The white lines are where I will make the cut_
@@ -46,7 +46,7 @@ Step 4: switch to a dremel with 2 inch cutting wheel, and cut the top half of th
 ![](https://lh3.googleusercontent.com/pw/AP1GczMpnYU9R0BWIt_-zOGiiZLURPfwyGcKkmzOrDt19K_x03QqI_veY56iab7QlDvBmY2bwFP_czwzl92K7ojKBhAbMwKjtq5qtlwLU_yCXua_uu05xS8gAoSZR3C2oZcbIhtHPDZroiUOZsPA1XQ_uWl8Hg=w1709-h1282-s-no-gm?authuser=0)
 _Cutting from under with a dremel_
 
-Step 5: Use aggresive deburring bit on a dremel to grind off the welding lines, and release the top half pipe from the welded exhaust cover.
+Step 5: Use aggressive deburring bit on a dremel to grind off the welding lines, and release the top half pipe from the welded exhaust cover.
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPMftOTrhIl_sO2nDm8TVful4iiKQtL7ko-hLjp28MK3nxmg1bgUGdeGBRcU0fqTcrLSbbV0zfVXWZ_cfzH1MNHMVwTzWb-RuLESxtbJUrqZLQRdQoZbQK-QT1tb7XfvNYd4FuypI3ub1rXD0l514je0g=w1709-h1282-s-no-gm?authuser=0)
 _After much battle with the welding, it's gone_

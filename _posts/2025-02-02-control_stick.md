@@ -38,7 +38,7 @@ After the wire is in place, I connected the elevator pushrod and made sure a ful
 
 See picture above.
 
-I actually think I might have done this differently from wht MPB had in mind. I am guessing the intention is to have the connector outside of the control stick box, and the harness will be attached to the box wall. The whole connection will be on the outside for easy removal if needed.
+I actually think I might have done this differently from what MPB had in mind. I am guessing the intention is to have the connector outside of the control stick box, and the harness will be attached to the box wall. The whole connection will be on the outside for easy removal if needed.
 
 I connected the CPC on the inside. Since the wire is long enough for a full range of motion, and I have tested continuity of each wire, I did not want to take it apart and do it over. If there is a need to remove the control stick, I think I will just cut the wire and make an extension when that happens.
 

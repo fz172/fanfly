@@ -46,4 +46,4 @@ I put too little 295 initially. When I clamped the window and canopy together I 
 
 ### Finishing
 
-Lastly, I waited overnight for the 295 glue to set. Then I used a craft knift to shave off the extra glue that went over the flat surface of the window/canopy to make it look nicer. It's mostly flat with a few bumps. I think using a 220 grit sand paper will be easier than the knife to make them all flat. Since I am planning to spray a layer of primer on top of the glued area, I will have to sand around the edge anyway. So I am calling the work done at this point :)
+Lastly, I waited overnight for the 295 glue to set. Then I used a craft knife to shave off the extra glue that went over the flat surface of the window/canopy to make it look nicer. It's mostly flat with a few bumps. I think using a 220 grit sand paper will be easier than the knife to make them all flat. Since I am planning to spray a layer of primer on top of the glued area, I will have to sand around the edge anyway. So I am calling the work done at this point :)

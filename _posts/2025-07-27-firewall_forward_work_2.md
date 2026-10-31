@@ -8,12 +8,12 @@ minutes: 300
 
 ## TLDR
 
-- Installed the fule pump bracket
+- Installed the fuel pump bracket
 - Misc research work on fuel lines''
 
 ## Detail
 
-### Fuel pump brakcet
+### Fuel pump bracket
 
 The fuel pump bracket for my installation is slightly different from the instruction in the KAI.
 

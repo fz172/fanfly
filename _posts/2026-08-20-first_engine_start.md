@@ -22,7 +22,7 @@ In the morning I pulled the airplane out and did one more round of checking. Dis
 
 3 things I was particularly concerned before the start:
 
-- The leak above - tightned
+- The leak above - tightened
 - Fuel pressure high - Sling said it's fine
 - Harness - not sure if any damage was done to the harness when power/ground got swapped on the Rotax fusebox during initial install
 
@@ -35,7 +35,7 @@ Brian volunteered to stand next to the airplane to spot any issues. I made a sho
 1. Just confirm the engine actually starts
 2. Oil PSI should rise immediately
 3. Temp should rise
-4. Amp should be positve
+4. Amp should be positive
 5. Fuel pressure monitor
 
 Then I turned the key. The engine started almost right away with no hesitation! This feels so different from a Cessna's Lycoming.

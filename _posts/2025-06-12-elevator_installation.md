@@ -37,7 +37,7 @@ With the prep work, putting the bolts washers and nuts through became much easie
 But torquing the nuts were a little tricky too due to the confined space. My torque wrench didn't really fit. So I had to grind down the socket so the wrench can barely reach the bolt. Then I torqued down everything to the AN4 spec.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO2Er5bXUvNqR7djR6z5D8xef4EIiPJSwsNLXodA_bUY_kqbaSV0ztURHwiw3oQJHplK1_7736tzSIPkW78Ypp2yMG0Ig90fqLYh_fgVXFyK8KA5HAz_UUopuX3akqhNvvFAsf3UukmCtTk4Tq8Q9guUA=w2282-h1712-s-no-gm?authuser=0)
-_Guess which socket was grinded down?_
+_Guess which socket was ground down?_
 
 After two hours of playing with bolts in super small space, the work is done.
 

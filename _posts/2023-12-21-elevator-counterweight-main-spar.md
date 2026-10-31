@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Balance counterweigh assembly & main spar"
+title: "Balance counterweight assembly & main spar"
 categories: [Empennage, ~elevator]
 tags: [elevator, elevator_spar, video]
 minutes: 360
@@ -13,9 +13,9 @@ Last few days, I decided to try something on the elevator. I finished `EL-ASS-00
 
 > This is on sheet 8 of `EL-ASS-001-C-F-0`.
 
-This looked small enough, and did not require any countersink or dimple. I decided to build this a try.
+This looked small enough, and did not require any countersink or dimple. I decided to give this build a try.
 
-Yesterday, I picked out the parts and did the routine: cleco, match drill, take it part, clean, prime.
+Yesterday, I picked out the parts and did the routine: cleco, match drill, take it apart, clean, prime.
 
 And today, after the priming I finished the job by riveting it together. I pulled my first rivet! There were some nerves but once I tried the first one it was pretty easy!
 
@@ -23,13 +23,13 @@ And today, after the priming I finished the job by riveting it together. I pulle
 
 ### Could not reach tight spaces
 
-The instruction was clear and the whole process was pretty easy. I did have to skip 2 rivets near the angle bracket because the rivet holes were too close to the corner and my rivet gun couldn't reach. I tried to use the [Close Quarter Rivet Pulling Wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge) but my Milwaukee rivet gun would not bite on the rivet. I think this is probably a issue with the gun. I bought a hand riveter on amazon. I will come back to these 2 rivets when I receive my hand puller.
+The instruction was clear and the whole process was pretty easy. I did have to skip 2 rivets near the angle bracket because the rivet holes were too close to the corner and my rivet gun couldn't reach. I tried to use the [Close Quarter Rivet Pulling Wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge) but my Milwaukee rivet gun would not bite on the rivet. I think this is probably an issue with the gun. I bought a hand riveter on amazon. I will come back to these 2 rivets when I receive my hand puller.
 
 ![could_not_reach_rivet](/assets/img/20231221/elevator_counterweight_finished_2.jpg)
 
 ### Torquing bolts
 
-Another task I skipped was torquing the AN3 bolts. This is because I don't have a torque ranch yet. Just bought one from amazon. Hopefully I will receive it this weekend or next week.
+Another task I skipped was torquing the AN3 bolts. This is because I don't have a torque wrench yet. Just bought one from amazon. Hopefully I will receive it this weekend or next week.
 
 One thing I am not sure: do I need to apply loctite? The instruction didn't say. I will probably ask on the facebook group.
 

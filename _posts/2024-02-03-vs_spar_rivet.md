@@ -17,7 +17,7 @@ Today is another easy day. I worked on vertical stabilizer (`VS-ASS-001-C-F-0-A-
 
 ## Walk through
 
-Yesterday I cleaned my work bench and moved the horizontal stabilizer to the shelf/stand thing. So today I had plenty of space to work on new parts.
+Yesterday I cleaned my workbench and moved the horizontal stabilizer to the shelf/stand thing. So today I had plenty of space to work on new parts.
 
 Since I am wait on replacement parts on both VS and elevator, I know I can't finish either. I decided to work on VS for as much as I can because this
 part is slight easier.

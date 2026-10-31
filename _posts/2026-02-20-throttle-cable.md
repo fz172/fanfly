@@ -32,7 +32,7 @@ _Cable routed_
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPfdvPvwE-ifkWpDAJuVZbq5Qp1qFhL5K__b9n2cMD0Ga4DzuDk5kexe1IwQDnLl3uBvbLURW_YduYXDdMAU_Oq2pnFBDUtxz9Jr0wiFIXT7j5oE_eYSXtQhvPTYkXjruoKHkVBudhf73sRCN51klTrbw=w1229-h922-s-no-gm?authuser=0)
 
-Very small space to work with. I misread the manual (Service Bulletin 24) and had to disemble the nut holding the throttle cable a few times, but eventually got it right.
+Very small space to work with. I misread the manual (Service Bulletin 24) and had to disassemble the nut holding the throttle cable a few times, but eventually got it right.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMyELb_CUP7QcMW67d72tRbC9P3Wav1liRdcl116HxZNbLlmvvBQGl4OsjlueHn6-xkq7AKtR8CWTy3IaTJECeD8YM9_F6HPHPk17sD0THsL_3-3DCLyzMQp6W1QapEHl3hz_iUdBaua_d_rqRfyXnFoQ=w1229-h922-s-no-gm?authuser=0)
 

@@ -40,7 +40,7 @@ It turns out it's because the rib is slightly too wide on the edge, and it's pus
 ![img](https://lh3.googleusercontent.com/pw/AP1GczM2xExKzuf8nMe6MHYXmnZ7Qek1xNT8Z7mo99JMJM_2YgnLEK64hie_hpVEMsWaCgELDuc5rk7_RB0dtTOEIWWXck_1DRlrMaH2kx1qb0nEzssHbcHLTKD11oCDg7W16IbT7TEWlx3jncMliihIXMwATQ=w3836-h2888-s-no-gm?authuser=3)
 _Ribs clecoed_
 
-Aftter the rearmost piece, I clecoed the rest of the ribs onto the skin. It's starting to look like an airplane!
+After the rearmost piece, I clecoed the rest of the ribs onto the skin. It's starting to look like an airplane!
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczO_0815-M1zBggRmubXOm_VzeyNPpld5UVib4VpvZrdhTbPEI9-GNnKKMibSA6v-7iRKvudPljk-xuIBL3xjCeuG4FmfXPWE75GOsz0CDCQ4XNd4j3fNq0o_8thjLam5Jsr5DKIVPEXQe93ywQC5-PQvw=w3836-h2888-s-no-gm?authuser=3)
 _Riveted ribs to the skin_

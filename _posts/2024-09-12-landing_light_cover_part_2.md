@@ -29,7 +29,7 @@ _Wrapping the cover around the forming block_
 
 I used duct tap to wrap the palstic around my aluminum forming block. And I used heatgun insetad of oven this time to warm up the material for bending. But maybe it's because of the thinner thickness, it still deformed quickly. As I blew hot air, I could feel the cover became soft and started to bend at places I didn't actually want to bend. Basically the entire bending was uncontrolled even though I wrapped it around the block.
 
-#### Second atempt
+#### Second attempt
 
 I took a new plastic cover, and this time I didn't wrap it on the block.
 
@@ -38,7 +38,7 @@ I just held it in my hand and started to blow hot air. Within a minute I started
 This time it worked way better than the first time. I got a reasonably shaped cover bend.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMtWOWf25ISHKiA1LlruAcg9KKNAV0M4U3QM_C6WkjavmH6p8WF8AUZheZW3a0yseZTYud4cjb7YfqW5kBm_ZskzuQdTRyUX77tGpoID1UjOCNWG2u5bBLrd7HGPjUM0KzTvtAfsqCBd4CJ4Q8sky-Q4w=w4080-h3072-s-no-gm?authuser=0)
-_Just bent cover, test fitting beind the skin_
+_Just bent cover, test fitting behind the skin_
 
 #### Match drilling
 
@@ -50,7 +50,7 @@ _Drilling match holes_
 ![img](https://lh3.googleusercontent.com/pw/AP1GczPkGc8T3Js8YRFRN5sEnJOEJjhSfyuz3oaDmDzrKdyNIZkxNIjtXjrWVbBG-_V47faesQ9cqd1DGKV3X4Nop9GcL9VlfFo2PHQ4zh24EdpREn44Ey8YBCEbV-_6eqfg0nrSON4Z_zQxw0xujAqPdaGJIw=w4080-h3072-s-no-gm?authuser=0)
 _Match drilled all holes_
 
-After drilling all holes, I enlarged them all to 9mm so theyy can fit a rivnut, which was already installed on the doubler.
+After drilling all holes, I enlarged them all to 9mm so they can fit a rivnut, which was already installed on the doubler.
 
 #### Combining the cover and doubler
 
@@ -60,7 +60,7 @@ Because when the doubler is clecoed on the skin, it's clear where holes line up 
 
 The solution I ended up using: first drill 8-9 holes on the doubler itself. The holes are drilled at the position where I want to install flush rivets. Then I put everything on the wing using temporary screws. Once everything is lined up, I then used a pick with 90 degree tip to press on the center of the drilled holes to leave a mark on the cover. Then I would take the whole thing off and drillecd holes on the cover.
 
-I did this 8-9 times, counterssunk the holes, then installed the flush rivets to finally hold everything together.
+I did this 8-9 times, countersunk the holes, then installed the flush rivets to finally hold everything together.
 
 #### enlarging the holes
 

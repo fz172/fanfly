@@ -33,9 +33,9 @@ After the controller, most of the holes are filled on the panel!
 
 ### FP1 Connector
 
-Another issue is the FP1 connector. Last time when connecting the panel I noticed the female side of FP1 connector's pinout didn't match the wire diagrm. The diagram listed pins 1-15, but the connector I had came with pin 1-13, 14 empty, then 15 & 16. So at least one of the pins is incorrect.
+Another issue is the FP1 connector. Last time when connecting the panel I noticed the female side of FP1 connector's pinout didn't match the wire diagram. The diagram listed pins 1-15, but the connector I had came with pin 1-13, 14 empty, then 15 & 16. So at least one of the pins is incorrect.
 
-Today I used a pin extractor to remove pin 15, 16 and checked them against the diagra. It turned out they should be in pin 14 15. So I just swapped the pins and connected the connector behind the dash.
+Today I used a pin extractor to remove pin 15, 16 and checked them against the diagram. It turned out they should be in pin 14 15. So I just swapped the pins and connected the connector behind the dash.
 
 ![img](https://lh3.googleusercontent.com/pw/AP1GczMftAW854qBB9pnRYdU1hO3hiq4UhNhWTN92EWFqi5rpQM-U1R7PuMTGZef5yYvTEEeHKJL7qB7M10Poh4KEgwGIb9VnGkJt-AhIOd85tQaTYn2beKi2ep9xrOg6TxK0Sn8EIxXPglT7-pi3jcOVuyu0w=w654-h869-s-no-gm?authuser=0)
 

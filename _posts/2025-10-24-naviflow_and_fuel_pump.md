@@ -45,6 +45,6 @@ So, the picture above is one half of the entire assembly, the other half is symm
 
 2. The M14 bolt threads into the pump with almost no friction. The instruction didn't call for any crush washer, but I feel like the instruction might be wrong as I don't see how this part will seal without something extra there.
 
-3. Tht other end of the pump: the instruction calls for 1/8 NPT with 2 washers. It also doesn't make sense to me because I've never seen NPT fittings and washers used together, and also the threads are way too long, I am not sure washers will be sufficiently crushed even if I use them. The rotax service instruction says to use M10 fitting here. So it seems there is a fundamental difference between thread standards between sling's KAI and Rotax.
+3. That other end of the pump: the instruction calls for 1/8 NPT with 2 washers. It also doesn't make sense to me because I've never seen NPT fittings and washers used together, and also the threads are way too long, I am not sure washers will be sufficiently crushed even if I use them. The rotax service instruction says to use M10 fitting here. So it seems there is a fundamental difference between thread standards between sling's KAI and Rotax.
 
 I am sending the question to Sling. To be updated soon, hopefully.

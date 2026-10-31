@@ -27,7 +27,7 @@ For now, the unit is temporarily supported with 2 screws fully installed, and an
 
 ### Brake Bleeding Tool
 
-I ordered a oil spout, and a pressure pump on Amazon last night to increase the pressure going into the bleeding valve.
+I ordered an oil spout, and a pressure pump on Amazon last night to increase the pressure going into the bleeding valve.
 
 At the same time, I'm not happy with how to line connected to the bleeding valve on my first try. So I decided to rebuild the lines and connect to the pump when they arrive.
 

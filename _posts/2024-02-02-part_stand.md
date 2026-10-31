@@ -13,7 +13,7 @@ mermaid: true
 
 ## Detail
 
-Today was a easy day. I built a stand to store horizontal stabilizer using some 2x4s.
+Today was an easy day. I built a stand to store horizontal stabilizer using some 2x4s.
 
 I bought all my material from Home Depot for about $20.
 

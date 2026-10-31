@@ -33,7 +33,7 @@ Back:
 
 ### Flap torque tube
 
-After ribs 1-6, I installed the torque tube and tried to rotate it to see how much friction I get when rotating. It's got a tiny bit of friction, and I think it's due to the fact that ribs are not secured to skin yet so they are still flexible. The friction should go away when I rivet the ribs and skin together. But for now, I'll leave them as is. No epoxy or anything yet. Will re-evaluate when I have bottom skin on.
+After ribs 1-6, I installed the torque tube and tried to rotate it to see how much friction I get when rotating. It's got a tiny bit of friction, and I think it's due to the fact those ribs are not secured to skin yet so they are still flexible. The friction should go away when I rivet the ribs and skin together. But for now, I'll leave them as is. No epoxy or anything yet. Will re-evaluate when I have bottom skin on.
 
 ![ref](/assets/img/20240601/torque_tube_1.jpg)
 ![ref](/assets/img/20240601/torque_tube_2.jpg)

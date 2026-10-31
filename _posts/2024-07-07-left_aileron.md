@@ -18,11 +18,11 @@ mermaid: true
 
 The timing couldn't have been better. I am just finishing up the wing kit as I got the call from the shipping company for fuselage delivery.
 
-I still have a a lot to do on the wing, but there were few enough parts that I could just take them out and get rid of the crate to make space for the fuselage.
+I still have a lot to do on the wing, but there were few enough parts that I could just take them out and get rid of the crate to make space for the fuselage.
 
 With help from my dad, we cleaned the wing crate and moved it out of the garage this Friday.
 
-Later in the afternoon, the shipping truck arrived with my fuselage. The unloading process could have been better. **Sling if you are reading this blog, please consider redesign the crate. gap betweenb the 4x4 wooden leg on the crate is too wide, the trucking company's forklift could not reach in. It's just a few centimeter's difference, but it made things so much harder**
+Later in the afternoon, the shipping truck arrived with my fuselage. The unloading process could have been better. **Sling if you are reading this blog, please consider redesign the crate. gap between the 4x4 wooden leg on the crate is too wide, the trucking company's forklift could not reach in. It's just a few centimeter's difference, but it made things so much harder**
 
 Eventually we got the crates into the garage. And also came with was the replacement right wing leading edge. So I will finish drilling out the old leading edge and replace it some time soon.
 
