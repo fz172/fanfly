@@ -20,7 +20,7 @@ So today I took off all inspection doors and checked all torque tubes:
 
 1. Nothing is obviously loose
 2. They all have jam nuts
-3. They are have torque seal
+3. They all have torque seal
 
 I also took a bunch of pictures for archive while having all the inspection doors open.
 
