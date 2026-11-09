@@ -24,6 +24,8 @@ So today I took off all inspection doors and checked all torque tubes:
 
 I also took a bunch of pictures for archive while having all the inspection doors open.
 
+A few torque tubes are not yet captured: mostly on the control column. I ran out of time today, and will continue to remove skins to inspect the control column tubes.
+
 ![](https://lh3.googleusercontent.com/pw/AP1GczPVzxx5M_I0yYLxs3rC7AnCzxpxeaikEztSR3yqyXC_VHuuoiEv1DrlTAN4pq8voCxNGlmoecuP14yLW2eP03JbsbKxQMFZaX27XCGe2r8F1_GfbfQtmXKsYXQzoRslTD6BIe0nWJRP7WzYU8GNky2rbg=w3038-h2278-s-no-gm?authuser=0)
 _Left wing: no obvious twists_
 
