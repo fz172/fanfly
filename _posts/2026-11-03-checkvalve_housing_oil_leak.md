@@ -31,3 +31,5 @@ I immeidiately sent an email to Sling's maintenance department in Torrance and t
 > I would recommend cleaning everything really well with some alcohol and a microfiber rag and perform another ground run, if you have not already. It could possibly be residual oil, which is not uncommon even on engines that have not had the check valve replaced. If it is still leaking, a qualified individual will have to investigate further.
 
 So I cleaned up the area thoroughly as the first step. I will conduct more ground runs to confirm the residual oil theory.
+
+Edit 11-09: I have gone through 2 complete heat cycles since I cleaned up the grease. So far this area is still clean. The oil might have been from previous work as Sling's maintenance department said. I don't think there is an active oil leak in this area. Case closed.
